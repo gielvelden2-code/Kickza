@@ -21,5 +21,25 @@ if(!fresh){
   const finished=fixtures.filter(f=>['FT','1H','2H','HT'].includes(f.fixture.status.short)).slice(0,2);
   for(const fixture of finished){try{const data=await get('fixtures/statistics?fixture='+fixture.fixture.id);catalog.statistics[fixture.fixture.id]=data.map(x=>({team:x.team.name,stats:x.statistics.map(z=>({type:z.type,value:z.value}))}))}catch(e){console.warn('Stats skipped: '+e.message)}}
 }else catalog.updatedAt=previous.updatedAt;
+
+// Maintain a rolling historical archive without copying third-party website content.
+const historyPath='data/history.json';
+const oldHistory=fs.existsSync(historyPath)?JSON.parse(fs.readFileSync(historyPath,'utf8')):{fixtures:[]};
+const archive=new Map((oldHistory.fixtures||[]).map(f=>[f.id,f]));
+const normalize=x=>({id:x.fixture.id,league:x.league.name,country:x.league.country,flag:x.league.flag,home:x.teams.home.name,away:x.teams.away.name,homeLogo:x.teams.home.logo,awayLogo:x.teams.away.logo,h:x.goals.home,a:x.goals.away,status:x.fixture.status.short,minute:x.fixture.status.elapsed,time:x.fixture.date});
+for(const f of fixtures)archive.set(f.fixture.id,{...archive.get(f.fixture.id),...normalize(f)});
+const lastHistory=oldHistory.backfillAt?new Date(oldHistory.backfillAt).getTime():0;
+let backfillAt=oldHistory.backfillAt||null;
+if(Date.now()-lastHistory>23*3600*1000){
+ try{
+  const end=new Date(today+'T12:00:00Z'),start=new Date(end);start.setUTCDate(start.getUTCDate()-7);
+  const fmt=d=>d.toISOString().slice(0,10);
+  const older=await get('fixtures?from='+fmt(start)+'&to='+fmt(end)+'&timezone=Europe%2FAmsterdam');
+  for(const f of older)archive.set(f.fixture.id,{...archive.get(f.fixture.id),...normalize(f)});
+  backfillAt=new Date().toISOString();
+ }catch(e){console.warn('Historical backfill skipped: '+e.message)}
+}
+fs.mkdirSync('data',{recursive:true});
+fs.writeFileSync(historyPath,JSON.stringify({source:'API-Football',updatedAt:new Date().toISOString(),backfillAt,fixtures:[...archive.values()].sort((a,b)=>b.time.localeCompare(a.time)).slice(0,10000)}));
 fs.mkdirSync('data',{recursive:true});fs.writeFileSync('data/catalog.json',JSON.stringify(catalog));
 fs.writeFileSync('data/football.json',JSON.stringify(payload));console.log('Updated '+payload.fixtures.length+' fixtures, '+catalog.teams.length+' teams, '+Object.keys(catalog.squads).length+' squads');
