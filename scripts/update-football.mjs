@@ -15,7 +15,7 @@ let catalog={updatedAt:new Date().toISOString(),leagues:[...leagues.values()],te
 if(!fresh){
   const preferred=['PSV','Ajax','Feyenoord','Real Madrid','FC Barcelona','Manchester City','Arsenal','Liverpool'];
   let count=0;
-  for(const name of preferred){const team=[...teams.values()].find(t=>t.name.toLowerCase()===name.toLowerCase());if(!team||count>=4)continue;
+  for(const name of preferred){let team=[...teams.values()].find(t=>t.name.toLowerCase()===name.toLowerCase());if(count>=4)continue;if(!team){try{const found=await get('teams?search='+encodeURIComponent(name));const item=found.find(x=>x.team.name.toLowerCase()===name.toLowerCase())||found[0];if(item){team={id:item.team.id,name:item.team.name,logo:item.team.logo,country:item.team.country,league:'',leagueId:null};teams.set(team.id,team);catalog.teams.push(team)}}catch(e){console.warn('Team lookup skipped: '+e.message)}}if(!team)continue;
     try{const response=await get('players/squads?team='+team.id);catalog.squads[team.id]=(response[0]?.players||[]).map(p=>({id:p.id,name:p.name,age:p.age,number:p.number,position:p.position,photo:p.photo}));count++}catch(e){console.warn('Squad skipped: '+e.message)}
   }
   const finished=fixtures.filter(f=>['FT','1H','2H','HT'].includes(f.fixture.status.short)).slice(0,2);
