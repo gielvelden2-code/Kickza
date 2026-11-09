@@ -1,6 +1,11 @@
 name: Refresh licensed football data
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update-football.mjs'
+      - '.github/workflows/football-data.yml'
   schedule:
     - cron: '*/30 * * * *'
 permissions:
