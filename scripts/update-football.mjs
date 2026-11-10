@@ -41,16 +41,14 @@ if(!fresh){
     return score(a)-score(b)||a.id-b.id;
   });
   const offset=Number(previous.discoveryCursor||0)%Math.max(1,candidates.length);
-  let discovered=0;
   for(let i=0;i<Math.min(8,candidates.length);i++){
     const l=candidates[(offset+i)%candidates.length];
     try{
       const entries=await get('teams?league='+l.id+'&season='+l.season);
       for(const entry of entries){const t=entry.team;if(!t?.id)continue;teams.set(t.id,{id:t.id,name:t.name,logo:t.logo,country:l.country,league:l.name,leagueId:l.id});}
-      discovered++;
     }catch(e){console.warn('League teams skipped: '+l.name+' '+e.message)}
   }
-  catalog.discoveryCursor=offset+Math.max(1,discovered);
+  catalog.discoveryCursor=offset+Math.min(8,candidates.length);
 }
 catalog.leagues=[...leagues.values()];
 catalog.teams=[...teams.values()];
