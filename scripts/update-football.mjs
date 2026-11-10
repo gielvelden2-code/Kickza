@@ -12,7 +12,7 @@ const leagues=new Map((previous.leagues||[]).filter(x=>x?.id).map(x=>[x.id,x])),
 for(const f of fixtures){const l=f.league,t=f.teams;leagues.set(l.id,{id:l.id,name:l.name,country:l.country,logo:l.logo,flag:l.flag,season:l.season});for(const team of [t.home,t.away])teams.set(team.id,{id:team.id,name:team.name,logo:team.logo,country:l.country,league:l.name,leagueId:l.id})}
 for(const t of previous.teams||[]){if(t?.id&&!teams.has(t.id))teams.set(t.id,t)}
 const now=Date.now(),fresh=previous.updatedAt&&now-new Date(previous.updatedAt).getTime()<24*3600*1000;
-let catalog={updatedAt:new Date().toISOString(),leagues:[...leagues.values()],teams:[...teams.values()],squads:previous.squads||{},statistics:previous.statistics||{},discoveryCursor:previous.discoveryCursor||0};
+let catalog={updatedAt:new Date().toISOString(),leagues:[...leagues.values()],teams:[...teams.values()],squads:previous.squads||{},statistics:previous.statistics||{},playerStatistics:previous.playerStatistics||{},discoveryCursor:previous.discoveryCursor||0};
 if(!fresh){
   const preferred=['PSV','Ajax','Feyenoord','Real Madrid','FC Barcelona','Manchester City','Arsenal','Liverpool'];
   let count=0;
@@ -52,6 +52,27 @@ if(!fresh){
 }
 catalog.leagues=[...leagues.values()];
 catalog.teams=[...teams.values()];
+
+
+// Player statistics are fetched from the licensed provider for a small rotating
+// sample; missing values remain unavailable rather than being fabricated.
+if(!fresh){
+ const teamsWithSquads=Object.keys(catalog.squads||{}).filter(id=>(catalog.squads[id]||[]).length);
+ const cursor=Number(previous.playerStatsCursor||0);
+ for(const id of teamsWithSquads.slice(cursor%Math.max(1,teamsWithSquads.length),cursor%Math.max(1,teamsWithSquads.length)+1)){
+  const team=teams.get(Number(id));if(!team?.leagueId)continue;
+  const league=leagues.get(team.leagueId);if(!league?.season)continue;
+  try{
+   const entries=await get('players?team='+id+'&season='+league.season+'&page=1');
+   for(const entry of entries){
+    const p=entry.player,st=entry.statistics?.[0];if(!p?.id||!st)continue;
+    const metrics=[['Wedstrijden',st.games?.appearences],['Basisplaatsen',st.games?.lineups],['Minuten',st.games?.minutes],['Doelpunten',st.goals?.total],['Assists',st.goals?.assists],['Gele kaarten',st.cards?.yellow],['Rode kaarten',st.cards?.red],['Schoten op doel',st.shots?.on],['Passnauwkeurigheid',st.passes?.accuracy]];
+    catalog.playerStatistics[p.id]=metrics.filter(x=>x[1]!==null&&x[1]!==undefined).map(([label,value])=>({label,value}));
+   }
+  }catch(e){console.warn('Player stats skipped: '+e.message)}
+ }
+ catalog.playerStatsCursor=cursor+1;
+}
 
 // Maintain a rolling historical archive without copying third-party website content.
 const historyPath='data/history.json';
