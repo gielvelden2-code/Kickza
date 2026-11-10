@@ -8,11 +8,11 @@ const fixtures=await get('fixtures?date='+today+'&timezone=Europe%2FAmsterdam');
 const payload={source:'API-Football',date:today,updatedAt:new Date().toISOString(),fixtures:fixtures.map(x=>({id:x.fixture.id,league:x.league.name,country:x.league.country,flag:x.league.flag,home:x.teams.home.name,away:x.teams.away.name,homeLogo:x.teams.home.logo,awayLogo:x.teams.away.logo,h:x.goals.home,a:x.goals.away,status:x.fixture.status.short,minute:x.fixture.status.elapsed,time:x.fixture.date,events:(x.events||[]).map(e=>({minute:e.time.elapsed,team:e.team.name,player:e.player.name,assist:e.assist.name,type:e.type,detail:e.detail}))}))};
 
 const previous=fs.existsSync('data/catalog.json')?JSON.parse(fs.readFileSync('data/catalog.json','utf8')):{};
-const leagues=new Map(),teams=new Map();
+const leagues=new Map((previous.leagues||[]).filter(x=>x?.id).map(x=>[x.id,x])),teams=new Map();
 for(const f of fixtures){const l=f.league,t=f.teams;leagues.set(l.id,{id:l.id,name:l.name,country:l.country,logo:l.logo,flag:l.flag,season:l.season});for(const team of [t.home,t.away])teams.set(team.id,{id:team.id,name:team.name,logo:team.logo,country:l.country,league:l.name,leagueId:l.id})}
 for(const t of previous.teams||[]){if(t?.id&&!teams.has(t.id))teams.set(t.id,t)}
 const now=Date.now(),fresh=previous.updatedAt&&now-new Date(previous.updatedAt).getTime()<24*3600*1000;
-let catalog={updatedAt:new Date().toISOString(),leagues:[...leagues.values()],teams:[...teams.values()],squads:previous.squads||{},statistics:previous.statistics||{}};
+let catalog={updatedAt:new Date().toISOString(),leagues:[...leagues.values()],teams:[...teams.values()],squads:previous.squads||{},statistics:previous.statistics||{},discoveryCursor:previous.discoveryCursor||0};
 if(!fresh){
   const preferred=['PSV','Ajax','Feyenoord','Real Madrid','FC Barcelona','Manchester City','Arsenal','Liverpool'];
   let count=0;
@@ -22,6 +22,38 @@ if(!fresh){
   const finished=fixtures.filter(f=>['FT','1H','2H','HT'].includes(f.fixture.status.short)).slice(0,2);
   for(const fixture of finished){try{const data=await get('fixtures/statistics?fixture='+fixture.fixture.id);catalog.statistics[fixture.fixture.id]=data.map(x=>({team:x.team.name,stats:x.statistics.map(z=>({type:z.type,value:z.value}))}))}catch(e){console.warn('Stats skipped: '+e.message)}}
 }else catalog.updatedAt=previous.updatedAt;
+
+
+// Enrich the catalog progressively, within the provider's daily API allowance.
+// All leagues are metadata only until team data is available; never invent squads.
+if(!fresh){
+  try{
+    const allLeagues=await get('leagues?current=true');
+    for(const entry of allLeagues){
+      const l=entry.league,c=entry.country,season=(entry.seasons||[]).find(x=>x.current)||entry.seasons?.at(-1);
+      if(!l?.id||!season?.year)continue;
+      leagues.set(l.id,{id:l.id,name:l.name,country:c?.name||'World',logo:l.logo,flag:c?.flag||null,season:season.year,type:l.type||'League'});
+    }
+  }catch(e){console.warn('League discovery skipped: '+e.message)}
+  const candidates=[...leagues.values()].filter(l=>l.type!=='Cup'&&l.season&&l.id).sort((a,b)=>{
+    const preferred=['Netherlands','England','Spain','Germany','Italy','France','Portugal','Belgium'];
+    const score=x=>{const i=preferred.indexOf(x.country);return i<0?100:i};
+    return score(a)-score(b)||a.id-b.id;
+  });
+  const offset=Number(previous.discoveryCursor||0)%Math.max(1,candidates.length);
+  let discovered=0;
+  for(let i=0;i<Math.min(8,candidates.length);i++){
+    const l=candidates[(offset+i)%candidates.length];
+    try{
+      const entries=await get('teams?league='+l.id+'&season='+l.season);
+      for(const entry of entries){const t=entry.team;if(!t?.id)continue;teams.set(t.id,{id:t.id,name:t.name,logo:t.logo,country:l.country,league:l.name,leagueId:l.id});}
+      discovered++;
+    }catch(e){console.warn('League teams skipped: '+l.name+' '+e.message)}
+  }
+  catalog.discoveryCursor=offset+Math.max(1,discovered);
+}
+catalog.leagues=[...leagues.values()];
+catalog.teams=[...teams.values()];
 
 // Maintain a rolling historical archive without copying third-party website content.
 const historyPath='data/history.json';
