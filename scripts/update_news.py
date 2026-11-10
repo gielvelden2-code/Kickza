@@ -13,7 +13,7 @@ FEEDS = [
 ]
 HEADERS={"User-Agent":"KickzaNewsReader/1.0 (+https://gielvelden2-code.github.io/Kickza/) Mozilla/5.0"}
 def clean(value):
-    return re.sub(r"\\s+", " ", re.sub(r"<[^>]+>", " ", unescape(value or ""))).strip()
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", unescape(value or ""))).strip()
 def parse_date(value):
     try:
         dt=email.utils.parsedate_to_datetime(value)
@@ -42,7 +42,7 @@ for source,url in FEEDS:
                 tag=element.tag.rsplit("}",1)[-1].lower()
                 if tag in ("thumbnail","content","enclosure"):
                     candidate=element.attrib.get("url","")
-                    if candidate.startswith("https://") and re.search(r"\\.(jpe?g|png|webp)(\\?|$)",candidate,re.I):
+                    if candidate.startswith("https://") and re.search(r"\.(jpe?g|png|webp)(\?|$)",candidate,re.I):
                         image=candidate;break
             articles.append(dict(title=title,link=link,description=description,source=source,pubDate=date,image=image))
     except Exception as exc:
