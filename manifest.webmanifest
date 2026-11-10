@@ -1,7 +1,7 @@
 {
-  "name": "Kickza — Voetbal",
+  "name": "Kickza Games",
   "short_name": "Kickza",
-  "description": "Voetbalwedstrijden en voorspellingen — demo",
+  "description": "Tien voetbalspellen in de Kickza huisstijl",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
