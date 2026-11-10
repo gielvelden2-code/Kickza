@@ -1,19 +1,27 @@
 {
-  "updatedAt": "2026-11-10T20:10:33.555595+00:00",
+  "updatedAt": "2026-11-10T21:02:13.057255+00:00",
   "articles": [
+    {
+      "title": "Pocognoli to lean on Scotland's 'captain group of five'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
+      "description": "Sebastien Pocognoli is delighted to welcome \"exciting\" Scott McTominay into his squad, saying the Napoli midfielder is one of the \"fantastic leaders\" that helped persuade him to become Scotland head coach.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-10T20:49:11+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a3/live/94ca09f0-dd35-11f1-ab86-698de9f28d28.jpg"
+    },
     {
       "title": "Chelsea play out goalless draw with Hacken",
       "link": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
-      "description": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who picked up their second point in this season's competition.",
+      "description": "Chelsea maintain their unbeaten start in the Women's Champions League but were frustrated by Hacken who pick up their second point in this season's competition.",
       "source": "BBC Sport",
       "pubDate": "2026-11-10T20:07:12+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5038/live/242f7a20-dd41-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Brentford latest: Bees fail with Igor Thiago red card appeal",
-      "link": "https://www.skysports.com/football/live-blog/11661/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "link": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "description": "",
-      "source": "Sky Premier League",
+      "source": "Sky Sports",
       "pubDate": "2026-11-10T20:00:00+00:00",
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
     },
@@ -34,12 +42,12 @@
       "image": ""
     },
     {
-      "title": "WCL: Inter Milan vs Man City LIVE!",
+      "title": "Fujino at the double as Man City come from behind to lead Inter LIVE!",
       "link": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/live/578260",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-10T19:30:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-khadija-shaw-wsl_7379863.jpg?20261018145606"
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-fujino-man-city_7403415.jpg?20261110202004"
     },
     {
       "title": "Partick Thistle lose SWPL points for amateur player payments",
@@ -231,6 +239,14 @@
       "description": "Cruijff trots: 'Hij kan spelen waar hij wil, toch drive om bij Ajax te spelen' VoetbalPrimeur",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-10T13:47:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Andrezieux transfers, nieuwe aankopen en gekochte spelers in 2026/2027 - footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mbERObmZZaERrbTBCOWxULU9BM0haVmFiRThqWGZ5UFBHTGdvRmRMbHdaQlczMHJUc2FnLURrcXBvQUxmLWV0NlNfZ2p1SWFINmhDVTIxMkZMcWFEcmJ3ME01cGozX1FWSEh3M1dQbDMyQUVY?oc=5",
+      "description": "Andrezieux transfers, nieuwe aankopen en gekochte spelers in 2026/2027 footballtransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-10T13:42:48+00:00",
       "image": ""
     },
     {
@@ -624,22 +640,6 @@
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-09T23:04:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Brady ends association with Birmingham City",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss",
-      "description": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-09T22:18:17+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e9a/live/f4e649d0-dc85-11f1-851a-19e868620cad.jpg"
-    },
-    {
-      "title": "Wimborne to host Bradford in FA Cup second round - see the full draw",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6wyrynd848jo?at_medium=RSS&at_campaign=rss",
-      "description": "Seventh-tier side Wimborne Town will host League One Bradford City in the second round of the FA Cup, while former winners Leicester City will visit National League South side Dover Athletic.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-09T22:10:22+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/d7ef1b30-dc72-11f1-92b6-7dd459918707.jpg"
     }
   ]
 }
