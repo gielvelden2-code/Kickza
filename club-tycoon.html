@@ -38,7 +38,47 @@ body{background:radial-gradient(ellipse at 50% 8%,#32526c 0%,#111d2c 42%,#060b12
 .player.active{background:#253b28;border-color:#d2ff00}
 @media(min-width:900px){.layout{grid-template-columns:minmax(0,1.75fr) minmax(260px,.75fr)}}
 @media(max-width:420px){.field-wrap{padding:6px 3px 13px;border-width:2px}.stadium{padding:3px;border-width:4px}.board{gap:1px;border-width:2px}.tile{border-bottom-width:2px}.tile .face{font-size:12px}.tile .nm{font-size:6px}.tile .price{font-size:6px}.pitch img{width:40%}.field-wrap:before{height:13px}.field-wrap:after{height:10px}.action{min-width:160px;min-height:78px}}
-</style></head><body><div class="shell"><div class="top"><b>⚑ KICKZA FC</b><div class="wallet"><div class="pill">🪙 <span id="money">—</span></div><div class="pill">⚡ <span id="energy">—</span></div><div class="pill">🎲 <span id="diceCount">—</span></div></div></div><div class="hero"><div class="eyebrow">KICKZA</div><h1>CLUB <span>TYCOON</span> ⚑</h1><div id="roundText" class="notice">Een voetbalbordspel in het stadion</div></div><div class="layout"><div><div class="field-wrap"><div class="stadium"><div class="board" id="board"></div></div></div><div class="actions" id="actions"></div><div class="status" id="status"></div></div><div><div class="panel"><b>🏆 Clubranglijst</b><div id="players" class="players" style="margin-top:10px"></div></div><div class="panel" style="margin-top:12px"><b>📋 Contracten</b><div id="contracts"></div></div><div class="panel" style="margin-top:12px"><b>🗞️ Wedstrijdverslag</b><div id="log"></div></div><div class="actions"><button class="secondary" onclick="newGame()">Nieuw spel</button><button class="secondary" onclick="location.href='index.html'">‹ Kickza Games</button><button class="secondary" onclick="location.href='index.html#passport'">Voetbalpaspoort</button><button class="secondary" onclick="location.href='index.html#ttt'">Tiki-Taka-Toe</button><button class="secondary" onclick="location.href='index.html#top10'">Top 10</button></div></div></div></div><div id="overlay" class="modal hidden"></div><script>
+
+/* Stadium immersive 3D-look, matching Kickza reference */
+:root{font-family:Arial,system-ui,sans-serif}
+body{background:#060b13 url('assets/club-tycoon-stadium.svg') center top / min(1300px,120vw) auto no-repeat;background-attachment:fixed}
+.shell{max-width:1300px;padding:0 10px 40px}
+.top{position:relative;z-index:4;border:0;border-bottom:2px solid #d2ff00;border-radius:0 0 14px 14px;background:linear-gradient(110deg,#101b2a,#030509 48%,#1c2835);padding:9px 16px;box-shadow:0 4px 18px #000c}
+.brand-back{display:flex;align-items:center;gap:9px;text-decoration:none;color:#fff}
+.brand-back img{height:37px;width:37px;object-fit:contain;filter:drop-shadow(0 0 6px #d2ff00)}
+.brand-back small{font-size:10px;color:#d2ff00;font-weight:900;white-space:nowrap}
+.wallet .pill{border:2px solid #899b4e;border-radius:20px;padding:8px 13px;background:linear-gradient(#1d2833,#04060a);box-shadow:0 2px 8px #000b}
+.hero{padding:16px 0 10px}
+.hero-link{display:inline-block;text-decoration:none;color:#fff}
+.hero h1{margin:5px 0 9px;transform:skew(-7deg);background:linear-gradient(#283443,#080d15);border:4px solid #d2ff00;border-radius:15px;box-shadow:0 7px 0 #020406,0 0 22px #d2ff0099;font-size:clamp(31px,6vw,64px)}
+.hero .eyebrow{font-size:clamp(13px,2vw,21px);letter-spacing:2px;text-shadow:0 3px 5px #000}
+.hero #roundText{display:block;margin:9px auto 0;padding:9px 16px;border-radius:15px;border:2px solid #d2ff00;max-width:480px;color:#fff;font-weight:900;background:linear-gradient(#182633,#05090f);box-shadow:0 0 12px #d2ff0070}
+.layout{grid-template-columns:minmax(0,1fr);gap:18px}
+.stadium-stage{padding:24px 4% 30px;position:relative;background:radial-gradient(ellipse at center,#426b4788 0%,#071a17dd 75%),url('assets/club-tycoon-stadium.svg') center / cover no-repeat;border-radius:35px;box-shadow:inset 0 0 40px #0008,0 18px 28px #000a}
+.field-wrap{padding:0;background:none;border:0;border-radius:24px;box-shadow:none;transform:perspective(1100px) rotateX(9deg);transform-origin:center bottom;filter:drop-shadow(0 25px 12px #000c)}
+.field-wrap:before,.field-wrap:after{display:none}
+.stadium{padding:7px;border:8px solid #142125;border-radius:24px;background:linear-gradient(#d2ff00,#6c9b00);box-shadow:inset 0 0 0 4px #d2ff00,0 10px 0 #5b8500,0 18px 0 #182c10,0 25px 25px #000b}
+.board{aspect-ratio:1.24;gap:3px;border:5px solid #d2ff00;background:#245f25;border-radius:13px;box-shadow:inset 0 0 15px #0008}
+.tile{border:1px solid #4e606a;border-bottom:5px solid #79888f;background:linear-gradient(145deg,#fff 25%,#cdd7e0);box-shadow:inset 0 1px #fff,0 2px 4px #0008;border-radius:5px}
+.tile .face{font-size:clamp(16px,2.7vw,30px)}
+.tile .nm{font-size:clamp(7px,1.25vw,12px);font-weight:1000}
+.tile .price{font-size:clamp(7px,1vw,11px)}
+.tile.chance{background:linear-gradient(#fff16c,#ffda00);border-bottom-color:#a77c00}
+.tile.bonus{background:linear-gradient(#e8c9ff,#a44ddc);border-bottom-color:#542478}
+.tile.start{background:linear-gradient(#f8ffce,#c6ff00);border-bottom-color:#639300}
+.tile.destroy{background:linear-gradient(#263942,#030709);border-color:#d2ff00;border-bottom-color:#557100}
+.pitch{background:repeating-linear-gradient(90deg,#287e25 0 16%,#35952d 16% 32%);border:3px solid #fff;box-shadow:inset 0 0 18px #051c05}
+.pitch:before{border-left:2px solid #fffc}
+.pitch:after{width:25%;border:3px solid #fff}
+.pitch .stadium-label{background:linear-gradient(#14241f,#030807);border:2px solid #d2ff00;box-shadow:0 3px 0 #000,0 0 10px #d2ff00}
+.pitch img{background:transparent;padding:0;filter:drop-shadow(0 3px 4px #000)}
+.actions{margin:10px auto 18px}
+.actions .action{border-radius:50%;width:clamp(150px,23vw,240px);height:clamp(115px,17vw,190px);font-size:clamp(20px,3vw,36px);background:radial-gradient(circle at 35% 20%,#f1ff7c,#d2ff00 55%,#a6d800);border:5px solid #e9ff65;box-shadow:0 8px 0 #668800,0 14px 0 #243900,0 0 28px #d2ff00bb;line-height:1.1}
+.actions .action:active{transform:translateY(5px);box-shadow:0 3px 0 #668800,0 0 20px #d2ff00bb}
+.panel{background:linear-gradient(#192735ef,#070c15ef);border:1px solid #d2ff00;border-radius:16px}
+@media(min-width:1050px){.layout{grid-template-columns:minmax(0,1.65fr) minmax(270px,.65fr)}}
+@media(max-width:550px){.shell{padding:0 3px 24px}.top{padding:6px;gap:4px}.top b{font-size:13px}.brand-back img{width:25px;height:25px}.brand-back small{font-size:8px}.wallet{gap:3px}.wallet .pill{font-size:10px;padding:5px}.stadium-stage{padding:15px 1% 22px;border-radius:14px}.field-wrap{transform:perspective(650px) rotateX(5deg)}.stadium{padding:3px;border-width:4px}.board{gap:1px;border-width:2px}.tile{border-bottom-width:2px}.tile .face{font-size:13px}.tile .nm{font-size:6px}.tile .price{font-size:6px}.pitch img{width:35%}.hero h1{font-size:35px}}
+</style></head><body><div class="shell"><div class="top"><a class="brand-back" href="index.html#games" title="Terug naar Kickza Games"><img src="assets/kickza-board-mark.svg" alt="Kickza logo"><b>Kickza FC</b><small>‹ Alle spellen</small></a><div class="wallet"><div class="pill">🪙 <span id="money">—</span></div><div class="pill">⚡ <span id="energy">—</span></div><div class="pill">🎲 <span id="diceCount">—</span></div></div></div><div class="hero"><a class="hero-link" href="index.html#games" aria-label="Terug naar alle Kickza spellen"><div class="eyebrow">KICKZA</div><h1>CLUB <span>TYCOON</span> ⚑</h1></a><div id="roundText" class="notice">Een voetbalbordspel in het stadion</div></div><div class="layout"><div><div class="stadium-stage"><div class="field-wrap"><div class="stadium"><div class="board" id="board"></div></div></div></div><div class="actions" id="actions"></div><div class="status" id="status"></div></div><div><div class="panel"><b>🏆 Clubranglijst</b><div id="players" class="players" style="margin-top:10px"></div></div><div class="panel" style="margin-top:12px"><b>📋 Contracten</b><div id="contracts"></div></div><div class="panel" style="margin-top:12px"><b>🗞️ Wedstrijdverslag</b><div id="log"></div></div><div class="actions"><button class="secondary" onclick="newGame()">Nieuw spel</button><button class="secondary" onclick="location.href='index.html'">‹ Kickza Games</button><button class="secondary" onclick="location.href='index.html#passport'">Voetbalpaspoort</button><button class="secondary" onclick="location.href='index.html#ttt'">Tiki-Taka-Toe</button><button class="secondary" onclick="location.href='index.html#top10'">Top 10</button></div></div></div></div><div id="overlay" class="modal hidden"></div><script>
 const roster=[
 ['Vinícius Júnior',140,'⚽'],['Jude Bellingham',160,'⚽'],['Pedri',180,'⚽'],['Kylian Mbappé',200,'⚽'],['Erling Haaland',220,'⚽'],['Lamine Yamal',240,'⚽'],['Florian Wirtz',260,'⚽'],['Bukayo Saka',280,'⚽'],['Phil Foden',300,'⚽'],['Virgil van Dijk',320,'🛡️'],['Kevin De Bruyne',340,'⚽'],['Lionel Messi',360,'⚽'],['Cristiano Ronaldo',380,'⚽'],['Pep Guardiola',400,'👔'],['Jürgen Klopp',420,'👔'],['Carlo Ancelotti',440,'👔'],['Thibaut Courtois',460,'🧤'],['Alisson Becker',480,'🧤'],['João Neves',500,'⚽'],['Vitinha',520,'⚽'],['Alexander Isak',540,'⚽'],['Rodri',560,'⚽'],['Cole Palmer',580,'⚽'],['Raphinha',600,'⚽']];
 const layout=['start',0,1,'chance',2,3,'parking',4,5,'bonus',6,7,'destroy',8,9,'chance',10,11,'prison',12,13,'bonus',14,15,'sponsor'];
