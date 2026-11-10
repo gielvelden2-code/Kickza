@@ -1,21 +1,645 @@
 {
-  "updatedAt": "2026-11-10T10:00:00Z",
+  "updatedAt": "2026-11-10T11:10:50.821591+00:00",
   "articles": [
     {
-      "title": "Baena: opmerkingen Álvarez over mogelijk vertrek zorgden voor irritatie bij Atlético",
-      "link": "https://www.reuters.com/sports/soccer/julian-alvarez-exit-comments-annoyed-atletico-players-says-alex-baena-2026-11-10/",
-      "description": "Baena reageert op de eerdere transferuitspraken van Álvarez.",
-      "source": "Reuters",
-      "pubDate": "2026-11-10T08:00:00Z",
+      "title": "England latest: Defender called-up with Konsa out of Croatia tie",
+      "link": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-10T10:39:00+00:00",
+      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
+    },
+    {
+      "title": "Vincent Kompany terug bij Bayern München na hersenvliesontsteking - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY0NzcTkzRVdrVDNWeHZCUDdacW1IZnFBc19Iak1sa3M1bUl0OHA0anFvV3FFck1wYVRQZW1NSzBrQXVEbTY0cGh5MWtKQl9sc0FQWTE0OExoQ190WUt1WF85MXpDSU5GcHplVy1oeDBuZG9oYjdGaDJpc3F4QXpyRHJLOXppSDFCOUNFQmxURC13bUx6Wlg0ZGkyYnJmc3otcXRVZFBkZ0tqamYxbUpuSkZFWV81UXRlS0V3cFVwWXdkWGs0eTdMdkhUZXF3dGZzV3ZEUFd3X2E4bHBoMHRmX2ptaEx6cVBIQW5vUEdSYWxqbHhLdEx6enQwcjU2bmc?oc=5",
+      "description": "Vincent Kompany terug bij Bayern München na hersenvliesontsteking De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-10T10:32:39+00:00",
       "image": ""
     },
     {
-      "title": "Carrick ontwijkt vragen over zijn toekomst bij Manchester United",
-      "link": "https://www.reuters.com/sports/soccer/uniteds-carrick-brushes-off-questions-over-his-future-ahead-roma-clash-2026-11-02/",
-      "description": "De trainer richt zich op de volgende wedstrijd.",
-      "source": "Reuters",
-      "pubDate": "2026-11-02T12:00:00Z",
+      "title": "Poch open to Man Utd talks with Carrick's position increasingly in doubt",
+      "link": "https://www.skysports.com/football/news/11095/13610412/michael-carrick-future-man-utd-head-coach-position-increasingly-in-doubt-with-mauricio-pochettino-open-to-talks",
+      "description": "Michael Carrick's position as Manchester United head coach is looking increasingly in doubt, with Mauricio Pochettino open to a discussion with Man Utd if he were approached by the club.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-10T10:24:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7402897.jpg?20261110104010"
+    },
+    {
+      "title": "Merson: If Chelsea don't get Champions League, it's a massive, massive failure",
+      "link": "https://www.skysports.com/football/news/11095/13610138/chelsea-not-showing-the-consistency-to-get-champions-league-football-this-season-says-paul-merson",
+      "description": "In his latest Sky Sports column, Paul Merson gives his view on Chelsea's defeat to Sunderland - as Xabi Alonso's inconsistent start to life at Stamford Bridge continues.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-10T10:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-chelsea_7402109.jpg?20261109122921"
+    },
+    {
+      "title": "Aston Villa latest: Lindelof agrees new contract",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-10T10:00:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
+    },
+    {
+      "title": "Tough-tackling Schlager proves his worth for Forest",
+      "link": "https://www.skysports.com/football/news/11095/13610154/xaver-schlager-at-nottingham-forest-tough-tackling-replacement-for-elliot-anderson-proves-his-worth-to-new-club",
+      "description": "Xaver Schlager has been quietly impressive for Nottingham Forest this season but what was missing was that big moment. It came in the 3-1 win over Manchester City on Saturday when he dispossessed Elliot Anderson for Liam Delap's first goal.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-10T10:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-nottingham-forest_7402005.jpg?20261109110447"
+    },
+    {
+      "title": "Racing Genk ontslaat trainer Thorup na vier maanden - ZeelandNet, startpagina van Zeeland",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSnV1alFiSmtFck5Oblp0b1lET1JlTDY0VXJaRVI5ckJWZVA1Z0FGOF9iMW9KcnRSdWFsOFFSa1BQajJjMGpZUTUyaXc2MlkzLVkzaXBYTlhkU18yWk1QWnZIYmFvbjZjRTBNYmg0T0N0Y3dsM1J0XzBMMDRhWWFjTGdLZnVwNXZHXzNleQ?oc=5",
+      "description": "Racing Genk ontslaat trainer Thorup na vier maanden ZeelandNet, startpagina van Zeeland",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-10T09:55:59+00:00",
       "image": ""
+    },
+    {
+      "title": "Noa Lang slaat met 'BadBad' opnieuw handen ineen met Nederlandse rapper - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHEyOGxEZW9kRzJTakItcUVHcWJmRmdWY0pNWUR6RGNBX3YzUUlfN3d3Z2t6U25DM0pXUGV0WGdpUnktbG82TVZxUjIwM1owWGctS1poWHh4ZG91RWhhT3dKNXpZLUlETVhZa25SdW8zck9FT1BCb0pPekI4VjNQRkZWUU1MUEgtVElkODlmYVhKR2thSy1NdVo1bG42NEha?oc=5",
+      "description": "Noa Lang slaat met 'BadBad' opnieuw handen ineen met Nederlandse rapper VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-10T09:50:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Goud voor Noa Lang en Lil' Kleine: nummer 'Ewa Safi' bereikt bijzondere mijlpaal - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRE1SYXZJMzE3OEtTRW1LaUpDeVpnN3daS0pONlQtLXZWd2ltLUloWk9aUnBZeVJHeU8tWmtBRVJNX1lnTEcwdGhwLW9JYVlwQ2xkNlQyQ2J3RzNiSDlxMHhUWGVhanBoNzY1TjBLeXExX1N6M3pHWi0xcDVWTUNEWTNlc19jcUVqdHhsMHJLdndVTlVpQmpaLUdGZw?oc=5",
+      "description": "Goud voor Noa Lang en Lil' Kleine: nummer 'Ewa Safi' bereikt bijzondere mijlpaal VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-10T09:35:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Man Utd latest: Price of sacking Carrick and hiring Poch revealed...",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-10T09:34:00+00:00",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-utd-club-blog_7326703.jpg?20260820165515"
+    },
+    {
+      "title": "Heracles sluit rampjaar af met plus van 221.000 euro dankzij transfers De Keersmaecker en Hornkamp - Tubantia",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY0NONHU0a2VUejlxWS02bGlRTW0zVzE5a09wNXI4WFRtQTh2S3g0cVVOX29oUWx4eTFZYUZKNjQzbnlya1lna1l5TWNlN2hKeEdnS2RSZm9BUi01U1JNWVJTcmlnTm43MjBNa19kOUx6UHJjVlhJTlFTSjhuVl9vZW45NjJmOWVtLXZIcHBPcW43MlhBa2lLS2ZtWlBZaHRkYjRRWVhUd3NpdXh3WFFjNUtZSWZOSDJGOEsySmpaZlE3T1dhSlpUZGI4Y2dyR0RWaTNIcmxxbDI?oc=5",
+      "description": "Heracles sluit rampjaar af met plus van 221.000 euro dankzij transfers De Keersmaecker en Hornkamp Tubantia",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-10T09:18:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Transfer Centre LIVE! What has Poch said about Premier League return?",
+      "link": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-10T09:00:00+00:00",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346131.jpg?20260909143053"
+    },
+    {
+      "title": "Wenger considers standing against Infantino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo?at_medium=RSS&at_campaign=rss",
+      "description": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in Fifa's presidential election in March.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-10T08:53:26+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f44/live/8a627790-dce0-11f1-a8e1-e3454837ffc6.jpg"
+    },
+    {
+      "title": "Bosz onthult bizarre gang van zaken rond Ajax-transfer: 'Kreeg appje van Overmars' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNakZ6NGNmQkljNlNUMWdMWkdfMTdBSWNUQS1ydUpBZFY5Wk04VjNkRmwzYzNoVkg0MmFnTGE0WUZCeWFTV0hNSUhKRElpZ2NhSGIweHhVajBXMzlOUm5wbW9OaDgycmMya0FMYkhTeGV4X1Y1c2JibXUwMV8taXdkaXM4UEg2djZORmt6ZEItSGY2bGNyTUJidV9vTUJ0UXRQZ0pkdHR5QXZUcDh6aDMzZ2RvZ2tKN1l5T0VqUUNndE5ZbWdQS0E?oc=5",
+      "description": "Bosz onthult bizarre gang van zaken rond Ajax-transfer: 'Kreeg appje van Overmars' VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-10T08:35:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Podcast: What is going wrong at Aberdeen?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pm7gkd?at_medium=RSS&at_campaign=rss",
+      "description": "Robinson is out, but are Aberdeen’s problems much bigger than the manager?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-10T08:00:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm7gks.jpg"
+    },
+    {
+      "title": "Penrice on 'slow rise' from part-time football to Scotland call-up",
+      "link": "https://www.skysports.com/football/news/11095/13608837/james-penrice-scotland-and-rangers-defender-on-his-slow-rise-from-part-time-football-to-international-call-up",
+      "description": "\"I always thought if I kept playing and kept performing it would come. Thankfully it has.\"",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-10T08:00:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-james-penrice-rangers_7400856.jpg?20261108132745"
+    },
+    {
+      "title": "Ilyes Hamache voor Feyenoord de ideale linksbuiten - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVJqLXBnR2xzUEgyaEhINjlMSVBJRTliNFBrMy1CaTJJemROVThOcnM0OGVPcXpQZFdSRG5MZlhkQWFIUk00Q1dEWFI2RmtwaERWemNBcEFGOEhuSld6ekh0N1hLa09xMjNnckJPWXJxUFlHWGU0LW1kSWxaeHQyR0xSNndCVUdvdW1pNzRBbFllM091em50ZE1ZUkJxT0hFNkswakoySlFHSjY5UUxYeHNhcnJ6RTVyVkJndmlDelMwQQ?oc=5",
+      "description": "Ilyes Hamache voor Feyenoord de ideale linksbuiten FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-10T07:43:38+00:00",
+      "image": ""
+    },
+    {
+      "title": "How Germany's greatest goalscorer is guiding the next generation",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmq8nnddpllqo?at_medium=RSS&at_campaign=rss",
+      "description": "Miroslav Klose rose from amateur to World Cup winner as a player - now the German is forging a similar path as a coach.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-10T07:34:07+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc1/live/d2819320-d9f8-11f1-84c1-dbcae60402d7.jpg"
+    },
+    {
+      "title": "Caldwell & McGlynn linked with Aberdeen job - gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8ly0y5q34pno?at_medium=RSS&at_campaign=rss",
+      "description": "Early names in the frame for Aberdeen job as Celtic midfielder withdraws from international duty.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-10T07:25:56+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc7/live/ef09eb00-dcd7-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "title": "Leeds latest: 'Elland Road was the right place to reignite my career,' says DCL",
+      "link": "https://www.skysports.com/football/live-blog/11661/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Premier League",
+      "pubDate": "2026-11-10T07:00:00+00:00",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
+    },
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vwr0zm2ro?at_medium=RSS&at_campaign=rss",
+      "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-10T06:40:56+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+    },
+    {
+      "title": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&at_campaign=rss",
+      "description": "Relive all the best goals from the first round of the FA Cup, including Seung-woo Yang's goal for Wimborne Town and an effort from the halfway line by Crewe's Charlie McNeill.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-10T06:35:30+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/fd81f310-dc5c-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Oud-Ajacied Lorenzo Lucca zwaar onder vuur bij dolend Napoli - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXlJYVlLempJX3VtTlRpRTh4aWtuYXpFam0wSG00T21fMU1nb2tBMVE2MHJJbHhKTzdXLXNPYUdEaVhhbVdaNEFfNTNJeDYwQjZfWDdNcnFMaGpJSnhHRWFTRWx6ZnQ1d3JxcUFkN21jLVlyNmlSMkJDVVVNLXl2N01pYTdGMllwbTdrR0ZpbWZzTEE1Vm03UkRIMk01eGxLWGRSUExkUGdBTndFZWo1SnZUOEhnME1KTTltUXpiZEdBX2ptdklZNDludw?oc=5",
+      "description": "Oud-Ajacied Lorenzo Lucca zwaar onder vuur bij dolend Napoli FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-10T06:31:16+00:00",
+      "image": ""
+    },
+    {
+      "title": "More than the Score",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9tpb?at_medium=RSS&at_campaign=rss",
+      "description": "The five nominees have been announced for the BBC World Service award",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-10T06:30:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm1c2j.jpg"
+    },
+    {
+      "title": "Listen: Who is your BBC Women's Footballer of the Year?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9tpb?at_medium=RSS&at_campaign=rss",
+      "description": "The five nominees have been announced for the BBC World Service award",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-10T06:30:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm1c2j.jpg"
+    },
+    {
+      "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+      "description": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-10T06:24:50+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Pijnlijk: Van Persie presteerde beter dan Van Bronckhorst bij Feyenoord - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM243aFc3cnFUTjY0aXBGNm5PQUt2WTJxQWVya2VCaHBhMDF4eGJ1X2V1V1g3MHRhS0xmeVExbFpySVlROF9GdEZtVVVOOFNSRFdaU3NnMll4MVp3UUlIRk1mNzYwV3RFcDhldWtwTmlWQkxKLU5YazAwT2t1ZzVNQ1E5by1HaEhlY1RvM05sVHFiem1ES0xUSk4ySzVpOVA0RXJnenpaN1J4cnVzN2UtZk53WGF5ZjlOT0luN3RmZHo3ZzJPODBLSEtLczVJcjdEVGg0NEpBMWp0YWVn?oc=5",
+      "description": "Pijnlijk: Van Persie presteerde beter dan Van Bronckhorst bij Feyenoord FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-10T06:12:55+00:00",
+      "image": ""
+    },
+    {
+      "title": "The fans at the FA Cup game no-one could see",
+      "link": "https://www.bbc.co.uk/news/articles/cmqjnjvld27yo?at_medium=RSS&at_campaign=rss",
+      "description": "Thick fog left Notts County fans unable to see parts of the Magpies' FA Cup win over Altrincham.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-10T06:00:05+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8923/live/7ae38780-dc42-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "PSV-trainer Peter Bosz kreeg opvallende clausule van 500.001 euro: 'Hij appte: niet te lang tekenen…' - Sportnieuws.nl",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbkEyMTAtLThrNEd2YVpnNElmcFEzSlEyWlMtSzNQcmRacXdmanJ5dmJIR0h6RFBOdUhTbE9oVjU4Q1k4bHg5ZUdIR2tlQ3NfVzQ2djBzekUwSktGSk9wTGFJTl85QUU1TGd4a0lQOWZHNy1DbHNIQ3hFcnRHM1RNNFVJbmJjZG45aHd2d215X3JRaDhuM2tHQ3duZHpyOF9Za242ZC1Xclc5WXYwQzE4UDlGZHp6WFg5ZUxUSTZtRnFxWjYzWnh0RGd2RWpzT2pGVU52TEU3MmFQbzhENk90clE4ZlNyRVpCeTM2eVUxbGNYTkRnMmNwYg?oc=5",
+      "description": "PSV-trainer Peter Bosz kreeg opvallende clausule van 500.001 euro: 'Hij appte: niet te lang tekenen…' Sportnieuws.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-10T06:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Transfer Tsawa in afrondende fase: Club betaalt 6 miljoen euro voor Zwitserse middenvelder - HLN",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeE9NNXBDbE13YmtId1gwNXRrTHZOYUpRN2RHcGVkbjV1elJ6SGwtYWR3X3ZuSkhCcDNSRWVwb0F6UWpwMGNuZTBzV0VZWi1uWVlOZmxyTTlYNjZVSHpHVWtSZWdsM0Zua2VQVmp3NTc4cGNpNFF1eDloMFlxdTV0SFZ2c0tnX1d3MUUyOGhaalRJVF9uRnJPOFFKQjNlZ1NaVE5HclF6YlhMVXhzQ290eG5aUzhyeUlELUE5RFY1eVB2eEJ3bzI5MUl3?oc=5",
+      "description": "Transfer Tsawa in afrondende fase: Club betaalt 6 miljoen euro voor Zwitserse middenvelder HLN",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-10T05:14:48+00:00",
+      "image": ""
+    },
+    {
+      "title": "Wie mis jij in de selectie? - Sportnieuws.nl",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ01DWk5Da0lXbFdua2dHN21rNkVTNnlsQ3JCRm9DZFlFM2xocWd3SzhyeTlITG9CQjRPeVBTN1piZ3hFTUlqTlQzNzRwaTlORUt3ajBQeGpuZnFEX05HeHh2bFdZY0x5WkZrcWxSTlpncVc5RFdCWnFPRWVlTFBoX0pEVGNrZms3VUd2VWMwSllaamEwSS1uRUdZZnpEQ3J6V0RoOXpiWUxGOVZTaERsYnhNaHUta1VMbEpkX19ObnhYMHFMbmctM2ptaHVuaXp1dVdRU0lsVUhUOVN1VGNj?oc=5",
+      "description": "Wie mis jij in de selectie? Sportnieuws.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-10T05:06:41+00:00",
+      "image": ""
+    },
+    {
+      "title": "Injuries, noise & scalps - Wrexham's season so far",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8x232yy5494o?at_medium=RSS&at_campaign=rss",
+      "description": "Wrexham have had a slow start to the season and some off-field turbulence but having steadied the ship could they be on track for the play-offs?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-10T04:13:48+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89d9/live/db5672a0-dc31-11f1-958b-3f65a8ba2dc3.jpg"
+    },
+    {
+      "title": "Bundesliga (DE) - Bevestigde transfers in 2026/2027 - www.footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmY5cUxYR3J5S2x1UkdaMldWdDNTZ1RZckJVbnFDVmdqZ0w3S3Z2YUVhdFNSTTVzX1k2ZDQwdFNUWml4cm5IS2RNdkhyQUg0VjFqWEVtUDdocmRfRnlyOWZJZEhkajRYQzRmc0ZDZXZEVWNhZjhFU2pKNzZPZWdNaEZnTlhTWWs?oc=5",
+      "description": "Bundesliga (DE) - Bevestigde transfers in 2026/2027 www.footballtransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-10T04:09:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "PSV-trainer Peter Bosz (62) laat zich uit over zijn toekomst: 'Dan is het mooi geweest' - Sportnieuws.nl",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLXpJdnBKMnpvWlZfNEFGa19zdE1Ra05xeTk4X210WkgzY3Q4aXpnd0dRSWcwdy1XSHpWQnExM1B4TE9aTC1JRVY0T253YkVvOEVwdHpjUHl2X3ROYmVvREw3V1F1SnBVSjdueVBhbDlvQUZ1VnNRSzdPXzN4cE9uRWQwNlFCZG14OGlrUEFmcmNyWU9XRUwtNGpmRjdoSHJPaVdMbmhFeU5oU1p2VnBPd3pPSWV5a3k0TWdNM3ZYamtaVUJYaEhNblVpQUJURm5vRFpUUENWWHNDam40d2tsWVNRLXUtZkk?oc=5",
+      "description": "PSV-trainer Peter Bosz (62) laat zich uit over zijn toekomst: 'Dan is het mooi geweest' Sportnieuws.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-10T04:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&at_campaign=rss",
+      "description": "Two Andrew Neal penalties sew Plymouth Parkway earn a first-ever trip to the second round of the FA Cup after a coming from a goal down to beat Berkhamsted 2-1 in extra time.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-10T00:13:13+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f85/live/a1c20d10-dc8b-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Engeland in de ban van 'bizarre miljoenendeal' Marc Overmars: 'Wat een speler' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPODBIOHhNSXNQS0RkYTNjaC1Vc1A2NF9LSUU0dlFEQ2F3OFNYRFBTdWpuQzM4TWo4MmxMcG5ST3ZjTk54VGZYZU9VX2VCc3otQmY0VGU1c05YRnNTclVZUlk4UzhNYldZdEVJOWpDX2tkTVR2Y3FXRmJVMVp5ZUhrdEstbE0xTWlPcGFOMTA5WThWTDhDNm1DeGtRQmVPRTM4LTJpek1HVEUtRFNMdVNLMXhWdkZQUlBj?oc=5",
+      "description": "Engeland in de ban van 'bizarre miljoenendeal' Marc Overmars: 'Wat een speler' VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-09T23:04:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Papers: Poch would consider PL return to join Man Utd",
+      "link": "https://www.skysports.com/football/news/11095/13610409/mauricio-pochettino-would-consider-manchester-united-job-if-michael-carrick-is-sacked-paper-talk",
+      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-09T23:00:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+    },
+    {
+      "title": "Trainer in Engeland pakt rood nadat hij tegenstander bij nek grijpt en kopstoot geeft in FA Cup - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeFFsczl4bFhKTjRqcTBib0V0UTlrbFhJQkltWHJTajBYY3ByU1NqS1pEcmxjeXNBLUJUaWM0cmxGSUJ2ajJGR001T2djZC1aVnlEazJtcVFqb3BXMlc3aTZzV1BNbVFXd183ZmpzVEU1VDVFNEFfeS1TVXZMQndLbDc1ZHFOM0RhU2NXMGs4Q2s4b0NaSkk4eDFTMmJfa0lYakFTcEd6ek9tUWdiS3JpWlV1MjU3cHQ1dzJhMlM1QWp0MFBvbVRHaHR3NW5GSjQxUExuVlFybGdzT1VkOVdfaGc3Zw?oc=5",
+      "description": "Trainer in Engeland pakt rood nadat hij tegenstander bij nek grijpt en kopstoot geeft in FA Cup De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-09T22:39:28+00:00",
+      "image": ""
+    },
+    {
+      "title": "Brady ends association with Birmingham City",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss",
+      "description": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T22:18:17+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e9a/live/f4e649d0-dc85-11f1-851a-19e868620cad.jpg"
+    },
+    {
+      "title": "Wimborne to host Bradford in FA Cup second round - see the full draw",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6wyrynd848jo?at_medium=RSS&at_campaign=rss",
+      "description": "Seventh-tier side Wimborne Town will host League One Bradford City in the second round of the FA Cup, while former winners Leicester City will visit National League South side Dover Athletic.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T22:10:22+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/d7ef1b30-dc72-11f1-92b6-7dd459918707.jpg"
+    },
+    {
+      "title": "'Steijn nieuwe hoofdtrainer bij oude liefde ADO Den Haag' - NOS",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2IyUzBvRHZRRWFWN3lCSlBQR2RMYUhwYW5MSHlTMWhtZ2NWRm5ld1BrR3d6c1NhMzVzZkxtTmF6T2hoNDVQUHJxQTVxTUZmWnduZml5SVBOc1ZEcUpENmZ6YXk4dVVUQkhUUUN3VXpmTVNyZWgwRTYzeXN1Y1pBN2ZSUnpqXy0yZmJBaUZNcw?oc=5",
+      "description": "'Steijn nieuwe hoofdtrainer bij oude liefde ADO Den Haag' NOS",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-09T22:00:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "BBC Women's Football Weekly",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pm60tc?at_medium=RSS&at_campaign=rss",
+      "description": "Ellen and Ben are on location with the London City Lionesses and Spain defender!",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T21:46:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm60tt.jpg"
+    },
+    {
+      "title": "NI's O'Neill ruled out of Nations League matches",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynylnd71yo?at_medium=RSS&at_campaign=rss",
+      "description": "Arsenal forward Ceadach O'Neill is ruled out of Northern Ireland's final two Nations League fixtures against Ukraine in Belfast and Hungary in Budapest.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T21:44:23+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e548/live/515bf500-dc88-11f1-851a-19e868620cad.jpg"
+    },
+    {
+      "title": "'Aberdeen hunt yet another manager after ill-fated Robinson reign'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr0qkq8pnx4ko?at_medium=RSS&at_campaign=rss",
+      "description": "Stephen Robinson's tenure as head coach panned out as many Aberdeen fans feared it would, writes BBC Scotland's Liam McLeod.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T21:39:37+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adbd/live/6fcf45b0-dc82-11f1-ba95-5f07efd49f42.jpg"
+    },
+    {
+      "title": "Football Daily",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pm5xwv?at_medium=RSS&at_campaign=rss",
+      "description": "White opens up about his England departure, will Sage get sacked & will Frank come in?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T21:33:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pm5xxr.jpg"
+    },
+    {
+      "title": "ADO haalt trainer Maurice Steijn na twaalf jaar terug in strijd tegen degradatie - NU",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUlQyeFJKZDJEcUt6QWhlaFkwU2NlNHd6c0NZUnZjWmdHZlJ2ZXFFRHp2MjNuUkVuOUdQb1g5WW5TVTdVWEJhb2ZNSE8zdjdPUU1RRWVmVUl2bUIxdUNEQ2ZJcjdqRExWM3FiZjMyQU1IdnJvODBhM3lweTgycFBMVXFEODljZHBBTGJERmk5OVRmTlE0QmNJZEp0MmpiWjNURDdsYzA3VnZJa3plOE5FeS05T0tlZEh2cEE4?oc=5",
+      "description": "ADO haalt trainer Maurice Steijn na twaalf jaar terug in strijd tegen degradatie NU",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-09T21:30:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "Birmingham announce shock Brady departure",
+      "link": "https://www.skysports.com/football/news/11095/13610387/tom-brady-leaves-birmingham-nfl-legend-and-minority-owner-makes-shock-departure-after-three-years",
+      "description": "Birmingham have announced the shock departure of NFL legend Tom Brady as minority owner with the club sitting top of the Championship table.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-09T21:26:00+00:00",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-tom-brady-new-england-patriots_7156782.jpg?20260205195057"
+    },
+    {
+      "title": "Atletico target Zubimendi move - Tuesday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
+      "description": "Arsenal midfielder Martin Zubimendi is a target for Atletico Madrid, Leeds United plan to step up contract talks with striker Dominic Calvert-Lewin, Barcelona are keen on Bayern Munich defender Jonathan Tah, plus more.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T21:13:37+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7979/live/f8476210-dc78-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "title": "Nieuwe wending rond Steijn: 'Coach geeft jawoord aan Eredivisieclub' - FC Utrecht nieuws, transfers & geruchten | UtrechtFans",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOFpXdkNaN3RUVUlldXRMYnpNMWdOWHVEdTY2Y0VPcHpxTGVCLVd3dl8wXy1CbWJiQXBqcTlkbTB5NldNYU1OdWVjbWhwTG9va1RFbXVPZlExSzA3Skx4MU5zeVB4NTJTNm1xYl8zNlU0aWFGWG9nQ3I4cWNxSXhXQzNUZUdLSnlwWEZfZ1hSZ3pMblZ4OXJGZA?oc=5",
+      "description": "Nieuwe wending rond Steijn: 'Coach geeft jawoord aan Eredivisieclub' FC Utrecht nieuws, transfers & geruchten | UtrechtFans",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-09T21:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Dit zijn de beste Black Friday-deals bij Coolblue! - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPczNjU01UR0FYbFZCRzhRak80NThnVm9nNWhuWkZnclNZVHdNa0VPVkxfUE1sUVZKNy16RG1ucWNwaW81NWg2TDNPWmNidUVHcmNBUFFUNzc3TVhtRjkyTkpUNmJiYjFSYjFEdHdweWZKSDJKc25lTlVnOVNfcFlXQjhlT3FIZWNXSFd3Q0dic1JRaGFPVG1hejJqTm1oakxpNE12YjV2RGNnbGdpeWRVTWpLQXRmSjN3bUJHMi0zVTlLRzZOR3F5a2xpWTduWG1UZ2xvUElQVVlLSV9nNjIwcUtRbHg2LUx2NWlpNzl2UnYya1Jk?oc=5",
+      "description": "Dit zijn de beste Black Friday-deals bij Coolblue! FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-09T20:58:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Duivels dilemma voor clubleiding FC Utrecht nu Anthony Correia het elftal maar niet aan de praat krijgt - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd0lKMmVNTFFfZ2QwTTlKMVNkQWdpMC1vYndYYi1YTFdmbloydTdGVFNYUkxGUzc3TVhPWE1xc2lPYmlFaVBWWlpBY2R0Wmc4RHVhWEJ4VFl2ZnY0MmFibEZWMmRHVFVsNzE5YXQzTDJ5Y2gyZzZOOXd1bFJPeGJUa3lOWmVtQ2NVWmVNX1pKZ3ZzQkFnLXl4Qm1FdjZQSmJJcVVmOHJ4U3MzTzBSRGUyOVhrYkZrSHlZRmFuTDNldmc4UUp2ZTlYSl9fY3FaR1BaYlVrUFppbW1weHBmY3R0MEt2QVJ5UTdkV1JySFRR?oc=5",
+      "description": "Duivels dilemma voor clubleiding FC Utrecht nu Anthony Correia het elftal maar niet aan de praat krijgt De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-09T20:18:02+00:00",
+      "image": ""
+    },
+    {
+      "title": "ADO Den Haag stevent af op een akkoord met Maurice Steijn - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaU1sVjRQcDhMZFBoQ2dnX05PZnhHbkZMNUdlZ2djSXV6QXdiZUxiLUdXT2NCZ1JCczBGaHh1MWtGdGcyMkVJcVhjS1BFSlhlZFdBMkhSanFUbXhJUEU2TkpPamRsQnhodUhmTm5CMXFBaWxncHVESnZOQ1lmNnluUHFEdGlDMjlsRHB2TFdwa1pMN1pBTkdpR1phaVE0R3h2dDJ2U3FqRzdHUURCSDZhXw?oc=5",
+      "description": "ADO Den Haag stevent af op een akkoord met Maurice Steijn De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-09T20:15:45+00:00",
+      "image": ""
+    },
+    {
+      "title": "VI meldt verrassende wending: 'Steijn hard op weg naar nieuwe job in Eredivisie' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaDlTWmZyN19SY1ZTbE0xV0VVTTlPdTJlOUgxcVBTR1A2Tk1VdkRaMzE3QW16Rk1xaHhzckhMV0FmQU16Wmt5a1hpd3lTbXNzMERUcHpQY1ZYLXRhRG9NbFlzRDZJemlPdEZBVXd4OG1XSmFpNlpkb0VTRm1uTnhjQkhUTEJXRHpkbzdSZ2hPaERWRER4ZkgxOWJENDU0YnZSdE1CaUxqcGQ1THlnbFdTa3lxN01DZ0E4YmJBUg?oc=5",
+      "description": "VI meldt verrassende wending: 'Steijn hard op weg naar nieuwe job in Eredivisie' VoetbalPrimeur",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-09T20:09:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Terug op het oude nest: Maurice Steijn wordt nieuwe trainer ADO - Voetbal International",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNVlFQVB0ejNEVVBiWWxOdjlYVDRpbHloMTNLQnVpRVNHZ3hoTHhsRmphaUQzNGoxZmY2cDRLTnlQWW1HNGZoR0NyRXZGNEtDaXpOYWRQN3EyMk5IcFRtR2hSbmRqSUd3MGVOajE5M0drY2ZXelYxR0RqVzJzaWZzUmo0a0lwVHkzeW5NRWVUNmw?oc=5",
+      "description": "Terug op het oude nest: Maurice Steijn wordt nieuwe trainer ADO Voetbal International",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-09T19:47:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "People don't know full story behind England exile - White",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
+      "description": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T19:00:10+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ef/live/13e8f0c0-dc55-11f1-8fe6-5becaee5408f.jpg"
+    },
+    {
+      "title": "Cambuur-aanvoerder kon transfer maken naar het Midden-Oosten: 'Wist er niks vanaf' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEtJRlJzOXlvUHZLdThpZTRaNWVQZ3EwblJxM3pLbW1sY0ctSXFKWnVSVTZOVEQ3aW5nTy11T1llRGVDNDJ1UG0wbGllOWl4YUk3cW1zNEZyRElETmpGcHBLLTI0eEgwREVadmJ5RjlZTlBCR3VuaEVUTEpiZjNsdHNqdTVHMkFvYzNiQ092VFFUR3Z3UmVkRnVRZjBNaUcwNUotM0RON2VlSC1JVVE?oc=5",
+      "description": "Cambuur-aanvoerder kon transfer maken naar het Midden-Oosten: 'Wist er niks vanaf' VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-09T17:59:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Kane and Bellingham air strong views in England World Cup review",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
+      "description": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T17:30:23+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d453cf00-dc51-11f1-a869-656dc96bd12d.jpg"
+    },
+    {
+      "title": "Wilson eyeing survival step as Wales tackle Norway",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck3r5rwdpjj7o?at_medium=RSS&at_campaign=rss",
+      "description": "Harry Wilson believes Wales can shock Norway again in Oslo on Saturday and move a step closer to survival in Nations League A.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T17:21:28+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cf/live/8ab51890-dc29-11f1-a5b1-adf9c8e8d692.jpg"
+    },
+    {
+      "title": "The heavy defeat that ended Robinson's Aberdeen tenure",
+      "link": "https://www.bbc.co.uk/sport/videos/c3dxw181eqejo?at_medium=RSS&at_campaign=rss",
+      "description": "Watch the best of the action as Hibernian thrash Aberdeen 4-0 in what would proved to be Stephen Robinson's final match in charge.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T17:10:00+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e765/live/de171de0-dbb0-11f1-a701-fddedf244c16.png"
+    },
+    {
+      "title": "Ballon d'Or winner Kane not named in FIFPRO World 11",
+      "link": "https://www.skysports.com/football/news/11095/13610309/fifpro-world-11-ballon-dor-winner-harry-kane-not-voted-by-fellow-professionals-to-be-named-in-team-of-the-year",
+      "description": "Ballon d'Or winner Harry Kane has not been named in the FIFPRO World 11.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-09T17:10:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-harry-kane-ballon_7390748.jpg?20261029104829"
+    },
+    {
+      "title": "Aberdeen sack Robinson after league slump",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
+      "description": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T16:46:11+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9ae/live/de60fa10-dc5e-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Szoboszlai a doubt for Nations League conclusion",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss",
+      "description": "Liverpool midfielder Dominik Szoboszlai will undergo tests on a knee injury to ascertain his readiness to join up with the Hungarian national side for Nations League fixtures against Georgia and Northern Ireland.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T16:25:33+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5e1/live/724f1e20-dc53-11f1-a869-656dc96bd12d.jpg"
+    },
+    {
+      "title": "Real Madrid legend Raul named Real Oviedo manager",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwnv0v1yj585o?at_medium=RSS&at_campaign=rss",
+      "description": "Former Real Madrid striker Raul takes on his first role in senior club management after being appointed as boss of Spanish second division side Real Oviedo.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T16:16:30+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e885/live/77c8f480-dc57-11f1-8fe6-5becaee5408f.jpg"
+    },
+    {
+      "title": "Aberdeen sack Robinson",
+      "link": "https://www.skysports.com/football/news/11095/13605319/stephen-robinson-aberdeen-sack-head-coach-with-club-11th-in-scottish-premiership-after-hibs-defeat",
+      "description": "Aberdeen have sacked Stephen Robinson with the club sitting 11th in the Scottish Premiership.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-09T16:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-robinson-aberdeen_7402374.jpg?20261109172811"
+    },
+    {
+      "title": "Every goal from the Women's Super League - matchweek nine",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&at_campaign=rss",
+      "description": "Watch every goal from across the WSL in matchweek nine, from a London City Lionesses first-half wonder goal to Khadija Shaw's first hat-trick of the Women's Super League season.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T15:25:55+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fdc/live/037938d0-dc4b-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Kettering Town 'cannot hide' from racism problem",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr0j0jnln3j0o?at_medium=RSS&at_campaign=rss",
+      "description": "Kettering Town says it \"can no longer hide\" from the issue of racism after a visiting Redditch player was allegedly subjected to \"sickening\" abuse.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T15:10:38+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/323e/live/1e5a5fe0-dc36-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Bronze named in World 11 for record ninth time",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo?at_medium=RSS&at_campaign=rss",
+      "description": "Lucy Bronze is one of five England players named in the Fifpro Women's World 11.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T14:55:32+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89c7/live/8800f540-dc4e-11f1-a869-656dc96bd12d.jpg"
+    },
+    {
+      "title": "Palace latest: Duo added to Palace shortlist to succeed Sage",
+      "link": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-09T14:45:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-crystal-palace-club_7326697.jpg?20260820165235"
+    },
+    {
+      "title": "NEC heeft goud in handen: kwetsbare defensie is miljoenen waard - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV0MwTFFjWDZXc0RQTE1pOWNZWGUyMDVmcm5fZ1pTeGxWeEhBb0NQVHNFblNmbDd2U0p0eG9EZjQ2Ri1EUExwRUFLM1dJZDZnbkZhbHV1d0F0NDJhbHpyaVRlTzlCNkNNVUxsUndsZ3BJNUZ4bGh1QVdmTTVmbWZqWnU2b0lvUHFvWUV0clR6MWN3WWxSVzNMeTZSMlVBQkFadkZVVlFfekRSc3lyLTB4UmU3d29jaUFuZ0VQYjZENEd4M2N5MzdvbDJvOVF5WjFlLVE?oc=5",
+      "description": "NEC heeft goud in handen: kwetsbare defensie is miljoenen waard FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-09T14:35:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Incident-by-incident: Was it a bad weekend for VAR?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
+      "description": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T14:34:19+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de64/live/33dca940-dc36-11f1-95cf-a38331e6cb4b.jpg"
+    },
+    {
+      "title": "Zien: Virgil van Dijk meldt zich met nieuw kapsel bij het Nederlands elftal - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWk12T0pBeWRuNnpNejVsRngtZjJTOVRGVEhfVXBfUnZaTGNGaEtuT1FPcGl6VktXS1I0ZnhRR2hqVjJoOXNvUlYzcTV0VUkyc2szaFJaV0Y3Nm1SREYtWnV3Z0RxWU9DSHA5TTlIT3RoY0xteVlpdVV0SHpoZG1aWnJ2T1RlTlg2TjdmQi1OYi00VXRGNGJSOGF5T1d6MHQ3bDBJN2o1YUtyYW9lTm5PS1U5UkxYcTN6cGdV?oc=5",
+      "description": "Zien: Virgil van Dijk meldt zich met nieuw kapsel bij het Nederlands elftal VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-09T14:29:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Fortuna Sittard dreigt zichzelf te kort te doen met Ihattaren en Michut - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc1RWNTJTUHNMNVg5REloVG1VWWUyb0I5VEluTDFsam9LX1hqelBQZTJIeUZKVnpMYjhqRGpJZzkwN2FyaG43LVljUXB1RzZiRGVUaHMyMjk3b0lXckt3UVR3Z1puVnpFQTJyT1FMTlhqVWN1aDJZblpvTUZkVFdJcVNtbHZOd3FaSlBRRnpBMkNIdk52ZDRhT1FBV0Z1OWh6cWNjMlg1Qy1LMEFTb2pVSFJfOUk5a1RmUktTOHFtTklienZUXzdONjRsakJSNnFqanEtM2FJSk9lYXU2OGc?oc=5",
+      "description": "Fortuna Sittard dreigt zichzelf te kort te doen met Ihattaren en Michut FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-09T13:50:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Theo Janssen adviseert FC Utrecht-trainer Anthony Correia om te selecteren op mentaliteit - Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdGM2YlNrMV9Wdk9OQnprR2t6aGdOQVVaQVZSMFBkbmhYYWFEN1N6YjhuNllGX09WZGdPR0lzZVI0OE5YakkwX29CZVp0TzlqckNSSmtaY1Q3cDR6VV9TeVh0WXpDUDVEUTlpbjZQeHJ0YmI5YXkzbFhzMjI3RkVaTnVyZEpsdVRNWW55eDhoNTVUXzhNQ1BHYnNpUlo2dw?oc=5",
+      "description": "Theo Janssen adviseert FC Utrecht-trainer Anthony Correia om te selecteren op mentaliteit Head Topics",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-09T13:39:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Friedel group completes Shrewsbury Town takeover",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9p8grpdpp2go?at_medium=RSS&at_campaign=rss",
+      "description": "Shrewsbury Town's American takeover deal is done, allowing owner Roland Wycherley to retire, reports BBC Radio Shropshire.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T13:07:29+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e689/live/3cd3dc00-dc39-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Liverpool latest: Van Dijk pulls out of Netherlands squad",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-09T13:00:00+00:00",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+    },
+    {
+      "title": "Fulham latest: King fit and ready for England duty",
+      "link": "https://www.skysports.com/football/live-blog/11661/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "description": "",
+      "source": "Sky Premier League",
+      "pubDate": "2026-11-09T13:00:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-fulham-news-rumours_7331920.jpg?20260826153855"
+    },
+    {
+      "title": "Coventry latest: FNF's big calls all assessed on Ref Watch",
+      "link": "https://www.skysports.com/football/live-blog/11661/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "description": "",
+      "source": "Sky Premier League",
+      "pubDate": "2026-11-09T13:00:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142"
+    },
+    {
+      "title": "Ajax ziet Abdalla solliciteren naar doorbraak: Ouazane als groot voorbeeld - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcVlZSFZQRDJNSGZybUN4UkNmSTBBVGMtVGFTR0VpYkZYV2pmX2FEenVwal8zdFFrRGdiQzM3d2p6N0tiMF9IVjR1LVlxNnI1aTZVdVVrcW9FVGc3enhMRGRhc0ZBLUhYSGpFYlQ2SkhWX2owa0w1S0tuWFVJaUlrdm5KMTBXRjBLVzZiUUZkTE9oTU5hY3lNdDV4R1FMXzlOT0VGMy1NYnJIamVibG9kaFVIejBwOW9MemF5MWFxZTdrWHJUUDhodkJVMGZwclRJME44ck9oV254YXJxb0lR?oc=5",
+      "description": "Ajax ziet Abdalla solliciteren naar doorbraak: Ouazane als groot voorbeeld FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-09T12:48:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "Spurs latest: Tel pulls out of France U21 duty after Bogle challenge",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-09T12:48:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+    },
+    {
+      "title": "Chelsea staff warned over Fantasy Premier League use",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c98rzr51rlvpo?at_medium=RSS&at_campaign=rss",
+      "description": "Chelsea warn staff to be careful about revealing team news through Fantasy Premier League after Joao Pedro's injury appeared to have been inadvertently disclosed through team selections.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-09T12:41:23+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/824c/live/4f7c8740-dc33-11f1-958b-3f65a8ba2dc3.jpg"
     }
   ]
 }
