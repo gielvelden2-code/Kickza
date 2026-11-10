@@ -10,6 +10,7 @@ const payload={source:'API-Football',date:today,updatedAt:new Date().toISOString
 const previous=fs.existsSync('data/catalog.json')?JSON.parse(fs.readFileSync('data/catalog.json','utf8')):{};
 const leagues=new Map(),teams=new Map();
 for(const f of fixtures){const l=f.league,t=f.teams;leagues.set(l.id,{id:l.id,name:l.name,country:l.country,logo:l.logo,flag:l.flag,season:l.season});for(const team of [t.home,t.away])teams.set(team.id,{id:team.id,name:team.name,logo:team.logo,country:l.country,league:l.name,leagueId:l.id})}
+for(const t of previous.teams||[]){if(t?.id&&!teams.has(t.id))teams.set(t.id,t)}
 const now=Date.now(),fresh=previous.updatedAt&&now-new Date(previous.updatedAt).getTime()<24*3600*1000;
 let catalog={updatedAt:new Date().toISOString(),leagues:[...leagues.values()],teams:[...teams.values()],squads:previous.squads||{},statistics:previous.statistics||{}};
 if(!fresh){
