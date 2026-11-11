@@ -1,20 +1,36 @@
 {
-  "updatedAt": "2026-11-11T05:21:55.322438+00:00",
+  "updatedAt": "2026-11-11T07:36:34.840504+00:00",
   "articles": [
+    {
+      "title": "Who am I? Plus today's other quizzes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9en5k3lo?at_medium=RSS&at_campaign=rss",
+      "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-11T06:47:18+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+    },
+    {
+      "title": "Club Brugge rond de tafel met Kompany - Voetbal24.be",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XMWpCQkw5MXZvdGtuQ2lJdWZfb3I5dzVsX1dRM1pCcHducU5rOXc1YlFVU1RjMktiNjVKUzlLLWtmeFhKR0RGWkZBVEZrNk1FN0YxbFZwVFA5aHh6QVFGQ1ZRQXdLUHFHUEpIT2xWeTc3UGh4YjVr?oc=5",
+      "description": "Club Brugge rond de tafel met Kompany Voetbal24.be",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-11T06:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Does Pickford finally face serious competition for his England place?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
+      "description": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-11T06:24:28+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a477/live/8845cf80-dd98-11f1-841d-6fd98310705b.jpg"
+    },
     {
       "title": "Voetbalicoon Louis van Gaal (75) 'bespioneerd' door Eredivisie-trainer: 'Ik kon het eindelijk zien' - Sportnieuws.nl",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcmtHVEJfNE5ncXd0RjF2Uk02VHhZR3otTTVWRGFfUUc3eHAyLS0yUk5fanRjTTM1STRfRTNNdDZfU2JmS1prQ3FSMWcwcVl4VlJxNEFsUHNHYTNSbzBSZ1ItcWE3WG1tZVdsWG9DRUF3cFN4cGRpVjBqZDhWSjZwdnBzLTZycFA1X29zTFJyRHJubFMyQlpNUkpFX1gwbUl2aUV6aWFfYXN4NXE3NDNFRVJlc3BEX1oxX1BnUmZrY0xFcGQ1a1FWdXB2V01lSXBDTEh2MGVHbWJ3d0NOZTNkYzNtSHU2REU5OW1IdkdTSElDNEQ5?oc=5",
       "description": "Voetbalicoon Louis van Gaal (75) 'bespioneerd' door Eredivisie-trainer: 'Ik kon het eindelijk zien' Sportnieuws.nl",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-11T04:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "De nieuwe trainer van Racing Genk staat voor een dubbele inhaalrace, Westerlo-coach Issame Charaï behoort tot groepje van drietal kandidaten - Nieuwsblad",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOWVlpcEtEakNRWG1zOU9LeUJpSmwycTFZVVcwRnZVM3pscUJ0bFZ5bnk0UlQ0RG5CcVBEcUxmd1dYdnVJMDhZZ0dFR2NmRkVsUW9hUlQ1d19keDdKYXdjQmx0SkJHM3pKalhDSW1lS3pJampOSWUwUEJkOEUxZ2U2dnBEaXNSblMxVDFIY2lxSWtlUVpWaGNzZHU1aUpmcDBOaHcteDIyWVp4aWF6emJoLXBpWjk4dkNZaTZ6X3F3QWFMdmFOcVcyQ2lzZ2s5QmxGMjNGRDY4Vl9ydjZOTWg5VzNjb20yMU5LNnNGVF85LUZ3X0pkdjRGMlpUUW1hWnU2cUtPOFRXNFc0cXc2azZnV2NVR2xERTVNMXNlRC13?oc=5",
-      "description": "De nieuwe trainer van Racing Genk staat voor een dubbele inhaalrace, Westerlo-coach Issame Charaï behoort tot groepje van drietal kandidaten Nieuwsblad",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-11T02:05:35+00:00",
       "image": ""
     },
     {
@@ -202,6 +218,14 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eae/live/09084700-dd22-11f1-b441-2b33b063138f.jpg"
     },
     {
+      "title": "'Real Madrid trekt astronomisch bedrag uit: 707 miljoen euro voor eigen teams' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWlNqeG5DbHdrRkl1V1c3Q3AtdElfaE01MkRLMS02UTh4Tnl0cEtNMkNxU2I5SjdqczVDaklrRDEzelctS2Y0Q001ekFJMDU5QVcxQW01SUpuS3NMQ3B3bDgxeXpmbDZZMVV1b3JWcnRTOU9sNnNBYWVkM0VzTFJGUzh4T29xdWxNejVuWE4tSTV3eC0zU1Q5VldMOThBdkp3MldPN2RHLU1mSXRuRkpWLXZGXzJpWU9oZjFIek0wclZ4QQ?oc=5",
+      "description": "'Real Madrid trekt astronomisch bedrag uit: 707 miljoen euro voor eigen teams' VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-10T16:43:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Oldham boss Mellon charged by FA following red card",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6e3x3xz33njo?at_medium=RSS&at_campaign=rss",
       "description": "Oldham Athletic manager Micky Mellon is charged by the FA following his red card during his side's FA Cup win over Sheffield Wednesday.",
@@ -354,12 +378,12 @@
       "image": ""
     },
     {
-      "title": "Szoboszlai fitness call to come at 'last minute'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss",
-      "description": "Hungary say they will do \"everything possible\" for Liverpool midfielder Dominik Szoboszlai to feature in Nations League fixtures against Georgia and Northern Ireland across the next week.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-10T12:06:28+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5e1/live/724f1e20-dc53-11f1-a869-656dc96bd12d.jpg"
+      "title": "Lure of the Championship - Why foreign coaches are drawn to England's second tier",
+      "link": "https://www.skysports.com/football/news/11095/13610313/foreign-coaches-in-the-championship-why-working-in-englands-second-tier-is-a-target-for-top-managers-from-abroad",
+      "description": "The focus is often on the lack of opportunities for British coaches but look at it another way and it is remarkable that 16 of the clubs in the sixth-richest league in European football – two thirds of them – are currently being coached by ",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-10T12:00:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-football-vitor-campelos_7402016.jpg?20261109111209"
     },
     {
       "title": "Liverpool latest: Van Dijk 'not panicking' about new deal.",
@@ -368,14 +392,6 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-10T12:00:00+00:00",
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-    },
-    {
-      "title": "Lure of the Championship - Why foreign coaches are drawn to England's second tier",
-      "link": "https://www.skysports.com/football/news/11095/13610313/foreign-coaches-in-the-championship-why-working-in-englands-second-tier-is-a-target-for-top-managers-from-abroad",
-      "description": "The focus is often on the lack of opportunities for British coaches but look at it another way and it is remarkable that 16 of the clubs in the sixth-richest league in European football – two thirds of them – are currently being coached by ",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-10T12:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-football-vitor-campelos_7402016.jpg?20261109111209"
     },
     {
       "title": "Wales call up MK Dons' Collins as Moore withdraws",
@@ -402,15 +418,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e9/live/842dfd90-dcf9-11f1-9ef0-4b5930e2f80e.jpg"
     },
     {
-      "title": "Carrick's Man Utd future to be decided as Berrada and Wilcox retain support",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United head coach Michael Carrick's future will be discussed at a meeting on Wednesday, but executives Omar Berrada and Jason Wilcox retain the support of minority owner Sir Jim Ratcliffe.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-10T11:23:43+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7fa/live/36f4e8e0-dcfe-11f1-933b-ff2499ee76f6.jpg"
-    },
-    {
-      "title": "Man Utd latest: Chiefs meeting in Monaco on Wednesday to discuss Carrick future",
+      "title": "Man Utd latest: Chiefs meeting in Monaco TODAY to discuss Carrick future",
       "link": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
       "source": "Sky Sports",
@@ -434,12 +442,36 @@
       "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
     },
     {
-      "title": "Poch open to Man Utd talks with Carrick's position in doubt",
+      "title": "Vincent Kompany terug bij Bayern München na hersenvliesontsteking - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY0NzcTkzRVdrVDNWeHZCUDdacW1IZnFBc19Iak1sa3M1bUl0OHA0anFvV3FFck1wYVRQZW1NSzBrQXVEbTY0cGh5MWtKQl9sc0FQWTE0OExoQ190WUt1WF85MXpDSU5GcHplVy1oeDBuZG9oYjdGaDJpc3F4QXpyRHJLOXppSDFCOUNFQmxURC13bUx6Wlg0ZGkyYnJmc3otcXRVZFBkZ0tqamYxbUpuSkZFWV81UXRlS0V3cFVwWXdkWGs0eTdMdkhUZXF3dGZzV3ZEUFd3X2E4bHBoMHRmX2ptaEx6cVBIQW5vUEdSYWxqbHhLdEx6enQwcjU2bmc?oc=5",
+      "description": "Vincent Kompany terug bij Bayern München na hersenvliesontsteking De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-10T10:32:39+00:00",
+      "image": ""
+    },
+    {
+      "title": "Man Utd chiefs set for Monaco summit to decide Carrick's future",
       "link": "https://www.skysports.com/football/news/11095/13610412/michael-carrick-future-man-utd-head-coach-position-increasingly-in-doubt-with-mauricio-pochettino-open-to-talks",
-      "description": "Michael Carrick's position as Manchester United head coach is looking increasingly in doubt, with Mauricio Pochettino open to a discussion if he were approached by the club.",
+      "description": "Manchester United's powerbrokers are set to discuss the future of head coach Michael Carrick at a scheduled meeting in Monaco on Wednesday as his future hangs in the balance.",
       "source": "Sky Sports",
       "pubDate": "2026-11-10T10:24:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7402897.jpg?20261110104010"
+    },
+    {
+      "title": "Poch open to Man Utd talks with Carrick's position in doubt",
+      "link": "https://www.skysports.com/football/news/11661/13610412/michael-carrick-future-man-utd-head-coach-position-increasingly-in-doubt-with-mauricio-pochettino-open-to-talks",
+      "description": "Michael Carrick's position as Manchester United head coach is looking increasingly in doubt, with Mauricio Pochettino open to a discussion if he were approached by the club.",
+      "source": "Sky Premier League",
+      "pubDate": "2026-11-10T10:24:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7402897.jpg?20261110104010"
+    },
+    {
+      "title": "Tough-tackling Schlager proves his worth for Forest",
+      "link": "https://www.skysports.com/football/news/11095/13610154/xaver-schlager-at-nottingham-forest-tough-tackling-replacement-for-elliot-anderson-proves-his-worth-to-new-club",
+      "description": "Xaver Schlager has been quietly impressive for Nottingham Forest this season but what was missing was that big moment. It came in the 3-1 win over Manchester City on Saturday when he dispossessed Elliot Anderson for Liam Delap's first goal.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-10T10:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-nottingham-forest_7402005.jpg?20261109110447"
     },
     {
       "title": "Merson: If Chelsea don't get Champions League it's a massive failure",
@@ -464,14 +496,6 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-10T10:00:00+00:00",
       "image": "https://e1.365dm.com/26/10/1920x1080/skysports-vincent-kompany_7384819.jpg?20261023173822"
-    },
-    {
-      "title": "Tough-tackling Schlager proves his worth for Forest",
-      "link": "https://www.skysports.com/football/news/11095/13610154/xaver-schlager-at-nottingham-forest-tough-tackling-replacement-for-elliot-anderson-proves-his-worth-to-new-club",
-      "description": "Xaver Schlager has been quietly impressive for Nottingham Forest this season but what was missing was that big moment. It came in the 3-1 win over Manchester City on Saturday when he dispossessed Elliot Anderson for Liam Delap's first goal.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-10T10:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-nottingham-forest_7402005.jpg?20261109110447"
     },
     {
       "title": "Racing Genk ontslaat trainer Thorup na vier maanden - ZeelandNet, startpagina van Zeeland",
@@ -570,14 +594,6 @@
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
     },
     {
-      "title": "Who am I? Plus today's other quizzes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vwr0zm2ro?at_medium=RSS&at_campaign=rss",
-      "description": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-10T06:40:56+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-    },
-    {
       "title": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
       "link": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&at_campaign=rss",
       "description": "Relive all the best goals from the first round of the FA Cup, including Seung-woo Yang's goal for Wimborne Town and an effort from the halfway line by Crewe's Charlie McNeill.",
@@ -623,22 +639,6 @@
       "description": "Pijnlijk: Van Persie presteerde beter dan Van Bronckhorst bij Feyenoord FootballTransfers.com",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-10T06:12:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "The fans at the foggy FA Cup game no-one could see",
-      "link": "https://www.bbc.co.uk/news/articles/cmqjnjvld27yo?at_medium=RSS&at_campaign=rss",
-      "description": "Thick fog left Notts County fans unable to see parts of the Magpies' FA Cup win over Altrincham.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-10T06:00:05+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8923/live/7ae38780-dc42-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "'Joey Veerman is met de juiste trainer gewoon een Kroos' - Voetbal International",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMGlMVFRUZTZsRkJFS0QwRG51SExZUXZLT2s4RlN0cTE0SmdKcVNBd1Njc2tha19HcVJCUHlPRkd1bUdlUjZkcHdtd2t2dGk4S0F5Ul9tejJSYmZ4eVN2TTBlY0wxN29jOVZ6Qzd1cm1QLWE4dWFnTFRZSU5QZlV5T2NB?oc=5",
-      "description": "'Joey Veerman is met de juiste trainer gewoon een Kroos' Voetbal International",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-10T06:00:00+00:00",
       "image": ""
     }
   ]
