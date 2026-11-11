@@ -1,13 +1,109 @@
 {
-  "updatedAt": "2026-11-11T10:19:33.766152+00:00",
+  "updatedAt": "2026-11-11T12:10:01.703433+00:00",
   "articles": [
+    {
+      "title": "Man Utd strike Poch agreement as Carrick takes training",
+      "link": "https://www.skysports.com/football/news/11095/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor",
+      "description": "Manchester United have reached an agreement in principle with Mauricio Pochettino to take over as head coach if Michael Carrick is sacked.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-11T12:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-man-utd-pochettino_7403673.png?20261111092651"
+    },
+    {
+      "title": "Scotland without captain Weir for World Cup play-off",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c64gnlevgj1zo?at_medium=RSS&at_campaign=rss",
+      "description": "Scotland are missing the influential Caroline Weir for the World Cup play-off final with Sweden as she recovers from a muscle injury.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-11T11:59:18+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52c4/live/a84cbbe0-ddbb-11f1-9582-1b529d725aaf.jpg"
+    },
+    {
+      "title": "Psychological uncertainty and tactics - assessing the issues at Man City",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
+      "description": "The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-11T11:47:09+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c72/live/a41350a0-dcfa-11f1-9ef0-4b5930e2f80e.jpg"
+    },
+    {
+      "title": "Ipswich latest: VAR missed Town penalty vs Hull says panel",
+      "link": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-11T11:39:00+00:00",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ipswich-news-rumours_7331921.jpg?20260826153921"
+    },
+    {
+      "title": "You are Scotland boss Pocognoli - what would you do?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwr7y79jm354o?at_medium=RSS&at_campaign=rss",
+      "description": "Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the home game with North Macedonia.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-11T11:33:55+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
+    },
+    {
+      "title": "Fans Hibernian gaan viraal met ‘clublied’, Nederlandse trainer van Schotse club houdt het niet droog - AD.nl",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnJRSnhFVVZ2VlB3bU82U0M0d3dWdHZ5Z2g2XzJ2UUN0bjBRdngwQy1lcnhTVFI5d0p2My1acnhmc0NGNzM0dVo5UmhVSzVMT19MajgyYlp0d2RoR1lwRlBHb1paTTRvRU8xZHUyc1A5N3dKb255WTMxbktHTEpVQmJ3M0NQZHc0RjV0NmJPMlRqQ3hycU9sc1ZUbTV0VzhROUVDNnFBcnV5YnVBX1BkMEFpTGpMT3pkaEY2R0VwV2hXRTFzX28yaTNoYXhLUQ?oc=5",
+      "description": "Fans Hibernian gaan viraal met ‘clublied’, Nederlandse trainer van Schotse club houdt het niet droog AD.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-11T11:00:07+00:00",
+      "image": ""
+    },
+    {
+      "title": "Liverpool latest: Van Dijk 'not panicking' over new deal",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-11T10:40:00+00:00",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
+    },
+    {
+      "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+      "description": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-11T10:34:01+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
+    },
+    {
+      "title": "Liverpool incorrectly denied pen vs Arsenal says independent panel",
+      "link": "https://www.skysports.com/football/news/11095/13610916/liverpool-incorrectly-denied-penalty-for-jurrien-timber-pull-on-alexander-isak-vs-arsenal-rules-independent-panel",
+      "description": "Liverpool should have been awarded a penalty when Jurrien Timber pulled Alexander Isak's shirt in Arsenal's victory at Anfield, an independent panel has ruled.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-11T10:33:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-alexander-isak-jurrien-timber_7403744.jpg?20261111105128"
+    },
+    {
+      "title": "Bromley signings 'not good enough' - ex-boss Woodman",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5x2wle9nnvzo?at_medium=RSS&at_campaign=rss",
+      "description": "Ex-Bromley boss Andy Woodman criticises the club's summer recruitment and says he is looking forward to his next challenge.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-11T10:32:23+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99e4/live/ee209630-ddb8-11f1-90cd-85e940e3a009.jpg"
+    },
+    {
+      "title": "Big underdogs once more, can Arsenal beat Barcelona again?",
+      "link": "https://www.skysports.com/football/news/11095/13610549/barcelona-vs-arsenal-can-gunners-learn-from-2025-womens-champions-league-victory-ahead-of-league-phase-meeting-on-thursday",
+      "description": "Arsenal face Barcelona in the Women's Champions League this week - the first time the two have met since the 2025 final when the Gunners were victorious against all odds.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-11T10:30:00+00:00",
+      "image": "https://e0.365dm.com/25/05/1920x1080/skysports-arsenal-champions-league_6926362.jpg?20250524193507"
+    },
     {
       "title": "Shirt pull on Isak should have been penalty - panel",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss",
       "description": "Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel.",
       "source": "BBC Sport",
-      "pubDate": "2026-11-11T10:16:01+00:00",
+      "pubDate": "2026-11-11T10:23:37+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92ad/live/0f801aa0-d6be-11f1-aacc-5b5f23abff4b.jpg"
+    },
+    {
+      "title": "Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo?at_medium=RSS&at_campaign=rss",
+      "description": "The football star will be joined by Gavin and Stacey star Joanna Page and YouTuber Sharky among others.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-11T10:17:09+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ce9/live/e2d43030-ddb2-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "title": "From the sack in Cyprus to Liverpool: Iraola's first job explained",
@@ -34,22 +130,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a0/live/d5773580-ddb3-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Man Utd close to agreeing Poch deal as Carrick reports for work",
-      "link": "https://www.skysports.com/football/news/11095/13610862/mauricio-pochettino-man-utd-close-to-agreeing-deal-with-michael-carricks-potential-successor-ahead-of-monaco-meeting",
-      "description": "Manchester United are close to agreeing a deal with Mauricio Pochettino to become their next head coach if they decide to sack Michael Carrick.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-11T09:45:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-man-utd-pochettino_7403673.png?20261111092651"
-    },
-    {
-      "title": "Man Utd open talks with Pochettino about replacing Carrick",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United open talks with Mauricio Pochettino about replacing Michael Carrick, who is expected to lose his job.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-11T09:11:28+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
-    },
-    {
       "title": "Man Utd's Pochettino pursuit comes full circle - but would it work?",
       "link": "https://www.skysports.com/football/news/11095/13610578/manchester-united-and-mauricio-pochettino-would-argentine-be-the-perfect-fit-or-just-another-manager-to-fall-foul-of-old-trafford-chaos",
       "description": "Mauricio Pochettino and Manchester United have a well-established history. One where paths might have crossed long before now, numerous times, but somehow never managed to converge.",
@@ -58,7 +138,7 @@
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7403070.jpg?20261110124607"
     },
     {
-      "title": "Man Utd latest: Would Poch be the right appointment? Have your say",
+      "title": "Man Utd latest: Send in your questions ahead of Pochettino Q&A",
       "link": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
       "source": "Sky Sports",
@@ -170,6 +250,14 @@
       "image": ""
     },
     {
+      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "description": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-11T00:19:42+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eec/live/34923590-d870-11f1-a701-fddedf244c16.jpg"
+    },
+    {
       "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
       "description": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo, plus more.",
@@ -227,9 +315,9 @@
     },
     {
       "title": "Chelsea latest: 'Blues join race to sign Arsenal midfielder'",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "link": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-10T21:00:00+00:00",
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
     },
@@ -256,14 +344,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-10T20:07:12+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2945/live/0373f810-dd50-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Brentford latest: Bees fail with Igor Thiago red card appeal",
-      "link": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-10T20:00:00+00:00",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
     },
     {
       "title": "Financieel directeur Ajax wuift vergelijking PSV en Feyenoord weg: 'Ander model' - VoetbalPrimeur",
@@ -296,14 +376,6 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-10T19:00:00+00:00",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-hacken-chelsea-womens-champions-league_7403369.jpg?20261110181944"
-    },
-    {
-      "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-10T18:12:02+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2726/live/abc28950-dd19-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "title": "Lierse ontslaat trainer Arno Van den Abbeel na amper zes maanden: T2 Bernd Brughmans neemt voorlopig over - HLN",
@@ -343,6 +415,14 @@
       "description": "Cruijff tempert verwachtingen over transfers bij Ajax: 'Misschien één dingetje' Headliner.nl",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-10T17:10:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cruijff tempert verwachtingen over transfers bij Ajax: 'Misschien één dingetje' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUTQ2YXpVVU9JYWYxd0pPR1BZWjdWRzdDaDRnejBPRnFLdDFlWktIQWVhSWhTVXdQTlJ6bFJYQVdXMVJmSTdGeXd0TW8yYkY3RFRLTnRCVTcwTERqc25UaTgtcWhNeHFRMTA5aW42Q2ZUYUZOWm5jYjFHTmJRT2xMOTlYTHNvcHdma3dLTjlaNWprQQ?oc=5",
+      "description": "Cruijff tempert verwachtingen over transfers bij Ajax: 'Misschien één dingetje' VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-10T17:09:57+00:00",
       "image": ""
     },
     {
@@ -443,9 +523,9 @@
     },
     {
       "title": "Merson: Man Utd transfer policy is to blame - not Carrick",
-      "link": "https://www.skysports.com/football/news/11095/13610645/man-utds-transfer-policy-to-blame-for-clubs-worst-premier-league-start-and-not-michael-carrick-says-paul-merson",
+      "link": "https://www.skysports.com/football/news/11661/13610645/man-utds-transfer-policy-to-blame-for-clubs-worst-premier-league-start-and-not-michael-carrick-says-paul-merson",
       "description": "Sky Sports' Paul Merson believes Manchester United’s transfer strategy is to blame for their worst start to a top-flight season instead of head coach Michael Carrick.",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-10T13:30:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7401837.jpg?20261109081304"
     },
@@ -498,14 +578,6 @@
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-football-vitor-campelos_7402016.jpg?20261109111209"
     },
     {
-      "title": "Liverpool latest: Van Dijk 'not panicking' about new deal.",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-10T12:00:00+00:00",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-    },
-    {
       "title": "Wales call up MK Dons' Collins as Moore withdraws",
       "link": "https://www.bbc.co.uk/sport/football/articles/c62l4l2k0lyro?at_medium=RSS&at_campaign=rss",
       "description": "Wales have called up MK Dons striker Aaron Collins for this month's Nations League matches following Wrexham frontman Kieffer Moore's withdrawal due to injury.",
@@ -528,14 +600,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-10T11:41:27+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e9/live/842dfd90-dcf9-11f1-9ef0-4b5930e2f80e.jpg"
-    },
-    {
-      "title": "Feyenoord heeft zijn eigen Vinícius al in huis bij de Onder 19 - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNUtwNFJJZV82QVNNNzdPZVlpMU56OUhSZFJPQ0p5NlJuYU9CR210X2FtbU5oNnhvOHVlOG40VklQQjh1N0dhaEMyWFRELUFBem1jZ0doTUpoWVpnR1VSTHdNYURiZnEwaXdiLVBLTU1QNDVLY1ZpYXhLbkJ5VlJSWjZqNWRDamhKQjRtZVRjM0hkZVlPQXdsSTNMTzFWY1o2cFlJemFrMGc5RmxteW9YYWJ5VjJQS1dPQ0F1bjlBanV5WHJhbTc5Zk45cmRibHlZSGc?oc=5",
-      "description": "Feyenoord heeft zijn eigen Vinícius al in huis bij de Onder 19 FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-10T10:48:56+00:00",
-      "image": ""
     },
     {
       "title": "England latest: Jobe Bellingham on 'emotion' of call-up with Jude",
@@ -562,14 +626,6 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-chelsea_7402109.jpg?20261109122921"
     },
     {
-      "title": "Tough-tackling Schlager proves his worth for Forest",
-      "link": "https://www.skysports.com/football/news/11095/13610154/xaver-schlager-at-nottingham-forest-tough-tackling-replacement-for-elliot-anderson-proves-his-worth-to-new-club",
-      "description": "Xaver Schlager has been quietly impressive for Nottingham Forest this season but what was missing was that big moment. It came in the 3-1 win over Manchester City on Saturday when he dispossessed Elliot Anderson for Liam Delap's first goal.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-10T10:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-nottingham-forest_7402005.jpg?20261109110447"
-    },
-    {
       "title": "Aston Villa latest: Lindelof agrees new contract",
       "link": "https://www.skysports.com/football/live-blog/11661/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
@@ -578,68 +634,12 @@
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
     },
     {
-      "title": "Racing Genk ontslaat trainer Thorup na vier maanden - ZeelandNet, startpagina van Zeeland",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSnV1alFiSmtFck5Oblp0b1lET1JlTDY0VXJaRVI5ckJWZVA1Z0FGOF9iMW9KcnRSdWFsOFFSa1BQajJjMGpZUTUyaXc2MlkzLVkzaXBYTlhkU18yWk1QWnZIYmFvbjZjRTBNYmg0T0N0Y3dsM1J0XzBMMDRhWWFjTGdLZnVwNXZHXzNleQ?oc=5",
-      "description": "Racing Genk ontslaat trainer Thorup na vier maanden ZeelandNet, startpagina van Zeeland",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-10T09:55:59+00:00",
-      "image": ""
-    },
-    {
-      "title": "Noa Lang slaat met 'BadBad' opnieuw handen ineen met Nederlandse rapper - VoetbalPrimeur",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMHEyOGxEZW9kRzJTakItcUVHcWJmRmdWY0pNWUR6RGNBX3YzUUlfN3d3Z2t6U25DM0pXUGV0WGdpUnktbG82TVZxUjIwM1owWGctS1poWHh4ZG91RWhhT3dKNXpZLUlETVhZa25SdW8zck9FT1BCb0pPekI4VjNQRkZWUU1MUEgtVElkODlmYVhKR2thSy1NdVo1bG42NEha?oc=5",
-      "description": "Noa Lang slaat met 'BadBad' opnieuw handen ineen met Nederlandse rapper VoetbalPrimeur",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-10T09:50:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Goud voor Noa Lang en Lil' Kleine: nummer 'Ewa Safi' bereikt bijzondere mijlpaal - VoetbalPrimeur",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRE1SYXZJMzE3OEtTRW1LaUpDeVpnN3daS0pONlQtLXZWd2ltLUloWk9aUnBZeVJHeU8tWmtBRVJNX1lnTEcwdGhwLW9JYVlwQ2xkNlQyQ2J3RzNiSDlxMHhUWGVhanBoNzY1TjBLeXExX1N6M3pHWi0xcDVWTUNEWTNlc19jcUVqdHhsMHJLdndVTlVpQmpaLUdGZw?oc=5",
-      "description": "Goud voor Noa Lang en Lil' Kleine: nummer 'Ewa Safi' bereikt bijzondere mijlpaal VoetbalPrimeur",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-10T09:35:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Heracles sluit rampjaar af met plus van 221.000 euro dankzij transfers De Keersmaecker en Hornkamp - Tubantia",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY0NONHU0a2VUejlxWS02bGlRTW0zVzE5a09wNXI4WFRtQTh2S3g0cVVOX29oUWx4eTFZYUZKNjQzbnlya1lna1l5TWNlN2hKeEdnS2RSZm9BUi01U1JNWVJTcmlnTm43MjBNa19kOUx6UHJjVlhJTlFTSjhuVl9vZW45NjJmOWVtLXZIcHBPcW43MlhBa2lLS2ZtWlBZaHRkYjRRWVhUd3NpdXh3WFFjNUtZSWZOSDJGOEsySmpaZlE3T1dhSlpUZGI4Y2dyR0RWaTNIcmxxbDI?oc=5",
-      "description": "Heracles sluit rampjaar af met plus van 221.000 euro dankzij transfers De Keersmaecker en Hornkamp Tubantia",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-10T09:18:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Transfer Centre LIVE! What has Poch said about Premier League return?",
-      "link": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-10T09:00:00+00:00",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346131.jpg?20260909143053"
-    },
-    {
-      "title": "Wenger considers standing against Infantino",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwj343pep7zdo?at_medium=RSS&at_campaign=rss",
-      "description": "Former Arsenal manager Arsene Wenger is considering standing against Gianni Infantino as a candidate in Fifa's presidential election in March.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-10T08:53:26+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f44/live/8a627790-dce0-11f1-a8e1-e3454837ffc6.jpg"
-    },
-    {
-      "title": "Bosz onthult bizarre gang van zaken rond Ajax-transfer: 'Kreeg appje van Overmars' - VoetbalPrimeur",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNakZ6NGNmQkljNlNUMWdMWkdfMTdBSWNUQS1ydUpBZFY5Wk04VjNkRmwzYzNoVkg0MmFnTGE0WUZCeWFTV0hNSUhKRElpZ2NhSGIweHhVajBXMzlOUm5wbW9OaDgycmMya0FMYkhTeGV4X1Y1c2JibXUwMV8taXdkaXM4UEg2djZORmt6ZEItSGY2bGNyTUJidV9vTUJ0UXRQZ0pkdHR5QXZUcDh6aDMzZ2RvZ2tKN1l5T0VqUUNndE5ZbWdQS0E?oc=5",
-      "description": "Bosz onthult bizarre gang van zaken rond Ajax-transfer: 'Kreeg appje van Overmars' VoetbalPrimeur",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-10T08:35:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ilyes Hamache voor Feyenoord de ideale linksbuiten - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVJqLXBnR2xzUEgyaEhINjlMSVBJRTliNFBrMy1CaTJJemROVThOcnM0OGVPcXpQZFdSRG5MZlhkQWFIUk00Q1dEWFI2RmtwaERWemNBcEFGOEhuSld6ekh0N1hLa09xMjNnckJPWXJxUFlHWGU0LW1kSWxaeHQyR0xSNndCVUdvdW1pNzRBbFllM091em50ZE1ZUkJxT0hFNkswakoySlFHSjY5UUxYeHNhcnJ6RTVyVkJndmlDelMwQQ?oc=5",
-      "description": "Ilyes Hamache voor Feyenoord de ideale linksbuiten FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-10T07:43:38+00:00",
-      "image": ""
+      "title": "Tough-tackling Schlager proves his worth for Forest",
+      "link": "https://www.skysports.com/football/news/11661/13610154/xaver-schlager-at-nottingham-forest-tough-tackling-replacement-for-elliot-anderson-proves-his-worth-to-new-club",
+      "description": "Xaver Schlager has been quietly impressive for Nottingham Forest this season but what was missing was that big moment. It came in the 3-1 win over Manchester City on Saturday when he dispossessed Elliot Anderson for Liam Delap's first goal.",
+      "source": "Sky Premier League",
+      "pubDate": "2026-11-10T10:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-nottingham-forest_7402005.jpg?20261109110447"
     }
   ]
 }
