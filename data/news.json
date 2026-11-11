@@ -1,13 +1,29 @@
 {
-  "updatedAt": "2026-11-11T15:09:15.408844+00:00",
+  "updatedAt": "2026-11-11T16:10:22.848728+00:00",
   "articles": [
     {
-      "title": "How to watch Ronaldinho's return!",
-      "link": "https://www.skysports.com/football/news/11095/13610697/ronaldinho-returns-how-to-watch-brazilian-icons-comeback-live-on-sky-sports",
-      "description": "Ronaldinho is set to return to professional football for the first time in over a decade, and you can watch it exclusively on Sky Sports!",
+      "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+      "description": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-11T16:03:02+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
+    },
+    {
+      "title": "Bristol City give Skubala opportunity to improve form",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c54gnev0ydnno?at_medium=RSS&at_campaign=rss",
+      "description": "Bristol City chief executive Charlie Boss says head coach Michael Skubala will be given more time to improve their results.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-11T15:52:30+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e945/live/300e91b0-dde0-11f1-b465-b9821c2582d4.jpg"
+    },
+    {
+      "title": "Kane targets biggest team prizes ahead of record-breaking England cap",
+      "link": "https://www.skysports.com/football/news/11095/13610856/england-harry-kane-targets-european-championships-world-cup-and-champions-league-to-add-biggest-team-prizes-to-ballon-dor",
+      "description": "Harry Kane will become England's record appearance maker on Thursday night - but the Ballon d'Or winner now has his sights set on the biggest team trophies in football.",
       "source": "Sky Sports",
-      "pubDate": "2026-11-11T15:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-ronaldinho-returns_7403243.png?20261110155336"
+      "pubDate": "2026-11-11T15:29:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-harry-kane-england_7370153.jpg?20261007064514"
     },
     {
       "title": "Palace latest: Talks progressing for Frank to succeed Sage",
@@ -44,10 +60,18 @@
     {
       "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
       "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
-      "description": "Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.",
+      "description": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
       "source": "BBC Sport",
       "pubDate": "2026-11-11T12:58:17+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7299/live/2b5bc490-ddcb-11f1-9053-236ccb99630c.jpg"
+    },
+    {
+      "title": "Is Pochettino a short-term fix? Man Utd pursuit of Carrick replacement questioned",
+      "link": "https://www.skysports.com/football/news/11095/13611004/mauricio-pochettino-manchester-uniteds-approach-for-former-tottenham-and-chelsea-boss-questioned",
+      "description": "Sky Sports News' Kaveh Solhekol has questioned Manchester United's pursuit of Mauricio Pochettino, suggesting there are better options available.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-11T12:44:00+00:00",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-mauricio-pochettino_7346135.jpg?20260909143140"
     },
     {
       "title": "Italiaanse media: “AC Milan wil Nicolo Tresoldi in januari halen”, Club Brugge sluit transfer uit - Nieuwsblad",
@@ -58,7 +82,7 @@
       "image": ""
     },
     {
-      "title": "England latest: Tuchel and Kane face media ahead of Croatia tie LIVE!",
+      "title": "England latest: Spence, Konsa, Lewis-Skelly to miss Croatia game",
       "link": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
       "description": "",
       "source": "Sky Sports",
@@ -128,14 +152,6 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-11T10:40:00+00:00",
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
-    },
-    {
-      "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
-      "description": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-11T10:34:01+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg"
     },
     {
       "title": "Liverpool incorrectly denied pen vs Arsenal says independent panel",
@@ -311,7 +327,7 @@
       "description": "Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
       "source": "BBC Sport",
       "pubDate": "2026-11-11T06:24:28+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a477/live/8845cf80-dd98-11f1-841d-6fd98310705b.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a04/live/fffa2640-dde1-11f1-9cf4-b188db5b2d8c.jpg"
     },
     {
       "title": "Voetbalicoon Louis van Gaal (75) 'bespioneerd' door Eredivisie-trainer: 'Ik kon het eindelijk zien' - Sportnieuws.nl",
@@ -330,7 +346,7 @@
       "image": ""
     },
     {
-      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
+      "title": "Vinicius Jr sends message to Sudan boy who received prosthetic legs",
       "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
       "description": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
       "source": "BBC Sport",
@@ -352,14 +368,6 @@
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-10T22:52:26+00:00",
       "image": ""
-    },
-    {
-      "title": "Papers: Berrada and Wilcox set to remain at Old Trafford",
-      "link": "https://www.skysports.com/football/news/11095/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk",
-      "description": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-10T22:44:00+00:00",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
     },
     {
       "title": "72+: The EFL Podcast",
@@ -632,14 +640,6 @@
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-10T12:20:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Lure of the Championship - Why foreign coaches are drawn to England's second tier",
-      "link": "https://www.skysports.com/football/news/11095/13610313/foreign-coaches-in-the-championship-why-working-in-englands-second-tier-is-a-target-for-top-managers-from-abroad",
-      "description": "The focus is often on the lack of opportunities for British coaches but look at it another way and it is remarkable that 16 of the clubs in the sixth-richest league in European football – two thirds of them – are currently being coached by ",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-10T12:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-football-vitor-campelos_7402016.jpg?20261109111209"
     }
   ]
 }
