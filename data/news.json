@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-12T23:01:12.372296+00:00",
+  "updatedAt": "2026-11-12T23:58:20.656323+00:00",
   "articles": [
+    {
+      "title": "Football Daily",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pmqwrn?at_medium=RSS&at_campaign=rss",
+      "description": "Harry Kane becomes the most-capped England men's player in history.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-12T23:37:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
+    },
+    {
+      "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
+      "description": "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-12T23:09:07+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b18/live/725b0530-dee9-11f1-8111-290450ddba8c.jpg"
+    },
+    {
+      "title": "Pochettino agrees two-and-a-half-year deal to become Man Utd boss",
+      "link": "https://www.skysports.com/football/news/11095/13611745/mauricio-pochettino-manchester-united-agree-two-and-a-half-year-deal-with-usa-manager-to-replace-michael-carrick",
+      "description": "Manchester United and Mauricio Pochettino have agreed a deal for him to become the club's next head coach.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-12T23:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403710.jpg?20261111102937"
+    },
     {
       "title": "Van Bommel voorspelt grote transfer voor Nathan Ngoy na zege van België - VoetbalFocus",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rTkJ0LXRQdlNTNFNmXzVYbjhpWWNjbUg3LVZ5MDVNTTBST3U0WHVVODI0Q2FsdENMY2ZXTWxVcmFESk1IWngyaTA4WkpEX1hpaUZvejU5QVQ1WWQ0azNfeExJdzdWam9OX0htM3B2eEZXYW4zR3JtVg?oc=5",
@@ -82,7 +106,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f120/live/31d11dd0-ded3-11f1-b441-2b33b063138f.png"
     },
     {
-      "title": "Papers: Bruno rejects second Man Utd contract offer",
+      "title": "Papers: Manchester clubs to battle it out for Gusto",
       "link": "https://www.skysports.com/football/news/11095/13611732/bruno-fernandes-rejects-second-manchester-united-contract-offer-paper-talk",
       "description": "The top stories and transfer rumours from Friday's newspapers...",
       "source": "Sky Sports",
@@ -178,20 +202,20 @@
       "image": ""
     },
     {
+      "title": "FC Groningen in de plus dankzij transfer Luciano Valente - DVHN",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTQxcnhoSGJFWjdmZzBzVGp2cDJ0dkowMkxLRlk2M2FFMjdVWHM0d0ZISG5MQWNFdlNDLXJEb2t1QXQ3N09HYXR6anFGbmd1UFBZdV9Wa1VvOFJQMDdjQ29Ca0lxMU5QcFpNdi16YWhITmQ1c2dpcTUtbnJRSlVVZ25ycWlHNmxnbVBVWWZqQW1LSUM1VHdVb2JYbUlvNmpIYTJvSEFBdk1WaVY0M0tr?oc=5",
+      "description": "FC Groningen in de plus dankzij transfer Luciano Valente DVHN",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-12T18:20:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Goodwillie prosecutors 'wrong' not to put footballer on trial for rape, court hears",
       "link": "https://www.bbc.co.uk/news/articles/c6z9dppxxyxpo?at_medium=RSS&at_campaign=rss",
       "description": "Denise Clair has brought a case for a private criminal prosecution against the footballer, who was ruled to have raped her by a civil court.",
       "source": "BBC Sport",
       "pubDate": "2026-11-12T17:31:02+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/624c/live/20082b60-deb1-11f1-8fb5-a771a656a227.jpg"
-    },
-    {
-      "title": "FC Groningen in de plus dankzij transfer Luciano Valente - DVHN",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTQxcnhoSGJFWjdmZzBzVGp2cDJ0dkowMkxLRlk2M2FFMjdVWHM0d0ZISG5MQWNFdlNDLXJEb2t1QXQ3N09HYXR6anFGbmd1UFBZdV9Wa1VvOFJQMDdjQ29Ca0lxMU5QcFpNdi16YWhITmQ1c2dpcTUtbnJRSlVVZ25ycWlHNmxnbVBVWWZqQW1LSUM1VHdVb2JYbUlvNmpIYTJvSEFBdk1WaVY0M0tr?oc=5",
-      "description": "FC Groningen in de plus dankzij transfer Luciano Valente DVHN",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-12T17:25:09+00:00",
-      "image": ""
     },
     {
       "title": "Crystal Palace sack boss Sage after 16 games",
@@ -224,14 +248,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-12T16:41:49+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3166/live/efcf2c80-dea8-11f1-98eb-79ee6ea9ba56.jpg"
-    },
-    {
-      "title": "Football Daily",
-      "link": "https://www.bbc.co.uk/sounds/play/m0034dz1?at_medium=RSS&at_campaign=rss",
-      "description": "Simon Stone, Jay Motty & Tom Allnutt join Rick & Lloyd for reaction to Carrick’s sacking.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-12T16:31:00+00:00",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pldj09.jpg"
     },
     {
       "title": "Wilson and Miller score as Scotland U21s thump Ukraine",
@@ -370,6 +386,14 @@
       "image": ""
     },
     {
+      "title": "De ‘vloek’ van Matthijs de Ligt gaat door: verdediger (27) krijgt voor de twaalfde keer een nieuwe trainer - Eindhovens Dagblad",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMHRvQWtEY0FlSHU1WC0tYjJ0UFZDLTBDSHdTTXhjU0M3dGFEMHlLbUJpcDJwZnltOTJNWGVFRkd5VEk2TWJMd3lWNFB1bTFYeXNKdGpGb1VIak84MHdvdHkyQ0h3WmRKZmdIdDZyakdzVlFESFhtbmM3OWpnWG5mY2VIMU5ydWotck1Na2EtX25xaFNpbjVNZG9JQnlfM2FvVnVsdE5xRElQQjh6X0lvSEZzUkgwTlBDbldlaFJ5bUhjZ3lkNU53a2hLQW1fcndYZHNj?oc=5",
+      "description": "De ‘vloek’ van Matthijs de Ligt gaat door: verdediger (27) krijgt voor de twaalfde keer een nieuwe trainer Eindhovens Dagblad",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-12T13:14:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Police investigation into Vigar's death ongoing",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckm2mn2lvld9o?at_medium=RSS&at_campaign=rss",
       "description": "The police investigation into Billy Vigar's death from a \"significant brain injury\" is unlikely to conclude for at least another two months.",
@@ -411,9 +435,9 @@
     },
     {
       "title": "Crystal Palace sack Sage",
-      "link": "https://www.skysports.com/football/news/11095/13606476/pierre-sage-crystal-palace-sack-manager-with-club-bottom-of-premier-league-table-after-10-matches",
+      "link": "https://www.skysports.com/football/news/11661/13606476/pierre-sage-crystal-palace-sack-manager-with-club-bottom-of-premier-league-table-after-10-matches",
       "description": "Crystal Palace have sacked manager Pierre Sage after just 16 matches.",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-12T12:30:00+00:00",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-bruno-sage-crystal-palace_7401199.jpg?20261108165455"
     },
@@ -431,22 +455,6 @@
       "description": "60 tot 70 miljoen voor transfer Tresoldi VoetbalBelgie",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-12T12:01:02+00:00",
-      "image": ""
-    },
-    {
-      "title": "Sage set for instant return to management?",
-      "link": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-12T12:00:00+00:00",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-sage-palace_7264413.jpg?20260603120854"
-    },
-    {
-      "title": "KRC Genk verwacht meer ’tough love’ - VoetbalBelgie",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nV2Z5TC1ESUVGRE9EUEp0Yk9SclVIbmdCVGZ1SG9qOENkcGE4UDdoemRITEs2NmxFRF9kYXdzSXFGWHhlX1R4eWFjbnlKNE5Mcno3LTNLeDRhRXhnSzNaa3doWkQ1V1dZNUtmd0hidFlsTzhCV1VqMllB?oc=5",
-      "description": "KRC Genk verwacht meer ’tough love’ VoetbalBelgie",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-12T11:43:51+00:00",
       "image": ""
     },
     {
@@ -475,9 +483,9 @@
     },
     {
       "title": "Transfer Centre LIVE! 'The four players Carrick wanted Man Utd to sign'",
-      "link": "https://www.skysports.com/football/live-blog/11661/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "link": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
       "description": "",
-      "source": "Sky Premier League",
+      "source": "Sky Sports",
       "pubDate": "2026-11-12T11:19:00+00:00",
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-carrick-michael-manchester_7388215.jpg?20261026193602"
     },
@@ -507,9 +515,9 @@
     },
     {
       "title": "Carrick sacked as Man Utd reach full agreement with Pochettino",
-      "link": "https://www.skysports.com/football/news/11095/13606106/man-utd-sack-michael-carrick-with-mauricio-pochettino-set-to-be-appointed-after-worst-start-to-premier-league-season",
+      "link": "https://www.skysports.com/football/news/11661/13606106/man-utd-sack-michael-carrick-with-mauricio-pochettino-set-to-be-appointed-after-worst-start-to-premier-league-season",
       "description": "Michael Carrick has been sacked as Manchester United head coach with Mauricio Pochettino lined up to replace him.",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-12T10:27:00+00:00",
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-carrick-manchester-united_7354663.jpg?20260917143449"
     },
@@ -538,20 +546,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e373/live/dbd80f70-de86-11f1-b88b-3f1671ea859d.jpg"
     },
     {
-      "title": "Kane makes history with record 126th England cap",
-      "link": "https://www.skysports.com/football/news/11095/13611419/harry-kane-england-captain-breaks-three-lions-appearance-record-by-winning-126th-senior-cap-vs-croatia-at-wembley",
-      "description": "Harry Kane has broken the record for the most senior England caps by a single player in history.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-12T10:16:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-football-england_7403635.jpg?20261111083100"
-    },
-    {
       "title": "'Overwhelming' - Record-breaker Kane celebrates 'amazing' Wembley night",
       "link": "https://www.skysports.com/football/news/11095/13611731/harry-kane-england-captain-reflects-on-overwhelming-wembley-reception-after-ballon-dor-win-and-record-breaking-appearance-against-croatia",
       "description": "Harry Kane says the reaction to his Ballon d'Or win and record appearance for England has been \"overwhelming\".",
       "source": "Sky Sports",
       "pubDate": "2026-11-12T10:16:00+00:00",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-football-harry-kane_7405425.jpg?20261112212020"
+    },
+    {
+      "title": "Kane makes history with record 126th England cap",
+      "link": "https://www.skysports.com/football/news/11095/13611419/harry-kane-england-captain-breaks-three-lions-appearance-record-by-winning-126th-senior-cap-vs-croatia-at-wembley",
+      "description": "Harry Kane has broken the record for the most senior England caps by a single player in history.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-12T10:16:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-football-england_7403635.jpg?20261111083100"
     },
     {
       "title": "Retaining titles is tough but Arteta's Arsenal are built differently",
@@ -632,14 +640,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-12T07:44:21+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79aa/live/f81c7430-de6a-11f1-9115-cfe6d179af3a.jpg"
-    },
-    {
-      "title": "Trainer én speler bij Excelsior Essen, Karim Didi: ‘Het lagere amateurvoetbal leeft in België veel meer’ - VoetbalBrabant.nl",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNEZsRVl3eHM2U3NhTkl0YUxwOWJFcjZrSkVHUVR0Mmk0TXByaF9BUUE4T3oycFJ1NzR0cUJRTHBmZHpPM21tUFZtY1hKd1pLTy1MMWFiRW9IUW9YLTdmRGZ0dUpmQlNXbkZWdE92QlpnR1FadFotNWNJemlLYUNyWWtkQktzWTJ0WklPeFpnVXJ3WTI0LVdJVklvWVF6bnlnYk55ZGJKaDVDeWV3M3k4TWhacnZwWEI1SjlxQVl6U25oYXJYcWdmWVNJUkF6enJXRG5Ba3pn?oc=5",
-      "description": "Trainer én speler bij Excelsior Essen, Karim Didi: ‘Het lagere amateurvoetbal leeft in België veel meer’ VoetbalBrabant.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-12T07:31:07+00:00",
-      "image": ""
     }
   ]
 }
