@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-11-14T07:26:04.456703+00:00",
+  "updatedAt": "2026-11-14T09:05:45.162880+00:00",
   "articles": [
+    {
+      "title": "Who would make your England-Spain combined XI?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo?at_medium=RSS&at_campaign=rss",
+      "description": "How many England players do you think would make the Spain team?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-14T08:57:49+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/dbd5b700-db7c-11f1-a701-fddedf244c16.png"
+    },
+    {
+      "title": "Clough's longevity: landmark achievement or indictment on football?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqr7grl145zpo?at_medium=RSS&at_campaign=rss",
+      "description": "Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-14T08:35:00+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d44/live/17211cb0-de97-11f1-9afe-1f03bfe02283.jpg"
+    },
+    {
+      "title": "Titz and Clarke on Aberdeen shortlist - gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmgre0jlw24yo?at_medium=RSS&at_campaign=rss",
+      "description": "Steve Clarke and Christian Titz are reportedly on Aberdeen's shortlist to replace Stephen Robinson as manager.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-14T08:28:16+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c15/live/ea54c0f0-e004-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "title": "De gevolgen bij PSV bij transfer van Kevin De Bruyne - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOGFCa3M4QWN6NERxQ1FuMm9NY0RRRTFXNHNjMGd2OVlVRkdEZU9jQ0gwbDlxMTR0V25zeV9OZHFvTk9fOHl3d0NJeWJ4bHYzdm80ZmNpOThiVkNwTUpyMUJXYWdkTjR1TEpPVHVsbEVEOHVWWDVxYmU0b3NKUlpINUpuT0RESUxabVYtTFRuNnRROXZIRjJCelc3LTladGVuNXFJRS1Uck1BMVFCdnJfd2dGSjRCRmVUNXl3dXRuNGxTa3RRU0swaGpEQmtCT1ZyQmdlbW9wSQ?oc=5",
+      "description": "De gevolgen bij PSV bij transfer van Kevin De Bruyne FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-14T08:01:41+00:00",
+      "image": ""
+    },
+    {
+      "title": "Six goals to go - will McGinn catch Dalglish & Law?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
+      "description": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-14T07:49:46+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da36/live/75be3ea0-e000-11f1-a3e2-bfb07c67d49c.jpg"
+    },
+    {
+      "title": "Verrassende wending in transfersoap rond De Bruyne - Voetbal24.be",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYVQzb1VEU29kdkd0N0RoV19tZW9JRGhRQmNBaWRiN3hkWDhHT090TWctZnhTdlVOeXA1Z2I0MFdFWkI2N2NFcGpEWDdheWhoVHI3WlpXYm4xSnlJTXVQNm5pZ1EwNkdaU04xQTMyQ2VuWlFodUd4RkF5dWhHTjhtNW9mc2ZLT2ZW?oc=5",
+      "description": "Verrassende wending in transfersoap rond De Bruyne Voetbal24.be",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-14T07:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Goalkeeper Owono given 12-match ban after De Miguel's death from collision",
+      "link": "https://www.skysports.com/football/news/11095/13612118/goalkeeper-jesus-owono-given-12-match-ban-after-tenerife-forward-jesus-de-miguels-death-following-collision",
+      "description": "FC Andorra goalkeeper Jesus Owono has been suspended for 12 matches for his challenge of \"excessive force\" which resulted in the death of Tenerife forward Jesus de Miguel.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-14T07:22:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-jesus-owono-andorra_7397054.jpg?20261104170145"
+    },
+    {
+      "title": "NEC heeft met Dusan Tadic 'beste aanvallende middenvelder' in huis - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTGtsSHVwc0RjWWVrVF9hSllhN0c0SElGLWk5Z1doQzFBUEN4V21YYlB5TjdnTzRmNGxjRzAtbnpFYl9zYVdBTDAyV0FGTE9JdFlEMENnY185bE9Hd0g5MnZ1UnZ0WDJkdmdsc0lfNzd1ckU4cDRQak5hTnQ3T3FKWmlWMEg5d3hGV0Q3ejNPbGtNRUw4SjJtd2JvZ3M0UE42bm12Q180S09sWnI1aUoyeThPWVhqZFdBRlNlbl9iaXJSQnR1YmVUb2l2cnB4UHp2SmZLdg?oc=5",
+      "description": "NEC heeft met Dusan Tadic 'beste aanvallende middenvelder' in huis FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-14T07:05:04+00:00",
+      "image": ""
+    },
     {
       "title": "What does a Pochettino team look like?",
       "link": "https://www.skysports.com/football/news/11095/13611443/mauricio-pochettino-to-man-utd-what-does-a-pochettino-team-look-like-and-how-will-he-set-up-struggling-red-devils",
@@ -576,70 +640,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-13T08:13:19+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
-    },
-    {
-      "title": "'Winterse transferplannen van Chelsea krijgen enorme tegenvaller' - VoetbalPrimeur.be",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWFsRl9rUUR6RVRleEpZSVVrNzFaX2JVUDRuTFUtR2RKWU9EXzNCMDNxQ1IxbXc4ODV5RXN1SFVBcmxhVi1MbkRxMVRwSEJZNFZPVkZiM3lvOUdUUXp6SThVYVdpTVpmR0M3dWpMc3NZNmFhOElJZDFiZnN2S083ZWR2U3JUOTUydkEwcDVWc3QxSjVrbTdrVlBwSjZTRFNiOU03QnFpSldiNmp4ckFnbzhn?oc=5",
-      "description": "'Winterse transferplannen van Chelsea krijgen enorme tegenvaller' VoetbalPrimeur.be",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-13T08:10:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Kozakken Boys komt met ‘geweldig nieuws’ over trainer Dennis de Nooijer - pzc.nl",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekd1SnZReDM3Nnd2WEd6U1VIS1M3czZWdXRPQlYtLTh4cXpIelAzNjVmeTgtZmJVbHB0blFnWG40NGx6VnVBdnBkQUdtcEVjZjc0aFZOQ3BwVEhjVWV3TXczc1ZqeDN5dkFnSTZBdDlKQ0NfTzRSNy01UnlfSlZ0S0N6aEJvczY5bkdVVjZyLVpiV3pmM3o2d3cyTTk2bFpua1ZQbVdNODJXdWpOZGZQbzRjdw?oc=5",
-      "description": "Kozakken Boys komt met ‘geweldig nieuws’ over trainer Dennis de Nooijer pzc.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-13T08:07:33+00:00",
-      "image": ""
-    },
-    {
-      "title": "How do you stop Haaland? Wales show how it's done",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo?at_medium=RSS&at_campaign=rss",
-      "description": "Erling Haaland can seem unstoppable - but Wales managed it a month ago. In Norway on Saturday, they hope the plan will work again.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-13T08:05:12+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcae/live/7234f470-dd19-11f1-b4f2-5145cca625ab.jpg"
-    },
-    {
-      "title": "Hayen on shortlist for Aberdeen job - gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmglrknl3j5no?at_medium=RSS&at_campaign=rss",
-      "description": "New name in frame for Aberdeen job as Scotland head coach Sebastien Pocognoli attempts to increase player pool.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-13T07:48:33+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58b6/live/e11327b0-df51-11f1-a701-fddedf244c16.png"
-    },
-    {
-      "title": "De uitblinkers van koploper Quick Boys die op iedere scoutingslijst moeten staan - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNazQtUTZYUTFKWEhkWnV0dDQzRm1TU1lURDhEUFBManljTjQtRW8zSExQMC1aaWc1dVpOTC1TdURQTG11NjRNSnlzbG43cnFmamE0dUIwU0FrXzAwSWRreHNQclowa3JzSGxndVVCVk5IeXJadlFEbldQVVhGVjNuRm54Q0ZIN1ppWHQyTDUzWnRnSTZacS1jNEVBSnJVSkNfZFItM3Z2bkI4cjlHdVQ1cm1mVmtKMmdzUElRUXNCUVA2RmxLWnIzV1VZMkxGcFRKcURDdGI5aHhhalJWZTlyWlY1eXgtWjFEMTcyVk1xcXlDUQ?oc=5",
-      "description": "De uitblinkers van koploper Quick Boys die op iedere scoutingslijst moeten staan FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-13T07:34:30+00:00",
-      "image": ""
-    },
-    {
-      "title": "Liverpool and Van Dijk have a decision to make",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss",
-      "description": "Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-13T06:57:25+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f4/live/e4ed5c50-ddeb-11f1-9204-cdcddf7d901c.jpg"
-    },
-    {
-      "title": "Machtsstrijd bij Manchester United krijgt bizar hoofdstuk na vertrek Carrick - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONHd0a1pSTU1BQlIzckExOW1DeTc1MEdBRThyNkUyNHY1N2JqbnAtbDI0MTVWcDA4WjlTVm10dkF3TUF2eDZEV0NMSDBCOTlkUG8tM083YV9vbEJ0Q1pHRnJHQjVXclQzcVBlNjA5c3pkd25jaGlnLWlocGhuZ1B0V2p0MlJXeUhaOFdrOElFZlhEMHhweTdzekhVdXJyUDRvczhtVDlsb0lES2lXSVdaNzVXek1naHpMOElhSmtBdER0RmhIR0dNMnhjeUNMdEJCSEJId0dhRG5ySDkzN2xiRWl0aFF3cDRZTlJza0xnaDgwUnBm?oc=5",
-      "description": "Machtsstrijd bij Manchester United krijgt bizar hoofdstuk na vertrek Carrick FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-13T06:17:42+00:00",
-      "image": ""
-    },
-    {
-      "title": "England player ratings: Who impressed and who struggled in Croatia win?",
-      "link": "https://www.skysports.com/watch/video/13611751/england-vs-croatia-england-player-ratings-as-tuchels-reach-the-nations-league-quarters-finals",
-      "description": "David Reed and Pete Smith deliver their England player ratings following the Three Lions’ 2-1 victory over Croatia, as Harry Kane makes history on a record-breaking night and England secure their place in the Nations League quarter-finals.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-12T23:53:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-england-player-ratings_7405514.jpg?20261113000741"
     }
   ]
 }
