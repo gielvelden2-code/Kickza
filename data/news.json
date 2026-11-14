@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-14T14:57:36.972071+00:00",
+  "updatedAt": "2026-11-14T15:55:47.457056+00:00",
   "articles": [
+    {
+      "title": "Chelsea go top with 1-0 win against Man City",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
+      "description": "Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-14T15:50:34+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ee/live/76b3b1a0-e041-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Haaland starts for Norway vs Wales LIVE!",
+      "link": "https://www.skysports.com/football/norway-vs-wales/live/554107",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-14T15:30:00+00:00",
+      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-erling-haaland-norway_7360674.jpg?20260924211141"
+    },
+    {
+      "title": "Former Stoke City manager Thordarson dies aged 71",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go?at_medium=RSS&at_campaign=rss",
+      "description": "Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-14T15:04:59+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34a/live/b33c7ec0-e039-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Manchester United take three points against Crystal Palace",
+      "link": "https://www.skysports.com/watch/video/13612213/manchester-united-2-0-crystal-palace-womens-super-league-highlights",
+      "description": "Highlights of the Women's Super League match between Manchester United and Crystal Palace.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-14T14:43:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-man-united-wsl_7406477.jpg?20261114144904"
+    },
     {
       "title": "Villa and Birmingham ready to renew WSL rivalry",
       "link": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
@@ -26,11 +58,19 @@
       "image": ""
     },
     {
-      "title": "FIFA gooit transfermarkt op de schop: dit gaat er veranderen vanaf januari - VoetbalPrimeur",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXdSMHFUQ0Y0bDlpaXlpdGZiMWktcmowTEtnQmV5ZWVPMTJZWG1pMkdSMWZ5YVdHMVgxWi1GMlh5N3o4TWR1SlRfb1pXQ2EtTl9hd1p2czh1M1RQSjhQaUJhTmktNkU4OVJ4ak0wWnA4Q25KbWNjMUNlN0VZcXNySHBtVnJsV21UcEREZ1F0T19YbG1xUEI2TUVtUzVYaUVq?oc=5",
-      "description": "FIFA gooit transfermarkt op de schop: dit gaat er veranderen vanaf januari VoetbalPrimeur",
+      "title": "Hoe KRC Genk uitgroeide tot de kraamkamer van 's werelds beste keepers - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR3RRdGhwVEZMOUpqVTlYVGR3dnIycUY1bDNOelhobmw5MTlqVVYweC0wdExBTF9WeXRqR2RrUnRlN290ZTVwSkc3MnlVb3VHRmZvQzRtT3VLTEFCVUFsZGIwV1JtQVdMOElPbU9fVUREazJWTmNTdG1TQzJvbEU0RUs3TDd4Wm5pZ0QxSHdDX1hjX183cGhmVEt0S2xsYm50ak01MkdSU0FUOGRDNjZmbThmalk3eVgzMGpqMnRGUFhIRDFmMi1LUnAwWlRyTG1XaEpOYmtDaHNkVEpCWnI1bnIxVnBfYnlQVFE?oc=5",
+      "description": "Hoe KRC Genk uitgroeide tot de kraamkamer van 's werelds beste keepers FootballTransfers.com",
       "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-14T12:16:00+00:00",
+      "pubDate": "2026-11-14T12:53:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "cvs Apeldoorn Onder 19 - De VoetbalTrainer",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zb3kxTFYzOGx6eEZNbU9OTFljS3lOOE1ueFNDZ0hBZ3lmR1pTa2hXdHdqLUZwM0JFYzhtSDM5bFY0QjJPVW5yMndQNFpvTV8zekJvQWNEZTVBY2dFemszRTBTcHFVTmNTSWc?oc=5",
+      "description": "cvs Apeldoorn Onder 19 De VoetbalTrainer",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-14T12:30:00+00:00",
       "image": ""
     },
     {
@@ -58,12 +98,28 @@
       "image": ""
     },
     {
-      "title": "WSL LIVE! Chelsea in front vs Man City as Man Utd beat Palace",
+      "title": "WSL LIVE! Chelsea hang on for big win vs 10-player Man City",
       "link": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/live/575819",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-14T11:15:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-ayaka-yamashita-wsl_7406494.jpg?20261114151752"
+    },
+    {
+      "title": "Chelsea leapfrog Man City to become new WSL leaders",
+      "link": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/report/575819",
+      "description": "Chelsea leapfrogged champions Manchester City at the top of the Women's Super League table with a 1-0 victory at Stamford Bridge thanks to Sandy Baltimore's bullet first-half strike.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-14T10:54:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7406453.jpg?20261114142505"
+    },
+    {
+      "title": "Le Tissier hits stunner to mark milestone in Man Utd win",
+      "link": "https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/report/575822",
+      "description": "Maya Le Tissier marked her 150th club appearance with a stunning strike as Manchester United moved fourth in the WSL with a dominant 2-0 win over Crystal Palace.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-14T10:54:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7406398.jpg?20261114131527"
     },
     {
       "title": "Napoli zet Sam Beukema op de markt: kassa rinkelt bij AZ en Go Ahead Eagles - FootballTransfers.com",
@@ -258,6 +314,14 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8125/live/1aaff900-dfb9-11f1-b154-657b8bcda5ea.jpg"
     },
     {
+      "title": "Witte rook: trainer Maurice Steijn (52) keert terug bij ADO Den Haag - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeE40dWRKT05IR1JwUGhyTC1jTWhac0djZERnb0tGU3BBWEVCS01XaHdRaWE3d242MG0zaDVkMWNtZHVNOTdPVUZUVDdmTUtZaHVoNTV2VnlCUlMwdTlMSmd1SEI5Y0x0OUVFYVZnZ0plSm1xcTd3aHF5RUpocjBsdFRwcGxER1lvak9YeUcxdTVQbnQ1andrZVlCY3U1Mk44SENGYTFzNldNUmF6WmkzMzAzZjFBOWxqRlhv?oc=5",
+      "description": "Witte rook: trainer Maurice Steijn (52) keert terug bij ADO Den Haag De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-13T22:51:01+00:00",
+      "image": ""
+    },
+    {
       "title": "Papers: Man Utd eyeing move for Como star Paz",
       "link": "https://www.skysports.com/football/news/11095/13611965/man-utd-transfer-news-como-star-nico-paz-emerges-as-target-ahead-of-summer-transfer-window-paper-talk",
       "description": "The top stories and transfer rumours from Saturday's newspapers...",
@@ -362,6 +426,14 @@
       "image": ""
     },
     {
+      "title": "Verdeeldheid in kring van Steijn over ADO-terugkeer: 'Wat haal je je op de hals?' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNVFtSHlodTZPRWQ2WDQyajRVR3hHSnVzejgyai1FcjVaVVRwaXVtTUIydjdhUjRXeUkwUlNDZEx5X0k3R3FKN0t5WDJjbE1yVWZYbWhDMWFQZ09hTFhacXcwVVNhS19HZ1hSUVVTYjY2Y25MUjIxOVhZa3Z3VV9DZjFHNXdUbXp2NjVsUjhZbHAwR2tDQThMU0xCa3BZV0RQYVFFOGZBQXM0emhpMHR4dWY1TFc?oc=5",
+      "description": "Verdeeldheid in kring van Steijn over ADO-terugkeer: 'Wat haal je je op de hals?' VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-13T18:21:56+00:00",
+      "image": ""
+    },
+    {
       "title": "Some EFL clubs beggar belief - Walsall's Pomlett",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6ly7vnnyjxdo?at_medium=RSS&at_campaign=rss",
       "description": "Walsall co-chairman Leigh Pomlett sends out a powerful response to the independent State of the Game report.",
@@ -450,12 +522,28 @@
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-pochettino-man-utd_7405890.jpg?20261113150042"
     },
     {
+      "title": "Eindhovense trainer vertrekt bij IJsselmeervogels, Jeroen Rijsdijk in beeld als opvolger - Eindhovens Dagblad",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnV6OXJtQy1FYksxbjItdF96ZFRBZkRQeHdMTEtBSmRiSnVLb2d3VnVXT3JyTUtoWk04NVJvUGNQcE02RDRwR3RIVk1DeWNKNkk2NXhPdTN1YmxONlNOS1I3OEd4ZDJoN09FVzlPSmVHMkxSeUhJWm52bk1QNWU5X2FqckNnRXl3dHZySnlMS1U3cDdCTnc4bVNfWjhHVTF0Q0FNNHN4d2xsNkthMmZ5NDJjNFRTTWJxcGtSSXdfRlFnZFdhU2ZIajFB?oc=5",
+      "description": "Eindhovense trainer vertrekt bij IJsselmeervogels, Jeroen Rijsdijk in beeld als opvolger Eindhovens Dagblad",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-13T14:34:49+00:00",
+      "image": ""
+    },
+    {
       "title": "Palace latest: Eagles hold further Frank talks",
-      "link": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "link": "https://www.skysports.com/football/live-blog/11661/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "description": "",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-13T14:25:00+00:00",
       "image": "https://e1.365dm.com/26/10/1920x1080/skysports-crystal-palace-transfer_7386995.jpg?20261025174919"
+    },
+    {
+      "title": "ADO bevestigt terugkeer Steijn als trainer en legt hem vast tot medio 2028 - NU",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3FkaHZMa0R0NjNGSWdBelo3d294eFZJWXhqNHNpTUpzS3BKb3p0TWxOclBMMDRIenNQMXVVaGFmNWtOZzdLMURDeWtwWEJ0dnNna1RWRmhSeEVwcGxINVRIVEpMM1ZFekxudmJxUW5xQjVZbmRDcnBKU1VKd05MWDBXcjFrb18wV0hibFptNkk3VnJBbUFRcHVVV0E2RU84Y05QdEE2SEJUckRmSV9hLVRHYw?oc=5",
+      "description": "ADO bevestigt terugkeer Steijn als trainer en legt hem vast tot medio 2028 NU",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-13T14:19:04+00:00",
+      "image": ""
     },
     {
       "title": "Witte rook: trainer Maurice Steijn keert terug bij ADO Den Haag - De Telegraaf",
@@ -482,20 +570,20 @@
       "image": ""
     },
     {
+      "title": "Kogel door de kerk: Mauricio Pochettino volgt Michael Carrick op als nieuwe trainer Manchester United - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUkJfUFV1b05ZU05RcXlrNmJIeVI2blNWdkFRUUNIaWNxOXpROWVkOXNuczlLN25MeXhVZXdoOGVIVWNSVmNrZ0FoaEpZRUxmVDl4OGNhZ1gxN0JNMnc1RnVBTFVPMEh5RjJ0YkVIU1dCNVdfaWlMRFotRXJTUFdBMjNTRGhOYXJIMFFFd2hkaXNIbkZxQXh6bFYyOHRRRVp5VDBIQnlkSkVMZV9wUTVPWXhEeHN6OEdadWJPdFNMOF9YT3NoTVdFMXdBSWZ4c0o5TUVoZmVsalA2WUxCVnEyWk5PRmVsY3lxM3c?oc=5",
+      "description": "Kogel door de kerk: Mauricio Pochettino volgt Michael Carrick op als nieuwe trainer Manchester United De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-13T13:06:53+00:00",
+      "image": ""
+    },
+    {
       "title": "Joël Piroe miljoenen minder waard na misgelopen Ajax-transfer - FootballTransfers.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYzlhbk5TWVVFZG9jQ1ptR21CV2lEUFBpdjZSbGwxaElvUGNXbjZMWGxERFhqeFM3MzFVZnlBY3JqRXlIX1Y5RlM3YjN1YmxGZVY1ZG1SbUtkZmU3RE1pX2dkYk5OR1dPUGR0T09HREdiM0JmLXpWaE53bFJ6Y0xSM3YxYUlDU1dYV0ZRdXVMeGxYd01DMHVXNGJXaHAtYnZBb215N2NmaEhfN2NTblg2OWkzeW12Tm5YSjVWZ191ZEVmSld0ajg4LXdNX212ZnJT?oc=5",
       "description": "Joël Piroe miljoenen minder waard na misgelopen Ajax-transfer FootballTransfers.com",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-13T12:50:18+00:00",
       "image": ""
-    },
-    {
-      "title": "Odegaard backing Norway to avenge Wales defeat",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmq8lx38zwn4o?at_medium=RSS&at_campaign=rss",
-      "description": "Martin Odegaard backs Norway to brush off snow disruption and avenge their defeat by Wales when they meet again in Oslo on Saturday.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-13T12:43:51+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f735/live/7bd2f050-df52-11f1-a9b1-e15cbae383e5.jpg"
     },
     {
       "title": "Pochettino volgt Carrick op als trainer van Manchester United - ZeelandNet, startpagina van Zeeland",
@@ -552,94 +640,6 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-13T12:00:00+00:00",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
-    },
-    {
-      "title": "Man Utd appoint Pochettino as head coach",
-      "link": "https://www.skysports.com/football/news/11095/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford",
-      "description": "Mauricio Pochettino has been appointed as the new Manchester United head coach, following the sacking of Michael Carrick.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-13T12:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-pochettino-mauricio_7405773.png?20261113122444"
-    },
-    {
-      "title": "Kristof Arys over nul op vijftien van Knokke: “Panikeren en trainer ontslaan is nu het makkelijkste: dat doen we niet, maar het moet snel omslaan” - HLN",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNNzZaZUxiaVJDR0tHMkRWRHNBcklJa1d4dmpWN0liRTF4LUt1U3pmTGxMc0FZVXhHYzYxcHJRNi1nOGFBdlNkcE4wNUdwR2dIVS13TmsxNV9CaVpaXzFpWnctNWxLdlVvQXZhR09lTk10dTlYMVhlMEJSX2RxNnhQYlV3VWNKZVFHcGdKc0ZxQ2pRclB5RHU4ZW9vZE1KUFJyVW9Ob2dLU3FGcGswU2tURFczWHRlcFJONjdtd3FRWDRGV1VQcnltUjR1ME9IRURxbjJ3LWViQjhjbHE4ajRrRkh0Qktmd0NqWTJ2VE1nYXU4UW91cWFuMzR3UVdLNDBKVzdLUy1qRjFfdnRxdExDeWxCUjRJTzg?oc=5",
-      "description": "Kristof Arys over nul op vijftien van Knokke: “Panikeren en trainer ontslaan is nu het makkelijkste: dat doen we niet, maar het moet snel omslaan” HLN",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-13T11:50:56+00:00",
-      "image": ""
-    },
-    {
-      "title": "Transfer Centre LIVE! Pochettino 'will be backed considerably' in January",
-      "link": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-13T11:20:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7405764.jpg?20261113121614"
-    },
-    {
-      "title": "BBC to show Dover v Leicester and Salisbury v Blackpool",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c64gndwd2l0xo?at_medium=RSS&at_campaign=rss",
-      "description": "Non-league clubs Dover Athletic and Salisbury will stage the BBC's two chosen FA Cup second-round ties next month.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-13T10:49:07+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9a/live/02556c50-df4b-11f1-a48c-75dd2efdacb5.jpg"
-    },
-    {
-      "title": "Mark van Bommel ziet PSV-transfer zitten: \"Wat dat betreft past het\" - PSVFans",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmx5cWxzQl9HVzAwZEZNOTBFdjl5YmxxQ1NrRWpuZHhUNlp3U01zV3ZIZG9CeWZmYnNNMmNtczF3WWZ3bkUwQndpZlpid09tUzI1VkZkQ3JxOXM0dllWcC1WNVFMYlVpTTYtcXBVbXdjQUkzRGV3Y09scE9xYjhEVHg0M0g3VUZpWU4yWDF6T0VtOTg?oc=5",
-      "description": "Mark van Bommel ziet PSV-transfer zitten: \"Wat dat betreft past het\" PSVFans",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-13T10:33:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "FC Groningen boekt recordomzet en positief nettoresultaat dankzij transfers - Head Topics",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVm1GeV9BN2JJV1p5VUNOdXp3T2UtcURtU1BYM2IzUGZPbDY3NUJJZFFhTDkzLXBCd29MVzBsb2pfSTluT0drQlFieTdENS1haW9rSzhHZktNdmE0MjVUWTBVdzVmM0tqQkcxSUZkMmUtVzBCbXE1bE1XeFBsTEJMbktLM214dEpadHRxa2pxTjNoaXpXVl9UcXliRmRPQQ?oc=5",
-      "description": "FC Groningen boekt recordomzet en positief nettoresultaat dankzij transfers Head Topics",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-13T10:21:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Groningen publiceert jaarcijfers: Feyenoord-transfer Valente speelt cruciale rol - Headliner.nl",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkN6cUZrMU1jUDNLZWhTUERFU19HOWtMWmhEZTRVdzJsNlpxU3pZMEhoV1QxV0lCZDJVWEtOajYtOXBrNGJVaGVUWm5BRl9ZcnV0enBqdjRWZnR4NHBiWVN6eUd2R0E0M2sydUd2WmlncUZlUThJVFBjX3dFMnBzQTNaZ0dMUXZGeEpCdnNCVFRmbDlWbnZoY2ZoVDJGbFJrd3NGNV9NV2hSYjdzc3NzVy1jcEpsUE1jS3F6MGJadVhwNVRjc2FsYzJLemZPLXp5?oc=5",
-      "description": "Groningen publiceert jaarcijfers: Feyenoord-transfer Valente speelt cruciale rol Headliner.nl",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-13T10:17:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "FC Famalicão: de transformatie van tweede divisie naar Europese ambities - Headliner.nl",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWURfeEttc29VMU44SmJCM2wzcWpRc1hpaVY4bVNkUjY5SVI3WnV0NGVkT3NUSldBNTgxd250dENWS0ItMFlFQjR3UEVhdGs0U0F2REhlMXRLVG9WazhfbDhZc285SmFrMnJsblF5ZEVhLWtfcHhiZVZMWVJfQ3g3Y1ZQSTI3Qk5OVzBtdmU1LVR1VlRtRU81QjM5N2R0QkFBX0VZ?oc=5",
-      "description": "FC Famalicão: de transformatie van tweede divisie naar Europese ambities Headliner.nl",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-13T10:15:54+00:00",
-      "image": ""
-    },
-    {
-      "title": "Groningen publiceert jaarcijfers: Feyenoord-transfer Valente speelt cruciale rol - VoetbalPrimeur",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzExNzVfT3dRTWloZE16Z2p0MDRyVHhQVFFEc1B6ekl4Z1FFUGotLXdMd0p5VDc1dWlBeU44MVlqTjNGVkJ6b2VMRmNHczdqVE9INjJwRjUtcWlXZWtSLVdiTXV2RkRTNV8wNTV5RDV6UHVoem1PdC1Sa3QyRUZ4Z0QxX0ZmQ1V2ZW1QbjdNM0VjUEx5clBYYnNsNVZsekZPOUJCTTFCZTVHV3c?oc=5",
-      "description": "Groningen publiceert jaarcijfers: Feyenoord-transfer Valente speelt cruciale rol VoetbalPrimeur",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-13T10:04:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "The club preparing to play again after the death of a player",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss",
-      "description": "Non-league Hendon are preparing to return to action for the first time since midfielder Ezekiel Williams died earlier this month.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-13T10:00:46+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f0/live/e7015f10-de76-11f1-9115-cfe6d179af3a.png"
-    },
-    {
-      "title": "Fernandes rejects second Man Utd contract offer",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-13T09:55:01+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg"
     }
   ]
 }
