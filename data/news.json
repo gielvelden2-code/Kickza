@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-14T16:56:46.468940+00:00",
+  "updatedAt": "2026-11-14T17:51:39.846892+00:00",
   "articles": [
+    {
+      "title": "Listen: Sportsound's Fan Zone",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+      "description": "Reaction to Saturday's Scottish football as the fans get their say.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-14T19:00:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgfrw8.jpg"
+    },
+    {
+      "title": "OFFICIEEL: Derde keer, goede keer? Nieuwe trainer bij Lens voor Hazard en co - VoetbalPrimeur.be",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM25oT0JfQlhTY1F6dWpjcE84VFkwNFBhLUJkaV92VkdpREZRMHlMMmFDWmNWWk9yZ0hTVTdXVHNWU3JaVjZIMzFpaEQxd243eHVzVTBrcDZ2UGluVVZqaC1nR0p5ci1LZGRhTnFjSVFneTlkRnoyNDZhTHB5cWVQWE5nMGNFbE1tLUlIclYxdTVfUi1wSHFKT0Fzb1NfWjFvNUE?oc=5",
+      "description": "OFFICIEEL: Derde keer, goede keer? Nieuwe trainer bij Lens voor Hazard en co VoetbalPrimeur.be",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-14T17:43:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "England latest: Spence, Konsa back in training, Tuchel speaking at 7pm",
+      "link": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-14T17:00:00+00:00",
+      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
+    },
     {
       "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
@@ -42,6 +66,14 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ee/live/76b3b1a0-e041-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+      "title": "Ajax heeft miljoenen over voor Tetê: de gevolgen van een transfer - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWVUwMmE5LW1ZeVJNcTBjemx2U1piX2hRaGs2czZ3VE05emkyVEVMVjdTaTAybS1adVlSU1pkOFVpNWQ3YjFSQlUzOXJGVFpacl94eEdsVTlHeDNMRG9KSnZjV3dJUlhmLXcxTGZGVVVOU1ZVMEJiRTY3WE85RTRvbzNzV2h1b1dZQkRyb1VtTmI1SnNkYzd6VWNHYms4NFRKaXdJRFRkSGRXSDc1SXBrQ2MzbUl4WWpoZkNrajF1cmRwREZjSFBrejRRYUFwOUJpUzdXTQ?oc=5",
+      "description": "Ajax heeft miljoenen over voor Tetê: de gevolgen van een transfer FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-14T15:32:21+00:00",
+      "image": ""
+    },
+    {
       "title": "DFS Opheusden verzuimt periodetitel te pakken • Tricht-trainer heeft Jägermeister nodig voor verwerking - De Gelderlander",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONTFjUUdhdElOUTNEaXV5d1p3X2JaNEMxNEVMNmNLbldhdzMzcUk5a3N0cGdFOEpNb291eWxGYjFkRGY1ejlaejBfN0MyalljWENQWFhFMjR3UEhrMGxDVFYzVkpJVWUwSU9GbTVhVGFLd3cyZDVXUUdqN0V0VUZSb19qRXV3M3pYX3N3dENtaXN3ZEw2bS13Q1J3NnlVVzZlb0RqdDJSM3VfOXJqMUJiZnNOR3JES195WHJvRVZPbExISDI3VXR3TUZCaGpua25PWjVZZ05FUF82d0tUQTRWRF80ODJRQWgxcEE?oc=5",
       "description": "DFS Opheusden verzuimt periodetitel te pakken • Tricht-trainer heeft Jägermeister nodig voor verwerking De Gelderlander",
@@ -50,12 +82,20 @@
       "image": ""
     },
     {
-      "title": "Haaland starts for Norway vs Wales LIVE!",
+      "title": "DFS Opheusden verzuimt periodetitel te pakken • Tricht-trainer heeft Jägermeister nodig voor verwerking - AD.nl",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVppR2RRcEpIV2F0VHVxRmZmYVA1c1JkS3dSV0hqOUpJSHBVMWNjOUU2SElNUVNlNGM2NERTMEVBbEQ1YkMxckU3V2Y2bWgxTThpdEJmbVNCZ1RTUWgtOEQzaU1BbTVvdDBNNTdUQjMzdDJXZUdXbXlPTjVwOWFNLXNvX2laSVRCV0F0ek5aenJ0NDZydklrLUdPZ2QtRTMwdFZYeGc4cWFmRkhKcnE0dm5tcDZrWnpIM21HTzB5UQ?oc=5",
+      "description": "DFS Opheusden verzuimt periodetitel te pakken • Tricht-trainer heeft Jägermeister nodig voor verwerking AD.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-14T15:32:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Wales spurn good chances in Norway LIVE!",
       "link": "https://www.skysports.com/football/norway-vs-wales/live/554107",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-14T15:30:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-norway-portugal-haaland_7368310.jpg?20261004220532"
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-football-nations-league_7406590.jpg?20261114172555"
     },
     {
       "title": "Former Stoke City manager Thordarson dies aged 71",
@@ -64,14 +104,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-14T15:04:59+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34a/live/b33c7ec0-e039-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Villa and Birmingham ready to renew WSL rivalry",
-      "link": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Midlands Today looks ahead to Sunday's Aston Villa v Birmingham City derby - only their fifth meeting in 17 seasons of the WSL.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-14T14:01:06+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32df/live/edba89c0-e01b-11f1-ad34-45f8f10f7c55.png"
     },
     {
       "title": "Peperdure Forbs onhaalbaar geworden - Voetbal24.be",
@@ -114,14 +146,6 @@
       "image": ""
     },
     {
-      "title": "England latest: Spence, Konsa back in training after missing Croatia game",
-      "link": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-14T12:05:00+00:00",
-      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
-    },
-    {
       "title": "Oranje begint voorbereiding op duel met Duitsers, reserves trainen buiten - NOS",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWWVtVk9XVExvYjR4QUNRWXNOUThMMEhkaGswdUh4ZWRVQWJRY0dzdmN4dG5ISHpzbks0TjltT2pzSW5CRkt4TGtNVUpsejNhQzRUc1dMb3JlRnhoNDZVN1gxMzU1TGRKMW42d3ZmTlNCM3hvZjlUd2xHNWlxbTJyakJSWWd0VW9UTVpEOHVzQ09TYmdSQzZLUnFFRUxmZjNQb2sxanBn?oc=5",
       "description": "Oranje begint voorbereiding op duel met Duitsers, reserves trainen buiten NOS",
@@ -138,7 +162,7 @@
       "image": ""
     },
     {
-      "title": "Chelsea leapfrog Man City to become new WSL leaders",
+      "title": "Big tactical calls and restricting Shaw - How Chelsea got better of Man City",
       "link": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/report/575819",
       "description": "Chelsea leapfrogged champions Manchester City at the top of the Women's Super League table with a 1-0 victory at Stamford Bridge thanks to Sandy Baltimore's bullet first-half strike.",
       "source": "Sky Sports",
@@ -394,14 +418,6 @@
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-john-mcginn-scotland_7406088.jpg?20261113211951"
     },
     {
-      "title": "NAC-trainer Kruys stond te vlaggen bij zijn zoontje toen Brym hem verraste met een appje - BN DeStem",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVE8wM0s1X0hMRmJsbTFQb2xKakNZOE9OaV9RUXA2cWNIMHBZUnA3UXJxaTg2NHBtR1RVQlBpUGxKWHpMWEhHZlR0a0QzSGozZ05xdVQyaXBkdUFtZWlIeWdMdTJOX0NORGgzSVplR1VfcC05eWRIRmNOYldXZ2lXVm1iOXc1Y1hJLUlHQVJDTWhiV1VYclhsMUROSnc0OEZlcFlQUS1kT0NLb3dlaGhwdzBoVkxNOW5Tc1dESmlzNGlFTm9t?oc=5",
-      "description": "NAC-trainer Kruys stond te vlaggen bij zijn zoontje toen Brym hem verraste met een appje BN DeStem",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-13T21:30:00+00:00",
-      "image": ""
-    },
-    {
       "title": "VIDEO | ADO Den Haag presenteert Maurice Steijn tijdens persconferentie - Haaglanden Voetbal",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWhFemlzaUxPWW5iR3lXTkhnSXFsajNmR3FXNjgzQ2pFZXl0U18zRVdYSGc0bUJDSkFDMWdmLVZYbjNIdGVyaGdyNVNQMXQ3N2I0Vko5bFVJNzAydWN1WmZJRVZHMUlBT0R4WGs5UkQzLXdhZ1dxNnhqaUZMWVZMeVNzYVZ5Yzl3R29STTJ4Vm1LT1kyU0pHR1U3ZENHQ1VNNktxc1BTTmFKdFBialpNNlZOTQ?oc=5",
       "description": "VIDEO | ADO Den Haag presenteert Maurice Steijn tijdens persconferentie Haaglanden Voetbal",
@@ -439,14 +455,6 @@
       "description": "Noa Lang direct meest waardevolle speler bij transfer naar Genoa CFC FootballTransfers.com",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-13T18:35:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "Verdeeldheid in kring van Steijn over ADO-terugkeer: 'Wat haal je je op de hals?' - VoetbalPrimeur",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNVFtSHlodTZPRWQ2WDQyajRVR3hHSnVzejgyai1FcjVaVVRwaXVtTUIydjdhUjRXeUkwUlNDZEx5X0k3R3FKN0t5WDJjbE1yVWZYbWhDMWFQZ09hTFhacXcwVVNhS19HZ1hSUVVTYjY2Y25MUjIxOVhZa3Z3VV9DZjFHNXdUbXp2NjVsUjhZbHAwR2tDQThMU0xCa3BZV0RQYVFFOGZBQXM0emhpMHR4dWY1TFc?oc=5",
-      "description": "Verdeeldheid in kring van Steijn over ADO-terugkeer: 'Wat haal je je op de hals?' VoetbalPrimeur",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-13T18:21:56+00:00",
       "image": ""
     },
     {
@@ -528,6 +536,14 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-13T15:00:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettinp_7405898.jpg?20261113153009"
+    },
+    {
+      "title": "RWDM-supporters halen uit voor topper: \"Geen misdaad\" - Voetbalkrant.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWTBIV0dSRm4yZHVqVExpYzdNeTlHNFhYOFo4eEVUa0NobERzSjIyVG9KNTl2dk9ZbmxBZEMzSzdtYm9xSzZJUDhZWFdrZ0NkSGlQZXJEaml4V2tuVV9jeGRCRFY5VXlpSC0wMHJPS3l4aFZIaERUTC0xNV9iVW5jOW10MERSN1dQX0c3dkVKOWVDdTdHUDE4enNjVWpOeVowYXlObVBKS1hlRW5JN1pzWG9rTHVFZXJndElDYkRlM3JKbFMzV1M1Zml0MNIB0AFBVV95cUxNWGpKbWFrUzA0Y1JGV0FQNkR5NUNNOHEzdWRYY2xhVDdGX21EYVpUNUxJUlIzQUI2dHFCc1N0MkZWei1kV1VlWFFteDNIUml4bEw5ZzFDRUNpbFJOM2RMNW5LbDF6ZUg2Q2NZa1UtY2pqN2VjZ1hFRW82R2VDck8zWlJ2WHZDc3dyVjZqT3R1bUpobmtJc3p6NXRzNFB0bUdEbVk5R253OXktMnM1a2RyN0NvMFNQZWJVY2k3RDVfLUNJdkNQT1lhblBVYmhtMWdK?oc=5",
+      "description": "RWDM-supporters halen uit voor topper: \"Geen misdaad\" Voetbalkrant.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-13T15:00:00+00:00",
+      "image": ""
     },
     {
       "title": "Eindhovense trainer vertrekt bij IJsselmeervogels, Jeroen Rijsdijk in beeld als opvolger - Eindhovens Dagblad",
@@ -623,22 +639,6 @@
       "description": "Pochettino nieuwe trainer Manchester United, neemt in tranen afscheid als bondscoach VS NOS",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-13T12:05:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Pochettino volgt ontslagen Carrick op als nieuwe trainer Manchester United - NOS",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTW1TejZxUVRQQUY1dXRqOG5ER0w0SlJJY21IRWhvQ0NQc214X2IxQ2RMNUkwWm9LRFg1NTB3b3NUMGtOQlI3b1A4WS0zYUZ4YjkxaTdWRFpfZFliVjJvSkFlUUE0RGVZNTloZTN1TEVtamR6ZUgtbE1JOVhXR2xMWnRTODkyVXF4OFRUVHcyME1uNF9qSmxabFBVU1JnWjd3Q3gxQmJUOGI?oc=5",
-      "description": "Pochettino volgt ontslagen Carrick op als nieuwe trainer Manchester United NOS",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-13T12:05:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Aaron Meijers sluit zich aan als trainer bij Richard Knopper Football Academy - Haaglanden Voetbal",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnAtVjlvUVV6V0VMTXRUM2VDUWN6ZXpXNnFyNU1EUy1ZanBrc3Vxa3V6NGJBOFZWREhIZzhRYS1uYkdxYzVLZXk2aEpXNkVaWFd3NnJxN2RSNmp0dGtRbURkR2gwNHlkTVNUSG5XVmY3UFc0NmZnYUJ6dy1OZzlSUmZIV2FHOUZ2dHB4ZGpmSnNXYXNpWTB2RmpjZVlmdUl5aHJoblpiNGRjMXRyamRpYzFzaGFmaWRvZUxjZ0l3?oc=5",
-      "description": "Aaron Meijers sluit zich aan als trainer bij Richard Knopper Football Academy Haaglanden Voetbal",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-13T12:00:12+00:00",
       "image": ""
     }
   ]
