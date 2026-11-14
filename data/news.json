@@ -1,21 +1,69 @@
 {
-  "updatedAt": "2026-11-14T11:55:10.363457+00:00",
+  "updatedAt": "2026-11-14T13:13:16.562512+00:00",
   "articles": [
     {
-      "title": "Origi vertelt over zijn Liverpool-tijd: \"Klopp liet het mij op harde manier horen\" - Voetbal24.be",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaU9EZlBNdDJIbWRqOFdCazFPYnRMa0xwcUk5VlJIWjJLUGFMYm53b1V4WWhqX0xPRnItOTNXMXoyVHNTeTAwZ2NfQmpRVkxEVTFGUHVQcG1SWGVpaHJTcHgxS1JZYkEtbzNnR2RjYVBmMFh2aGQ2MjFBS2lsZ3BoOG1LV05LdFVCZl9ETmtnQ05sMklGSnEzakZoa09qdVo4NTd0aWUyN3d1YWFQN1o4?oc=5",
-      "description": "Origi vertelt over zijn Liverpool-tijd: \"Klopp liet het mij op harde manier horen\" Voetbal24.be",
+      "title": "Listen to Off The Ball",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+      "description": "The most petty and ill-informed football show on radio.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-14T14:00:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+    },
+    {
+      "title": "Baseggio ziet Anderlecht foute keuzes maken: \"Als ik iets te zeggen had\" - VoetbalPrimeur.be",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNURjQ2JLd2QxR3lWYUx2Wlc2RkZIc1EtNlpqUEdmSzZUWFl0MC1zRmJrLVJXMVlXaFdEcTE2Y2RuMmVPdGptRHk1M21TUElvd0hJNUt2ajZOODY3S1VjNEcwSTJjd1J6Tnk1eVRRZTVTNkVEMi0zSDV0aVRDdFF6Rl9vMTZMWW9iTHF5YUxLUmJFMF93bVlpR1kwLUpGZHotSEtxWXpn?oc=5",
+      "description": "Baseggio ziet Anderlecht foute keuzes maken: \"Als ik iets te zeggen had\" VoetbalPrimeur.be",
       "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-14T11:30:00+00:00",
+      "pubDate": "2026-11-14T13:00:00+00:00",
       "image": ""
     },
     {
-      "title": "WSL LIVE! Chelsea vs Man City plus Man Utd vs Palace LIVE on Sky!",
+      "title": "Tessa Wullaert over transfer van Godts: \"Ik had dit niet gedaan\" - Voetbal24.be",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdUZEb2o0Y3hycE14QmJaSmRnbmVMN3hRNjZwUGVwS0Z1OTFRUUx2SmliY3hwVnU4djBreTAzS3Itbm04SjVJSWFfV2xVVWJVVVh0UWRISmRqell5SG50SVNZUUN2elZkd1NjY0t4Z0g0NUhuMFJZR0VaWE5rUWlzR3RGbDFVd3FxWHBlOThwU0dISF9H?oc=5",
+      "description": "Tessa Wullaert over transfer van Godts: \"Ik had dit niet gedaan\" Voetbal24.be",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-14T13:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hoe KRC Genk uitgroeide tot de kraamkamer van 's werelds beste keepers - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR3RRdGhwVEZMOUpqVTlYVGR3dnIycUY1bDNOelhobmw5MTlqVVYweC0wdExBTF9WeXRqR2RrUnRlN290ZTVwSkc3MnlVb3VHRmZvQzRtT3VLTEFCVUFsZGIwV1JtQVdMOElPbU9fVUREazJWTmNTdG1TQzJvbEU0RUs3TDd4Wm5pZ0QxSHdDX1hjX183cGhmVEt0S2xsYm50ak01MkdSU0FUOGRDNjZmbThmalk3eVgzMGpqMnRGUFhIRDFmMi1LUnAwWlRyTG1XaEpOYmtDaHNkVEpCWnI1bnIxVnBfYnlQVFE?oc=5",
+      "description": "Hoe KRC Genk uitgroeide tot de kraamkamer van 's werelds beste keepers FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-14T12:53:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "FIFA gooit transfermarkt op de schop: dit gaat er veranderen vanaf januari - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXdSMHFUQ0Y0bDlpaXlpdGZiMWktcmowTEtnQmV5ZWVPMTJZWG1pMkdSMWZ5YVdHMVgxWi1GMlh5N3o4TWR1SlRfb1pXQ2EtTl9hd1p2czh1M1RQSjhQaUJhTmktNkU4OVJ4ak0wWnA4Q25KbWNjMUNlN0VZcXNySHBtVnJsV21UcEREZ1F0T19YbG1xUEI2TUVtUzVYaUVq?oc=5",
+      "description": "FIFA gooit transfermarkt op de schop: dit gaat er veranderen vanaf januari VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-14T12:16:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "England latest: Spence, Konsa back in training after missing Croatia game",
+      "link": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-14T12:05:00+00:00",
+      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
+    },
+    {
+      "title": "WSL LIVE! Man Utd lead Palace on Sky before Chelsea vs Man City",
       "link": "https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/live/575822",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-14T11:15:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7401923.jpg?20261109100347"
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7406391.jpg?20261114131015"
+    },
+    {
+      "title": "Napoli zet Sam Beukema op de markt: kassa rinkelt bij AZ en Go Ahead Eagles - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYjBTY1ZELVZSd3BDNFA5dXFYLWs0OUJmbDNkRVAxbG9kMkJsRHhDRnNNdU5qNUJQTk4zM05rZ0NrM1VURmxJQ2JhWk5KQVlvX2NyYVl4Y0xBUm1rSk84WjFucnFhUGpjcURmUGIySWI5UUgyX1lnYXFpV3ZrVWNpQTlBblU4bllTVmctaUpQdGwtdDZPcEZSaG1ORmVmbVc5U3p0cVYzYk1MWDFNdDllZjFZWElzWDlObjNfVFVtcjlQSi1LVzhQLVdrRS1pLXlmNEZxcQ?oc=5",
+      "description": "Napoli zet Sam Beukema op de markt: kassa rinkelt bij AZ en Go Ahead Eagles FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-14T10:20:19+00:00",
+      "image": ""
     },
     {
       "title": "Arsenal latest: Odegaard discusses Arsenal contract situation",
@@ -54,7 +102,7 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tOWE2UWJiWUEycnlEVThlR0NvcExHRHRscTBZdlRjU1pPYzVuQW9OdGZUOWpQVm81ZFFlUE9Pckc1T24zdU9DZUd1bDA2cEZrb2pXUHFnOXZSUHZVMDl5U05QcmFLcFBfQzV3bWpWclVYOXZydU5Z?oc=5",
       "description": "Belgische trainer voor KRC Genk VoetbalBelgie",
       "source": "Google Nieuws NL",
-      "pubDate": "2026-11-14T09:33:45+00:00",
+      "pubDate": "2026-11-14T09:38:38+00:00",
       "image": ""
     },
     {
@@ -98,20 +146,20 @@
       "image": ""
     },
     {
+      "title": "Van te zwaar in een vriendenteam naar motor van Terneuzen: ‘Iedere trainer zou wel een Rowdy in zijn team willen’ - pzc.nl",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV1lDOHpwY2JGMl9ob1BZQkFiVTlNS3RqNXFFZHYyeURqdFJ6N2FoY1d3cFg5NGYzVDhDbUtaT1RkcGFvY2Nkd3FpX0hSb1ZVUmJNVmlhVENWVjVqeHdDdHZiVDNpd2owNWk4eGlMY2tTQmFZemIxbGNLckNGREo4MjA4bTU1T1V1NDZIM0NfYUFwRU5CWENFYjNkQ0xRcGhVa2JQWUZkZzJFVm1zby1fVnhpeHcyNkYxeDlQNjJ4WjN0S2dYMW4wTDRjdW5iRTlGc1Etd0JMbkNpNGhtUzRKQXY1UGhLa0xHUG44?oc=5",
+      "description": "Van te zwaar in een vriendenteam naar motor van Terneuzen: ‘Iedere trainer zou wel een Rowdy in zijn team willen’ pzc.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-14T08:00:45+00:00",
+      "image": ""
+    },
+    {
       "title": "Six goals to go - will McGinn catch Dalglish & Law?",
       "link": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
       "description": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
       "source": "BBC Sport",
       "pubDate": "2026-11-14T07:49:46+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da36/live/75be3ea0-e000-11f1-a3e2-bfb07c67d49c.jpg"
-    },
-    {
-      "title": "Verrassende wending in transfersoap rond De Bruyne - Voetbal24.be",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYVQzb1VEU29kdkd0N0RoV19tZW9JRGhRQmNBaWRiN3hkWDhHT090TWctZnhTdlVOeXA1Z2I0MFdFWkI2N2NFcGpEWDdheWhoVHI3WlpXYm4xSnlJTXVQNm5pZ1EwNkdaU04xQTMyQ2VuWlFodUd4RkF5dWhHTjhtNW9mc2ZLT2ZW?oc=5",
-      "description": "Verrassende wending in transfersoap rond De Bruyne Voetbal24.be",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-14T07:30:00+00:00",
-      "image": ""
     },
     {
       "title": "Goalkeeper Owono given 12-match ban after De Miguel's death from collision",
@@ -386,14 +434,6 @@
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mauricio-pochettinp_7405898.jpg?20261113153009"
     },
     {
-      "title": "RWDM-supporters halen uit voor topper: \"Geen misdaad\" - Voetbalkrant.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWTBIV0dSRm4yZHVqVExpYzdNeTlHNFhYOFo4eEVUa0NobERzSjIyVG9KNTl2dk9ZbmxBZEMzSzdtYm9xSzZJUDhZWFdrZ0NkSGlQZXJEaml4V2tuVV9jeGRCRFY5VXlpSC0wMHJPS3l4aFZIaERUTC0xNV9iVW5jOW10MERSN1dQX0c3dkVKOWVDdTdHUDE4enNjVWpOeVowYXlObVBKS1hlRW5JN1pzWG9rTHVFZXJndElDYkRlM3JKbFMzV1M1Zml0MNIB0AFBVV95cUxNWGpKbWFrUzA0Y1JGV0FQNkR5NUNNOHEzdWRYY2xhVDdGX21EYVpUNUxJUlIzQUI2dHFCc1N0MkZWei1kV1VlWFFteDNIUml4bEw5ZzFDRUNpbFJOM2RMNW5LbDF6ZUg2Q2NZa1UtY2pqN2VjZ1hFRW82R2VDck8zWlJ2WHZDc3dyVjZqT3R1bUpobmtJc3p6NXRzNFB0bUdEbVk5R253OXktMnM1a2RyN0NvMFNQZWJVY2k3RDVfLUNJdkNQT1lhblBVYmhtMWdK?oc=5",
-      "description": "RWDM-supporters halen uit voor topper: \"Geen misdaad\" Voetbalkrant.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-13T15:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Pochettino left in tears on leaving US job - 'Most difficult decision'",
       "link": "https://www.skysports.com/watch/video/13611928/mauricio-pochettino-left-in-tears-on-leaving-us-job-most-difficult-decision",
       "description": "New Manchester United boss Mauricio Pochettino was very emotional when thanking the US Soccer Federation.",
@@ -586,14 +626,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f0/live/e7015f10-de76-11f1-9115-cfe6d179af3a.png"
     },
     {
-      "title": "FIFA gooit transfermarkt op de schop: dit gaat er veranderen vanaf januari - VoetbalPrimeur",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXdSMHFUQ0Y0bDlpaXlpdGZiMWktcmowTEtnQmV5ZWVPMTJZWG1pMkdSMWZ5YVdHMVgxWi1GMlh5N3o4TWR1SlRfb1pXQ2EtTl9hd1p2czh1M1RQSjhQaUJhTmktNkU4OVJ4ak0wWnA4Q25KbWNjMUNlN0VZcXNySHBtVnJsV21UcEREZ1F0T19YbG1xUEI2TUVtUzVYaUVq?oc=5",
-      "description": "FIFA gooit transfermarkt op de schop: dit gaat er veranderen vanaf januari VoetbalPrimeur",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-13T09:57:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Fernandes rejects second Man Utd contract offer",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
       "description": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.",
@@ -607,38 +639,6 @@
       "description": "Noa Lang brengt nummer uit met Nederlandse rapper op dag van Oranje-wedstrijd VoetbalPrimeur",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-13T09:13:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "In a clash of the top two, should Chelsea be considered underdogs?",
-      "link": "https://www.skysports.com/football/news/11095/13611487/do-chelsea-go-into-this-weekends-top-of-the-table-wsl-clash-with-manchester-city-as-underdogs",
-      "description": "To consider Chelsea as underdogs in domestic competition feels alien. To a club so endowed with silverware and success over such a long period, it's like a dirty word. Something reserved for opponents, not them.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-13T09:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-chelsea-women-wsl_7405065.jpg?20261112141816"
-    },
-    {
-      "title": "Man City are 'messier', but are they more dangerous than ever?",
-      "link": "https://www.skysports.com/football/news/11095/13611021/chelsea-vs-man-city-mary-fowler-reveals-her-sides-latest-evolution-as-we-ask-are-city-more-dangerous-than-ever",
-      "description": "Trying to find a chink in Manchester City's armour is like looking for a needle in a haystack. If it does exist, it's barely detectable. Andree Jeglertz's impact has been profound in that sense.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-13T09:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-man-city-women-wsl_7404059.jpg?20261111151804"
-    },
-    {
-      "title": "Chelsea latest: Gusto considering Blues future",
-      "link": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-13T09:00:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
-    },
-    {
-      "title": "Michèle Lacroix verklapt waarom De Bruyne voor transfer kiest - Voetbal24.be",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXJtTDNDNVdRX3NWUFRNVHB3SE1Xa2RPaUpjUmpXVXhqSklTZ293amJTd1Z6aFF6N3BNamhKZTdaLUs0b05oSk1sb05KWHN6UFhiLUl2MUZHdkUzbmtrY3ppYjdFMWdiX3kzcnBOT1NEZVFuVUlSU2daNjlrTEZ5SjZ4MjM1ejZuc2tuYzhUek16dFBWLTNN?oc=5",
-      "description": "Michèle Lacroix verklapt waarom De Bruyne voor transfer kiest Voetbal24.be",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-13T09:00:00+00:00",
       "image": ""
     }
   ]
