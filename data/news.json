@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-15T15:56:29.452584+00:00",
+  "updatedAt": "2026-11-15T16:57:38.357868+00:00",
   "articles": [
+    {
+      "title": "Tenerife return to action after death of De Miguel",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o?at_medium=RSS&at_campaign=rss",
+      "description": "Tenerife play their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-15T16:38:51+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e2a/live/47c33310-e10f-11f1-b3df-4961589d9b68.jpg"
+    },
+    {
+      "title": "Why Northern Ireland won't focus on point they need in Hungary",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo?at_medium=RSS&at_campaign=rss",
+      "description": "A draw in Hungary on Tuesday would secure Nations League promotion for Northern Ireland, but they are targeting all three points in Budapest.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-15T16:04:45+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e4/live/2360fe80-e0ce-11f1-9e51-e12509ba597c.jpg"
+    },
+    {
+      "title": "You are Scotland boss Pocognoli - what would you do?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cklyw2qzzd44o?at_medium=RSS&at_campaign=rss",
+      "description": "Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the visit to Switzerland.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-15T15:58:56+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
+    },
     {
       "title": "Transfer Centre LIVE! 'Fulham defender among Poch's Man Utd January targets'",
       "link": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
@@ -18,12 +42,12 @@
       "image": ""
     },
     {
-      "title": "Maanum earns first WSL start for Arsenal vs London City LIVE!",
+      "title": "London City Lionesses instantly hit equaliser at Arsenal LIVE!",
       "link": "https://www.skysports.com/football/arsenal-women-vs-london-city-lionesses/live/575818",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-15T15:20:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7401918.jpg?20261109100028"
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-isobel-goodwin-wsl_7407159.jpg?20261115164910"
     },
     {
       "title": "Interesse in Jacob Trenskow neemt toe: dit kan Heerenveen vragen - FootballTransfers.com",
@@ -31,6 +55,14 @@
       "description": "Interesse in Jacob Trenskow neemt toe: dit kan Heerenveen vragen FootballTransfers.com",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-15T15:01:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "VIDEO | Dennis Olman (trainer BSC’68): “We missen teveel bepalende spelers door blessures” - Haaglanden Voetbal",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbzEzdk85TDdJVURUUmFjX0NMajJxWkppSXg3clJxUEJFRENBRDNEd2ktTTRrWUZOd0VtT05QcF90UDl2U0F3ZHN4TThmTTdzTHJmdUR0N2ZEV1FEd0RzMXZWbGdwT24wNGpKV3NHNmcwRHRlWlp1ai1BWFliS3MybnozcTR4TWtKcGVHWmVrNGswcGtyNlpNRjIxcS1YUS1mNmRZSHJiRzlITGUtSzdwZmp6VHhBaGFodGx0NkJheHozdXl2?oc=5",
+      "description": "VIDEO | Dennis Olman (trainer BSC’68): “We missen teveel bepalende spelers door blessures” Haaglanden Voetbal",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-15T14:32:30+00:00",
       "image": ""
     },
     {
@@ -74,7 +106,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b7/live/b6cfa6a0-e0f4-11f1-93e1-3b657b665bcf.png"
     },
     {
-      "title": "How to watch Ronaldinho's return today live on Sky!",
+      "title": "Watch Ronaldinho's return now live on Sky!",
       "link": "https://www.skysports.com/football/live-blog/11095/13612463/ronaldinho-returns-how-to-watch-brazilian-icons-comeback-live-on-sky-sports",
       "description": "",
       "source": "Sky Sports",
@@ -122,28 +154,20 @@
       "image": ""
     },
     {
+      "title": "‘Kevin de Bruyne in de nadrukkelijke belangstelling van PSV’ - Voetbal4U.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOElmcUc0SHFOdUVYZFN6dFFiTnJPakhKWEtkRjhJZWFUZEVZQm4yOXEzbnpvSTQtQWFkQ29JRmJHS2loYzY1QkpHUlo3SzJncmJVejZxMTlFSndkVmFicTE3VVpiMExOa05TUjBzLXdIYU1NZHRkVW8zcVpoemhIN0p6MFBDOEIxb25nT3VhYUNJUUNoeTF5blV3QlY?oc=5",
+      "description": "‘Kevin de Bruyne in de nadrukkelijke belangstelling van PSV’ Voetbal4U.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-15T10:33:06+00:00",
+      "image": ""
+    },
+    {
       "title": "England latest: King among trio left out of squad for Spain clash",
       "link": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-15T10:28:00+00:00",
       "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
-    },
-    {
-      "title": "RWDM-fans eisen ontslag trainer Grandjean na gelijkspel: “Ik geef niet op, dat ze eens komen kijken hoe hard we werken tijdens week” - HLN",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQcW13OTBrX1NXMzVPWjZldUhQWDBxMWRhQnI1eG1DTU4xZlBRWlNhNndjRF9xUHhscld1eXZ6UF9aVTRsR3lvWmJ5SzZGdDQ3MGNRcG1EQlNFeGp2UGJwUXBsLUhoNlU4LUUxS1VYRFlOcDNYRzJ2RFRUTG96U2U0RkdxRk9fSERWcmw0dG85VFlaZnlLTm1mSGd0M2E4VEtLTWd5TnFOUGJsMDRzRVRVU2JzLUJoZmxtQWxXZ0Y3YlpqdjlLOFhzU3BLWHh0VXN4eGVjNzg5d0MxeUFETFNlMUljMGJYeE4wTWVHOW54bTZxU1JseWZLN05XQkxNblZWWWhlQlFR?oc=5",
-      "description": "RWDM-fans eisen ontslag trainer Grandjean na gelijkspel: “Ik geef niet op, dat ze eens komen kijken hoe hard we werken tijdens week” HLN",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-15T10:13:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "‘Kevin de Bruyne in de nadrukkelijke belangstelling van PSV’ - Voetbal4U.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOElmcUc0SHFOdUVYZFN6dFFiTnJPakhKWEtkRjhJZWFUZEVZQm4yOXEzbnpvSTQtQWFkQ29JRmJHS2loYzY1QkpHUlo3SzJncmJVejZxMTlFSndkVmFicTE3VVpiMExOa05TUjBzLXdIYU1NZHRkVW8zcVpoemhIN0p6MFBDOEIxb25nT3VhYUNJUUNoeTF5blV3QlY?oc=5",
-      "description": "‘Kevin de Bruyne in de nadrukkelijke belangstelling van PSV’ Voetbal4U.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-15T10:02:46+00:00",
-      "image": ""
     },
     {
       "title": "'Spectaculaire ruildeal voor Kevin De Bruyne' - Voetbal24.be",
@@ -184,14 +208,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-15T07:29:30+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cb/live/396f38d0-dddc-11f1-b865-d17d8611efca.jpg"
-    },
-    {
-      "title": "How Aston Villa are reclaiming their identity",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm4gkgnkkn9zo?at_medium=RSS&at_campaign=rss",
-      "description": "Aston Villa Women are celebrating an important 30-year milestone on Sunday - but how are they trying to reclaim their identity?",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-15T07:12:05+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d8a/live/a96f30c0-e009-11f1-9fd4-8b3c9f9dfc89.jpg"
     },
     {
       "title": "Feyenoord ziet Sem Verdonk bij beloftes solliciteren naar definitieve transfer - FootballTransfers.com",
@@ -362,6 +378,14 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5616/live/4a633af0-e062-11f1-a701-fddedf244c16.jpg"
     },
     {
+      "title": "Unitas’30-trainer ziet puzzel in elkaar vallen na tweede overwinning op rij - BN DeStem",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWFmak0xOUk0TFgteHNfU2dkVGNvcXlpS0tibEdzVXprLVVVbVJzQ2hSYkxSZFNGMm5rbmNnMXhmVy11b0x2NzdjQXI0UVo1SVctMF9oMklRMGE4dXNfQ3Uza3dsXzNUR01mZGZ2eWF1SU1OV1cwLU11a0RHYW96d0YxZEQ1a3pqSy01MEFGOXR6OGtZYXpBYUpSVWoxZzBiZmdxWWxFVTJCOWtrempmNGxORGxBQ0JhcUNIRHowSlU?oc=5",
+      "description": "Unitas’30-trainer ziet puzzel in elkaar vallen na tweede overwinning op rij BN DeStem",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-14T20:56:43+00:00",
+      "image": ""
+    },
+    {
       "title": "What Wales need to stay in Nations League top tier",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
       "description": "BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group.",
@@ -466,14 +490,6 @@
       "image": ""
     },
     {
-      "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
-      "description": "Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-14T16:26:49+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b213/live/53f770d0-e040-11f1-88e1-eb4e155225b3.jpg"
-    },
-    {
       "title": "'I just play where the manager tells me to play!' - Walsh",
       "link": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
       "description": "Keira Walsh reacts after Chelsea go top of the Women's Super League with a 1-0 win against Manchester City.",
@@ -514,6 +530,14 @@
       "image": ""
     },
     {
+      "title": "RBC richt alle pijlen op Marcel van der Sloot als nieuwe trainer, maar Dongen wil hem niet laten gaan - BN DeStem",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0ZZQ2otS2lIR1N3djA0aHUwR1gwLV9fWHpSY05FQlN0ZlhTZ2ZNaEdRdXdiNDJ4alBoLU9jVFI4OHNjTGJtaTNyWUxWX0JyNGtEMXFpN245ZnI4MmtWUHQ4ejJHZlVXamMxNVVFN1V6dzJZZktBa0QyQ3UxaWYwNkpiLTlTZWZRWnNpUkgydFFFZE1JN2RmTTN0Q0g1SG1reWZrWjMwaFJTVDBCUGotdmU5WmNQUF9EYmE3ZEMwa3FqRjEwRVY3YmNfa2g2MjhIdVZrcWIybmJGbmJwY0pvZ0NPTQ?oc=5",
+      "description": "RBC richt alle pijlen op Marcel van der Sloot als nieuwe trainer, maar Dongen wil hem niet laten gaan BN DeStem",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-14T15:50:54+00:00",
+      "image": ""
+    },
+    {
       "title": "Chelsea go top with 1-0 win against Man City",
       "link": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
       "description": "Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half.",
@@ -541,6 +565,14 @@
       "title": "DFS Opheusden verzuimt periodetitel te pakken • Tricht-trainer heeft Jägermeister nodig voor verwerking - AD.nl",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN09nTndWVEk5eGVyR2lyODNGRVRiWHJvWTdWTERGRGpVTl9CazdKcWR4Sm5QbjZJU1BiaUtxVDYwWnZHbFJudVd5NUo2cDJsay1XR0ZjVjFOam52ak9fNTc1U2hMMjdYMk1VeWgwelBuSVdUbnlHRW9EUk9wTFp4MjdVX0UxR0x5N3VyWmdBLTA1OGtUTGxjT1FzRGlKWDJmUGh3bkFjZlp6NG1EUHVWaHdoWQ?oc=5",
       "description": "DFS Opheusden verzuimt periodetitel te pakken • Tricht-trainer heeft Jägermeister nodig voor verwerking AD.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-14T15:32:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "DFS Opheusden verzuimt periodetitel te pakken • Tricht-trainer heeft Jägermeister nodig voor verwerking - De Gelderlander",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ3VKR0ZGSmtzakR2Mjl0aXdBNGt6LUNDb3JRN1JhdXpkSEl5MDdfRldMNmdCQzFYX2VwMHhHU0lPQXd4Z2Y4b1QtS0JaUUYtWlNsUS1hY2FGTFJYd29tUkp6TTBkVnRkR1piRFdSNWxLTTFHZHJpV1VUYUhVRVozeGVzNXg4Z2FXOFdfRXA1ZkNGQnZNRGljYWZtMTdpMjZiNmttcGNnQTJwMmZFMnlORlJCd2xwWlNkY1I3cDFzVQ?oc=5",
+      "description": "DFS Opheusden verzuimt periodetitel te pakken • Tricht-trainer heeft Jägermeister nodig voor verwerking De Gelderlander",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-14T15:32:00+00:00",
       "image": ""
@@ -607,38 +639,6 @@
       "description": "Achter het BVO-logo schuilt een schimmig verdienmodel FootballTransfers.com",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-14T11:21:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Big tactical calls and restricting Shaw - How Chelsea got better of Man City",
-      "link": "https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/report/575819",
-      "description": "Chelsea leapfrogged champions Manchester City at the top of the Women's Super League table with a 1-0 victory at Stamford Bridge thanks to Sandy Baltimore's bullet first-half strike.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-14T10:54:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7406453.jpg?20261114142505"
-    },
-    {
-      "title": "Le Tissier hits stunner to mark milestone in Man Utd win",
-      "link": "https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/report/575822",
-      "description": "Maya Le Tissier marked her 150th club appearance with a stunning strike as Manchester United moved fourth in the WSL with a dominant 2-0 win over Crystal Palace.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-14T10:54:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7406398.jpg?20261114131527"
-    },
-    {
-      "title": "Napoli zet Sam Beukema op de markt: kassa rinkelt bij AZ en Go Ahead Eagles - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYjBTY1ZELVZSd3BDNFA5dXFYLWs0OUJmbDNkRVAxbG9kMkJsRHhDRnNNdU5qNUJQTk4zM05rZ0NrM1VURmxJQ2JhWk5KQVlvX2NyYVl4Y0xBUm1rSk84WjFucnFhUGpjcURmUGIySWI5UUgyX1lnYXFpV3ZrVWNpQTlBblU4bllTVmctaUpQdGwtdDZPcEZSaG1ORmVmbVc5U3p0cVYzYk1MWDFNdDllZjFZWElzWDlObjNfVFVtcjlQSi1LVzhQLVdrRS1pLXlmNEZxcQ?oc=5",
-      "description": "Napoli zet Sam Beukema op de markt: kassa rinkelt bij AZ en Go Ahead Eagles FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-14T10:20:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "Willem II en FC Den Bosch profiteren mee van transfer Ringo Meerveld - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNE9hUFZUTS1BN3d1dkRJRnFNWDh2ZXloQUY5Q0pQUFBJMHYyakgtWEpaeUdDZHNoVl9IQVV5OUtRaEdMNFN2dWQ0Nkc3MHJMekppUFBTUGgtQ3FDN282U2k2NVNXdXNjd3BtMEVzRlBoeXNiMVNqSmJYWTU5ZUZ3dHE1bVZnWkE5TFdnSGlpVmM2OVBfdVZta2dzWERmbHUwQVJuX0d4UmFVNTlQY2tVdk9lRFAtcnZ4WVhsNGN3YnJGRTdHajMxeGxTcXlqRTRVZ0ItbzB2cWlTdw?oc=5",
-      "description": "Willem II en FC Den Bosch profiteren mee van transfer Ringo Meerveld FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-14T10:00:00+00:00",
       "image": ""
     }
   ]
