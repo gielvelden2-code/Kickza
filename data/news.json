@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-15T19:56:43.640839+00:00",
+  "updatedAt": "2026-11-15T20:56:04.708549+00:00",
   "articles": [
+    {
+      "title": "Man Utd target Fulham's Bassey - Monday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United target Fulham's Calvin Bassey and Brentford's Nathan Collins, AC Milan want Real Madrid's Endrick on loan, plus more.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-15T20:47:44+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a569/live/89f0acc0-e12f-11f1-ac15-d140d3bbd516.png"
+    },
+    {
+      "title": "London City's 'bravery' paying off in top three pursuit",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o?at_medium=RSS&at_campaign=rss",
+      "description": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-15T20:03:08+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a0/live/0eabd970-e12c-11f1-8eed-17fbb70d2a8a.jpg"
+    },
+    {
+      "title": "'PSG doet monsterbod op Arda Güler' - Voetbal24.be",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fRGQwRlpIQXdhQXByNHZyUjZxUXFpUFhCamxZOU9wVi1GSTBxMU5LYUJiOFNzSkxSSkdobUYxbkM1LUxXQWFGRmNHUG1Eblp1VjFPb3h4SGlJeTZZSy1sTnNHOEtqaUVmdVlyLWU2VGN4dw?oc=5",
+      "description": "'PSG doet monsterbod op Arda Güler' Voetbal24.be",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-15T20:00:00+00:00",
+      "image": ""
+    },
     {
       "title": "Aston Villa beat Birmingham in WSL derby",
       "link": "https://www.bbc.co.uk/sport/football/videos/cjp3v5pndyz1o?at_medium=RSS&at_campaign=rss",
@@ -130,12 +154,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b0/live/8883ed70-e11b-11f1-a7a2-7bb21fac8f0b.jpg"
     },
     {
-      "title": "Spain vs England LIVE!",
+      "title": "Kane scores penalty to put England in front against Spain LIVE!",
       "link": "https://www.skysports.com/football/spain-vs-england/live/554117",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-15T17:45:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-england-warm-up_7407286.jpg?20261115194541"
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-harry-kane-penaly_7407312.jpg?20261115204502"
     },
     {
       "title": "Speler-trainer Nick Carrez schiet ATO naar verlossende driepunter: “Winnen is de beste remedie om wat rust en ademruimte te creëren” - HLN",
@@ -149,6 +173,14 @@
       "title": "Gratis kip en friet voor spelers van RKTVC • Doelman van Dodewaard stopt twee penalty’s • Trainer Tricht heeft Jägermeister nodig - AD.nl",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaDBQMFp2NkxnUmxBazhzVmtjenE3Rm0xT3kzMlh1bnRPWVdUdnZuWDc4ZmNQWDFpTUNUdzhYMHRFUnFmMkFVOG55RzkzNlZ6RENDZDFXcUxzTlk4aktjeXBwcURCbnA4Mk85SjVOUUVDQ0otVDVjakVCdHJFaDdtaWRpb0tPZXNPM0s1WGYzZkhNV0FJVW5EVDRBZEdFQjdVbk9FS0x4c0xxU2FDTEtHRFhjU09OaVlMcFNDeVowOFY1dExScWR0R3ZTMTV4MzVmMlNYa3Nuaklxby1xYUdrMUJwVkFaNDlRN3pVMnk3NUNPMEE4NEN1bkt6WWg?oc=5",
       "description": "Gratis kip en friet voor spelers van RKTVC • Doelman van Dodewaard stopt twee penalty’s • Trainer Tricht heeft Jägermeister nodig AD.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-15T17:39:46+00:00",
+      "image": ""
+    },
+    {
+      "title": "Gratis kip en friet voor spelers van RKTVC • Doelman van Dodewaard stopt twee penalty’s • Trainer Tricht heeft Jägermeister nodig - De Gelderlander",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeUZISFBsSGVJZ1FpVi10dGFtNVR4R0NlTmZwUUtaMmVJZS1WWEUyUmF4Z2ZUSTBfY2tMNHN0bGVCZ0pnMEFWaVBLbGtLN2FJTU1OcFdaUnd2Wm1zbFNoT2JaU0ZXWW5uLWdqYWl2SjQ1Ul9FNFJiZzRBalJKTWNJU1ZneC1lNnprX0UwUGdacXF6aGRHZEd0dFZRRlRvTGI5TGp2a3NYVTN4Q01iYUtCNTRUbWJSeGd0elp3a0txaWZXaXRDVlRhZ1lTbC1sdDVzVFB4ODZpSVRhbXZLR1BLbnQxb0lBT25yck8tNDY2QWFudHlLREVYTU9wbnNlMXFKSE80?oc=5",
+      "description": "Gratis kip en friet voor spelers van RKTVC • Doelman van Dodewaard stopt twee penalty’s • Trainer Tricht heeft Jägermeister nodig De Gelderlander",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-15T17:39:46+00:00",
       "image": ""
@@ -178,15 +210,7 @@
       "image": ""
     },
     {
-      "title": "Opvallende transfer van Sem Steijn lijkt uitgesloten: 'Kansloos verhaal' - FCUpdate.nl",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRk55UTJ2TUczLUZYNUoybHpoa1RKVjllTDFHSC05blF3TGR0SVBTWGxZN0RPX3RJazJENlhJV0s1blIxR2FmNXRSMU5GTHJudmNLNndOR2hmVHpvU1pJWVBQb1p0THpYYUZMaEJ4XzkzbUUtbVEydGRzaHpsQWdEYUFQcG5LQThFQXdWUnV0a20tNEc5U0ZJ?oc=5",
-      "description": "Opvallende transfer van Sem Steijn lijkt uitgesloten: 'Kansloos verhaal' FCUpdate.nl",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-15T17:14:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Chapecoense crash survivor wins promotion in final game",
+      "title": "Chapecoense air crash survivor wins promotion in final game",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
       "description": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring.",
       "source": "BBC Sport",
@@ -304,14 +328,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-15T10:45:52+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d12/live/9d213a60-e0e1-11f1-93e1-3b657b665bcf.png"
-    },
-    {
-      "title": "Doelman van Dodewaard stopt twee penalty’s • DFS grijpt naast prijs • Trainer Tricht heeft Jägermeister nodig voor verwerking - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeUZISFBsSGVJZ1FpVi10dGFtNVR4R0NlTmZwUUtaMmVJZS1WWEUyUmF4Z2ZUSTBfY2tMNHN0bGVCZ0pnMEFWaVBLbGtLN2FJTU1OcFdaUnd2Wm1zbFNoT2JaU0ZXWW5uLWdqYWl2SjQ1Ul9FNFJiZzRBalJKTWNJU1ZneC1lNnprX0UwUGdacXF6aGRHZEd0dFZRRlRvTGI5TGp2a3NYVTN4Q01iYUtCNTRUbWJSeGd0elp3a0txaWZXaXRDVlRhZ1lTbC1sdDVzVFB4ODZpSVRhbXZLR1BLbnQxb0lBT25yck8tNDY2QWFudHlLREVYTU9wbnNlMXFKSE80?oc=5",
-      "description": "Doelman van Dodewaard stopt twee penalty’s • DFS grijpt naast prijs • Trainer Tricht heeft Jägermeister nodig voor verwerking De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-15T10:44:29+00:00",
-      "image": ""
     },
     {
       "title": "‘Kevin de Bruyne in de nadrukkelijke belangstelling van PSV’ - Voetbal4U.com",
@@ -474,28 +490,12 @@
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
     },
     {
-      "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
-      "description": "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-14T21:48:45+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae50/live/f2931240-e07b-11f1-93e1-3b657b665bcf.png"
-    },
-    {
       "title": "Lunteren-trainer Thom Bleijerveld: ‘Zege van het collectief’ - Barneveldse Krant",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXdTRkNDaHFPOEV5TzdaNEU2bFc0eU41QU1fWG9KRkdCSFNReEwzMlRqQUhZWmtqSm5GdW9ueDVlYVJ5TG5XR0JkYU9UTi1KTlpCNWpNSkpYVTdvbC1iZ0I4TFZFOHhjRUFzR0JIdXU1QkZMZDV3dXdWVUpBT2c0WTB5eWlON282WS1ZNnJrd29aU0FFY2ZlMnFhVUZJMUJSOUpVQ3FpVEY4TloxUkpLNQ?oc=5",
       "description": "Lunteren-trainer Thom Bleijerveld: ‘Zege van het collectief’ Barneveldse Krant",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-14T21:40:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Tuchel unhappy as anti-racism protocol questions overshadow Spain clash",
-      "link": "https://www.skysports.com/football/news/11095/13612301/thomas-tuchel-england-boss-unhappy-as-anti-racism-protocol-questions-overshadow-nations-league-test-in-spain",
-      "description": "Thomas Tuchel insisted his words had been \"twisted\" as questions over anti-racism protocols overshadowed the build-up to England's Nations League showdown in Madrid.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-14T21:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-thomas-tuchel-england_7406703.jpg?20261114203201"
     },
     {
       "title": "Palace latest: Sage thanks fans after exit",
@@ -544,14 +544,6 @@
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-14T20:27:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-      "description": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-14T20:22:00+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a93/live/1896ea50-e038-11f1-9ca9-b3b288fceb81.jpg"
     },
     {
       "title": "Transfers LIVE. De Bruyne naar verrassende club, dubbele transfer bij Club Brugge? - Voetbal24.be",
@@ -639,6 +631,14 @@
       "description": "Al Ahly - Transfers, Geblesseerde of geschorste spelers Forza Football",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-14T15:51:43+00:00",
+      "image": ""
+    },
+    {
+      "title": "RBC richt alle pijlen op Marcel van der Sloot als nieuwe trainer, maar Dongen wil hem niet laten gaan - BN DeStem",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0ZZQ2otS2lIR1N3djA0aHUwR1gwLV9fWHpSY05FQlN0ZlhTZ2ZNaEdRdXdiNDJ4alBoLU9jVFI4OHNjTGJtaTNyWUxWX0JyNGtEMXFpN245ZnI4MmtWUHQ4ejJHZlVXamMxNVVFN1V6dzJZZktBa0QyQ3UxaWYwNkpiLTlTZWZRWnNpUkgydFFFZE1JN2RmTTN0Q0g1SG1reWZrWjMwaFJTVDBCUGotdmU5WmNQUF9EYmE3ZEMwa3FqRjEwRVY3YmNfa2g2MjhIdVZrcWIybmJGbmJwY0pvZ0NPTQ?oc=5",
+      "description": "RBC richt alle pijlen op Marcel van der Sloot als nieuwe trainer, maar Dongen wil hem niet laten gaan BN DeStem",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-14T15:50:54+00:00",
       "image": ""
     }
   ]
