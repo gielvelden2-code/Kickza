@@ -1,13 +1,53 @@
 {
-  "updatedAt": "2026-11-16T21:05:58.808296+00:00",
+  "updatedAt": "2026-11-16T22:05:44.329750+00:00",
   "articles": [
+    {
+      "title": "Scotland suffer heavy defeat in Switzerland as Robertson breaks caps record",
+      "link": "https://www.skysports.com/football/switzerland-vs-scotland/report/554127",
+      "description": "Scotland collapsed against Switzerland as they failed to reach the Nations League play-offs, making their route to Euro 2028 even tougher.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-16T21:35:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-scotland-robertson_7408181.jpg?20261116215135"
+    },
+    {
+      "title": "Football Daily",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pnbcy5?at_medium=RSS&at_campaign=rss",
+      "description": "Was England 3-2 Spain Tuchel's best win yet? And is Trafford primed to be new number one?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-16T21:14:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnbcz4.jpg"
+    },
+    {
+      "title": "Rice verbally agrees new Arsenal contract",
+      "link": "https://www.skysports.com/football/news/11095/13612986/declan-rice-contract-arsenal-midfielder-verbally-agrees-new-320000-a-week-deal-with-the-premier-league-champions",
+      "description": "Declan Rice has verbally agreed terms on a new long-term contract at Arsenal, Sky Sports News can reveal.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-16T21:12:00+00:00",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-declan-rice-arsenal_7383215.jpg?20261021214729"
+    },
+    {
+      "title": "Portugal boss responds to criticism from Ronaldo's mum",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck87984g3x1po?at_medium=RSS&at_campaign=rss",
+      "description": "Jorge Jesus responds to claims by Cristiano Ronaldo's mother, Dolores Aveiro, that her son had been \"deceived\" by the Portugal manager.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-16T21:08:06+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/b14c4cf0-e1f9-11f1-ac6e-e9777cdcbb4f.jpg"
+    },
     {
       "title": "Ex-trainer vindt KRC Genk te vlak - VoetbalBelgie",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RdUxhNXpvQUJUc0ExdEFKWTNDSUFKSXBQZkZFNmhMUkgtR0hqNi04dzR4eWlRQnMzcXBXRzRmd0NxeC0wZHlveDhvQmZHVDdHel9WYXptcU16c1Nlc0JETFZ4Z1lOOFJ1SFJXWHZmOG54Ml82aGptN0tn?oc=5",
       "description": "Ex-trainer vindt KRC Genk te vlak VoetbalBelgie",
       "source": "Google Nieuws NL",
-      "pubDate": "2026-11-16T21:02:01+00:00",
+      "pubDate": "2026-11-16T21:05:16+00:00",
       "image": ""
+    },
+    {
+      "title": "Swansea in fight to keep Matos amid Strasbourg interest",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
+      "description": "Vitor Matos has emerged as a target for French top-flight club Strasbourg who could soon part ways with Hugo Oliveira.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-16T21:01:50+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1526/live/72a6b0c0-e1f5-11f1-ac6e-e9777cdcbb4f.jpg"
     },
     {
       "title": "Transfers LIVE. De Bruyne na winterstop bij déze club, sterkhouder Club weg in januari' - Voetbal24.be",
@@ -42,6 +82,14 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/131e/live/7321ccd0-e1f8-11f1-ac6e-e9777cdcbb4f.jpg"
     },
     {
+      "title": "Wales have a free hit against Ronaldo-less Portugal",
+      "link": "https://www.skysports.com/football/news/11095/13612984/wales-vs-portugal-no-cristiano-ronaldo-for-the-visitors-as-craig-bellamys-side-have-a-free-hit-in-final-nations-league-encounter",
+      "description": "The Cardiff City Stadium sold out very quickly when the Nations League fixtures threw up a Wales vs Portugal game for the final match of Group D.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-16T19:28:00+00:00",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-craig-bellamy-wales_7263098.jpg?20260601163126"
+    },
+    {
       "title": "'Man City geeft groen licht, toptransfer voor Haaland' - Voetbal24.be",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU09vV1RvS3IwaW83dXdjdXFLTDRxQmoxUTBOZ0FUaG1aaXQ4dWxzY00tZENkRl9mWVZCbHlzeEpSckxzdzBCREJOQW5xeVlSSWMtaS1LTV8zZGM2dkp5SmZ6MHpBVGdsWU52bWVXLW1MWGJJUl9CcnhMRmxlRmVvdk5VNDNEYURmZmc?oc=5",
       "description": "'Man City geeft groen licht, toptransfer voor Haaland' Voetbal24.be",
@@ -50,7 +98,7 @@
       "image": ""
     },
     {
-      "title": "Scotland collapse at start of second half in Switzerland LIVE!",
+      "title": "Scotland thrashed by Switzerland LIVE!",
       "link": "https://www.skysports.com/football/switzerland-vs-scotland/live/554127",
       "description": "",
       "source": "Sky Sports",
@@ -136,6 +184,14 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-16T15:45:00+00:00",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-martin-tyler_7407904.jpg?20261116160546"
+    },
+    {
+      "title": "‘Hulde voor de trainer die over de corners gaat’ - Tubantia",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOekJUeW9LTVVGSl9TZjc2Y3FoZ0RhaWxnTmwxdEhZQlU4SU80cFIzdTNBeGdNSGsybG1LdXZKaThhT0tYcTZRRC1pRzV6NHZHMUdkX2tlZGYyajVFRUpLdllDOUlyd0ZMRVlrZElaWGRKRmo0LW5seDdEdlJpM1R1aHU3M2xySE43RmJ4aW5uY0ZNU2c?oc=5",
+      "description": "‘Hulde voor de trainer die over de corners gaat’ Tubantia",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-16T15:31:00+00:00",
+      "image": ""
     },
     {
       "title": "PZC Voetbal Podcast #11: Yanilio de Nooijer over de rode kaart, potjes UNO en zijn vader als trainer - pzc.nl",
@@ -306,6 +362,14 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2864/live/7a894370-c170-11f1-a003-8be783290413.jpg"
     },
     {
+      "title": "NSVV ondanks dreigend rampseizoen langer verder met trainer Johan van der Werff: ‘Kijken verder dan resultaten’ - BN DeStem",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNGlwRjAzMkZtYXpNaU5wTEpYNDd0OWxxaVZQRS1hVWVBWXpwZ0JQZjV2ZUdNbVlTWTVBQUhiM3VCdW54OHZLeE9mYVNQMFEtRlJheXRZSTNhM2g1WWxhMTNUWi1CWmZDLUxDRzhKa0ZqQVNtSnRpYlRUVEVEdGwwUkRIemJNTmJ2WWZEWTRWWHlHeDBqSUYyaU9LbHFTOFZXVzEtVTVDOFAxNkhmaWZ0ZE1iN0xwcGx2Unp2R3FSSE5lMUo4SS16RE52dXV4aTZoeDlJNzJIenRqeko0aVpwdlAwa2NGY1JxazIzcTlJWUhYUjNhT1ZaTzBPVGc?oc=5",
+      "description": "NSVV ondanks dreigend rampseizoen langer verder met trainer Johan van der Werff: ‘Kijken verder dan resultaten’ BN DeStem",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-16T09:41:35+00:00",
+      "image": ""
+    },
+    {
       "title": "Van Bommel geeft De Bruyne geen advies over PSV: 'Hij past ook bij Napoli' - VoetbalPrimeur",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcmRoeC1FdU5zaGR2N21ubGhKbU5qTGY3ZnVlaGV6VG8yZU1CODIxdUlET3k0bG9pVGE4ZTdnT2ZBRVZ1aklRamZKUlphSDRqTThibEZRTzhxZDZ3OUdRbnVibGdhd0F5QnhRN1VxOG1nT2VCa1haUm1fM1pJbGRELUF0dmZTY0xpaFFTVmQwcFdRenRKN2lmMEFTQlJyZw?oc=5",
       "description": "Van Bommel geeft De Bruyne geen advies over PSV: 'Hij past ook bij Napoli' VoetbalPrimeur",
@@ -330,20 +394,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98be/live/0649a5a0-e127-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Newcastle latest: Hall reaches 'new level' in battle with Lamine Yamal",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-16T08:30:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104"
-    },
-    {
       "title": "Burnham urges caution on scrapping 3pm TV blackout",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o?at_medium=RSS&at_campaign=rss",
       "description": "Andy Burnham urges caution on lifting the Saturday 3pm TV blackout in the UK, saying the health of the football pyramid should come first.",
       "source": "BBC Sport",
       "pubDate": "2026-11-16T08:18:33+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43a5/live/21c1a6e0-e201-11f1-ba8d-01314a590f72.jpg"
+    },
+    {
+      "title": "'Frick rejected Wolfsburg before joining Aberdeen' - gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqp9dz91jkxvo?at_medium=RSS&at_campaign=rss",
+      "description": "Mario Frick reportedly rejected the Wolfsburg job before becoming Aberdeen's new head coach, while Celtic are said to have no plans to sell in-form Mika Baur.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-16T08:17:46+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3877/live/fe6f26b0-e195-11f1-93e1-3b657b665bcf.png"
     },
     {
       "title": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
@@ -354,14 +418,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"
     },
     {
-      "title": "Listen: Scotland’s Swiss test and who is Aberdeen’s new boss?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pn6v34?at_medium=RSS&at_campaign=rss",
-      "description": "Can Scotland show progress against Switzerland and what awaits Aberdeen under Frick?",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-16T08:00:00+00:00",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pn6v3j.jpg"
-    },
-    {
       "title": "Vote for the best men's European striker this century",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo?at_medium=RSS&at_campaign=rss",
       "description": "Who is the best European's men's striker this century? Vote for your top three before the results are revealed on Euro Leagues.",
@@ -370,17 +426,17 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1253/live/86ce4590-df57-11f1-b441-2b33b063138f.png"
     },
     {
-      "title": "‘Leve Mark van Bommel’: Nederlandse trainer doet gouden generatie in België vergeten - BN DeStem",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVG1EOVBidHFoRGRoa21wd3lFNm1LdlZ5WE1DQkdvUHBFSWZNM2trdWpDQUtfWVN5Vk82VVdGdmhiSVplY2VoQmhIUWtUQ1ZBeGwzT1g4RFFrTHRJanJ5MzI2RFNYMlhZaDZvZm91S0NFRk0zclJLZ1FYc3ZTS3lON2xzT3ZxZXVzRkJCYmtrbnNhMTVjTV9KRG1HTndOQWhKRGN0Ui1qTkxHMGR5X3RmWEhYSnJnak5VeU92VV81Y08?oc=5",
-      "description": "‘Leve Mark van Bommel’: Nederlandse trainer doet gouden generatie in België vergeten BN DeStem",
+      "title": "‘Leve Mark van Bommel’: Nederlandse trainer doet gouden generatie in België vergeten - AD.nl",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUhNVDB1S2NpUTBWNlR5aFNqMXptdThnci1MMHItVkFkMG5BXzljU00xdVlvWGhPcklpRV9WR2p3cktmZVhJUWxyOUw3dkNTNEdFbEVlLXBqTERmZGZBbDhrWkVQVVlLT3F2dzNFbXBDaWd4WEtXZ3htUnhGU0NLdzh6MHdUUUx3MU9jQkZvTFVBeGROSVh4RUpjbkwzS2xzeW1CdEVobEJyWWtQOVRveEVRV0VzNEN0?oc=5",
+      "description": "‘Leve Mark van Bommel’: Nederlandse trainer doet gouden generatie in België vergeten AD.nl",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-16T07:54:00+00:00",
       "image": ""
     },
     {
-      "title": "‘Leve Mark van Bommel’: Nederlandse trainer doet gouden generatie in België vergeten - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUhNVDB1S2NpUTBWNlR5aFNqMXptdThnci1MMHItVkFkMG5BXzljU00xdVlvWGhPcklpRV9WR2p3cktmZVhJUWxyOUw3dkNTNEdFbEVlLXBqTERmZGZBbDhrWkVQVVlLT3F2dzNFbXBDaWd4WEtXZ3htUnhGU0NLdzh6MHdUUUx3MU9jQkZvTFVBeGROSVh4RUpjbkwzS2xzeW1CdEVobEJyWWtQOVRveEVRV0VzNEN0?oc=5",
-      "description": "‘Leve Mark van Bommel’: Nederlandse trainer doet gouden generatie in België vergeten AD.nl",
+      "title": "‘Leve Mark van Bommel’: Nederlandse trainer doet gouden generatie in België vergeten - BN DeStem",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVG1EOVBidHFoRGRoa21wd3lFNm1LdlZ5WE1DQkdvUHBFSWZNM2trdWpDQUtfWVN5Vk82VVdGdmhiSVplY2VoQmhIUWtUQ1ZBeGwzT1g4RFFrTHRJanJ5MzI2RFNYMlhZaDZvZm91S0NFRk0zclJLZ1FYc3ZTS3lON2xzT3ZxZXVzRkJCYmtrbnNhMTVjTV9KRG1HTndOQWhKRGN0Ui1qTkxHMGR5X3RmWEhYSnJnak5VeU92VV81Y08?oc=5",
+      "description": "‘Leve Mark van Bommel’: Nederlandse trainer doet gouden generatie in België vergeten BN DeStem",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-16T07:54:00+00:00",
       "image": ""
@@ -400,22 +456,6 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-16T07:20:00+00:00",
       "image": "https://e1.365dm.com/25/09/1920x1080/skysports-england-tuchel-thomas_7014353.jpg?20250908122212"
-    },
-    {
-      "title": "Is Scotland's system limiting Gannon-Doak's threat?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c64gnpvdld40o?at_medium=RSS&at_campaign=rss",
-      "description": "As Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most exciting assets.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-16T07:09:40+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/a4645c10-e106-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "What do Scotland do about 'scunnered' Gannon-Doak?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c64gnpvdld40o?at_medium=RSS&at_campaign=rss",
-      "description": "As Scotland prepare to conclude their Nations League group campaign in Switzerland, there are concerns about how new head coach Sebastien Pocognoli is utilising one of his most exciting assets.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-16T07:09:40+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/a4645c10-e106-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Clyde ready for 'heavy metal football' as rock band sponsors club",
@@ -450,14 +490,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/254a/live/2acf9930-ded3-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Transfer Tsawa in afrondende fase: Club betaalt 6 miljoen euro voor Zwitserse middenvelder - HLN",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeE9NNXBDbE13YmtId1gwNXRrTHZOYUpRN2RHcGVkbjV1elJ6SGwtYWR3X3ZuSkhCcDNSRWVwb0F6UWpwMGNuZTBzV0VZWi1uWVlOZmxyTTlYNjZVSHpHVWtSZWdsM0Zua2VQVmp3NTc4cGNpNFF1eDloMFlxdTV0SFZ2c0tnX1d3MUUyOGhaalRJVF9uRnJPOFFKQjNlZ1NaVE5HclF6YlhMVXhzQ290eG5aUzhyeUlELUE5RFY1eVB2eEJ3bzI5MUl3?oc=5",
-      "description": "Transfer Tsawa in afrondende fase: Club betaalt 6 miljoen euro voor Zwitserse middenvelder HLN",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-16T05:02:16+00:00",
-      "image": ""
-    },
-    {
       "title": "How did England cling on against Spain and what did Tuchel do differently?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo?at_medium=RSS&at_campaign=rss",
       "description": "Trying to protect a lead in the closing stages, England have been here before - so how did they cling on against Spain?",
@@ -474,28 +506,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b361/live/48cfe320-e146-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Football Daily",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pn5rdk?at_medium=RSS&at_campaign=rss",
-      "description": "Reaction to England’s 3-2 win over Spain in the Nations League.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-15T23:16:00+00:00",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
-    },
-    {
       "title": "‘Leve Mark van Bommel’: Nederlandse trainer doet gouden generatie in België vergeten - pzc.nl",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVhsekEwQUJIQlJNdWhSUmthek05T19CUkVkeUZodzhNWE9XWVIyaHJLVHZxNjN0bWhpQzhLYUlhQkJWaVhfakx2Q0poWHBLOWpNNVJUeE41d1cxTm1LWVRtcWRPNGNyVE54dmVoMDJvTlA5ckhCd1liSzVnZW1yQXhzVXVjV3lja09lb25jQ1lFM0NKbkFsNWpuOVItZ0lNVUVBcjlQZ0xVMXF6Vkg3V1Z6Wkt1UTVIYXc?oc=5",
       "description": "‘Leve Mark van Bommel’: Nederlandse trainer doet gouden generatie in België vergeten pzc.nl",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-15T22:54:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Papers: Guardiola to reject USA approach to replace Pochettino",
-      "link": "https://www.skysports.com/football/news/11095/13612630/pep-guardiola-usa-approach-to-replace-mauricio-pochettino-to-be-rejected-by-ex-man-city-boss-paper-talk",
-      "description": "The top stories and transfer rumours from Monday's newspapers...",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-15T22:45:00+00:00",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
     },
     {
       "title": "Is Trafford England's new No 1 after Spain heroics?",
@@ -520,14 +536,6 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-15T21:52:00+00:00",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-thomas-tuchel-england_7407578.jpg?20261116081535"
-    },
-    {
-      "title": "Ten-man England hold on to claim famous win over Spain",
-      "link": "https://www.skysports.com/football/spain-vs-england/report/554117",
-      "description": "England withstood a Spain fightback after Elliot Anderson's red card to secure a famous 3-2 victory and finish above the world champions at the top of their Nations League group.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-15T21:45:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-ezri-konsa-england_7407324.jpg?20261115211138"
     },
     {
       "title": "Arsenal latest: Dowman becomes England U21s youngest-ever starter",
@@ -594,22 +602,6 @@
       "image": ""
     },
     {
-      "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
-      "description": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-15T18:27:08+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d041/live/dc9e92f0-e127-11f1-9d32-63e01ae9cf36.jpg"
-    },
-    {
-      "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
-      "description": "Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-15T17:56:57+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b0/live/8883ed70-e11b-11f1-a7a2-7bb21fac8f0b.jpg"
-    },
-    {
       "title": "Speler-trainer Nick Carrez schiet ATO naar verlossende driepunter: “Winnen is de beste remedie om wat rust en ademruimte te creëren” - HLN",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOcFhqOFZ2OEJzazZsYzBld1NhWHNVa0RxVUpoX3QwOXF4eC1wbm1Gal81b0kzNm1aOHpRX0loYS1ERGc3bTR3RTFWTmNKejNGb3p5QTliSEY0T0llQVNuTHJxY1RLTWdfdnlpZnJoQWo5S2pkYVphN2xKZURRWk9LTWFqZm96d0VZWXBQNUpBUjZqMjI0X0JBdEZ4c1RDOHhpTkI5ZDYxVm9sdldLcnBLM2JpNWluR0F0T1ZlT3ZtcjA4b2l6dHJrWVBuWVhNWGREc2NhckxKTjN5YWZjNmlqQTZCalJrVXVwVU5ITXdEdld3RVh6RnFLTEc2cFZzUk0teWk3dzhSUQ?oc=5",
       "description": "Speler-trainer Nick Carrez schiet ATO naar verlossende driepunter: “Winnen is de beste remedie om wat rust en ademruimte te creëren” HLN",
@@ -639,6 +631,14 @@
       "description": "‘Dennis Man lijkt deze winter te gaan vertrekken bij PSV’ Voetbal4U.com",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-15T17:15:02+00:00",
+      "image": ""
+    },
+    {
+      "title": "Opvallende transfer van Sem Steijn lijkt uitgesloten: 'Kansloos verhaal' - FCUpdate.nl",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRk55UTJ2TUczLUZYNUoybHpoa1RKVjllTDFHSC05blF3TGR0SVBTWGxZN0RPX3RJazJENlhJV0s1blIxR2FmNXRSMU5GTHJudmNLNndOR2hmVHpvU1pJWVBQb1p0THpYYUZMaEJ4XzkzbUUtbVEydGRzaHpsQWdEYUFQcG5LQThFQXdWUnV0a20tNEc5U0ZJ?oc=5",
+      "description": "Opvallende transfer van Sem Steijn lijkt uitgesloten: 'Kansloos verhaal' FCUpdate.nl",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-15T17:14:00+00:00",
       "image": ""
     }
   ]
