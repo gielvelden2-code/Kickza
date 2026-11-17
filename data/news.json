@@ -1,21 +1,77 @@
 {
-  "updatedAt": "2026-11-17T16:15:47.335425+00:00",
+  "updatedAt": "2026-11-17T17:24:42.986866+00:00",
   "articles": [
+    {
+      "title": "Last chance to vote for BBC Women's Footballer of the Year 2026",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+      "description": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-17T17:13:24+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Swansea in fight to keep Matos amid Strasbourg interest",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
+      "description": "Vitor Matos says farewell to Swansea City's players and staff as he closes in on a move to Strasbourg.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-17T16:52:59+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1526/live/72a6b0c0-e1f5-11f1-ac6e-e9777cdcbb4f.jpg"
+    },
     {
       "title": "FC Utrecht financieel in de problemen: broekriem aanhalen en miljoenensteun nodig - De Telegraaf",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPb21fZmlVR1JybHJlYkpKdExkbVBFWmhkaXN6bnBXZE13cFY5NldmbzV6UUlJSEtEcEpYU1AtV3FrbVd3WUNWMjM2eGl0cjJrRWRrOXZzMHRrRFZVbUJYZXVuTTc0MnhIODBvZ05OcHQ1X0YtVzEyMWpmWWpZdDVMRWF4LUFZVGxhd2lCRFgyZ2huTTA5QnhRTG9JWFZMQlpPSUc5dk5Yd2tsWUNaZGU3NGxxRU9IcVY1bXZvVWowNTRTa2VYMTlGSndHMnB5V3QzVUJsVXE2OEs2TGl5bDluTHlwMGNMUl90dTlFYlZ0ejdLWWJyT2hZS1FEY1Z6QQ?oc=5",
       "description": "FC Utrecht financieel in de problemen: broekriem aanhalen en miljoenensteun nodig De Telegraaf",
       "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-17T16:04:58+00:00",
+      "pubDate": "2026-11-17T16:47:45+00:00",
       "image": ""
     },
     {
-      "title": "Harry Kane zorgt voor boost bij Club Brugge - Voetbal24.be",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MMFZIYnA5QUhSYTFsR0NlbHJIRHpSS3N6Y0NxaEkxUi1nWTNxdDB5aDR0aVZ1SlhBeDdyOXY0Sm5MWWVNMTZfcW1HdTJkMHo0WlhqNEs3UVdQM0FfaU1lYXAxeURKdUtLX0N2MFRLLU9hNE96b25UZXNKd3p5dVE?oc=5",
-      "description": "Harry Kane zorgt voor boost bij Club Brugge Voetbal24.be",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-17T16:00:00+00:00",
-      "image": ""
+      "title": "Arsenal double winner Storey dies aged 81",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-17T16:45:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-storey-arsenal_7408943.jpg?20261117164914"
+    },
+    {
+      "title": "Strasbourg close to appointing Swansea boss Matos in £5m deal",
+      "link": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-17T16:35:00+00:00",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-vitor-matos_7311346.jpg?20261117125438"
+    },
+    {
+      "title": "Arsenal close to new deals for Raya, Timber and Hincapie",
+      "link": "https://www.skysports.com/football/news/11095/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts",
+      "description": "Arsenal are close to finalising new deals with David Raya, Jurrien Timber and Piero Hincapie.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-17T16:23:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-raya-timber_7408927.jpg?20261117162721"
+    },
+    {
+      "title": "Senegal become first side to book Afcon 2027 spot",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
+      "description": "Senegal become the first side to qualify for the 2027 Africa Cup of Nations, while Egypt miss the chance to join them and Nigeria suffer another setback.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-17T16:18:05+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7391/live/363a56f0-e29a-11f1-8dda-8925a81c3da5.jpg"
+    },
+    {
+      "title": "'World Cup is unfinished business for England,' says Wiegman",
+      "link": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-17T16:16:00+00:00",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-sarina-wiegman-england-women_7380562.jpg?20261019105522"
+    },
+    {
+      "title": "York City player pleads not guilty over alleged punch of Rochdale fan",
+      "link": "https://www.bbc.co.uk/news/articles/c60mdvd4vpy4o?at_medium=RSS&at_campaign=rss",
+      "description": "Hiram Boateng has pleaded not guilty to a public order charge at Manchester Magistrates' Court.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-17T16:03:15+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f106/live/1294a7e0-e296-11f1-8dda-8925a81c3da5.jpg"
     },
     {
       "title": "FA wants to host Nations League finals in England",
@@ -34,11 +90,27 @@
       "image": ""
     },
     {
+      "title": "Hoe Go Ahead Eagles al zestien jaar hofleverancier van topkeepers is - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaHhSOE05OUM1QkY1U3dTYnBvd2duUzlMNi1tLVJBQmwtVHlxejA2cVFXNVlDWDlrNUVmSHVxbmxJcjNaWXlDUUZMVFpPRV9RTEswelZxNmF1dWtYcmlSTjZCSHZKZW5KZkVVbkM0WTEzOFJhOTcyUllRNWF6aXRvYnNOdVNwQWhnUEdOdkVWSHhKdmVSVS1oSjlEUkU0YWlYVGlFMWRyd3VTTDl1RVFwLXRSalMtcmZ0Nkc3b3Bsbjg4NFNCOTEtakNoQXU4bEhad1Fvay0taVFYdw?oc=5",
+      "description": "Hoe Go Ahead Eagles al zestien jaar hofleverancier van topkeepers is FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-17T15:28:28+00:00",
+      "image": ""
+    },
+    {
       "title": "FC Utrecht noteerde miljoenenverlies: \"Geen grote transfers gedaan\" - FC Utrecht nieuws, transfers & geruchten | UtrechtFans",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM0doUmpFdUNIQzV6aU9Sb3FJT3pyaHQ1dnRxdko1VWw3RjRZV3VWUF8xNGcxV2NWQnhEdWJYdjgxbURsanZQSmxmd2dOZVhPT3FaZ3g4VHM4TFoyTWFscnlKaXV3NWpvU2thWUJxMjNySUFQUk8tSUtUWXBoTG9DMk4yVTFONlhPODF5RVVLVW9oOVAwU0ZR?oc=5",
       "description": "FC Utrecht noteerde miljoenenverlies: \"Geen grote transfers gedaan\" FC Utrecht nieuws, transfers & geruchten | UtrechtFans",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-17T15:25:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Kevin De Bruyne naar PSV? Transfer en nummerbord in Oisterwijk - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOOW5jUWZaZ1FUNmp5ZXZjdzJJUU5FUElsRElaNG9tbzVIWjdBNmtpaFFpdmNWVklmMmROYWl3Y3R0OG03Qm1hYTdBdFpyc19UYkZvdm43NVRaU2FmYTY2WjlxUEVtYlNBLW9kb01XaVl4VFlSMFZRWjdUdjlxWGpreHpIS09oTUZuVVJIMjl3T0RZeWZTTE84aXlUMGV5Q2J0aW5fcHFjWFduZk9HZF9VLUFudUlTR2Z5Y3o2TWZCN0t3OHNkR2xGZ0VmdVM5OU10Y21qcG84SGltVjNMN0ZQT1Y5U1RYR01VV1Y2dXoycmZIOW1CbGZLTkpwQVhDX2NzVllpNl90MFBjVUN0dnNxVzhMZ0JTZw?oc=5",
+      "description": "Kevin De Bruyne naar PSV? Transfer en nummerbord in Oisterwijk De Telegraaf",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-17T15:09:35+00:00",
       "image": ""
     },
     {
@@ -48,14 +120,6 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-17T14:36:00+00:00",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-wayne-rooney_7403894.jpg?20261117152853"
-    },
-    {
-      "title": "Kevin De Bruyne naar PSV? Transfer en nummerbord in Oisterwijk - De Telegraaf",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOOW5jUWZaZ1FUNmp5ZXZjdzJJUU5FUElsRElaNG9tbzVIWjdBNmtpaFFpdmNWVklmMmROYWl3Y3R0OG03Qm1hYTdBdFpyc19UYkZvdm43NVRaU2FmYTY2WjlxUEVtYlNBLW9kb01XaVl4VFlSMFZRWjdUdjlxWGpreHpIS09oTUZuVVJIMjl3T0RZeWZTTE84aXlUMGV5Q2J0aW5fcHFjWFduZk9HZF9VLUFudUlTR2Z5Y3o2TWZCN0t3OHNkR2xGZ0VmdVM5OU10Y21qcG84SGltVjNMN0ZQT1Y5U1RYR01VV1Y2dXoycmZIOW1CbGZLTkpwQVhDX2NzVllpNl90MFBjVUN0dnNxVzhMZ0JTZw?oc=5",
-      "description": "Kevin De Bruyne naar PSV? Transfer en nummerbord in Oisterwijk De Telegraaf",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-17T14:24:35+00:00",
-      "image": ""
     },
     {
       "title": "Rooney says he considered taking his own life at Man Utd",
@@ -88,14 +152,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-17T13:09:23+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f33/live/1e7eaf70-e286-11f1-b166-176de21e2352.jpg"
-    },
-    {
-      "title": "Swansea in fight to keep Matos amid Strasbourg interest",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
-      "description": "Vitor Matos is understood to have indicated he is interested in leaving Swansea, who have had an official approach from the French top-flight club.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-17T13:04:18+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1526/live/72a6b0c0-e1f5-11f1-ac6e-e9777cdcbb4f.jpg"
     },
     {
       "title": "Man convicted for racist abuse of Real Madrid's Mbappe",
@@ -146,18 +202,10 @@
       "image": ""
     },
     {
-      "title": "EFL latest: Matos set to leave Swansea for Strasbourg",
-      "link": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "title": "Chelsea latest: Estevao scores in dominant Brazil win",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
       "source": "Sky Sports",
-      "pubDate": "2026-11-17T12:00:00+00:00",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-vitor-matos_7311346.jpg?20261117125438"
-    },
-    {
-      "title": "Chelsea latest: Estevao scores in dominant Brazil win",
-      "link": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Premier League",
       "pubDate": "2026-11-17T12:00:00+00:00",
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
     },
@@ -210,11 +258,19 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-ella-toone-aggie-beever-jones_7408856.jpg?20261117152654"
     },
     {
-      "title": "FC Utrecht lijdt verlies ondanks Europa League-deelname - ZeelandNet, startpagina van Zeeland",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnUxNWF1Q2hDOEpKTDlrRlU5bnJyWlhFV3FtUjV4X05UM202dDFBOXJFS25RMHA2clJUVG9mclJaNGJUSllFTEZndjhHYzZsbmJNOFZ2V3VpVTkyVm51ejFFazZkOGptMzhqcXZOd2hKWVVyS3JrYWt0YTVqUTdrMGIxS0ZwYjY5em1wLTFkcHVBUQ?oc=5",
-      "description": "FC Utrecht lijdt verlies ondanks Europa League-deelname ZeelandNet, startpagina van Zeeland",
+      "title": "Napoli hakt knoop door over bod van PSV op De Bruyne - Voetbal24.be",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWQ0QkJ2bFhjeHowWHV2amctWF9YamdqOGpVZWRYTVZMZTdHUW1ja1hwQU5UQWpSSFkwY0FVd012bWpUMUpBWU5leVhwazFrUUJMVkRZUmhTRVp2TnF1c0E2ZnJER3dnTjY3VFBSRVdvM0Exa2ZjVHVGTHZscWdwTFltOUc0TU91akRj?oc=5",
+      "description": "Napoli hakt knoop door over bod van PSV op De Bruyne Voetbal24.be",
       "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-17T10:46:15+00:00",
+      "pubDate": "2026-11-17T11:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "FC Utrecht lijdt bijna 4 miljoen euro verlies ondanks Europa - Nieuws.nl",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUWJ3bEZCeGpYM0hVUDY3SFhGWHhuS0J0eUZaekk4aE9YSTRmblFUV01SeEFpX3VuY3JSbkptLWNqMXR0LUFVcDAtdGhJU2VNc0dsRjEtYndmakEyaXpWRHd5ZVFqRVZabWNxaUNvbnBnU1NHeFZ3bk9NM1ZRdnJXdFU2X19zdXM4?oc=5",
+      "description": "FC Utrecht lijdt bijna 4 miljoen euro verlies ondanks Europa Nieuws.nl",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-17T10:44:18+00:00",
       "image": ""
     },
     {
@@ -250,20 +306,12 @@
       "image": ""
     },
     {
-      "title": "Xavi hekelt mentaliteit Oranje en biedt fans excuses aan: ‘Dit was een schok voor mij als trainer’ - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXRkaWl4ZEhmY01UTkNsT0I3aVF0V1NyV3NZNllpazdZVWxzd24ydjdLc2JwWUp3NnBmaGVXYmZYcldtdGhseWpLcjZJQzBKU3dKNGRhX1F0NXJDdER3OVZnLTRzdWZEWGVRdUFyRUUxZV9WNHlaVzdFVWVrSmRneTdjVFZkcW93RnlPSGotYVY1UHcybTVyNXR1S1hCM213WjRoNkxZcnJPNVR5ckIxNEZpWkRCdzB4T2VNTGZvUEJQVFg0bTVFS0pNWQ?oc=5",
-      "description": "Xavi hekelt mentaliteit Oranje en biedt fans excuses aan: ‘Dit was een schok voor mij als trainer’ AD.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-17T10:05:39+00:00",
+      "title": "PSV brengt openingsbod uit op Kevin De Bruyne (35) - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTdRQjBwblcyZzd0Y21QbVFTcWZLR0hGMEFjdnVickxxYnkyZlBwcnF6OGYwNkZNZV9wMFExLXZ5dVVpQ3ZidFNXUng3QmxmNjFTcVRqSXY4ckNXYTVrZ3VBQUJoSlozbnJMaWdMNTRTUFJXN3ZFVXlMbGM4cll3emxWdGQtSFJRYlNsVVlRbm9sYUlVNGozTE8zMlRPTXhSdERaWQ?oc=5",
+      "description": "PSV brengt openingsbod uit op Kevin De Bruyne (35) De Telegraaf",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-17T10:11:05+00:00",
       "image": ""
-    },
-    {
-      "title": "VOTE: There's a new Bond... but who is the best (00)7 in PL history?",
-      "link": "https://www.skysports.com/football/live-blog/11095/13197324/premier-league-team-news-injury-latest-suspensions-previews-and-fantasy-football-live-updates",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-17T10:00:00+00:00",
-      "image": "https://e1.365dm.com/22/05/1920x1080/skysports-cristiano-ronaldo_5765711.jpg?20220509072444"
     },
     {
       "title": "Mowbray steps down from Blackburn due to health issues",
@@ -272,6 +320,22 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-17T10:00:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-tony-mowbray-blackburn_7408470.jpg?20261117101155"
+    },
+    {
+      "title": "Lewandowski lighting up Chicago Fire as MLS club makes big plans",
+      "link": "https://www.skysports.com/football/news/11095/13610420/gregg-broughton-interview-chicago-fire-sporting-director-on-robert-lewandowski-and-a-club-trying-to-find-an-edge-in-mls",
+      "description": "Chicago is a sporting city. “When the Bears play, you really notice it,” Gregg Broughton tells Sky Sports . “When the Bulls are winning, you notice it.” This year, the White Sox made the play-offs. “The whole city stopped.” The soccer team ",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-17T10:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-robert-lewandowski_7408231.jpg?20261116225032"
+    },
+    {
+      "title": "VOTE: There's a new Bond... but who is the best (00)7 in PL history?",
+      "link": "https://www.skysports.com/football/live-blog/11095/13197324/premier-league-team-news-injury-latest-suspensions-previews-and-fantasy-football-live-updates",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-17T10:00:00+00:00",
+      "image": "https://e1.365dm.com/22/05/1920x1080/skysports-cristiano-ronaldo_5765711.jpg?20220509072444"
     },
     {
       "title": "Pochettino says he would tell Guardiola to take USA job",
@@ -288,14 +352,6 @@
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-17T09:25:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Arsenal latest: 'Agreement reached over new Raya contract'",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-17T09:15:00+00:00",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
     },
     {
       "title": "'Switzerland didn't have better players but were better team'",
@@ -362,14 +418,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc0/live/2037cc60-c261-11f1-a202-b3a903690ffe.jpg"
     },
     {
-      "title": "'Monaco unrest as they prepare to face Hearts' - gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6m2le1784m7o?at_medium=RSS&at_campaign=rss",
-      "description": "Speculation surrounds the future of two top Monaco players as they prepare to face Heart of Midlothian, while the Scottish Premiership's top summer free agents are highlighted.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-17T07:10:09+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfc6/live/73afe1c0-e255-11f1-99a1-253766e7ad8b.png"
-    },
-    {
       "title": "Data bewijst gelijk van FC Twente: Aske Adelgaard nu al beter dan Mats Rots - FootballTransfers.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWVRMUXVobHlnbUlNSXRJT3FVTDFLT2JpcW94VzhCOW9JS1FMU2RHb3dQTWdrdmh6MHAxbkxiQzhqandsa242Z2dVbHhsbjdoV3VaNTY0dGljMHZZMUhuZkNSVS1JYjdYNlZGblRWck13Q1NZMUtTR0JOSE1kM0hVM0ZJUUVJWGF3ZVhfdkxxYklCd2U5MjRiRkJBSXlsdXR5cExyZVdJYjQ1aUIxZW1hNXhyYWZiX1lSN1hrWGdmU0UzM3ZRckJzOVNER0tYRUhwLVBsMFN2ZVIxZDA?oc=5",
       "description": "Data bewijst gelijk van FC Twente: Aske Adelgaard nu al beter dan Mats Rots FootballTransfers.com",
@@ -394,14 +442,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/033a/live/effd2720-ddf4-11f1-8445-15eb55286f71.jpg"
     },
     {
-      "title": "Nijhuis ziet negatieve trend in voetbal: \"Het gaat soms te ver!\" - FC Utrecht nieuws, transfers & geruchten | UtrechtFans",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWtkZUdSR3NIZmkzQmxlVzNMRXROQXNZVEd3bFd6cjA2dlZiT3ZqVGxSbVFTc1BtRTBaRVVSR0VjMkFILVNrUTdrQUJ2bk1nTWMwdlRUSFZSWDhsSmR2SVNqSUFBTzhaOUpFdHBkYWlXcnNMbXpFUzZPdEx0Q0Z2TVlUWkpnbFFXaU5ZY19peEhSUQ?oc=5",
-      "description": "Nijhuis ziet negatieve trend in voetbal: \"Het gaat soms te ver!\" FC Utrecht nieuws, transfers & geruchten | UtrechtFans",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-17T06:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Life after Ronaldo - Portugal face post-Bale Wales",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckvg29vler1no?at_medium=RSS&at_campaign=rss",
       "description": "As Portugal adapt to life without the great Cristiano Ronaldo, they face a Wales side further along in their post-Gareth Bale era.",
@@ -418,12 +458,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "Pocognoli: Heavy Swiss loss not true reflection of Nations League encounter",
-      "link": "https://www.skysports.com/football/live-blog/11095/13551944/scotland-football-news-live-updates-schedule-and-analysis-of-steve-clarkes-side",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-16T23:43:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-scotland-sebastien_7408198.jpg?20261116220749"
+      "title": "What's the story with Pocognoli, is it now time to go?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
+      "description": "The sense of drift in this Scotland team can't go on much longer. Is it too late for Sebastien Pocognoli to win back players and fans?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-17T00:19:58+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abe/live/50ce4e30-e21e-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "title": "Pocognoli wants patience, but Scotland 'don't have time' - Robertson",
@@ -432,6 +472,14 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-16T22:36:26+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdd/live/1fc24180-e20e-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "Xavi hekelt mentaliteit Oranje en biedt fans excuses aan: ‘Dit was een schok voor mij als trainer’ - AD.nl",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXRkaWl4ZEhmY01UTkNsT0I3aVF0V1NyV3NZNllpazdZVWxzd24ydjdLc2JwWUp3NnBmaGVXYmZYcldtdGhseWpLcjZJQzBKU3dKNGRhX1F0NXJDdER3OVZnLTRzdWZEWGVRdUFyRUUxZV9WNHlaVzdFVWVrSmRneTdjVFZkcW93RnlPSGotYVY1UHcybTVyNXR1S1hCM213WjRoNkxZcnJPNVR5ckIxNEZpWkRCdzB4T2VNTGZvUEJQVFg0bTVFS0pNWQ?oc=5",
+      "description": "Xavi hekelt mentaliteit Oranje en biedt fans excuses aan: ‘Dit was een schok voor mij als trainer’ AD.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-16T22:31:00+00:00",
+      "image": ""
     },
     {
       "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
@@ -448,14 +496,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-16T22:06:32+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/833e/live/92b22870-e201-11f1-ba8d-01314a590f72.png"
-    },
-    {
-      "title": "Record-breaker Robertson speaks out after Scotland's bad loss to Switzerland",
-      "link": "https://www.skysports.com/football/switzerland-vs-scotland/report/554127",
-      "description": "Andy Robertson created Scotland history, then delivered a scathing assessment of their Nations League collapse against Switzerland.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-16T21:35:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-scotland-robertson_7408181.jpg?20261116215135"
     },
     {
       "title": "Football Daily",
@@ -512,14 +552,6 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-16T19:28:00+00:00",
       "image": "https://e1.365dm.com/26/06/1920x1080/skysports-craig-bellamy-wales_7263098.jpg?20260601163126"
-    },
-    {
-      "title": "'Outstanding' Dowman scores historic winner as England U21s beat France",
-      "link": "https://www.skysports.com/football/england-u21-vs-france-u21/report/578798",
-      "description": "Max Dowman became England Under-21s' youngest ever goalscorer by grabbing a late winner in a 3-2 victory over France at Ashton Gate.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-16T19:07:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-dowman-england_7408188.jpg?20261116220011"
     },
     {
       "title": "Frank nieuwe trainer Quinten Timber bij Crystal Palace - ZeelandNet, startpagina van Zeeland",
@@ -608,38 +640,6 @@
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-16T14:31:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Leuven-directeur woedend op oud-PSV-middenvelder: 'Let them, fuck them' - Headliner.nl",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSFllOWExZ1UzX3AwckxTZlEzRFFHenQzcEUzRzJBSzg3V0ZnWUNyWXNWWEU4UkpkaGduVEIwS0dscjhTRTJ3LW1hU0p2cnBLLU5EOVRnUUhBT2ROVmlVZUJDeXVReEFTX3F0Yl9FUnFjTEhXZS04VnplRjJLZC1ZMTg5R2otQS1USldVMk83V0IxTHBUQUtGT25XZVlsQWhSY01Xa1A2WE51dXpIa3NBV05fVW9HQ3NOY3gwSk1qaDd0VkVZZUE?oc=5",
-      "description": "Leuven-directeur woedend op oud-PSV-middenvelder: 'Let them, fuck them' Headliner.nl",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-16T13:17:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Has Trafford replaced Pickford as England No 1?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss",
-      "description": "James Trafford was given a chance to stake his claim as England's new number one - and away to the world champions, he absolutely took it.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-16T13:01:41+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0930/live/36ea8540-e1b7-11f1-9a3f-99aca912798e.jpg"
-    },
-    {
-      "title": "Kaveh Q&A: YOUR questions answered on Man Utd, Man City, England and more",
-      "link": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-16T13:00:00+00:00",
-      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-football-kaveh-iran_7189016.jpg?20260311135949"
-    },
-    {
-      "title": "McAteer 'intelligence' earns praise from Ipswich boss",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmrlg3dgyp50o?at_medium=RSS&at_campaign=rss",
-      "description": "Ipswich Town boss David Wright praised the football intelligence of Wales international Mary McAteer following her first goal for the club.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-16T12:47:39+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e5/live/cdf90280-e1b3-11f1-9a3f-99aca912798e.jpg"
     }
   ]
 }
