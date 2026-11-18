@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-11-18T07:39:21.412493+00:00",
+  "updatedAt": "2026-11-18T09:22:48.521147+00:00",
   "articles": [
+    {
+      "title": "BBC Women's Footballer of the Year 2026 to be named on 13 December",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+      "description": "Voting has closed for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-18T09:00:06+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Arsenal latest: Gunners on a contract roll - who could be next?",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-18T09:00:00+00:00",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+    },
+    {
+      "title": "Japan FA nominate Tashima as third Infantino challenger for FIFA presidency",
+      "link": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-18T08:50:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-japan-fa-fifa_7409322.jpg?20261118085252"
+    },
+    {
+      "title": "Manchester won't always be blue - Pochettino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
+      "description": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-18T08:42:28+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2794/live/b8059f20-e324-11f1-baab-4b3b35d174b7.jpg"
+    },
+    {
+      "title": "Rangers explore return for Cerny - gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq702kr3xd38o?at_medium=RSS&at_campaign=rss",
+      "description": "Two familiar wingers linked with Rangers returns in January as SFA redraft proposals to address youth development crisis...",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-18T08:15:37+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45f5/live/17ebea90-e328-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "title": "Listen: What needs to change for Pocognoli and Scotland?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pnkk9j?at_medium=RSS&at_campaign=rss",
+      "description": "What needs to change to turn Scotland’s fortunes around?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-18T08:00:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnkkb9.jpg"
+    },
+    {
+      "title": "Wiegman lays down Lionesses gauntlet - but whose spot is under threat?",
+      "link": "https://www.skysports.com/football/news/11095/13613373/sarina-wiegman-lays-down-gauntlet-to-england-players-looking-to-make-world-cup-squad-but-whose-spot-is-under-threat",
+      "description": "England haven't qualified for the World Cup yet but Sarina Wiegman has laid down the gauntlet to anyone that wants to make her squad.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-18T08:00:00+00:00",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-sarina-wiegman_7268264.jpg?20260608120928"
+    },
+    {
+      "title": "Transfer in januari: 'AC Milan betaalt jackpot voor Tresoldi' - Voetbal24.be",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmVsVkc4QTZaeFJyV01MNDlHV1VsRzFtRzlfdVpOU1N0aG9wdE96WEN5bEdITGxkNENNdFVqQUo2dkdwekplTkJkemZrdFVoa0o4clhiUXV2RVM5YzFBYTlPbUFHQlBWZzVsb1MzSVBvQ0h2T1laWGhSNzF5My1XS0lEQ0pUMmlGbXF5dFZYd2Vob3c?oc=5",
+      "description": "Transfer in januari: 'AC Milan betaalt jackpot voor Tresoldi' Voetbal24.be",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-18T08:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Buitenspel: voetbalanalist Wim Kieft (64) deelt prachtig privénieuws - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2hoREV6elhuYmJxZzVTUElId2lLRXQtWDZydTVCUVNkb3BzazB4YnljNUNSMkt6Yy05ckREc3Y1bDJUeGhJd3R3a0FkYjh3OUd5RkZKLVFpOUV5d0Rnd2hmakNaRWJQb0QwRjFHN3JrTjk4bmJSTHBjNnY2bnJPdkh6WXZ2ejNQV0pGV1p3?oc=5",
+      "description": "Buitenspel: voetbalanalist Wim Kieft (64) deelt prachtig privénieuws VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-18T07:47:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "Massien Ghaddari solliciteert bij FC Utrecht nadrukkelijk naar speelminuten - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWkJJVFFnc1dzd3dyZjBCVkFmdGRZaXVxM0JLckYyZklPWXlzRGswdEpkaE0xZEgwU1pmVDVOS3NRWVo5STBIY29vVXQyZ2kxQnY2RmRRcnd3ejNVVVoxakdiVFJWNHUtWGJZWHpSZmpyMXhZeW9ZMWlid3FLX1VNUUhyMFk0OHRkQzk2RzA1UzhhVGd6Sk1Ia3kwRDdZU0FSMkx2aXZBMkNlM0g0Tk1ST2pMdk9aWnd2d1hSZlFQcVVpQk5hV19ZQXh6eDIzSUlJLURYcEZlOWZqa1ZURDFYX01Pdw?oc=5",
+      "description": "Massien Ghaddari solliciteert bij FC Utrecht nadrukkelijk naar speelminuten FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-18T07:46:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "Promovendus Voorde-Appelterre is revelatie in tweede afdeling: “Als we voorsprong komen, geven we weinig punten weg” - HLN",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQUN1LWNoZDIyaGlrVnFPV1ctTjFEaHBiblF6ZTl2SHBJUm9vZEZHQ3N0UGRSNlp4ZkItS0FDTS1ZZENVenN5WlZNZHpSQWJUWEowaVowMXREV0NMT2ZLemMyUTVCVjhWT1BuQXZ2ZG9GTGVQZ0NIVEdoaXhFeEFrYllRWExMSUZ0bkh6SGxGMXpIR2Z3RDhFcVJSX2xBT1VvdXVqZWtMTklvU3BDX2J4UmhmNTNYTjUyYlJ2dGVmUURQTnBKYWFUTm05T3Q1dkVGTzZTSEYwMmFHSmJjZ1E0cGV1aFNSUG5UQ3hBclJsR20?oc=5",
+      "description": "Promovendus Voorde-Appelterre is revelatie in tweede afdeling: “Als we voorsprong komen, geven we weinig punten weg” HLN",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-18T07:39:24+00:00",
+      "image": ""
+    },
+    {
+      "title": "ACV eindigt samenwerking met trainer Paul Matthijs - Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnRCQTQwdWQ3bHZkdms1dUFIeURKQmZfdVQzV0VHeWNrcmhSbnRfYXg1dnBYd3R5NkF5Uk54aXdVUjlnUWZoZG8wRl9xS3R2bHVVaFBSSU9vWHR2eEFJYWwxd1NZZko2UXRSZy1BZHluWDAxSDJnT3g0aHpidlQ4cTdYTDFFWm5BcGRnOFJxUkhoNnMt?oc=5",
+      "description": "ACV eindigt samenwerking met trainer Paul Matthijs Head Topics",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-18T07:35:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Marcel van de Kamp mikt met Nieuw Woensel op promotie: \"We hebben de kwaliteiten om verzorgd voetbal te spelen\" - VoetbalBrabant.nl",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWUxvV1I4RnZmTE5NNUQ1dVBWelF3Sk9YTGhocDFCYWxucmVMNVlodEdCZEpRWUNmckJLN0ZkTTVTaWVmNWx3Z2M0N2FWdGNlamplM1B2NEtFbnJWTE0wMF9PdUhkZThSQl8xT0pwVGdRUmQwbXRCM3Ayb2wwYlhDNk1ad1MwZk9sc2xQcE1HanMxc2RTVzFSYkpGMDJPU2NBeTJJVmVEbkljYmd2Z3lPbHNJY0RSTS1PVFNCenM5a004RUlGQ1VhNzlSNF96UGpFR1ZtRDFleWVqRmdxWlBKag?oc=5",
+      "description": "Marcel van de Kamp mikt met Nieuw Woensel op promotie: \"We hebben de kwaliteiten om verzorgd voetbal te spelen\" VoetbalBrabant.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-18T07:30:50+00:00",
+      "image": ""
+    },
     {
       "title": "From one of Ajax's future stars to quitting football for music",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro?at_medium=RSS&at_campaign=rss",
@@ -42,15 +146,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "title": "3 spelers van Feyenoord mogen per 1 januari in gesprek met nieuwe club - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVGpiX016T01WekNNZ2h2MzgxbVNFanRvSnFMdFBsV1VBN1lmZ2RQNnM0SklFVHh6cXU1aHNLVHV6MTUwUTk0SDZkaWNwVmJCbmh1Vzg2NjhpOXdKZUxWdnhWVTM4MF9zNzgtMFhQWmZzN0VrallLTUV5S2ZWb1JEd0lxRXgtd0picnBsUWZzUUVvMnNtUEp4ZG1GVUlpQ3FQc0lkNV9hWmE4M3JJSGRDaWd4eHVJWGRnckJVMWwwOHNKd1BjTHNfUjRXbmJveVROMVM1ZEZEclM1YlZD?oc=5",
-      "description": "3 spelers van Feyenoord mogen per 1 januari in gesprek met nieuwe club FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-18T06:40:15+00:00",
-      "image": ""
-    },
-    {
-      "title": "The 3pm football blackout: outdated or still relevant in 2026?",
+      "title": "The 3pm football blackout: Outdated or still relevant in 2026?",
       "link": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
       "description": "After 60 years, is time finally running out on the 3pm blackout in football?",
       "source": "BBC Sport",
@@ -63,6 +159,14 @@
       "description": "Treurige neergang voor Ajax-wonderkind Gabriel Misehouy FootballTransfers.com",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-18T06:02:02+00:00",
+      "image": ""
+    },
+    {
+      "title": "⚽ 'Daar moeten we heel goed naar kijken' Jong Oranje plaa... - Sportnieuws.nl",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOUVJRHRWbzZ0NXhrcUlFRzZVSEl5dXZDRG1yTWc2eVVzLVlUeG9wdFI1ZlRXQ1Q4QWpHSE1ZbVlrNHoxRE5COVZHWGNNUERMMlJoZUlUZGwxSmFXMmtjQXFrYU1fYWVmcFNIaWdDbFNUdGpKNmNLR0lKWTcwczNKVV9aRXFkUFpFNllZTEFqb1VlTnQyNUJ5d3JRNUc3ZDJVOTdudVZRUmZaNmV5bm84Y083V3hnM21CN0pGdUJRLWVaeHdsS1JIQ011X3VIZm5la1hJc3ZWQQ?oc=5",
+      "description": "⚽ 'Daar moeten we heel goed naar kijken' Jong Oranje plaa... Sportnieuws.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-18T05:23:56+00:00",
       "image": ""
     },
     {
@@ -234,14 +338,6 @@
       "image": ""
     },
     {
-      "title": "Rode cijfers FC Utrecht vermoeilijkt transfers: \"Zou zomaar kunnen\" - Headliner.nl",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWjRfZjRwTnJvMFVJLWFoN01uMmpWdmVJT056VkpiVjdGdy1kNjdRd25RNmYybVBUM25obFhDTkV3X0VacUREUElBQmJHaF81M3NKSHNoaXAyMGZGczFRendDRHBjT25CWmJ1a3pueVFBYTRaN05kQzFXRkNpNWpId3NVZlFVdmV6eXlRUUpPdktMUC1ycWZ0MHBGdmcwY3A4QkdlU2RNOXhZdVYzUEJLZnhFenNoS2tqWFE?oc=5",
-      "description": "Rode cijfers FC Utrecht vermoeilijkt transfers: \"Zou zomaar kunnen\" Headliner.nl",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-17T20:44:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Rode cijfers FC Utrecht vermoeilijkt transfers: \"Zou zomaar kunnen\" - FC Utrecht nieuws, transfers & geruchten | UtrechtFans",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGhZcW5aSnNwdVdFWVdXOTk3czY0ejVCRDBsUnVqRVVaZ1FUUkdMMkU2NThxa0JIQUZEWEIzazZTTXA0NzU4Qzdud1pHTlRST3VweUxDbjE2MzZGTFcwMzh5X0cta1hnb3hWdUp1Zk15Q1VzOWtfQ2Y4aldIYnFfOUlUVmR2aEdUeloyZFE1b3NlMVF3eThB?oc=5",
       "description": "Rode cijfers FC Utrecht vermoeilijkt transfers: \"Zou zomaar kunnen\" FC Utrecht nieuws, transfers & geruchten | UtrechtFans",
@@ -338,6 +434,14 @@
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-laliga_7396670.jpg?20261104095651"
     },
     {
+      "title": "Ajax kiest even vaak als Feyenoord voor jong talent ondanks oudste selectie - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX2ZBNC1DZW9BeXdpeDkzMXBsSVRDakFfbVUzQ2c4WDZoNlJJOWV5NjVrbk9WdUMtd0VIMGh6d0VQc2dqa1liMlNqb3hKSzJ3QXIwYlBmNjJ3SmwzdGQ3SVFCcUlRTzVKdUtfaFRmQmc0R0dKVkp2aTlVSnE5enBDRU9ES25zSzlCRkNMT2VSZjlHbHBhNFlsTFptMGVIR1ZpQVo5amZqZ2FoOWVwZ2F2LVlOZW0zWHdJS1ppT0hReHR6YjFxckRRMV9peDA2dTFyM0h6bENuV0dxNlpXZ0ctTTM3bw?oc=5",
+      "description": "Ajax kiest even vaak als Feyenoord voor jong talent ondanks oudste selectie FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-17T18:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Arsenal Double winner Storey dies aged 81",
       "link": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
       "description": "Former Arsenal and England midfielder Peter Storey - who helped the Gunners win the Double in 1970-71 - has died at the age of 81.",
@@ -346,36 +450,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2835/live/0a8db170-e2a7-11f1-8226-87dfa5049e9a.jpg"
     },
     {
-      "title": "Last chance to vote for BBC Women's Footballer of the Year 2026",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
-      "description": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-17T17:13:24+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3773/live/8814cc60-dc43-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
       "title": "Swansea boss Matos on brink of Strasbourg move",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
       "description": "Vitor Matos says farewell to Swansea City's players and staff as he closes in on a move to Strasbourg.",
       "source": "BBC Sport",
       "pubDate": "2026-11-17T16:52:59+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1526/live/72a6b0c0-e1f5-11f1-ac6e-e9777cdcbb4f.jpg"
-    },
-    {
-      "title": "Arsenal latest: Gyokeres and Odegaard involved in Nations League goals",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-17T16:45:00+00:00",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-    },
-    {
-      "title": "Strasbourg close to appointing Swansea boss Matos in £5m deal",
-      "link": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-17T16:35:00+00:00",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-vitor-matos_7311346.jpg?20261117125438"
     },
     {
       "title": "Arsenal close to new deals for Raya, Timber and Hincapie",
@@ -554,92 +634,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95fd/live/d0bfe3a0-e2c4-11f1-a9da-01a195e70ea0.jpg"
     },
     {
-      "title": "FC Utrecht lijdt verlies ondanks Europa League-deelname - ZeelandNet, startpagina van Zeeland",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnUxNWF1Q2hDOEpKTDlrRlU5bnJyWlhFV3FtUjV4X05UM202dDFBOXJFS25RMHA2clJUVG9mclJaNGJUSllFTEZndjhHYzZsbmJNOFZ2V3VpVTkyVm51ejFFazZkOGptMzhqcXZOd2hKWVVyS3JrYWt0YTVqUTdrMGIxS0ZwYjY5em1wLTFkcHVBUQ?oc=5",
-      "description": "FC Utrecht lijdt verlies ondanks Europa League-deelname ZeelandNet, startpagina van Zeeland",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-17T10:46:15+00:00",
-      "image": ""
-    },
-    {
-      "title": "Blackburn boss Mowbray steps back over health issues",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss",
-      "description": "Blackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-17T10:40:41+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c590/live/c10bc840-e272-11f1-b19c-7b42f37bea48.jpg"
-    },
-    {
-      "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
-      "description": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-17T10:32:07+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg"
-    },
-    {
-      "title": "Miljoenenverlies dwingt FC Utrecht tot koerswijziging met eigen jeugd - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNU5YdTdtNFRuOGlQY1JYZVVQcF80YldUMmNidVBRaG5jV2dfbHZQNjNaLXJuOHZlNkJCTndUX0NQRFZVR3RSX2JlR2xWdlhpX0F0bHFYbThoUEU5Vm0wZGJuSDVWdFhzYlRzUkFYaWhyWlFZdkZvamxQbWFuQ3Z0ZzVnYWI0Q2Z0Z1Rab0xNVW8wLWxTdXBvWnM5Qkw5eGhtM3lGY01PYklndHpQa2ZIdlk1RWpzNmtvSkswZi1pNC12RDlwR01Xa0R6MklkMFctTVhvdmhMX2I4Wmc?oc=5",
-      "description": "Miljoenenverlies dwingt FC Utrecht tot koerswijziging met eigen jeugd FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-17T10:15:50+00:00",
-      "image": ""
-    },
-    {
-      "title": "Mowbray steps down from Blackburn due to health issues",
-      "link": "https://www.skysports.com/football/news/11095/13613146/tony-mowbray-steps-down-as-blackburn-rovers-head-coach-due-to-health-issues",
-      "description": "Tony Mowbray has stepped down from his role as Blackburn Rovers head coach due to health issues.",
+      "title": "Toone, Beever-Jones return for Lionesses ahead of WC play-off",
+      "link": "https://www.skysports.com/football/news/11095/13613091/england-women-ella-toone-and-aggie-beever-jones-back-for-lionesses-as-chloe-kelly-and-lauren-james-miss-out-through-injury",
+      "description": "Sarina Wiegman has named 25 players for England’s decisive FIFA Women’s World Cup play-off against Ukraine, with Ella Toone and Aggie Beever-Jones returning to the squad.",
       "source": "Sky Sports",
-      "pubDate": "2026-11-17T10:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-tony-mowbray-blackburn_7408470.jpg?20261117101155"
-    },
-    {
-      "title": "VOTE: There's a new Bond... but who is the best (00)7 in PL history?",
-      "link": "https://www.skysports.com/football/live-blog/11661/13197324/premier-league-team-news-injury-latest-suspensions-previews-and-fantasy-football-live-updates",
-      "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-17T10:00:00+00:00",
-      "image": "https://e1.365dm.com/22/05/1920x1080/skysports-cristiano-ronaldo_5765711.jpg?20220509072444"
-    },
-    {
-      "title": "Pochettino says he would tell Guardiola to take USA job",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss",
-      "description": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-17T09:48:24+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc69/live/2fe36070-e269-11f1-900c-895604014268.jpg"
-    },
-    {
-      "title": "FC Utrecht lijdt miljoenenverlies ondanks spectaculaire omzetstijging - FCUpdate.nl",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMW50OHMyZ0RnekhuSU1UNUpfY2ZKbmM0LUJIVzNqa1Q0Q2pnTVg5WW1qWml2RzhXWUplVG0tb3d3bk1KZ3dCS2xRMUpkTU51M3dQSVgtTF9xdmVrU3B4aFU2RFhtaHdEMnVSczZkdDloT3ljVGV4Vng0QkFxVXU2LVVsWGVCbVhUempSc2JDSGhIRzlPRVRfeUZBNDNldmhG?oc=5",
-      "description": "FC Utrecht lijdt miljoenenverlies ondanks spectaculaire omzetstijging FCUpdate.nl",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-17T09:25:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "'Switzerland didn't have better players but were better team'",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c8vg265dnzqeo?at_medium=RSS&at_campaign=rss",
-      "description": "Sportscene pundits Craig Levein and Leanne Crichton unpick Scotland's 4-0 Nations League defeat in Switzerland.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-17T09:09:24+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bdd/live/4d87f670-e216-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "What is going wrong for Pocognoli and Scotland?",
-      "link": "https://www.skysports.com/football/news/11095/13613120/scotland-whats-going-wrong-for-head-coach-sebastien-pocognoli-and-can-he-turn-things-around",
-      "description": "A year is a long time in football and that is certainly the case when it comes to Scotland's fortunes.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-17T08:54:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-sebastien-pocognoli_7408472.jpg?20261117101348"
-    },
-    {
-      "title": "Owono did not deserve 12-match ban - Pique",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
-      "description": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-17T08:28:10+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/729a/live/738fe790-e25e-11f1-84cb-b9a30b11458c.jpg"
+      "pubDate": "2026-11-17T11:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-ella-toone-aggie-beever-jones_7408856.jpg?20261117152654"
     }
   ]
 }
