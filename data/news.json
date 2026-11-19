@@ -1,13 +1,109 @@
 {
-  "updatedAt": "2026-11-19T16:24:57.847364+00:00",
+  "updatedAt": "2026-11-19T18:08:49.406007+00:00",
   "articles": [
     {
-      "title": "Man City latest: Guehi returns to training - with a surprise guest!",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Thomas Buffel ziet transfer zitten: \"Dan kom je snel uit… - PSVFans",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVUx5QXV5NklpUHgyTVYxZ3N3MEFITkJzSl9pNktmNllnbkUzQzZtWm9fZS1wUXUtTXFxWnc2eXYtb2Y3c05aQkxhbk9nTE5ST1AyZG5EcW1ZWWl2SElHT2RJRUJBdWE2S1o4dXBEbWRKVG9La0NiMFRQVm5NVWtWeE1hUjVMeHl6cnBnUG05VQ?oc=5",
+      "description": "Thomas Buffel ziet transfer zitten: \"Dan kom je snel uit… PSVFans",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-19T18:04:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "All done deals from September-November 2026",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+      "description": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-19T17:54:30+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
+    },
+    {
+      "title": "West Ham latest: Parker looking forward to Hammers homecoming",
+      "link": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
       "description": "",
       "source": "Sky Sports",
-      "pubDate": "2026-11-19T16:17:00+00:00",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
+      "pubDate": "2026-11-19T17:40:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7395604.jpg?20261103095817"
+    },
+    {
+      "title": "Spurs latest: 'You only know a tenth of the truth,' says Frank",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-19T17:20:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+    },
+    {
+      "title": "We'll only sell if offer makes club blink - McInnes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss",
+      "description": "Manager Derek McInnes says Rangers will only sell players in January if they receive offers that \"makes the club blink\".",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-19T17:11:51+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/234c/live/6f2a6f00-e429-11f1-bdfb-a33543c4dc85.jpg"
+    },
+    {
+      "title": "Palace latest: Frank outlines three key areas of improvement ahead of first game",
+      "link": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-19T17:00:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408400.jpg?20261117090402"
+    },
+    {
+      "title": "'Forbs verhuist in januari naar déze club' - Voetbal24.be",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SV1FPakVDMmFUWEkwU1hBWWU1YS1hSW1EVF9IUmU3MENzOGR1bDBxSHA4Vzk5WDNkeUc4bHNHWHJrOXFDQ2hCNnd2NWhYMkJQQ2MtZkIxVDBSVFozUDhHb01wQUo4cWY0dG5pQ3IwSHpKbEw2U2RyWVMzbw?oc=5",
+      "description": "'Forbs verhuist in januari naar déze club' Voetbal24.be",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-19T17:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Manager ins and outs - 2026-27",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-19T16:45:46+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/d9deae90-d832-11f1-87c3-29e1cdce63c6.jpg"
+    },
+    {
+      "title": "Coventry latest: Yirenkyi to face late fitness test before Palace clash",
+      "link": "https://www.skysports.com/football/live-blog/11095/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-19T16:45:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-coventry-club-blog_7326694.jpg?20260820165142"
+    },
+    {
+      "title": "Forest latest: Glasner lists injury worries ahead of Bournemouth trip",
+      "link": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-19T16:45:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014"
+    },
+    {
+      "title": "Football Daily",
+      "link": "https://www.bbc.co.uk/sounds/play/m003501m?at_medium=RSS&at_campaign=rss",
+      "description": "Ellen White joins Rick & Lloyd to discuss the BBC Men’s Footballer of the Year shortlist.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-19T16:42:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg"
+    },
+    {
+      "title": "Crawley keep Blackwell as boss until end of season",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo?at_medium=RSS&at_campaign=rss",
+      "description": "Crawley Town appoint Kevin Blackwell as manager until the end of the season after the 67-year-old's spell in temporary charge.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-19T16:40:30+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/157a/live/569d91d0-e436-11f1-8346-933d3547e297.jpg"
+    },
+    {
+      "title": "PSV aast op Kevin De Bruyne, dit zijn momenteel tien van de grootste Eredivisie-transfers - Helden Magazine",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGJRNmFpRDQtNTkzc3Q3eDd1dE5iUzd4cWRaX19UbHpfTFd0RnA0MUQzY1VQZ09SeTJZd2dEbmFqQTJ0VlNKZVdVVkNEQWNCSmJCeXZKUk9ub3JUNnNqMmdjS1NOX2JoRWN4eTB5WFpoS2ROLW5rQmsyOFQxVGRXZkxEUkEta25yaTZxREUzdTlMd0VJUVVkbjlFYVI0WXJJcFAtZmE3SFZQTTNCbW9rVU9VSVU?oc=5",
+      "description": "PSV aast op Kevin De Bruyne, dit zijn momenteel tien van de grootste Eredivisie-transfers Helden Magazine",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-19T16:25:38+00:00",
+      "image": ""
     },
     {
       "title": "'Bizarre transfer voor Roméo Lavia' - Voetbal24.be",
@@ -18,6 +114,22 @@
       "image": ""
     },
     {
+      "title": "Struggling Blackpool sack Evatt on his birthday",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1rzjj4v2o?at_medium=RSS&at_campaign=rss",
+      "description": "Blackpool sack head coach Ian Evatt after a year in charge following a run of one win and six defeats in their past 10 league games.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-19T16:12:14+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4af4/live/ab8a1930-e435-11f1-8346-933d3547e297.jpg"
+    },
+    {
+      "title": "PL clubs vote to cover legal costs of board members if Man City sponsors sue",
+      "link": "https://www.skysports.com/football/news/11095/13614031/premier-league-clubs-vote-to-cover-legal-costs-if-man-city-sponsors-sue-competitions-board-members",
+      "description": "Premier League clubs have voted to cover the legal costs of their five board members if they are sued individually by Manchester City's sponsors.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-19T15:26:00+00:00",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-premier-league-trophy_7361300.jpg?20260925172954"
+    },
+    {
       "title": "Leeds latest: 'I’m a bit bored,' jokes Farke after Trafford frenzy",
       "link": "https://www.skysports.com/football/live-blog/11661/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
@@ -26,11 +138,11 @@
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
     },
     {
-      "title": "Het voetbal van Vitesse stelt teleur, maar alleen Rehm de schuld geven is te makkelijk - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcnBfdnBDZGFKNDR2bjdHUHRRVFlPOWpNa2dZSWlHeVppMUpRMExLZmgxekhfdW5rT0VLODF0TS1pUFFKRkN6b2l1RlNlT19rdEZFbHpCTm9SV2c1Sm1iOHE2ZE5aOEpjb21NZzEwSXI4dm9MclVyRXVlVXVyOXFKTmRGLVpaU1NxdGJiWndCUlR0NThrVFZheGJaRXh4Y19WTG9TTDJKVVpsLVZ2VnpZZHpNZmE5UUcxZVJSOE4wT3ZGSmkxV0dKRFlUSQ?oc=5",
-      "description": "Het voetbal van Vitesse stelt teleur, maar alleen Rehm de schuld geven is te makkelijk De Gelderlander",
+      "title": "Het voetbal van Vitesse stelt teleur, maar alleen Rehm de schuld geven is te makkelijk - AD.nl",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc2w4cjg2Z0t2Mm9Jbi10WGl5VHNmcG9ZZkozeGtaQlIwdHVNY3lMRnNTd0R6a2xMYUtzYnNGZFRadDNzQlpBaDM1bFd3M0xWTGt1dUJWZnBrS1ItcWQzblNZT0dFYnZ2b2VBM2NVVXcwWG1WYk5XRVl4QTRBb1V0N3JNZU1jZm1CRlRLdnJra1M3NDNUaDZqQnZzTWIxeDRLUGZxX290RV9VTnlZWUdRaUVpWGNRNjlQdndtaw?oc=5",
+      "description": "Het voetbal van Vitesse stelt teleur, maar alleen Rehm de schuld geven is te makkelijk AD.nl",
       "source": "Google Nieuws NL",
-      "pubDate": "2026-11-19T15:07:16+00:00",
+      "pubDate": "2026-11-19T15:07:00+00:00",
       "image": ""
     },
     {
@@ -42,12 +154,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8510/live/71f11f30-e420-11f1-9e08-55a8a3b48445.jpg"
     },
     {
-      "title": "‘Union SG dreigt trainer David Hubert kwijt te spelen: deze club wil hem’ - Redactie24",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa283QTRNRFd3azhWTTQ2TXdKVS1PbzA2ZnRHVFdra29KMFZjdTZGd0tBMHMzdDJBLXVHYS1NTHhuTmhXTDVjMmhkWHBlUy11SU81SXprZFYycG1RMzhRVEJqbkdaVF8zUVlSd044emVRb3AtUTMwX3NvbzNzVy1ueW5kU2FkVTN3RzBDdXIxcGZrVTVBX0NpMGthQjFJd0x6V3B5TVVvS3pZWE52WnVaOA?oc=5",
-      "description": "‘Union SG dreigt trainer David Hubert kwijt te spelen: deze club wil hem’ Redactie24",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-19T14:45:00+00:00",
-      "image": ""
+      "title": "Frick targets Premiership top-six for Aberdeen with 'heavy metal football'",
+      "link": "https://www.skysports.com/football/news/11095/13613844/mario-frick-aberdeens-new-head-coach-targets-scottish-premiership-top-six-with-heavy-metal-football",
+      "description": "Aberdeen's new head coach Mario Frick will not just be happy with Scottish Premiership survival this season, insisting he wants a top-six finish.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-19T15:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-mario-frick-aberdeen_7410719.jpg?20261119164048"
     },
     {
       "title": "Bjarne Cardon (27) hoopt op nieuwe basisplaats bij KVDO na prachtgoal: “Ik denk dat ik het onze trainer moeilijk heb gemaakt” - HLN",
@@ -56,14 +168,6 @@
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-19T14:41:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Newcastle latest: Guimaraes return won't be distraction, says Jaissle",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-19T14:37:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-newcastle-united_7365666.jpg?20261001114104"
     },
     {
       "title": "Man Utd announce financial results as revenue and wages rise",
@@ -147,11 +251,19 @@
     },
     {
       "title": "Man Utd latest: Pochettino reveals 1999 Treble connection and Fergie dream",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "link": "https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-19T12:00:00+00:00",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
+    },
+    {
+      "title": "EFL latest: Evatt sacked hours after Happy Birthday message from Blackpool",
+      "link": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-19T11:48:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-ian-evatt-blackpool_7410754.jpg?20261119172041"
     },
     {
       "title": "Leicester split with sponsor after porn actress row",
@@ -210,14 +322,6 @@
       "image": ""
     },
     {
-      "title": "Napoli bezorgt PSV kater van jewelste - Voetbal24.be",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XZ2VCYmFCNnJsT2FpYmRzNVlvWkh6dGhLTEhfaHd4NEdmR25FOE1rZEpBZGFnMlppcWhBWkd6MlFFMHB4Q2FneU9YSHRiTHY3ZUlFNkhPRFNBQkpFZk5OX3JIb2lyOUZSMjN2YUtzbHhva0dwRHVN?oc=5",
-      "description": "Napoli bezorgt PSV kater van jewelste Voetbal24.be",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-19T11:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Trainer Lukkien mist FC Groningen - sc Heerenveen om heupoperatie - ZeelandNet, startpagina van Zeeland",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSWowTjZXWFRsR09NcGxLdmp0X0FaRGJfOHIwTDdnMl9DNF9KYzV4UDZHSHF2YTNRN1Rla2VlcHpaSEZLQ2pRVkY4TjhaOWY0NG5nY00xbUlDVmRiOG4wLWxRT2E0S2U1UzRxc2ZJTkQ5bjJyNDZMZkg4TUNjZVRoTUlHSkl5TXBLSXFfZC1TVmw2cEtlYkd1ZWIwUkU?oc=5",
       "description": "Trainer Lukkien mist FC Groningen - sc Heerenveen om heupoperatie ZeelandNet, startpagina van Zeeland",
@@ -232,6 +336,14 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-19T10:45:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-everton_7408528.jpg?20261117111835"
+    },
+    {
+      "title": "’Napoli wil minimaal 7 miljoen euro hebben voor Kevin De Bruyne (35), trainer Allegri wil Belg helemaal niet kwijt’ - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYUpmSzNQX21oZW5mS1FyRndOWmhJaE9rOXcwNGx2OUtIRXlsT3ZvTU50VmlnX21UMFZmOURlT0laSU5hTjdZbWpZdjQyb2VyZHFoT1RXU1dBbkllNjlBa09abFg2dUhSUm5hMVZlLXQzU093a3VkbHd2TzM5a3pTVEk5eG9TYjVuMzYtZTJEc3Znd2U4YTJPXzA3WFpyZzVORkhpWVh0Q0xhdkhHbVNub2o0dEFDVzQzUjYzNEtEaHFyOUgyWFM3cDgxNkswb0U1UW05aHhMbGV4WHdSS0tNSm1jWHB6VXBpQnhmTEJQX3pfRF82LVZZ?oc=5",
+      "description": "’Napoli wil minimaal 7 miljoen euro hebben voor Kevin De Bruyne (35), trainer Allegri wil Belg helemaal niet kwijt’ De Telegraaf",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-19T10:37:32+00:00",
+      "image": ""
     },
     {
       "title": "'I'm very healthy' - Kompany to return to dugout after health scare",
@@ -506,14 +618,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f568/live/9fbcb180-e36d-11f1-9f51-4bfc31543510.jpg"
     },
     {
-      "title": "Ambachter Vincent de Klerk na snel ontslag bij Kloetinge: ‘Als trainer sta je als eerste op de lijst, dat is voetbal’ - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObURkOWE5T19abDdTcUhiOU4zczMxZC01d0hJeG5Hd0g5QzVWQXd0YTFkTGtNb3JtYW16WDYtRHBDUWx2WFUzY3puZlVhd1VaY0NwNm9ROE8tQlZERmpNNVJOTTRuYUVKZzRrQ3dSNjV2bndib0V3OC1aWXVYbWdCcnA0UWZhdUVKTVNVT2FBZFNIbElkZUkzOU9ZWUUxSzRlZHpxdlpORDVsaEt2M2ZNZms3dzUwOF82SXROMENpeU9tUjdXUF9maUpWQW5WdjBZUlJwQ1VsOWoxQ1NPcUluYUlXZnNrMGk3MFZWQ2VYNXYySHRXemRJcDZwWGtaWTBHbVE?oc=5",
-      "description": "Ambachter Vincent de Klerk na snel ontslag bij Kloetinge: ‘Als trainer sta je als eerste op de lijst, dat is voetbal’ AD.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-18T18:00:41+00:00",
-      "image": ""
-    },
-    {
       "title": "Ambachter Vincent de Klerk na snel ontslag bij Kloetinge: ‘Als trainer sta je als eerste op de lijst, dat is voetbal’ - Eindhovens Dagblad",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNS21LOGtuV2w1Wk1oRWhoM1ExbU5SaldZTUdUYmhtN0tNTlF4Rks2N3RybzM3SzVRVkRXOVBacUdCQVZ3cVlnYzlaTVMxY0lVWEtFY0NUakk2WjA0STZJNzZqSHZKaWRuZjQ3YkJoRUZtNjlWS0x3LV9zSEVOU1NWdTd3dW9uTDIyQm1JVVJxcXJYeFZCVXpsaEFsT2c3SUhyZWxLd3VoRTNIRkZEcS1FLXhITDZuQm9wc2hYS0lxSHJzYllhUURlSUhsY09hTGV1V1hKM3RIWWQ4VFk2TnBKV1BBUEV3THJzRHAya2hPa3Y3UQ?oc=5",
       "description": "Ambachter Vincent de Klerk na snel ontslag bij Kloetinge: ‘Als trainer sta je als eerste op de lijst, dat is voetbal’ Eindhovens Dagblad",
@@ -536,110 +640,6 @@
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-18T18:00:41+00:00",
       "image": ""
-    },
-    {
-      "title": "Ambachter Vincent de Klerk na snel ontslag bij Kloetinge: ‘Als trainer sta je als eerste op de lijst, dat is voetbal’ - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa0xwVmc0cTNGQklxeS1aeGZiUnJhVFFCbDhwblBDcmliMjR4S040ejJHek1KZ2xsaTFoaTRkSUVuV1VVWEZlbG9sX1ZhNHB4eWdRUXoyM3J0RnFZTklBRmxwZGF0VHBoSmE3Ny1JMGkzSmZlc0tRVUliOUZDNVdGdlJLX19Gb0h6eG95QXZET19KTkFTTmNIZnZNc0RwMi1PY0swa2NVSVFGSllhaWtQaXRHQUdjdGFzcFMyVmx0Mlh1VXR1Y1JnMlkyRHBoTWlfb2RTUS0zbG5LSDFJZEhfeHdRTzlxMDBfU3VUWml4bi0?oc=5",
-      "description": "Ambachter Vincent de Klerk na snel ontslag bij Kloetinge: ‘Als trainer sta je als eerste op de lijst, dat is voetbal’ De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-18T18:00:41+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hoe vergaat het de duurste zomertransfers uit de Jupiler Pro League? - Nieuwsblad",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORGFmYmZCTDdDUC0xMk0yUUw2SVNnVmIzQXlnTlVFUlhmd2Z1VnBpUjdXZXE1aWNQUy1xWDFWRTN6MjZLZHRpQjNLbzdlbnB1Z05QWkdjWFF0eDRCMUY4Q2V5WGNsTGNhVHZWU2RzVHlSSUxsX3RJRlBlUEJJR0tlYllDdlhwMVdUbmNvbFI4QmVTb0RNS2JYY1NqZmFMTmt6NnlneVNla0V3bU1IQ2RObVdHQm92Tm9RVFVxcnFMZw?oc=5",
-      "description": "Hoe vergaat het de duurste zomertransfers uit de Jupiler Pro League? Nieuwsblad",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-18T18:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Rooney revelations important - Bradford boss Duff",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvrlgke13e9go?at_medium=RSS&at_campaign=rss",
-      "description": "Bradford boss Michael Duff praises former England captain Wayne Rooney for speaking out about the mental health struggles he had while playing.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-18T17:52:23+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3743/live/c2268860-e375-11f1-b879-03485a55c082.jpg"
-    },
-    {
-      "title": "From Dunfermline to Dubai - McPake on new life in Middle East",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o?at_medium=RSS&at_campaign=rss",
-      "description": "James McPake has left Scottish football behind for the time being, plying his trade in coaching in Dubai.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-18T17:06:29+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1327/live/2ca4bf40-e371-11f1-9f51-4bfc31543510.jpg"
-    },
-    {
-      "title": "The secrets of Brentford's success",
-      "link": "https://www.skysports.com/football/news/11095/13613585/how-brentford-plan-to-develop-the-best-young-talent-and-break-into-the-premier-league-elite",
-      "description": "'Data wizards'. 'Great recruiters'. 'Punching above their weight' - Brentford have come to be known for all these things in recent years. Now, having established themselves in the Premier League, they have become bolder about wanting to mix",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-18T17:00:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-igor-thiago-premier-league_7392886.jpg?20261031164456"
-    },
-    {
-      "title": "Fernandes tumbles as new No 1 is crowned: Sky Sports' top 25 Premier League players",
-      "link": "https://www.skysports.com/football/news/11095/13613154/bruno-fernandes-tumbles-as-new-no-1-is-crowned-sky-sports-ranks-the-premier-leagues-top-25-players-right-now",
-      "description": "Bruno Fernandes has been dethroned as the king of the Premier League in a major shake-up to the top 25 Premier League players.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-18T17:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-graphic-erling-haaland_7408870.jpg?20261117153443"
-    },
-    {
-      "title": "The tightest survival scrap for years? Why it's not too early to worry",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
-      "description": "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-18T16:09:55+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f51/live/09641460-e33d-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "title": "Premier League predictor - play our new game each week!",
-      "link": "https://www.skysports.com/football/live-blog/11095/13612918/premier-league-predictor-predict-the-fixtures-each-gameweek-generate-your-table-and-share-results",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-18T16:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-predictor_7408710.jpg?20261117135327"
-    },
-    {
-      "title": "Why Raya is the Premier League's best goalkeeper",
-      "link": "https://www.skysports.com/football/news/11095/13613642/david-rayas-shot-stopping-cross-claiming-and-passing-make-him-premier-leagues-best-goalkeeper-the-radar",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-18T15:12:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-daviod-raya-arsenal_7409699.png?20261118153705"
-    },
-    {
-      "title": "Pressley calls for national centre to enhance Scottish game",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmvg28v270yzo?at_medium=RSS&at_campaign=rss",
-      "description": "Scotland would benefit from the creation of a national football centre, argues Dundee head coach Steven Pressley, who likens the current structure of the game to building on sand.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-18T15:07:43+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/759f/live/82b10c50-e361-11f1-a898-e7da1c1ebbf0.jpg"
-    },
-    {
-      "title": "Nemelaer trainer Erwin van Breugel: \"Vroeger vloog ik er verbaal weleens bovenop, nu denk ik eerst na over de impact\" - VoetbalBrabant.nl",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQc3ZzV0Q1VWgtT1dmWXdmYkp6X2hNa2hzbzNkMlNzNDE4eS1BV29TRHIyek0zNnJKOXFkQVJFM3FXSXJ4QWNvR2pQNDFrNXFBZi1kVnJpSW5yb200NmNYdkxjZWVlbm84RzBoVzdqRXVtbkE4UDlVTTBzQXcyYVA1b1FNRHpLQ3FEcWVRUkw2RlJyM0pLdXBTbzZmQWdBMUU3dDRpNm12enhKU3RNNFJYQ3M2LXR4TmJ2UEluTDJoY2x2TDFLWXRsV3M2SnZnaVdOVW9WRWR1OFdPaDkwcDExNnB6YWE4cXM?oc=5",
-      "description": "Nemelaer trainer Erwin van Breugel: \"Vroeger vloog ik er verbaal weleens bovenop, nu denk ik eerst na over de impact\" VoetbalBrabant.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-18T14:30:54+00:00",
-      "image": ""
-    },
-    {
-      "title": "Mogelijke PSV-transfer De Bruyne kan eervolle lijst aanvoeren: 'Met stip op één' - Headliner.nl",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaUd4Wm5panV0THVxaklfdjNGT1BHd1FFRlF6U1U0YmF1MmNySzM3dURpSFRNZUttbjRZT1JrQk1DQjg1SGV0ZHE1YkdQaUtWVUFOb0ZuRXZmTkw4ejBSNzdFQVo3VU4wWjRXYXdCYXhGN2ROZDR3ZThNQ2VHQlR3QUQ5aFJVdGFrQUM2M3ZvdjIzV2lsOVBRcHoxeE1GRS1HUkpVZ3YzVVdNM2hLV2lIbXd6N0piT3ZMNUcyVUNLSUhwZkFIZHJwQlVtejgtUQ?oc=5",
-      "description": "Mogelijke PSV-transfer De Bruyne kan eervolle lijst aanvoeren: 'Met stip op één' Headliner.nl",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-18T14:04:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Fan voice on board key to ending Celtic unrest - club legend McStay",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crx20q47ljl7o?at_medium=RSS&at_campaign=rss",
-      "description": "Celtic legend Paul McStay says having a supporters representative on the board would be a significant step to halting the unrest between the club and the fans.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-18T13:55:58+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef1/live/5edbfef0-e354-11f1-acd4-25eaaa5def63.jpg"
     }
   ]
 }
