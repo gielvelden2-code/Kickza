@@ -1,21 +1,93 @@
 {
-  "updatedAt": "2026-11-20T13:32:54.926135+00:00",
+  "updatedAt": "2026-11-20T15:14:38.324289+00:00",
   "articles": [
     {
-      "title": "Man Utd latest: Poch to speak on drone in first press conference",
+      "title": "Celtic's Baur out for 10 weeks, says O'Neill",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo?at_medium=RSS&at_campaign=rss",
+      "description": "Germany midfielder Mika Baur will be out for around 10 weeks with ankle ligament damage, Celtic manager Martin O'Neill says.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-20T14:47:54+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f456/live/ffbb6070-e4f0-11f1-8781-bf15c9202663.jpg"
+    },
+    {
+      "title": "Berrada on Carrick, Poch, defending club leadership and transfers",
+      "link": "https://www.skysports.com/football/news/11095/13614312/omar-berrada-interview-manchester-united-chief-executive-on-michael-carrick-mauricio-pochettino-recent-transfer-activity-and-the-club-hierarchy",
+      "description": "In a turbulent time at Manchester United, chief executive Omar Berrada has sat down exclusively with Sky Sports about United's start to the season, the decision to change head coach and facing fan criticism about the club's leadership.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-20T14:36:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7411463.jpg?20261120140859"
+    },
+    {
+      "title": "Brentford latest: Hickey and Collins out for a 'number of weeks'",
+      "link": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-20T14:35:00+00:00",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
+    },
+    {
+      "title": "Man Utd latest: Poch addresses Bruno future and wants say on squad decisions",
       "link": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
       "source": "Sky Sports",
-      "pubDate": "2026-11-20T13:30:00+00:00",
+      "pubDate": "2026-11-20T14:30:00+00:00",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
     },
     {
-      "title": "LIVE STREAM: Pochettino's first Man Utd press conference",
-      "link": "https://www.skysports.com/football/news/11095/13614295/mauricio-pochettinos-first-manchester-united-press-conference-watch-live-stream-on-sky-sports-as-new-head-coach-faces-media",
+      "title": "Chelsea latest: Alonso gives updates on Joao Pedro, Martinez, James and more",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-20T14:20:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+    },
+    {
+      "title": "SFA should not change to pander to clubs - McLeish",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crjeqv4353e7o?at_medium=RSS&at_campaign=rss",
+      "description": "St Mirren manager Craig McLeish says it's \"damning\" that Scottish FA chief football officer Craig Mulholland should have to \"pander to clubs\" as he attempts to bring in reforms.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-20T14:09:07+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db75/live/0bd7f770-e4e6-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Arteta warns Arsenal players over FPL team news leak",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
+      "description": "Mikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-20T14:08:55+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8c0/live/ba1c8130-e4e5-11f1-b039-c1944465024e.jpg"
+    },
+    {
+      "title": "’Fijne dag, baas!’: Blackpool feliciteert trainer met verjaardag, maar ontslaat hem een paar uur later - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQakV0X0VvbVVSektnMTJjVFRGdU5sbjN6cE1fREt6bnVHeTQ3SkRtNW5Cc3ZzYXFYZTNZdWxpbEdxaGpjNXA0alYwUWFVSEl2TXpyejlGN0FXeDh5Q3NWQkI1cHc0UGx6NG5OUXV2NGJpSjBDQXZidktxVmR5MEN2LUpyNHlDNmVHODlJZ3EtNVpjU1dLZlM2RERObHVXVS1BV2VBUnhqYjNTVHZjc2luY1J5bXNVUTRKLTE0R2FqLWFCYkxZX015VXE2UXFFZlo2NHVSeHRsSHp6S2hmZDhKR3Z5UTc?oc=5",
+      "description": "’Fijne dag, baas!’: Blackpool feliciteert trainer met verjaardag, maar ontslaat hem een paar uur later De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T14:06:56+00:00",
+      "image": ""
+    },
+    {
+      "title": "Key questions as Scottish Premiership returns",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c50mdwnn90jyo?at_medium=RSS&at_campaign=rss",
+      "description": "The Scottish Premiership returns with managers to the fore - this is all you need to know about Saturday's games.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-20T13:53:22+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4759/live/ea3780f0-e462-11f1-99a1-253766e7ad8b.png"
+    },
+    {
+      "title": "Legendary Irish League manager Coyle dies aged 80",
+      "link": "https://www.bbc.co.uk/sport/articles/c63eg4x112wqo?at_medium=RSS&at_campaign=rss",
+      "description": "The Irish League's most successful manager Roy Coyle dies at the age of 80.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-20T13:52:15+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/177b/live/0d80ddc0-e4ec-11f1-9e3c-bf9ef0889b75.jpg"
+    },
+    {
+      "title": "Man City latest: Maresca backs Donnarumma, Fernandez and reveals injury doubts",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-20T13:30:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-pochettino-manchester-united_7411385.jpg?20261120124836"
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
     },
     {
       "title": "Southampton give head coach Eckert new deal",
@@ -26,28 +98,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd8/live/b6cc2940-e4db-11f1-9cc5-e9713e77fd78.jpg"
     },
     {
-      "title": "Chelsea latest: Alonso to speak ahead of Leeds clash",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Spurs latest: De Zerbi understands fan frustration over Mudryk",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
       "source": "Sky Sports",
-      "pubDate": "2026-11-20T13:10:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
-    },
-    {
-      "title": "Eckert signs new Saints deal despite 'Spygate' controversy",
-      "link": "https://www.skysports.com/football/news/11095/13614334/southampton-boss-tonda-eckert-given-contract-extension-despite-spygate-controversy",
-      "description": "Southampton boss Tonda Eckert has been handed a contract extension through to 2029.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-20T12:30:00+00:00",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tonda-eckert-southampton_7254559.jpg?20260521084229"
-    },
-    {
-      "title": "Bosz wil niet praten over eventuele komst De Bruyne: 'Vind ik niet respectvol' - NOS",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0t0ZDJvVC1vNUVORDhrb21LcWg0ZzdHZC1pVzVCSmxBQVpNNnFpTnlzajhpVGtLYlJCMU1neHo2bHNIbjkyajVBd0Y5bEY2bWtDanR2Vm5QVU9BTDJEQTlkYlFYY2stSXpxeXJaVk1ITFhReUFkR1ZuLVhVeDR1U0xweDdXSUJ3VEVCc1VDLXI4Z0FnTjBwSzlOcDI1X3ZORXNZZXlKWnZ3UQ?oc=5",
-      "description": "Bosz wil niet praten over eventuele komst De Bruyne: 'Vind ik niet respectvol' NOS",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-20T12:28:20+00:00",
-      "image": ""
+      "pubDate": "2026-11-20T13:00:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
     },
     {
       "title": "PSV-trainer Bosz wil niet praten over mogelijke komst De Bruyne: 'Niet respectvol' - NU",
@@ -58,19 +114,19 @@
       "image": ""
     },
     {
-      "title": "’Fijne dag, baas!’: Blackpool feliciteert trainer met verjaardag, maar ontslaat hem een paar uur later - De Telegraaf",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQakV0X0VvbVVSektnMTJjVFRGdU5sbjN6cE1fREt6bnVHeTQ3SkRtNW5Cc3ZzYXFYZTNZdWxpbEdxaGpjNXA0alYwUWFVSEl2TXpyejlGN0FXeDh5Q3NWQkI1cHc0UGx6NG5OUXV2NGJpSjBDQXZidktxVmR5MEN2LUpyNHlDNmVHODlJZ3EtNVpjU1dLZlM2RERObHVXVS1BV2VBUnhqYjNTVHZjc2luY1J5bXNVUTRKLTE0R2FqLWFCYkxZX015VXE2UXFFZlo2NHVSeHRsSHp6S2hmZDhKR3Z5UTc?oc=5",
-      "description": "’Fijne dag, baas!’: Blackpool feliciteert trainer met verjaardag, maar ontslaat hem een paar uur later De Telegraaf",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-20T12:17:55+00:00",
-      "image": ""
-    },
-    {
       "title": "Peter Bosz wil niet ingaan op vragen over mogelijke komst De Bruyne: ‘Vind ik respectloos’ - pzc.nl",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHhhQnZmUkZNMmRiakIyakpwc2Y3X3phUS1PX09ncFp3ZWluNDBDekY2a0RndEliMWYwbGhIRTNlSE84OFlkUy1MbVBHbFU5MlZUQ1ZGcGhvTlo2bHd5UTZMY0hlRWV1Tk5pbm5IWV8weWJ3MmhVTEVKakYxY3hrX05tQ1NOemhkd2dzOWRnOWVRTWhGVDAxTW9CNlNvZGtOdGJKYTNsYk9tSGczeHl6Qzg3bERWNEVXcGM3S083TWJXZw?oc=5",
       "description": "Peter Bosz wil niet ingaan op vragen over mogelijke komst De Bruyne: ‘Vind ik respectloos’ pzc.nl",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-20T12:15:35+00:00",
+      "image": ""
+    },
+    {
+      "title": "VIERDE PROVINCIALE. Trainer weg, ploeg met dertien afwezigen en afgevaardigde moet meespelen - HBVL",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeVVrYXpDT2EwQ0JrZGFDd3hoUzc5QWR6T29YU0dJTllYZFVzbV9ZUUltaExFd0FIbmlCcmdzMWZmdnhnQnBDMzVHc1c1SWdPWmJ4T1ZZbXk0VXc3QWU3aExGTFhsd3h5anI4VzJHY3BhLVBrOFFCdWZPQjRaOWZxUDdJNGNKcmdmVHpEZWRuczJ4aUk1ckZJd05ocFBiQmk3SDNQTVl3OXc0dVBnS0VjTFVnMVNHb3M1VzFfUW8xX0xDV1ptb2ZQOXpsdnBhTE82ZjRFQUR3bw?oc=5",
+      "description": "VIERDE PROVINCIALE. Trainer weg, ploeg met dertien afwezigen en afgevaardigde moet meespelen HBVL",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T11:45:28+00:00",
       "image": ""
     },
     {
@@ -98,18 +154,10 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/e16f7470-c7d7-11f1-9671-5b70c6e774ea.jpg"
     },
     {
-      "title": "VIERDE PROVINCIALE. Trainer weg, ploeg met dertien afwezigen en afgevaardigde moet meespelen - HBVL",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeVVrYXpDT2EwQ0JrZGFDd3hoUzc5QWR6T29YU0dJTllYZFVzbV9ZUUltaExFd0FIbmlCcmdzMWZmdnhnQnBDMzVHc1c1SWdPWmJ4T1ZZbXk0VXc3QWU3aExGTFhsd3h5anI4VzJHY3BhLVBrOFFCdWZPQjRaOWZxUDdJNGNKcmdmVHpEZWRuczJ4aUk1ckZJd05ocFBiQmk3SDNQTVl3OXc0dVBnS0VjTFVnMVNHb3M1VzFfUW8xX0xDV1ptb2ZQOXpsdnBhTE82ZjRFQUR3bw?oc=5",
-      "description": "VIERDE PROVINCIALE. Trainer weg, ploeg met dertien afwezigen en afgevaardigde moet meespelen HBVL",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-20T10:51:08+00:00",
-      "image": ""
-    },
-    {
       "title": "Will Frank turn things around at Crystal Palace?",
-      "link": "https://www.skysports.com/football/news/11095/13613145/thomas-frank-what-should-crystal-palace-expect-from-their-new-manager-what-does-he-need-to-change-and-can-he-keep-the-eagles-up",
+      "link": "https://www.skysports.com/football/news/11661/13613145/thomas-frank-what-should-crystal-palace-expect-from-their-new-manager-what-does-he-need-to-change-and-can-he-keep-the-eagles-up",
       "description": "One of the Premier League's most charismatic managers is back.",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-20T10:00:00+00:00",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408620.jpg?20261117123420"
     },
@@ -130,36 +178,20 @@
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-arsenal_7411193.jpg?20261120082419"
     },
     {
+      "title": "Transfer Centre LIVE! Will Fernandes stay? Man Utd CEO gives update...",
+      "link": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-20T09:30:00+00:00",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-man-utd-premier-league_7373721.jpg?20261011111018"
+    },
+    {
       "title": "Arsenal latest: Saka out for four more weeks with injury",
       "link": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-20T09:28:00+00:00",
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-    },
-    {
-      "title": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Een echte clubman geworden’ - Brabants Dagblad",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUUVpTkZTM3pRUWFHQTg1U3lyR3VfNWlpa3JPMTlSQmxDbWg1Mmdwa1hUQTlrVmxMdU5WY0lsNzNJdnFXdFFJZElic0dyVVY3RGRydDkzNGdycDE1RFprN1JNWkVWYW9qUVVXd1NLNmdCWkJLcHhWckhkWFJtQ0I5SzdOaUNhaEF4SVZrcEJSMUJjRmZvVUtTcks5TkpoTjRUUGgxN3JmTFpmVzZtTXRoZ05ua3FNczZZclVxNjg1V2FmTnRnUUpNSmZWNC02ZmlsM2d3?oc=5",
-      "description": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Een echte clubman geworden’ Brabants Dagblad",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-20T09:18:06+00:00",
-      "image": ""
-    },
-    {
-      "title": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Door de voordeur vertrekken’ - Brabants Dagblad",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWl9qemVNODNsX08tSURQeXprRElnY184WlBPV3JlbmJwYzFyM3pRSFpTZXRYSjc5UGVQVmZJWVYwd1kxUlphTEJXZlVjY1Z2Y21IejhzRFJhdEdNaVFYQ0p1SmRucXNsQTA2VkFwRmdDNnlRYzNrTDFybEQ4MWJEU2RXVjJlYTZoaDMzZ2JHY095bmFRc0M0c3hKcWNYQkFoR0pYdnRjTlgzRzhJTGdfTEkwbUM3clpZZlBjWmlzTURHamFqNWk1R1RxWkpUWjJZalNzRw?oc=5",
-      "description": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Door de voordeur vertrekken’ Brabants Dagblad",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-20T09:18:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Reis in opspraak in aanloop naar Nordderby: 'Over mijn familie praten gaat te ver' - Voetbal International",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSlgyTXFTX0k4c1ZaaFEzeGNXV29tSWh2RDV0aDRONnhJNjJ1SXpwLWZQM253U0RreFhBOUZDaXpLMWhzYnNmQ2ZxaVpkT1JkUDhjSTZmMWxYbWVpbkt2TGcxYjRZWkdqQVNQMXFqNEVFX0I1M2NOdHpENHBxSm1wV1hoSVZYWnU4aFBSUzRidWlIeERrS0lzeG82cjVIZjg?oc=5",
-      "description": "Reis in opspraak in aanloop naar Nordderby: 'Over mijn familie praten gaat te ver' Voetbal International",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-20T09:18:00+00:00",
-      "image": ""
     },
     {
       "title": "Drone operator takes down Man Utd footage and issues apology",
@@ -346,14 +378,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ef/live/c3f26550-e452-11f1-8a3d-bb9751dc9556.jpg"
     },
     {
-      "title": "Opvallend: 'Voormalig Groningen-flop kan miljoenentransfer naar Serie A maken' - VoetbalPrimeur",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1dKZ0VSbjhDN25ZLVVmdDdaYkF1c1A4TXpCY0NjcTdqVWRHY05MRFhKMTE5NVBiR2c3eVR1RUxtOWhsUDRBeFFCWWVPN3ZSSGVpbUJ0UHI3dk5kWXowazZGMU5JbDNNejJBTlJGRmRYRzZ5LTItcS1fT0VZWlAyaTB3S3RNQ25HTzZqdHdVMmk1RTYxWmJ0VHRXcWludVVFR3poSHJnWFRjazVQU3hF?oc=5",
-      "description": "Opvallend: 'Voormalig Groningen-flop kan miljoenentransfer naar Serie A maken' VoetbalPrimeur",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-19T19:30:28+00:00",
-      "image": ""
-    },
-    {
       "title": "New manager Frick to take Aberdeen back to basics",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo?at_medium=RSS&at_campaign=rss",
       "description": "Head coach Mario Frick says his track record proves he can produce exciting football - but a back-to-basics approach is needed at Aberdeen.",
@@ -435,9 +459,9 @@
     },
     {
       "title": "Palace latest: Frank adds Chelsea coach to his backroom staff",
-      "link": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "link": "https://www.skysports.com/football/live-blog/11661/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "description": "",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-19T17:00:00+00:00",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408400.jpg?20261117090402"
     },
@@ -448,22 +472,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-19T16:45:46+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/d9deae90-d832-11f1-87c3-29e1cdce63c6.jpg"
-    },
-    {
-      "title": "Football Daily",
-      "link": "https://www.bbc.co.uk/sounds/play/m003501m?at_medium=RSS&at_campaign=rss",
-      "description": "Ellen White joins Rick & Lloyd to discuss the BBC Men’s Footballer of the Year shortlist.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-19T16:42:00+00:00",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pntn4g.jpg"
-    },
-    {
-      "title": "Crawley keep Blackwell as boss until end of season",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo?at_medium=RSS&at_campaign=rss",
-      "description": "Crawley Town appoint Kevin Blackwell as manager until the end of the season after the 67-year-old's spell in temporary charge.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-19T16:40:30+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/157a/live/569d91d0-e436-11f1-8346-933d3547e297.jpg"
     },
     {
       "title": "PSV aast op Kevin De Bruyne, dit zijn momenteel tien van de grootste Eredivisie-transfers - Helden Magazine",
@@ -546,14 +554,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0079/live/93457630-e35e-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Leicester split with sponsor after porn actress row",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
-      "description": "A fan group had complained after BC Game appointed a porn actress as a brand ambassador.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-19T11:44:35+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc3/live/c94480c0-d9d4-11f1-9e5a-c30c5e3d8c85.jpg"
-    },
-    {
       "title": "Magill returns to NI squad for Greece friendlies",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqly43n1vjm8o?at_medium=RSS&at_campaign=rss",
       "description": "Northern Ireland manager Michael McArdle has made five changes to his squad for the upcoming friendlies against Greece, with the return of experienced striker Simone Magill among the notable returnees.",
@@ -610,14 +610,6 @@
       "image": ""
     },
     {
-      "title": "How 'sleeping giant' Everton are exceeding expectations",
-      "link": "https://www.skysports.com/football/news/11095/13612885/everton-how-premier-leagues-sleeping-giant-are-exceeding-expectations-ahead-of-brentford-test",
-      "description": "Everything felt a bit gloomy at Everton after the closure of the summer transfer window. 'Disappointment' was the buzzword used by David Moyes - especially after a Deadline Day move for Folarin Balogun fell through.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-19T10:45:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-everton_7408528.jpg?20261117111835"
-    },
-    {
       "title": "’Napoli wil minimaal 7 miljoen euro hebben voor Kevin De Bruyne (35), trainer Allegri wil Belg helemaal niet kwijt’ - De Telegraaf",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYUpmSzNQX21oZW5mS1FyRndOWmhJaE9rOXcwNGx2OUtIRXlsT3ZvTU50VmlnX21UMFZmOURlT0laSU5hTjdZbWpZdjQyb2VyZHFoT1RXU1dBbkllNjlBa09abFg2dUhSUm5hMVZlLXQzU093a3VkbHd2TzM5a3pTVEk5eG9TYjVuMzYtZTJEc3Znd2U4YTJPXzA3WFpyZzVORkhpWVh0Q0xhdkhHbVNub2o0dEFDVzQzUjYzNEtEaHFyOUgyWFM3cDgxNkswb0U1UW05aHhMbGV4WHdSS0tNSm1jWHB6VXBpQnhmTEJQX3pfRF82LVZZ?oc=5",
       "description": "’Napoli wil minimaal 7 miljoen euro hebben voor Kevin De Bruyne (35), trainer Allegri wil Belg helemaal niet kwijt’ De Telegraaf",
@@ -640,6 +632,14 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-19T10:21:10+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg"
+    },
+    {
+      "title": "Eight-year ban for player who threw rock that hit assistant referee",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no?at_medium=RSS&at_campaign=rss",
+      "description": "Ecuadorian footballer Jhon Perlaza is banned for eight years after hitting an assistant referee with a rock during a third-tier match.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-19T10:20:58+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce7/live/ebfdab50-e3fc-11f1-a1b0-810734adec41.jpg"
     }
   ]
 }
