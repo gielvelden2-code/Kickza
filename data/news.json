@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-20T19:23:27.161889+00:00",
+  "updatedAt": "2026-11-20T21:08:20.025551+00:00",
   "articles": [
+    {
+      "title": "'It's been an incredible journey' - Van Dijk uncertain on Liverpool future",
+      "link": "https://www.skysports.com/football/news/11095/13614508/liverpool-virgil-van-dijk-uncertain-on-anfield-future-beyond-the-summer-but-believes-he-can-play-for-many-more-years",
+      "description": "Liverpool captain Virgil van Dijk believes he can keeping playing for \"many more years\" - but says he does not yet know whether that will be at Anfield next season.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-20T20:15:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-liverpool-van-dijk_7411788.jpg?20261120202101"
+    },
+    {
+      "title": "Osimhen keen on Man Utd move - Saturday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss",
+      "description": "Victor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-20T20:06:51+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e193/live/602d2330-e519-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "title": "Coucke komt nu zélf met nieuws over transfer Lukaku - Voetbal24.be",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjh2Wm1RMjNGQ0hNMmFLX1JFUXlwQXhOanVwd0ZsbTU5azdYLWJwMm5YSkgyZGhmQl9rV1dJeGpQWGU3X2dicDJ1WUphV0IzdHl5REtlX2V0SnhfRzlLYzNweEppMzY4Yndvc0R2NEttbExGM3NUQU1WTmZ6cjl5Tnd6NVJ3LS1vN3ZXcWF0OUpYVWgwa3c?oc=5",
+      "description": "Coucke komt nu zélf met nieuws over transfer Lukaku Voetbal24.be",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-20T20:02:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Drones, data and Bruno - Pochettino on his early Man Utd challenges",
+      "link": "https://www.skysports.com/football/news/11095/13614363/mauricio-pochettino-manchester-united-head-coach-discusses-drone-footage-his-approach-to-data-and-bruno-fernandes-ahead-of-first-game",
+      "description": "Mauricio Pochettino has questioned what could have been gained from the drone footage of a Manchester United training session ahead of his first game in charge against Liverpool.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-20T20:00:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7411581.jpg?20261120160159"
+    },
+    {
+      "title": "Bevestigde transfers van spelers naar HK - www.footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zNTZpTjVKSWgtNnlMdEhSZ3hSalJFUmxkZmhnOGJ3YTN5bF9VZEYwRXc1LWExbElqTEVTUjRlcHBBVklxQTJvYTdPZURrNmprRzhpRGFtV0xteFpCal9JR1JqUnc0U0NYR2o4TDk0ckloVWp2cnc?oc=5",
+      "description": "Bevestigde transfers van spelers naar HK www.footballtransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-20T19:08:02+00:00",
+      "image": ""
+    },
     {
       "title": "Scouts opgelet: deze jonge spelers maken indruk in de KKD - FootballTransfers.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWDJxNFMxLXhKNHRhY0VmUmNtX3d3RnE3WEc0ZWY2TnotY2t4SW9zanlyLXJ3ZE5XVUtYdnBpbTlsSm0xMlNsbzduWTJCZlA0N1pHWEl3bE9xdWk2RVlQc1JpYmg2Zm5hRDN5ZnRGQkMzOXRkY3hWRFBlek9fNWN3d0RLdWhMLVpWSHU2eVNnLThkS2RsTzZRMHZqWU5pN0ZidWUtemRna2lrRnVzNHBjTE96dnNJVHJGLTFFZ2pYZkhSbllLU0h0Y2l3T2hVaHdyeklRV2ZmWllmcGc?oc=5",
@@ -18,27 +58,11 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0985/live/d8838190-e4fa-11f1-a8e4-b1e12a49db15.jpg"
     },
     {
-      "title": "'Iedereen is enthousiast over Brandt bij Ajax, maar De Bruyne heeft hoger niveau' - VoetbalPrimeur",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3RYRTdWSnpRWWpubV9nMGZuOW1ITXNLTVFIbm0yOXRvR2dtODdGOVNsREhOMnRjcDl5V3VQa0xidXB3aUFRSzJJY0VVbmo1Xy15dlVBcmk0ZGRfTkE3SDlZNk96RGdxU2dzeEZCS0M5RlFlMEhObXNWLVMwRlFwOGdzeF9SMEJsZXNMYkZTaldJdEQ2dDNValJsSERJQzlNelVzVQ?oc=5",
-      "description": "'Iedereen is enthousiast over Brandt bij Ajax, maar De Bruyne heeft hoger niveau' VoetbalPrimeur",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-20T18:26:02+00:00",
-      "image": ""
-    },
-    {
       "title": "José Mourinho vertrekt bij persconferentie na vraag over Cristiano Ronaldo - De Telegraaf",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWDVqY1ZPV1VxU3JuWl8ycDE0ODJaTHh2d1ktVlRHZUVhclRlQnJmWkZLYmF0cmVpWTc5S25xeE1GVGF5aWtjOHZfWWlyMS1BMUVJaFFsVEN0LVhxN1FRX0Judk5DT2k3b0c3cVpBREl5NFpQS2xjOGY4M3VVVFZ1MzVPRDJiV0ZZUE53WktSOTd5MzJPTVFVdXV1OVM4LTdyakpvTjdEUDdaei1uSHFyVzZndmNlSzE4WHBfWHlidU9XX2REMTlJ?oc=5",
       "description": "José Mourinho vertrekt bij persconferentie na vraag over Cristiano Ronaldo De Telegraaf",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-20T18:25:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bevestigde transfers van spelers naar Medeama - www.footballtransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HbGkydmtxT2NtWW13YTM2V29pbUN1Tk1sZndMRDJRX0pXT1JuWWJqX01RYmllVDVmV3lXVjdRdk5yVllQNGpuX2dRTG5SRnhnU0Q5WGdnR0JRLUFEV2xSdC1ZVnpDOXlZVDBCSXh5bmdfVHJsZ3JHZERaMkc?oc=5",
-      "description": "Bevestigde transfers van spelers naar Medeama www.footballtransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-20T18:19:57+00:00",
       "image": ""
     },
     {
@@ -58,11 +82,27 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/554b/live/c6288780-e508-11f1-b40b-5f46e8cf687c.jpg"
     },
     {
+      "title": "Premier League 2 Division One (UK) - Bevestigde transfers - www.footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUxkUDNWdmgxRFlEamxhaDFJSmZ5dF9vLV9DTUM2Z2EyRUpfUk1HcEhlOFBzQWNmdktsejJaenVsd3c4SG8wNjNaS0IxaEpYSU9sQkYtbF93NE42OFlZc1BsY2ZiQ1VtR052OGZsZHYzYm9seUh2SXJaVkVsbFZILTJjYVQ5dWRMWjVLdlIyOXJEV2s?oc=5",
+      "description": "Premier League 2 Division One (UK) - Bevestigde transfers www.footballtransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-20T17:51:26+00:00",
+      "image": ""
+    },
+    {
       "title": "Transfermodel Jamestown Analytics gekraakt: zo haal je als club dezelfde resultaten - FootballTransfers.com",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZXJrVDlqTkJpR2E4emlPQVNXNEpXRURTRnZCQmhzeXNiLXpEV1B1VktPX0p2X2drblpTYTNidnVPbF9zenhqaWhiZDBVQnp3QTBVRmZmWDdhVFYyQkszUEFsMEpDa2xEVmVmU2FGRmk2TGJBMDJYZF9vOG92M0padGxkOXl3Y2JubGxzMkYtZ1V5d0Y2SXM5YVEzMHpzOW13dHEyZkxTckVEXzRoMlFQWTZaUThtWG1hc3JINXFWZDZ4N2Vxb3ppVnpfaGlTNGlhdjRmZEh6dWhIc09STGJGZkEyaDBKLWsyNFExOQ?oc=5",
       "description": "Transfermodel Jamestown Analytics gekraakt: zo haal je als club dezelfde resultaten FootballTransfers.com",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-20T17:45:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "VIDEO | Haaglanden Voetbal TV met aandacht voor ADO Den Haag - Haaglanden Voetbal",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3RIVjZ3ZWpxN0VvNEs4SndPTWpyT1ZYXzNXR2tIZ3BqbTRzMEJ6ZTVoWldfdklUTEdjMFFVamsyQ2pmeG4ydWhyRlZINWR0U05LVTdOdDJuMUJzX3FpQ2tjal8wTGtqd2tGcDdqdzJkV3poOTdJVm13NVliLWQ4dEpVelBTaHQtTHV6bWM0ZUFDWkwzb0xlT05YRkdsMGp4Um11TDBSdkFwWXJyRUYydE5JRlVoUXctSU84?oc=5",
+      "description": "VIDEO | Haaglanden Voetbal TV met aandacht voor ADO Den Haag Haaglanden Voetbal",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T17:31:49+00:00",
       "image": ""
     },
     {
@@ -107,7 +147,7 @@
     },
     {
       "title": "Football Daily",
-      "link": "https://www.bbc.co.uk/sounds/play/m003471n?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
       "description": "The team look at Mauricio Pochettino's opening match as Manchester United head coach",
       "source": "BBC Sport",
       "pubDate": "2026-11-20T16:53:00+00:00",
@@ -147,9 +187,9 @@
     },
     {
       "title": "Chelsea latest: 'Tom Brady in discussions over Blues investment'",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "link": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-20T16:11:00+00:00",
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
     },
@@ -190,7 +230,15 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeUduSldWdjRPTi1kdk5BNnE2SWc5UDJWbGltTURSZWhNSXRzRGQ1NTJHbS1qNmhiX1g5RG9CSDZwRnhMOHBIWXpJWi0wUjZXcjh3ekxkWUpBZ00ySlk4QVZuUXU3UHZpa1p3ZnlMYnFZTUNMeTFLWXlmSnhDUTV2b3VabFdnX1Q2MEtTMXYxVXJtX3IxZzhyalpOWWdHcWJmX0Zxb3V2NGoyNTNUZUZJYm53Nkdib3p3UUdfTmlwdGhScnltS0p4anJaREJWdHVB?oc=5",
       "description": "Willem II-trainer Streppel grapt richting FC Twente-uit: ‘Ah, vanaf nu ligt het dus allemaal aan mij?’ Brabants Dagblad",
       "source": "Google Nieuws NL",
-      "pubDate": "2026-11-20T15:37:51+00:00",
+      "pubDate": "2026-11-20T15:37:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Virgil van Dijk en Ryan Gravenberch na missen duels Nederlands elftal dicht bij rentree in Engelse Klassieker - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDVCM2lMX0pndVRDV21lZWJybU9kN0s0NEtHRmcyMExLWk1CS0s0MXNfYnUtUi1hM19Cb0NxanRVNlRSUkhFaVdRUmtpdjYwNkN3SmN3eXhVQk92S2s1WHd3WUpNSHRmOFprUGY4OWw1TXJXZkM3MGxmYmlHZnVqVkg2QlJhNU94a0JiSkdlY3doa2xRdk1Yb1J5ZVVoQWJ4am45aDZCZ0k0UjJDSkdVR3FHWEFkeVZHWDRuLUZaWGtNcGN5UWxieGJZeDJxTGFYUHJsWkJyNHBBd3RYQVZjNUNoZklreGZyMFVqVWVBT1FCZHYyQUE?oc=5",
+      "description": "Virgil van Dijk en Ryan Gravenberch na missen duels Nederlands elftal dicht bij rentree in Engelse Klassieker De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T15:20:54+00:00",
       "image": ""
     },
     {
@@ -200,6 +248,14 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-20T15:18:42+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eddb/live/bbd39d90-e415-11f1-b37c-b3a71d7200af.jpg"
+    },
+    {
+      "title": "Welke trainer staat er volgend seizoen voor de groep? En waar zijn er vacatures? Bekijk het in ons overzicht - ed.nl",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUXhuTlA0clhHeUVjanlXanhUbVhWVG5tVHM0SUpBc2FOX1kwbEhTOTFlTGQ1QWpjOUZ6ZTNQYnFMdXo5Mm9YbVlpZTFXUDQtZ0dPNVRjVHVYREhHTzJMRjUyX1hCSlhndWs2amRmbVc2OGpEU0VGZ3ZjVDNualJ6dnI4eTBnZFFVVjZkdFFTcVgyNnNYMnI5WXV0MndkSERxVGxPY2NrTlJNUldHeU84UU1ETzJpSnR5YmdNYVJqUmp6NkpFQVVPQU5nUFVWUXljc3ZzMVZYdmJZZUFXdGQ3Tm9VSQ?oc=5",
+      "description": "Welke trainer staat er volgend seizoen voor de groep? En waar zijn er vacatures? Bekijk het in ons overzicht ed.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T15:09:00+00:00",
+      "image": ""
     },
     {
       "title": "Filming training by drones should be illegal - Iraola",
@@ -298,6 +354,14 @@
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
     },
     {
+      "title": "Trainer Anthony Correia onder druk bij FC Utrecht: vechtmodus aan - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMUp4aWxISFVPYnhqTmRKbHptNFdnZEZjMW1DRVc5aGNlOXZNM1ZOUktYNnowN0JYLWsxZTRzaFVtLWNKOV9ydjBnOVEtUHZfbjlhUWhMRHRtdnVhaDdRSE55bVJ0Z2lERkJDdFdwLVM4ZHMyOE1mOUM3dlMtVWx2UjJKcy1HMm12VXYwYm42ZUtXTXJ5SzdUUXQ1ODgyaC1id1FfclZ2am9YLXVCY2RISW85b2FxSFRIRUtETnVVRXl6OTFIb3dlS0dxRXBrNUI4Mmh6LXZ0OGRkWTJjeFBld0MwRXBuLUlHQTI3Y0NJZEsyNU5wZnRkS201WHY?oc=5",
+      "description": "Trainer Anthony Correia onder druk bij FC Utrecht: vechtmodus aan De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T13:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "PSV-trainer Bosz wil niet praten over mogelijke komst De Bruyne: 'Niet respectvol' - NU",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFFXc25wYTJDNzROSXRJN0JVdXZiR3JXcjV4Y3MxMmZ5cjlOX181X3J0RXVpaDVSekZucS1ZVjVBUDhvdmhHS3dSdi1lZ05aVC1IZkxubGJwR1oxekNCTmM0Ty1vTHVzUlhlRWYtbEU4UUhUSl9fRlBORktaOHBNeWh3ei1kdnlNZTZJWW1HQ0U2QkFpZkVkak9yeGVtak02aHcwY0JGQWpSVG96WHhpeGk1UmRhSHozUVE?oc=5",
       "description": "PSV-trainer Bosz wil niet praten over mogelijke komst De Bruyne: 'Niet respectvol' NU",
@@ -338,12 +402,36 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/e16f7470-c7d7-11f1-9671-5b70c6e774ea.jpg"
     },
     {
+      "title": "OFFICIEEL: Sascha Kotysch wordt nieuwe assistent-trainer bij SK Beveren - VoetbalPrimeur.be",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3Ffd2xVdlh0ZjQtQW5sRV95eVlNS1NvODZoY1JqZDdHTGFPMXVoYV9PQlc3elRXOXBBNFhzV0U4Q3JzY3VEQXNSMnFULVZPSWc5SmlwTkVaU05MSjJGNGgtdFd6dnFmZTY2M01pajh6NFFCa0hKb1R5dXUtd2cxRnpfTmo1TE9WeThDSkxJUmwwV0RyNXdlNExyWEpFWHRxcEE?oc=5",
+      "description": "OFFICIEEL: Sascha Kotysch wordt nieuwe assistent-trainer bij SK Beveren VoetbalPrimeur.be",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T10:01:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Will Frank turn things around at Crystal Palace?",
       "link": "https://www.skysports.com/football/news/11095/13613145/thomas-frank-what-should-crystal-palace-expect-from-their-new-manager-what-does-he-need-to-change-and-can-he-keep-the-eagles-up",
       "description": "One of the Premier League's most charismatic managers is back.",
       "source": "Sky Sports",
       "pubDate": "2026-11-20T10:00:00+00:00",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408620.jpg?20261117123420"
+    },
+    {
+      "title": "Van Stal Sport naar... titelmatch in Paraguay: deze trainer (36) \"volgde zijn hart” naar Zuid-Amerika - Nieuwsblad",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOR0hsS3oyeV9VVEQ4Q2dUNVJaRFpvSC13aHJlMVZMakZvWW9SLThFWXpwczM5czJKbGdIUmZhMGdvSk03ZTZYQm50R3J6NHRxR3lqaUxMdjF5cnNpQXJNS3IxSUhPcm56ZlR2X05PVktuS0xtY2MtNnk2dFNMbUg1LVF2bDNXNnd3U29XZVB6clFuUG1oSEtPLUVOM2xqa2Yyem5uLUMwNHVIdWJ6bXBnX2Q2VlQ1ZndVZnJSdU1NSUh4bTFEckZxY3psT21fVjlXdFNUS0JNVFFiYXI2VldxMHlMNXozdw?oc=5",
+      "description": "Van Stal Sport naar... titelmatch in Paraguay: deze trainer (36) \"volgde zijn hart” naar Zuid-Amerika Nieuwsblad",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T10:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Kersverse Manchester United-trainer krijgt bij eerste training te maken met ongewenste pottenkijker - Sportnieuws.nl",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUFpPcnNTN1JRQzR0LU55QkFUcFltdXBDakF0V0oxeE95N0pSaWxScFg0ZlV4a0pVSVlsd1pjR3NuV1MyZXJWdFNydkthX0xWWncya2t4YVI4Z2gyTDJGSlk2ejQ5MDk0Rm0wNFFkX3h5dDVTdVMyNkg2VTl6eTBVaUV0TFZVaGJVdkJiVnZ3MzdQeU9tZFFabXQ4N0IxUUY2aElWZVhmWDcwd1dOMXFVNVg2eW02Q2NpLUxoNVBybmY5aEp5Vjh4Q0tRVjVxaC1LMWQwaUtaa2dISDNTbm1LMmZUSkFHLXNpZFdVeW9BUzdsb1dkQ0dZM3BBN1E3aFU?oc=5",
+      "description": "Kersverse Manchester United-trainer krijgt bij eerste training te maken met ongewenste pottenkijker Sportnieuws.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T09:49:00+00:00",
+      "image": ""
     },
     {
       "title": "Guimaraes growing at Arsenal - but Arteta still wants more",
@@ -370,6 +458,14 @@
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
     },
     {
+      "title": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Een echte clubman geworden’ - Brabants Dagblad",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUUVpTkZTM3pRUWFHQTg1U3lyR3VfNWlpa3JPMTlSQmxDbWg1Mmdwa1hUQTlrVmxMdU5WY0lsNzNJdnFXdFFJZElic0dyVVY3RGRydDkzNGdycDE1RFprN1JNWkVWYW9qUVVXd1NLNmdCWkJLcHhWckhkWFJtQ0I5SzdOaUNhaEF4SVZrcEJSMUJjRmZvVUtTcks5TkpoTjRUUGgxN3JmTFpmVzZtTXRoZ05ua3FNczZZclVxNjg1V2FmTnRnUUpNSmZWNC02ZmlsM2d3?oc=5",
+      "description": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Een echte clubman geworden’ Brabants Dagblad",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T09:18:06+00:00",
+      "image": ""
+    },
+    {
       "title": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Door de voordeur vertrekken’ - Brabants Dagblad",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWl9qemVNODNsX08tSURQeXprRElnY184WlBPV3JlbmJwYzFyM3pRSFpTZXRYSjc5UGVQVmZJWVYwd1kxUlphTEJXZlVjY1Z2Y21IejhzRFJhdEdNaVFYQ0p1SmRucXNsQTA2VkFwRmdDNnlRYzNrTDFybEQ4MWJEU2RXVjJlYTZoaDMzZ2JHY095bmFRc0M0c3hKcWNYQkFoR0pYdnRjTlgzRzhJTGdfTEkwbUM3clpZZlBjWmlzTURHamFqNWk1R1RxWkpUWjJZalNzRw?oc=5",
       "description": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Door de voordeur vertrekken’ Brabants Dagblad",
@@ -391,6 +487,14 @@
       "description": "Dani dacht zijn vader nooit meer als trainer te hebben, nu zijn ze samen periodekampioen: ‘Als puber wil je niet luisteren’ BN DeStem",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-20T09:00:23+00:00",
+      "image": ""
+    },
+    {
+      "title": "OHL mikt op voormalige Club Brugge-trainer als opvolger van Timmy Simons - Circus Daily",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGtFN0R5b0xCN3lscWVrc3RyN3NTX0FNVW4tRFp4eXNlVlloUjl4QXkyX2JSXzUzUW11U2ZaeXZBWUxkOUNDNV9BaDBiOGVOQVVMQ3hjZXJBOUVpajhiOVpkQWdFYlhOTHN4M0xkaDFCV0phdmJyeEtfRm13WmZXMHg4MDJOSUtqLW96QnhYeGVGQ1JlMlpBTndOdVR6bTVQMGhEMGZURTdzOWpNMlpaWC1ubw?oc=5",
+      "description": "OHL mikt op voormalige Club Brugge-trainer als opvolger van Timmy Simons Circus Daily",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T08:31:49+00:00",
       "image": ""
     },
     {
@@ -506,6 +610,22 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg"
     },
     {
+      "title": "Karel Geraerts (ex-Union) staat op het punt om trainer van Kazachse kampioen te worden - Nieuwsblad",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS3ZMSDEwZUZGMW1DWXBvZm9JZFVoSTg3VVlMNzkxWUlHRy10WEtRSm9CeHpWUEdiNmVlaDdkQWlTaXVDemRMQkRFd25PeEdLSnBZZ1hkQlV1Zy02cG1EUGNqM3dTYzExMnR3Z3J6T3FRLUJMc0xtZEY3SzJucHFFRE12YXpNbjJ4dEpKY0MwNTdYZXJVSGczQmlxVG85ZXdQNDcwWTlZTHRUazF1Tm1ScTRuRXlTUXdkOVBOT3hLOXYyXzJBdzQ2bGdiSGZ1dVYwYklGNFNn?oc=5",
+      "description": "Karel Geraerts (ex-Union) staat op het punt om trainer van Kazachse kampioen te worden Nieuwsblad",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-19T20:35:55+00:00",
+      "image": ""
+    },
+    {
+      "title": "Van underdog tot Trainer van het Jaar: Belgische coach Jimmy Coenraets (31) maakt naam in de VS - Sporza",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVFMRndLWkstWnRxN0hCY0NTeVJmREVDSDdiXzVBUWJWSU5pZEo0TUVTbEk2VGVNZXJCSFpFeWt6cDk0VzJ2UUVQYU1ybnhjTEhaczhxanJFLU93eEFPb290bVl6SlVzVmZWSkZ5ZWtBaXJjekd1MTRuTk51VV9rVklJR3RQeVpldzNjY1VOZFpXV0FZb0JRZGVkeDFQLWMxNTFEZ2pJUDBrdHM3Qi1rSEVvOUpuX3lFUXVPRUk2Z2RZN1lxSUVQM0N1cFgwLW9yRmU3MkJ3?oc=5",
+      "description": "Van underdog tot Trainer van het Jaar: Belgische coach Jimmy Coenraets (31) maakt naam in de VS Sporza",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-19T20:25:15+00:00",
+      "image": ""
+    },
+    {
       "title": "Vincent de Klerk hoopte op meer tijd bij Kloetinge, trainer maandag te gast in Regio-Voetbal - De Podcast - Regio-Voetbal.nl",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZms3ak9FTUVRMmxXZUVzOHM5RzlYQ0xxSVU2NU5WV2lLc1pJNzlNRjZ2V1pyWEVhZGxyWjZFMTBKLXprVGZTbFg1c01reFBKNWlhWmh5ZHc0NENyNnhOM0VpVkN4QzB2bmNGN1dJWkpkR1dFWC10bnJxSXJCaG53Z2Z1VlNZMmZYMGZiRE43VWpPM2tPNFpHM250Z09Vb3pndGI5c0RNR2FpM2JyZEhiU0JvUng1OHNFSi1HOUVrdmpkVTdpaThFSnd1d2gwbEZhb0NvODdCTGx3UGxYWTc0SXpLbTVhLTA?oc=5",
       "description": "Vincent de Klerk hoopte op meer tijd bij Kloetinge, trainer maandag te gast in Regio-Voetbal - De Podcast Regio-Voetbal.nl",
@@ -520,126 +640,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-19T20:16:10+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ef/live/c3f26550-e452-11f1-8a3d-bb9751dc9556.jpg"
-    },
-    {
-      "title": "New manager Frick to take Aberdeen back to basics",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo?at_medium=RSS&at_campaign=rss",
-      "description": "Head coach Mario Frick says his track record proves he can produce exciting football - but a back-to-basics approach is needed at Aberdeen.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-19T19:11:26+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ec/live/f852eba0-e44b-11f1-9192-3924a59e54c7.jpg"
-    },
-    {
-      "title": "England fined for fans' anti-Catholic chants in Spain",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
-      "description": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations League victory in Spain.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-19T19:11:03+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17f2/live/d02f91c0-e449-11f1-9192-3924a59e54c7.jpg"
-    },
-    {
-      "title": "Sutton's predictions v world champion boxer Lauren Price",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sport football expert Chris Sutton takes on world champion boxer Lauren Price, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-19T18:52:00+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db10/live/2d275fd0-e28c-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "title": "’Napoli wil minimaal 7 miljoen euro hebben voor Kevin De Bruyne (35), trainer Allegri wil Belg helemaal niet kwijt’ - De Telegraaf",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYUpmSzNQX21oZW5mS1FyRndOWmhJaE9rOXcwNGx2OUtIRXlsT3ZvTU50VmlnX21UMFZmOURlT0laSU5hTjdZbWpZdjQyb2VyZHFoT1RXU1dBbkllNjlBa09abFg2dUhSUm5hMVZlLXQzU093a3VkbHd2TzM5a3pTVEk5eG9TYjVuMzYtZTJEc3Znd2U4YTJPXzA3WFpyZzVORkhpWVh0Q0xhdkhHbVNub2o0dEFDVzQzUjYzNEtEaHFyOUgyWFM3cDgxNkswb0U1UW05aHhMbGV4WHdSS0tNSm1jWHB6VXBpQnhmTEJQX3pfRF82LVZZ?oc=5",
-      "description": "’Napoli wil minimaal 7 miljoen euro hebben voor Kevin De Bruyne (35), trainer Allegri wil Belg helemaal niet kwijt’ De Telegraaf",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-19T18:37:32+00:00",
-      "image": ""
-    },
-    {
-      "title": "Thomas Buffel ziet transfer zitten: \"Dan kom je snel uit… - PSVFans",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVUx5QXV5NklpUHgyTVYxZ3N3MEFITkJzSl9pNktmNllnbkUzQzZtWm9fZS1wUXUtTXFxWnc2eXYtb2Y3c05aQkxhbk9nTE5ST1AyZG5EcW1ZWWl2SElHT2RJRUJBdWE2S1o4dXBEbWRKVG9La0NiMFRQVm5NVWtWeE1hUjVMeHl6cnBnUG05VQ?oc=5",
-      "description": "Thomas Buffel ziet transfer zitten: \"Dan kom je snel uit… PSVFans",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-19T18:04:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "PL Predictions: How will your club fare this weekend?",
-      "link": "https://www.skysports.com/football/news/11095/13611640/premier-league-predictions-jones-knows-best-bets-newcastle-vs-arsenal-liverpool-vs-manchester-united-and-much-more",
-      "description": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight as the Premier League returns from the international break.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-19T18:00:00+00:00",
-      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-premier-league-predictions_7385438.jpg?20261024123906"
-    },
-    {
-      "title": "All done deals from September-November 2026",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
-      "description": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-19T17:54:30+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
-    },
-    {
-      "title": "AFC Cup (AS) - Bevestigde transfers - www.footballtransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ibTBLTW5CdVRybUdaOVdtMTQ1MGdsNTAxZG50MDE5WWhlY2Rrc05hdmRFMWkyLVBzbVd1alRETjJGVktvcWlLSEQ2bk5JX3FvVHNVelBrczMyWjVEOHE2a1FaSHVrd0lET05XRjFZY2RvQktURFE?oc=5",
-      "description": "AFC Cup (AS) - Bevestigde transfers www.footballtransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-19T17:51:09+00:00",
-      "image": ""
-    },
-    {
-      "title": "We'll only sell if offer makes club blink - McInnes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss",
-      "description": "Manager Derek McInnes says Rangers will only sell players in January if they receive offers that \"makes the club blink\".",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-19T17:11:51+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/234c/live/6f2a6f00-e429-11f1-bdfb-a33543c4dc85.jpg"
-    },
-    {
-      "title": "Liemerse derby DCS als ‘generale’ voor stadsderby • Speciaal duel trainer Ozerdogan • Angerlo: eindelijk kans op revanche - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTUVvZDg4WHhSaXlSQmNhRHA1X0NuYzd1RDBack1zM0pGMThCRENXUHc1NnNpa05xLTY1ZTRudmZZS0YwRXVMZjY5QUNjb2NMSC1ZYnlRQmdZWV9RS2hVcDJ2SFRlUTJsOVNwY2RFYkRuTjdDY1RDZVMtTURtTmk1amFkWkNYdkdNQkwzT1NleGQ2b3BSTFloRlVJbE51MFBnTGplVE5QbElRUVZVbFJNT2lfNmNnTWxWYmMwUFBfS21oWndydTBIa0lEbU9jN0hPT0Y0SXZfY0dyYllUUktWZ2s4NUFkTlFkdTNJdC00dV9ScTBOc1A2Ug?oc=5",
-      "description": "Liemerse derby DCS als ‘generale’ voor stadsderby • Speciaal duel trainer Ozerdogan • Angerlo: eindelijk kans op revanche AD.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-19T17:00:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "Palace latest: Frank adds Chelsea coach to his backroom staff",
-      "link": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-19T17:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408400.jpg?20261117090402"
-    },
-    {
-      "title": "Manager ins and outs - 2026-27",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-19T16:45:46+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/d9deae90-d832-11f1-87c3-29e1cdce63c6.jpg"
-    },
-    {
-      "title": "PSV aast op Kevin De Bruyne, dit zijn momenteel tien van de grootste Eredivisie-transfers - Helden Magazine",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbGJRNmFpRDQtNTkzc3Q3eDd1dE5iUzd4cWRaX19UbHpfTFd0RnA0MUQzY1VQZ09SeTJZd2dEbmFqQTJ0VlNKZVdVVkNEQWNCSmJCeXZKUk9ub3JUNnNqMmdjS1NOX2JoRWN4eTB5WFpoS2ROLW5rQmsyOFQxVGRXZkxEUkEta25yaTZxREUzdTlMd0VJUVVkbjlFYVI0WXJJcFAtZmE3SFZQTTNCbW9rVU9VSVU?oc=5",
-      "description": "PSV aast op Kevin De Bruyne, dit zijn momenteel tien van de grootste Eredivisie-transfers Helden Magazine",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-19T16:25:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "'Bizarre transfer voor Roméo Lavia' - Voetbal24.be",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40ck1uWEpyV0x6OTh4VEhGX2NGb2hIams4YjV4WkJwdXZnVWswaDBVWDktSU95Wlk2SWQ4NUFmdVFIWTZuTDlqTXZYR3ZxTnJBdXFpcGpGUFdTRnNvaWFleW0tT1Bqdm1HbGw4SGhnSVY5MHRvbFBSZDdCNA?oc=5",
-      "description": "'Bizarre transfer voor Roméo Lavia' Voetbal24.be",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-19T16:17:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxlylzyg38l8o?at_medium=RSS&at_campaign=rss",
-      "description": "Culture, defence and Bruno Fernandes - the key issues facing Mauricio Pochettino as he takes over as Manchester United boss.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-19T15:05:21+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8510/live/71f11f30-e420-11f1-9e08-55a8a3b48445.jpg"
     }
   ]
 }
