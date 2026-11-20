@@ -1,13 +1,101 @@
 {
-  "updatedAt": "2026-11-20T11:18:06.338010+00:00",
+  "updatedAt": "2026-11-20T13:32:54.926135+00:00",
   "articles": [
+    {
+      "title": "Man Utd latest: Poch to speak on drone in first press conference",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-20T13:30:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
+    },
+    {
+      "title": "LIVE STREAM: Pochettino's first Man Utd press conference",
+      "link": "https://www.skysports.com/football/news/11095/13614295/mauricio-pochettinos-first-manchester-united-press-conference-watch-live-stream-on-sky-sports-as-new-head-coach-faces-media",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-20T13:30:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-pochettino-manchester-united_7411385.jpg?20261120124836"
+    },
+    {
+      "title": "Southampton give head coach Eckert new deal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
+      "description": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-20T13:10:33+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd8/live/b6cc2940-e4db-11f1-9cc5-e9713e77fd78.jpg"
+    },
+    {
+      "title": "Chelsea latest: Alonso to speak ahead of Leeds clash",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-20T13:10:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+    },
+    {
+      "title": "Eckert signs new Saints deal despite 'Spygate' controversy",
+      "link": "https://www.skysports.com/football/news/11095/13614334/southampton-boss-tonda-eckert-given-contract-extension-despite-spygate-controversy",
+      "description": "Southampton boss Tonda Eckert has been handed a contract extension through to 2029.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-20T12:30:00+00:00",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tonda-eckert-southampton_7254559.jpg?20260521084229"
+    },
+    {
+      "title": "Bosz wil niet praten over eventuele komst De Bruyne: 'Vind ik niet respectvol' - NOS",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0t0ZDJvVC1vNUVORDhrb21LcWg0ZzdHZC1pVzVCSmxBQVpNNnFpTnlzajhpVGtLYlJCMU1neHo2bHNIbjkyajVBd0Y5bEY2bWtDanR2Vm5QVU9BTDJEQTlkYlFYY2stSXpxeXJaVk1ITFhReUFkR1ZuLVhVeDR1U0xweDdXSUJ3VEVCc1VDLXI4Z0FnTjBwSzlOcDI1X3ZORXNZZXlKWnZ3UQ?oc=5",
+      "description": "Bosz wil niet praten over eventuele komst De Bruyne: 'Vind ik niet respectvol' NOS",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T12:28:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "PSV-trainer Bosz wil niet praten over mogelijke komst De Bruyne: 'Niet respectvol' - NU",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFFXc25wYTJDNzROSXRJN0JVdXZiR3JXcjV4Y3MxMmZ5cjlOX181X3J0RXVpaDVSekZucS1ZVjVBUDhvdmhHS3dSdi1lZ05aVC1IZkxubGJwR1oxekNCTmM0Ty1vTHVzUlhlRWYtbEU4UUhUSl9fRlBORktaOHBNeWh3ei1kdnlNZTZJWW1HQ0U2QkFpZkVkak9yeGVtak02aHcwY0JGQWpSVG96WHhpeGk1UmRhSHozUVE?oc=5",
+      "description": "PSV-trainer Bosz wil niet praten over mogelijke komst De Bruyne: 'Niet respectvol' NU",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T12:22:12+00:00",
+      "image": ""
+    },
     {
       "title": "’Fijne dag, baas!’: Blackpool feliciteert trainer met verjaardag, maar ontslaat hem een paar uur later - De Telegraaf",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQakV0X0VvbVVSektnMTJjVFRGdU5sbjN6cE1fREt6bnVHeTQ3SkRtNW5Cc3ZzYXFYZTNZdWxpbEdxaGpjNXA0alYwUWFVSEl2TXpyejlGN0FXeDh5Q3NWQkI1cHc0UGx6NG5OUXV2NGJpSjBDQXZidktxVmR5MEN2LUpyNHlDNmVHODlJZ3EtNVpjU1dLZlM2RERObHVXVS1BV2VBUnhqYjNTVHZjc2luY1J5bXNVUTRKLTE0R2FqLWFCYkxZX015VXE2UXFFZlo2NHVSeHRsSHp6S2hmZDhKR3Z5UTc?oc=5",
       "description": "’Fijne dag, baas!’: Blackpool feliciteert trainer met verjaardag, maar ontslaat hem een paar uur later De Telegraaf",
       "source": "Google Nieuws NL",
-      "pubDate": "2026-11-20T11:05:31+00:00",
+      "pubDate": "2026-11-20T12:17:55+00:00",
       "image": ""
+    },
+    {
+      "title": "Peter Bosz wil niet ingaan op vragen over mogelijke komst De Bruyne: ‘Vind ik respectloos’ - pzc.nl",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHhhQnZmUkZNMmRiakIyakpwc2Y3X3phUS1PX09ncFp3ZWluNDBDekY2a0RndEliMWYwbGhIRTNlSE84OFlkUy1MbVBHbFU5MlZUQ1ZGcGhvTlo2bHd5UTZMY0hlRWV1Tk5pbm5IWV8weWJ3MmhVTEVKakYxY3hrX05tQ1NOemhkd2dzOWRnOWVRTWhGVDAxTW9CNlNvZGtOdGJKYTNsYk9tSGczeHl6Qzg3bERWNEVXcGM3S083TWJXZw?oc=5",
+      "description": "Peter Bosz wil niet ingaan op vragen over mogelijke komst De Bruyne: ‘Vind ik respectloos’ pzc.nl",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-20T12:15:35+00:00",
+      "image": ""
+    },
+    {
+      "title": "Stoke and Birmingham proving you shouldn't judge a book by its cover",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o?at_medium=RSS&at_campaign=rss",
+      "description": "Stoke host Birmingham in a Championship game of two teams both bang in form going into the latest international break. How will they re-emerge?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-20T11:35:16+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390b/live/ce0a76c0-e468-11f1-99b6-a35a62fa4264.png"
+    },
+    {
+      "title": "England to face Norway in Nations League last eight",
+      "link": "https://www.skysports.com/football/news/11095/13614281/nations-league-quarter-finals-england-to-face-norway-in-the-last-eight-with-a-potential-semi-final-tie-with-germany-waiting",
+      "description": "England will take on Erling Haaland and Norway in the Nations League quarter-finals.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-20T11:30:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-englan-england-players_7407371.jpg?20261115220250"
+    },
+    {
+      "title": "Fan found not guilty of racially abusing Semenyo",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po?at_medium=RSS&at_campaign=rss",
+      "description": "Mark Mogan was accused of shouting abuse at Antoine Semenyo at a match at Anfield in August 2025.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-20T11:12:35+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/e16f7470-c7d7-11f1-9671-5b70c6e774ea.jpg"
     },
     {
       "title": "VIERDE PROVINCIALE. Trainer weg, ploeg met dertien afwezigen en afgevaardigde moet meespelen - HBVL",
@@ -42,20 +130,28 @@
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-arsenal_7411193.jpg?20261120082419"
     },
     {
-      "title": "Transfer Centre LIVE! Mourinho responds to JJ Gabriel's impending Man Utd exit",
-      "link": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-20T09:30:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-laliga_7396670.jpg?20261104095651"
-    },
-    {
       "title": "Arsenal latest: Saka out for four more weeks with injury",
       "link": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-20T09:28:00+00:00",
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+    },
+    {
+      "title": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Een echte clubman geworden’ - Brabants Dagblad",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUUVpTkZTM3pRUWFHQTg1U3lyR3VfNWlpa3JPMTlSQmxDbWg1Mmdwa1hUQTlrVmxMdU5WY0lsNzNJdnFXdFFJZElic0dyVVY3RGRydDkzNGdycDE1RFprN1JNWkVWYW9qUVVXd1NLNmdCWkJLcHhWckhkWFJtQ0I5SzdOaUNhaEF4SVZrcEJSMUJjRmZvVUtTcks5TkpoTjRUUGgxN3JmTFpmVzZtTXRoZ05ua3FNczZZclVxNjg1V2FmTnRnUUpNSmZWNC02ZmlsM2d3?oc=5",
+      "description": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Een echte clubman geworden’ Brabants Dagblad",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T09:18:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Door de voordeur vertrekken’ - Brabants Dagblad",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWl9qemVNODNsX08tSURQeXprRElnY184WlBPV3JlbmJwYzFyM3pRSFpTZXRYSjc5UGVQVmZJWVYwd1kxUlphTEJXZlVjY1Z2Y21IejhzRFJhdEdNaVFYQ0p1SmRucXNsQTA2VkFwRmdDNnlRYzNrTDFybEQ4MWJEU2RXVjJlYTZoaDMzZ2JHY095bmFRc0M0c3hKcWNYQkFoR0pYdnRjTlgzRzhJTGdfTEkwbUM3clpZZlBjWmlzTURHamFqNWk1R1RxWkpUWjJZalNzRw?oc=5",
+      "description": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Door de voordeur vertrekken’ Brabants Dagblad",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T09:18:00+00:00",
+      "image": ""
     },
     {
       "title": "Reis in opspraak in aanloop naar Nordderby: 'Over mijn familie praten gaat te ver' - Voetbal International",
@@ -162,14 +258,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d5/live/baeaef60-e261-11f1-900c-895604014268.png"
     },
     {
-      "title": "Ajax hoeft niet te vrezen voor vertrek Ter Stegen, nog niet - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNDc1eTl0LV9RZWFobFlobWNhNGRuOEIwYnpDbkZmUTFnY0lTUFNhR3JfZlNZSU0zS19mSm1JaTJXeHRBYklnVmRKNUpWVDJJMUItNzlCaDh0c21QUkVTTGE2LU5FeUlPXzJyeEowRWFJYjZOZ2NtQ1djMmpFZm0zSjRQOGxFQjJNTEhqYURFTEZkbTlUVDE4UGhQRVo5WFZRaGt1RURPWUhKZHlISDhhVEZ3SUtmdXBuT0R4QXdKRkVralJhOUtXSTNMdzE?oc=5",
-      "description": "Ajax hoeft niet te vrezen voor vertrek Ter Stegen, nog niet FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-20T06:06:55+00:00",
-      "image": ""
-    },
-    {
       "title": "Transfer Tsawa in afrondende fase: Club betaalt 6 miljoen euro voor Zwitserse middenvelder - HLN",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeE9NNXBDbE13YmtId1gwNXRrTHZOYUpRN2RHcGVkbjV1elJ6SGwtYWR3X3ZuSkhCcDNSRWVwb0F6UWpwMGNuZTBzV0VZWi1uWVlOZmxyTTlYNjZVSHpHVWtSZWdsM0Zua2VQVmp3NTc4cGNpNFF1eDloMFlxdTV0SFZ2c0tnX1d3MUUyOGhaalRJVF9uRnJPOFFKQjNlZ1NaVE5HclF6YlhMVXhzQ290eG5aUzhyeUlELUE5RFY1eVB2eEJ3bzI5MUl3?oc=5",
       "description": "Transfer Tsawa in afrondende fase: Club betaalt 6 miljoen euro voor Zwitserse middenvelder HLN",
@@ -218,28 +306,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65a8/live/85a48b70-e461-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Papers: Fulham pushing to extend contract of Man Utd target",
-      "link": "https://www.skysports.com/football/news/11095/13614185/fulham-pushing-to-extend-contract-of-man-utd-target-calvin-bassey-paper-talk",
-      "description": "The top stories and transfer rumours from Friday's newspapers...",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-19T22:30:00+00:00",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
       "title": "Barcelona target Man Utd's Martinez - Friday's gossip",
       "link": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
       "description": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout Serie A top scorer, plus more.",
       "source": "BBC Sport",
       "pubDate": "2026-11-19T21:57:22+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3f8fe980-e462-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "title": "Man Utd latest: Drone footage 'a significant tactical advantage to Liverpool'",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-19T21:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
     },
     {
       "title": "Shevchenko accuses Mudryk camp of 'baseless slander'",
@@ -314,14 +386,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f56/live/0be50c80-e446-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "’Napoli wil minimaal 7 miljoen euro hebben voor Kevin De Bruyne (35), trainer Allegri wil Belg helemaal niet kwijt’ - De Telegraaf",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYUpmSzNQX21oZW5mS1FyRndOWmhJaE9rOXcwNGx2OUtIRXlsT3ZvTU50VmlnX21UMFZmOURlT0laSU5hTjdZbWpZdjQyb2VyZHFoT1RXU1dBbkllNjlBa09abFg2dUhSUm5hMVZlLXQzU093a3VkbHd2TzM5a3pTVEk5eG9TYjVuMzYtZTJEc3Znd2U4YTJPXzA3WFpyZzVORkhpWVh0Q0xhdkhHbVNub2o0dEFDVzQzUjYzNEtEaHFyOUgyWFM3cDgxNkswb0U1UW05aHhMbGV4WHdSS0tNSm1jWHB6VXBpQnhmTEJQX3pfRF82LVZZ?oc=5",
-      "description": "’Napoli wil minimaal 7 miljoen euro hebben voor Kevin De Bruyne (35), trainer Allegri wil Belg helemaal niet kwijt’ De Telegraaf",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-19T18:37:32+00:00",
-      "image": ""
-    },
-    {
       "title": "Thomas Buffel ziet transfer zitten: \"Dan kom je snel uit… - PSVFans",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVUx5QXV5NklpUHgyTVYxZ3N3MEFITkJzSl9pNktmNllnbkUzQzZtWm9fZS1wUXUtTXFxWnc2eXYtb2Y3c05aQkxhbk9nTE5ST1AyZG5EcW1ZWWl2SElHT2RJRUJBdWE2S1o4dXBEbWRKVG9La0NiMFRQVm5NVWtWeE1hUjVMeHl6cnBnUG05VQ?oc=5",
       "description": "Thomas Buffel ziet transfer zitten: \"Dan kom je snel uit… PSVFans",
@@ -360,6 +424,14 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-19T17:11:51+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/234c/live/6f2a6f00-e429-11f1-bdfb-a33543c4dc85.jpg"
+    },
+    {
+      "title": "Liemerse derby DCS als ‘generale’ voor stadsderby • Speciaal duel trainer Ozerdogan • Angerlo: eindelijk kans op revanche - AD.nl",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTUVvZDg4WHhSaXlSQmNhRHA1X0NuYzd1RDBack1zM0pGMThCRENXUHc1NnNpa05xLTY1ZTRudmZZS0YwRXVMZjY5QUNjb2NMSC1ZYnlRQmdZWV9RS2hVcDJ2SFRlUTJsOVNwY2RFYkRuTjdDY1RDZVMtTURtTmk1amFkWkNYdkdNQkwzT1NleGQ2b3BSTFloRlVJbE51MFBnTGplVE5QbElRUVZVbFJNT2lfNmNnTWxWYmMwUFBfS21oWndydTBIa0lEbU9jN0hPT0Y0SXZfY0dyYllUUktWZ2s4NUFkTlFkdTNJdC00dV9ScTBOc1A2Ug?oc=5",
+      "description": "Liemerse derby DCS als ‘generale’ voor stadsderby • Speciaal duel trainer Ozerdogan • Angerlo: eindelijk kans op revanche AD.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-19T17:00:44+00:00",
+      "image": ""
     },
     {
       "title": "Palace latest: Frank adds Chelsea coach to his backroom staff",
@@ -418,20 +490,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4af4/live/ab8a1930-e435-11f1-8346-933d3547e297.jpg"
     },
     {
+      "title": "Het voetbal van Vitesse stelt teleur, maar alleen Rehm de schuld geven is te makkelijk - De Gelderlander",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcnBfdnBDZGFKNDR2bjdHUHRRVFlPOWpNa2dZSWlHeVppMUpRMExLZmgxekhfdW5rT0VLODF0TS1pUFFKRkN6b2l1RlNlT19rdEZFbHpCTm9SV2c1Sm1iOHE2ZE5aOEpjb21NZzEwSXI4dm9MclVyRXVlVXVyOXFKTmRGLVpaU1NxdGJiWndCUlR0NThrVFZheGJaRXh4Y19WTG9TTDJKVVpsLVZ2VnpZZHpNZmE5UUcxZVJSOE4wT3ZGSmkxV0dKRFlUSQ?oc=5",
+      "description": "Het voetbal van Vitesse stelt teleur, maar alleen Rehm de schuld geven is te makkelijk De Gelderlander",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-19T15:07:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
       "link": "https://www.bbc.co.uk/sport/football/articles/cxlylzyg38l8o?at_medium=RSS&at_campaign=rss",
       "description": "Culture, defence and Bruno Fernandes - the key issues facing Mauricio Pochettino as he takes over as Manchester United boss.",
       "source": "BBC Sport",
       "pubDate": "2026-11-19T15:05:21+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8510/live/71f11f30-e420-11f1-9e08-55a8a3b48445.jpg"
-    },
-    {
-      "title": "Bjarne Cardon (27) hoopt op nieuwe basisplaats bij KVDO na prachtgoal: “Ik denk dat ik het onze trainer moeilijk heb gemaakt” - HLN",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONTNJZkphNFYzb1p4NlQ2OUdoaVBKR1hGV0ZpMFI2SzZnUXFlMEMtZWotZzVyLWpCVkpHNHFkc182TXBjbUM5Y29ZWFpKMWZrS2xRRG1BeDZldUJPR3ZUU2NUUTJINnpwSmozTGhpejYtNGRyU19sRUYxSmxqWGVPUnJsVzJmdVgzVVNIQmxqdHhCelJoQnJWdHo1LU5HMzIwU1dMbDhTZWpxelQ0MTdFaUFNRXlVclNnN2E0cm9oSk41NmpMcHN4NGZHeUJYU2JYMENDRnpVeUIyeU1aMHYyVlgzRTYtcE0zbkp5aTUwUjd1dzN2Rk9tV2tDTQ?oc=5",
-      "description": "Bjarne Cardon (27) hoopt op nieuwe basisplaats bij KVDO na prachtgoal: “Ik denk dat ik het onze trainer moeilijk heb gemaakt” HLN",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-19T14:41:00+00:00",
-      "image": ""
     },
     {
       "title": "Tolu Arokodare (25) kon zes keer meer verdienen: ‘Maar ik zag een transfer niet zitten’ - Voetbal4U.com",
@@ -515,9 +587,9 @@
     },
     {
       "title": "Pochettino vows to 'change things' at Man Utd",
-      "link": "https://www.skysports.com/football/news/11095/13613821/mauricio-pochettino-at-manchester-united-new-boss-vows-to-change-situation-at-old-trafford-in-first-interview",
+      "link": "https://www.skysports.com/football/news/11661/13613821/mauricio-pochettino-at-manchester-united-new-boss-vows-to-change-situation-at-old-trafford-in-first-interview",
       "description": "Mauricio Pochettino has vowed to \"change things\" at Old Trafford in a confident first interview as Manchester United boss.",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-19T11:00:00+00:00",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-pochettino-manchester-united_7410113.jpg?20261119072308"
     },
@@ -546,6 +618,14 @@
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-everton_7408528.jpg?20261117111835"
     },
     {
+      "title": "’Napoli wil minimaal 7 miljoen euro hebben voor Kevin De Bruyne (35), trainer Allegri wil Belg helemaal niet kwijt’ - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYUpmSzNQX21oZW5mS1FyRndOWmhJaE9rOXcwNGx2OUtIRXlsT3ZvTU50VmlnX21UMFZmOURlT0laSU5hTjdZbWpZdjQyb2VyZHFoT1RXU1dBbkllNjlBa09abFg2dUhSUm5hMVZlLXQzU093a3VkbHd2TzM5a3pTVEk5eG9TYjVuMzYtZTJEc3Znd2U4YTJPXzA3WFpyZzVORkhpWVh0Q0xhdkhHbVNub2o0dEFDVzQzUjYzNEtEaHFyOUgyWFM3cDgxNkswb0U1UW05aHhMbGV4WHdSS0tNSm1jWHB6VXBpQnhmTEJQX3pfRF82LVZZ?oc=5",
+      "description": "’Napoli wil minimaal 7 miljoen euro hebben voor Kevin De Bruyne (35), trainer Allegri wil Belg helemaal niet kwijt’ De Telegraaf",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-19T10:37:32+00:00",
+      "image": ""
+    },
+    {
       "title": "'I'm very healthy' - Kompany to return to dugout after health scare",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm0rkzwgn0lro?at_medium=RSS&at_campaign=rss",
       "description": "Bayern Munich boss Vincent Kompany says he is \"very healthy\" and grateful for all of the support he has recieved as he prepares to return to the dugout on Friday.",
@@ -560,86 +640,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-19T10:21:10+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg"
-    },
-    {
-      "title": "Eight-year ban for player who threw rock that hit assistant referee",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no?at_medium=RSS&at_campaign=rss",
-      "description": "Ecuadorian footballer Jhon Perlaza is banned for eight years after hitting an assistant referee with a rock during a third-tier match.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-19T10:20:58+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ce7/live/ebfdab50-e3fc-11f1-a1b0-810734adec41.jpg"
-    },
-    {
-      "title": "Groningen-trainer Lukkien mist Derby van het Noorden na operatie - Voetbal International",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX3d4Q1dXaVhVWEc1dkhZZHlMXzY0Q1hlLXhoQk5fRkpGYzB2OXFhd2ZhcFNranlDMk5pVWxQanZCUkFZUEg5cEgtTnJFQlEtZWo1Q0ZxeGJ0VlFhaThIZDZ2YWdNSjdtc294QThRS0tEckQxSkRxcjZFUVVEc1NJNG11T0lsczVDQWZFTHBaRkxzdUU?oc=5",
-      "description": "Groningen-trainer Lukkien mist Derby van het Noorden na operatie Voetbal International",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-19T10:20:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "Seven years on from the sack at Spurs what sort of coach is Pochettino now?",
-      "link": "https://www.skysports.com/football/news/11095/13612583/mauricio-pochettino-at-man-utd-seven-years-on-from-the-sack-at-spurs-what-sort-of-coach-is-he-now-we-will-soon-find-out",
-      "description": "What Mauricio Pochettino achieved with Tottenham Hotspur in the previous decade looks even more impressive now than it did at the time. Manchester United really should have turned to the popular Argentine coach years ago.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-19T10:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7405659.jpg?20261113093243"
-    },
-    {
-      "title": "Transfers LIVE. Twéé sterkhouders weg bij Club in januari, nog Rode Duivel naar PSG? - Voetbal24.be",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzE0ZFM5d2dURGRKenM4dmE5NUU0V0h2dGU1d1lJT2otUHpOS3ZiUkdwNXBVeTVuNl85eDJYR1RQYXNyb0NseTFucTZyQ0Z0UlBUa3FaMTdLTjRZUi16aTBBTVVsblg0V2pPUHNfVUF1Nld1U0xuZ00yRjE2YVZuYjFIWmhiNWNvVFpUZUR1MGFkeVpzT0tuUWVTN2dTaGtKeHdDLTdWNVltQmhUOXNZbVBR?oc=5",
-      "description": "Transfers LIVE. Twéé sterkhouders weg bij Club in januari, nog Rode Duivel naar PSG? Voetbal24.be",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-19T10:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Allen to join Williams in interim Swans coaching team",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5lyk9rp0vjgo?at_medium=RSS&at_campaign=rss",
-      "description": "Ashley Williams is set to join a temporary Swansea City coaching team as the Championship club attempt to fill the void left by Vitor Matos.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-19T09:43:08+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a795/live/d2a9b2c0-e3f7-11f1-99a1-253766e7ad8b.png"
-    },
-    {
-      "title": "Man City have problems - is Fernandez their most obvious?",
-      "link": "https://www.skysports.com/football/news/11095/13613559/man-city-vs-fulham-has-enzo-fernandez-given-enzo-maresca-a-problem-in-midfield-and-how-does-he-fix-the-imbalance",
-      "description": "Enzo Maresca is being forced to work within an unprecedented set of circumstances this season. Up until recently, his fixation on football matters served to quieten the noise around the club. But now the anomalous nature of Manchester City'",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-19T09:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-city_7409613.jpg?20261118134750"
-    },
-    {
-      "title": "The best European strikers this century - ranked by you",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw5y1ver2rpyo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sport reveals the top 10 European strikers this century, as voted for by you.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-19T08:50:01+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f24b/live/3bc2f180-e3ea-11f1-99b6-a35a62fa4264.png"
-    },
-    {
-      "title": "‘Arsenal bereidt bod voor van 95 miljoen op speler van Bournemouth’ - Voetbal4U.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1BTajI4TWNvYjFBQzlGMmE3UWRyRHJLV01zdkpGTnNrS0hrMDBPeGltVGdtLUc5aWRyQ1dLLWIzV3dhWVhHdUVELV8tX05FT3NIVnhHeDRUQ1VEeWUyT2FLWGpBaDFMQ1g5RnN4TWc5VzB0VmhZeUdNVEkwV3ZYOWNPVlFsdjNfcTVZTkxqTFltaU1ELWx6NFoydEpPcGk5Z0ZfN09n?oc=5",
-      "description": "‘Arsenal bereidt bod voor van 95 miljoen op speler van Bournemouth’ Voetbal4U.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-19T08:32:43+00:00",
-      "image": ""
-    },
-    {
-      "title": "Premier League talking points: Trial by Anfield as Poch begins Man Utd tenure",
-      "link": "https://www.skysports.com/football/news/11095/13613208/mauricio-pochettino-begins-man-utd-tenure-with-testing-trip-to-liverpool-premier-league-talking-points",
-      "description": "The Premier League is back after the recent international break and the Sky Sports football writers dissect all the major talking points ahead of another busy weekend's action.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-19T08:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league_7408877.jpg?20261117153906"
-    },
-    {
-      "title": "Ajax-spits Leonardo zegt keihard nee tegen transfer: 'Blij met interesse, maar...' - VoetbalPrimeur",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFpsb1lhblhuVUd4T0ZMZ2lCY1FWZGFxREd5MkY4cTg3R050VGw0UzFTdG1UY0I0dU1JOUhSM1Nzbmh0MFozMUh0cXVGaHJuajdfOGEzcFc2N1pReXU5VVlTREtOQ0ZQTFNwc3BVd1ZXank1OGVXWlRkNTE1eTZLTDh2TkpScDNPQTd4QmpTd05YUTdhQVRWZ1RFWHhpQ0hwU3h6TlgzV09aT1NQ?oc=5",
-      "description": "Ajax-spits Leonardo zegt keihard nee tegen transfer: 'Blij met interesse, maar...' VoetbalPrimeur",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-19T07:39:00+00:00",
-      "image": ""
     }
   ]
 }
