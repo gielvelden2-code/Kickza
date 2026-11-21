@@ -1,12 +1,116 @@
 {
-  "updatedAt": "2026-11-21T13:20:03.047757+00:00",
+  "updatedAt": "2026-11-21T15:05:26.616295+00:00",
   "articles": [
+    {
+      "title": "Anderson steps up, Berge impresses - player ratings for Man City v Fulham",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqwy06p44g3no?at_medium=RSS&at_campaign=rss",
+      "description": "How Manchester City and Fulham players rated in their Premier League match.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-21T14:21:31+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad13/live/bab04690-e5b2-11f1-a188-ff49e70cc466.jpg"
+    },
+    {
+      "title": "Norwich hit back to beat Cardiff",
+      "link": "https://www.skysports.com/football/norwich-city-vs-cardiff-city/report/560683",
+      "description": "Norwich came from behind to beat Cardiff 2-1 and make it five straight Championship victories - after losing their previous five.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-21T14:20:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-paris-maghoma-norwich-city_7412281.jpg?20261121142700"
+    },
+    {
+      "title": "Southampton see off Derby to return to winning ways",
+      "link": "https://www.skysports.com/football/southampton-vs-derby-county/report/560685",
+      "description": "Cyle Larin returned to action with a bang as Southampton extended their unbeaten run at home in the Championship to 18 games with a 2-0 victory over second-bottom Derby.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-21T14:15:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-cyle-larin-southampton_7412265.jpg?20261121140715"
+    },
+    {
+      "title": "'Club Brugge opgeschrikt, Kompany opent aanval' - Voetbal24.be",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTlZRaWx4MFRMWExOY0tCbW5XTVhsak5hbUxmOFdjQTRhTS1PdldtQ2RPbFprZVR2VDZOZGU4U01GRGFvZ1N4M0pvR1NFYURsQ3VHa3pDUmNqNEtycnZHeEhzbEpiam1NV3lGbG9wSGVyNEZtclAxTEJiNDA5SGNucg?oc=5",
+      "description": "'Club Brugge opgeschrikt, Kompany opent aanval' Voetbal24.be",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-21T14:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bournemouth vs Nottingham Forest LIVE!",
+      "link": "https://www.skysports.com/football/bournemouth-vs-nottingham-forest/live/559545",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-21T13:30:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-dan-ndoye-nottingham-forest_7334470.jpg?20260829131600"
+    },
+    {
+      "title": "Aston Villa vs Sunderland LIVE!",
+      "link": "https://www.skysports.com/football/aston-villa-vs-sunderland/live/559544",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-21T13:30:00+00:00",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-nicolas-jackson-aston-villa_7385535.jpg?20261024135617"
+    },
+    {
+      "title": "Celtic vs St Mirren LIVE!",
+      "link": "https://www.skysports.com/football/celtic-vs-st-mirren/live/558411",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-21T13:30:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-celtic-yang_7412276.jpg?20261121142410"
+    },
+    {
+      "title": "Bayern draw with Cologne as Kane picks up ankle injury",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss",
+      "description": "England captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-21T13:29:40+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d89/live/9aee2530-e5ac-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Coventry vs Crystal Palace LIVE!",
+      "link": "https://www.skysports.com/football/coventry-city-vs-crystal-palace/live/559548",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-21T13:29:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-thomas-frank-crystal-palace_7412326.jpg?20261121144649"
+    },
+    {
+      "title": "Persconferentie bondscoach Arjan Veurink - NOS",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nT3duaXdTR215NHF5Vk5qSkJqN3poamMxTEJiOTdpNmtaUnVkR0F4RjhMRGRobm9GVGx1OHozSjk5dEdXNVZXc2M5YkJXX2l0eEFwcGtKZk44dVotSUxVejZGQ0hveXl4NGtQemxDT195SEFGekVaVHZmRXB0OEE?oc=5",
+      "description": "Persconferentie bondscoach Arjan Veurink NOS",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-21T13:24:39+00:00",
+      "image": ""
+    },
+    {
+      "title": "Tottenham vs Ipswich LIVE!",
+      "link": "https://www.skysports.com/football/tottenham-hotspur-vs-ipswich-town/live/559553",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-21T13:24:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-luca-williams-barnett_7412207.jpg?20261121140228"
+    },
     {
       "title": "Volendam blokkeert Serie A-transfer: 'Ik mocht niet voor minder dat 2 miljoen weg' - VoetbalPrimeur",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZUxDQzd3TjdsMFZIZUlBMWJqN1RUcDFnM09KNWhLT0M0RnhtLTZHUmRfNkVTU1poNWZ2Y2lVbzFsRnVXTWxvVDk2M0djbzVmWjd1cFZ0dFZsV2g1NHlhalRRWEYyWHhMWndDeEMzMmpIdHNKVVM3Wm54SGxJSnZhQlNBT1M0dkZtU2NjTmZMbWJKS3pSTXM3UTZ4Mm5uNmMyTndYQmxDNzEwQm9KT0E?oc=5",
       "description": "Volendam blokkeert Serie A-transfer: 'Ik mocht niet voor minder dat 2 miljoen weg' VoetbalPrimeur",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-21T13:10:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Chelsea vs Leeds LIVE!",
+      "link": "https://www.skysports.com/football/chelsea-vs-leeds-united/live/559547",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-21T13:03:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-emiliano-martinez_7412321.jpg?20261121144243"
+    },
+    {
+      "title": "Veldman over transfers bij Heerenveen: \"Dat zou veel impact hebben\" - FeanOnline",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU1NxcnBSWFU1Zzl3NTREZ0JtbGd2dlVPZGlMVkd4andlWEplRXgwOTdxbHBNZzZWa0NNTE5nYkxLWE9zV0F2NXRMcmFrdGFFUXNPQWUtZXZLSHRIdWlxeS1kSDV3Vnpxcjd0bHlxVFg0bkVYb2pBOFpGV0lGcWJfMU00Q1kxUHZNRGdaTlRUdklXSlc1d2c?oc=5",
+      "description": "Veldman over transfers bij Heerenveen: \"Dat zou veel impact hebben\" FeanOnline",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-21T12:57:00+00:00",
       "image": ""
     },
     {
@@ -18,7 +122,7 @@
       "image": ""
     },
     {
-      "title": "Warning signs for Chelsea as Liverpool push for opener LIVE!",
+      "title": "Chelsea drop points at a stubborn Liverpool LIVE!",
       "link": "https://www.skysports.com/football/liverpool-women-vs-chelsea-women/live/575829",
       "description": "",
       "source": "Sky Sports",
@@ -34,12 +138,12 @@
       "image": ""
     },
     {
-      "title": "Southampton pushing for opener against Derby LIVE!",
-      "link": "https://www.skysports.com/football/southampton-vs-derby-county/live/560685",
+      "title": "West Ham vs Preston LIVE!",
+      "link": "https://www.skysports.com/football/west-ham-united-vs-preston-north-end/live/560688",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-21T12:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-finn-azaz-bobby-clark_7412193.jpg?20261121131442"
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-scott-parker_7397290.jpg?20261104195229"
     },
     {
       "title": "Two SPFL postponements due to frozen pitch",
@@ -75,17 +179,17 @@
     },
     {
       "title": "Arsenal latest: Arteta warns players about FPL leaks",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "link": "https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-21T10:00:00+00:00",
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
     },
     {
       "title": "Spurs latest: 'He has to invite me to party!' - De Zerbi defends Maddison",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "link": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-21T09:49:00+00:00",
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
     },
@@ -106,19 +210,19 @@
       "image": ""
     },
     {
+      "title": "De man die Ajax-favoriet Tolu beter maakte: 'Geen gemakkelijke leerling' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2ZOa0xmQkhuM1Bqdi0xeEoycldrUmNQU3Q3V0NPSVU5MkgxT3N6c1hhV1JnT2FxanV3MzNNWkR4SzEtc29TcXlmaVN1RndFYUZNblZZeTlIczh1RE5Sa0VhMUtLREYzbVlqUmszNWgxVzBwN09rRy1GVmhCR0ZfdmFIUnQwTUpXdGUzTDhueGw2X0NfbF85V1FETzNVSy00d2ttbnFCRk4?oc=5",
+      "description": "De man die Ajax-favoriet Tolu beter maakte: 'Geen gemakkelijke leerling' VoetbalPrimeur",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-21T08:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Booy spreekt Correia hard tegen: 'Er was wel degelijk iets mis met de opstelling' - VoetbalPrimeur",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkt5V0JsaVU2Zm9wZ0tCRFFjdVBzN1lxZEFOWlFFYXBVYUNiN0tJdEttOWJ3YTBsQTVVM3NMRE8ySnRHa2d3WWFISi1iODE5Y1JwaUh2RkV1UU9pMmFoYkNua2dLNXhEZUtJNUhNaFZoYjFZSlEzNFNSdEdqbHRqcmNlY0VwUlRsV0ZRSzRSeGhLRjJyY0I0UlcyaXBWRmRCc1RZOGpWOW9YQ3ZZX2NyYjhDN1FSRWpfTnc?oc=5",
       "description": "Booy spreekt Correia hard tegen: 'Er was wel degelijk iets mis met de opstelling' VoetbalPrimeur",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-21T07:49:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "'Anderlecht maakt werk van miljoenenaankoop' - Voetbal24.be",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tLUpsLVhKZHA1WFo1d2UxYXJXTlcwU2kwWFhSN2ZDaUEwLWRfYzJXcW1IbnUzeEFkVVQxQzc5aUo3MjdRb3NWNzk5T0UzeVZZR2ZVZFpiaXluMmJnQUlTSlk4dHJHUmFqR1ljZWQ1cFRRREZ3aHdQSjVXbTU3dw?oc=5",
-      "description": "'Anderlecht maakt werk van miljoenenaankoop' Voetbal24.be",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-21T07:00:00+00:00",
       "image": ""
     },
     {
@@ -258,20 +362,12 @@
       "image": ""
     },
     {
-      "title": "Bevestigde transfers van spelers naar Team Ticino U18 - www.footballtransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSGYySkZTSXEwVHpmaHYzcll1ZlN4UENPUXdvcnRzRXpSTjhEVjcwZ2M1Z3JiLXhQcGZQLU4zWUVSY0F0eWxXU1ZKY25XYmJzTkZiOVNfMEpwT21MVHpfcUhKeTN1VkdGd3IzcklOdng4azNZeW1DbFdjWW4xdTFXRjdMT1hZMGs?oc=5",
-      "description": "Bevestigde transfers van spelers naar Team Ticino U18 www.footballtransfers.com",
+      "title": "Bevestigde transfers van spelers naar Manly - www.footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Wnh4di0tZkNRVFN2OVhJRDE1bXNrOUZGeDFQdXhGWk5felZob2RjTHZ1WXlXYVNzUl91a1FGMnY2WklpdGVWSFdiME5iY3VKb2pXQ2o0YnpHQ28wUXVMZ2k1LVdiYVJnazlRTFIwa00wNzkxNUxNcU9B?oc=5",
+      "description": "Bevestigde transfers van spelers naar Manly www.footballtransfers.com",
       "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-20T20:15:44+00:00",
+      "pubDate": "2026-11-20T20:21:42+00:00",
       "image": ""
-    },
-    {
-      "title": "Van Dijk uncertain on Liverpool future",
-      "link": "https://www.skysports.com/football/news/11661/13614508/liverpool-virgil-van-dijk-uncertain-on-anfield-future-beyond-the-summer-but-believes-he-can-play-for-many-more-years",
-      "description": "Liverpool captain Virgil van Dijk believes he can keeping playing for \"many more years\" - but says he does not yet know whether that will be at Anfield next season.",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-20T20:15:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-liverpool-van-dijk_7411788.jpg?20261120202101"
     },
     {
       "title": "Osimhen keen on Man Utd move - Saturday's gossip",
@@ -298,14 +394,6 @@
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7411581.jpg?20261120160159"
     },
     {
-      "title": "VIERDE PROVINCIALE. Trainer weg, ploeg met dertien afwezigen en afgevaardigde moet meespelen - HBVL",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeVVrYXpDT2EwQ0JrZGFDd3hoUzc5QWR6T29YU0dJTllYZFVzbV9ZUUltaExFd0FIbmlCcmdzMWZmdnhnQnBDMzVHc1c1SWdPWmJ4T1ZZbXk0VXc3QWU3aExGTFhsd3h5anI4VzJHY3BhLVBrOFFCdWZPQjRaOWZxUDdJNGNKcmdmVHpEZWRuczJ4aUk1ckZJd05ocFBiQmk3SDNQTVl3OXc0dVBnS0VjTFVnMVNHb3M1VzFfUW8xX0xDV1ptb2ZQOXpsdnBhTE82ZjRFQUR3bw?oc=5",
-      "description": "VIERDE PROVINCIALE. Trainer weg, ploeg met dertien afwezigen en afgevaardigde moet meespelen HBVL",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-20T19:45:28+00:00",
-      "image": ""
-    },
-    {
       "title": "'Iedereen is enthousiast over Brandt bij Ajax, maar De Bruyne heeft hoger niveau' - VoetbalPrimeur",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3RYRTdWSnpRWWpubV9nMGZuOW1ITXNLTVFIbm0yOXRvR2dtODdGOVNsREhOMnRjcDl5V3VQa0xidXB3aUFRSzJJY0VVbmo1Xy15dlVBcmk0ZGRfTkE3SDlZNk96RGdxU2dzeEZCS0M5RlFlMEhObXNWLVMwRlFwOGdzeF9SMEJsZXNMYkZTaldJdEQ2dDNValJsSERJQzlNelVzVQ?oc=5",
       "description": "'Iedereen is enthousiast over Brandt bij Ajax, maar De Bruyne heeft hoger niveau' VoetbalPrimeur",
@@ -322,14 +410,6 @@
       "image": ""
     },
     {
-      "title": "Chelsea fined £150,000 for discriminatory chanting",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
-      "description": "Chelsea are fined £150,000 by the FA for anti-Catholic and anti-Irish chants during their FA Cup third-round win at Charlton in January.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-20T17:52:50+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/554b/live/c6288780-e508-11f1-b40b-5f46e8cf687c.jpg"
-    },
-    {
       "title": "Premier League 2 Division One (UK) - Bevestigde transfers - www.footballtransfers.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUxkUDNWdmgxRFlEamxhaDFJSmZ5dF9vLV9DTUM2Z2EyRUpfUk1HcEhlOFBzQWNmdktsejJaenVsd3c4SG8wNjNaS0IxaEpYSU9sQkYtbF93NE42OFlZc1BsY2ZiQ1VtR052OGZsZHYzYm9seUh2SXJaVkVsbFZILTJjYVQ5dWRMWjVLdlIyOXJEV2s?oc=5",
       "description": "Premier League 2 Division One (UK) - Bevestigde transfers www.footballtransfers.com",
@@ -344,14 +424,6 @@
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-20T17:45:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Johnstone Burgh no longer required to play twice on Saturday",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck87912p3z82o?at_medium=RSS&at_campaign=rss",
-      "description": "Scottish fifth-tier club Johnstone Burgh are forced to play two cup ties on the same day, with the kick-offs only half an hour apart.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-20T17:16:28+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee4/live/be91e3f0-d2e2-11f1-8af5-e1db7ad65222.jpg"
     },
     {
       "title": "Matos accepts Swansea fans' anger over shock exit",
@@ -400,14 +472,6 @@
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-20T16:37:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Mowbray support no surprise, says interim boss Johnson",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo?at_medium=RSS&at_campaign=rss",
-      "description": "Blackburn Rovers interim boss Damien Johnson says the support shown for head coach Tony Mowbray shows the high regard he is held in.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-20T16:27:19+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09e9/live/06156b60-e4fa-11f1-a8e4-b1e12a49db15.jpg"
     },
     {
       "title": "Chelsea latest: 'Tom Brady in discussions over Blues investment'",
@@ -482,14 +546,6 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7411463.jpg?20261120140859"
     },
     {
-      "title": "SFA should not change to pander to clubs - McLeish",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crjeqv4353e7o?at_medium=RSS&at_campaign=rss",
-      "description": "St Mirren manager Craig McLeish says it's \"damning\" that Scottish FA chief football officer Craig Mulholland should have to \"pander to clubs\" as he attempts to bring in reforms.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-20T14:09:07+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db75/live/0bd7f770-e4e6-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
       "title": "Arteta warns Arsenal players over FPL team news leak",
       "link": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
       "description": "Mikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League.",
@@ -504,14 +560,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-20T13:53:22+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4759/live/ea3780f0-e462-11f1-99a1-253766e7ad8b.png"
-    },
-    {
-      "title": "Legendary Irish League manager Coyle dies aged 80",
-      "link": "https://www.bbc.co.uk/sport/articles/c63eg4x112wqo?at_medium=RSS&at_campaign=rss",
-      "description": "The Irish League's most successful manager Roy Coyle dies at the age of 80.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-20T13:52:15+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/177b/live/0d80ddc0-e4ec-11f1-9e3c-bf9ef0889b75.jpg"
     },
     {
       "title": "Southampton give head coach Eckert new deal",
@@ -562,14 +610,6 @@
       "image": ""
     },
     {
-      "title": "Will Frank turn things around at Crystal Palace?",
-      "link": "https://www.skysports.com/football/news/11095/13613145/thomas-frank-what-should-crystal-palace-expect-from-their-new-manager-what-does-he-need-to-change-and-can-he-keep-the-eagles-up",
-      "description": "One of the Premier League's most charismatic managers is back.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-20T10:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-crystal-palace_7408620.jpg?20261117123420"
-    },
-    {
       "title": "‘PSV gaat dit weekend nieuwe aanbieding sturen voor Kevin de Bruyne (35)’ - Voetbal4U.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1lWdHJBZWpjWFlXYjZ3NVZxUjVVckNBQl9Qd3Fkc2d3SG5jNzFmZ1NFakhvdHU5MFZjTDBSVEhTVlcydmt2dTFnUE5uenNSckdrNDVGQ3lRSW1acDV3LWVua3Y0MVN1dDQ3bk9DTjJ6cEgwQUhQUTdvbFY5NHFlZTNwXzFET05iTC00VnZ0MkpHNEVwSWJLc0RGLTJjOVZiSmVGcXhLU08taEE?oc=5",
       "description": "‘PSV gaat dit weekend nieuwe aanbieding sturen voor Kevin de Bruyne (35)’ Voetbal4U.com",
@@ -599,46 +639,6 @@
       "description": "Van mogelijk degradatie naar Roglic en Carapaz: NSN en Iniesta maken statement met ongekende transferwindow In de Leiderstrui",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-20T09:35:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Transfer Centre LIVE! Cost to appoint Poch as Man Utd manager revealed...",
-      "link": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-20T09:30:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7411402.jpg?20261120132145"
-    },
-    {
-      "title": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Door de voordeur vertrekken’ - Brabants Dagblad",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWl9qemVNODNsX08tSURQeXprRElnY184WlBPV3JlbmJwYzFyM3pRSFpTZXRYSjc5UGVQVmZJWVYwd1kxUlphTEJXZlVjY1Z2Y21IejhzRFJhdEdNaVFYQ0p1SmRucXNsQTA2VkFwRmdDNnlRYzNrTDFybEQ4MWJEU2RXVjJlYTZoaDMzZ2JHY095bmFRc0M0c3hKcWNYQkFoR0pYdnRjTlgzRzhJTGdfTEkwbUM3clpZZlBjWmlzTURHamFqNWk1R1RxWkpUWjJZalNzRw?oc=5",
-      "description": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Door de voordeur vertrekken’ Brabants Dagblad",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-20T09:18:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Dani dacht zijn vader nooit meer als trainer te hebben, nu zijn ze samen periodekampioen: ‘Als puber wil je niet luisteren’ - BN DeStem",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdWtZMzNFcEx1NkQ4ZFhhelVTZGVnRnpwclJhWGcxU0FuQkgtN3hRRFR5dF9UVzZXWTFLblV1Y0pxcGxpRkRKem5nN29jM3RSX004aVJVb19pRmlSV1M1eFphdjFhTU5uVmVaSnZ5aUx1UDNkdzRVSl9leTNkbjc4ZWM3cmNXbW4xU05aLUtZYUtROTczSmxwMXdwcXZfVzVJUkI5TW9sOFhPUEhZcTZJN2J5di0zWGNwZnVqNEdpaUZxUlFTVTFsb2VzSjVMeUVvSFJFcW1hWk1vWHQxdnRHYUYzZURrQUhzQ2tOSmdkeFhoSmQ1M2RiNFFOdTM?oc=5",
-      "description": "Dani dacht zijn vader nooit meer als trainer te hebben, nu zijn ze samen periodekampioen: ‘Als puber wil je niet luisteren’ BN DeStem",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-20T09:00:23+00:00",
-      "image": ""
-    },
-    {
-      "title": "EFL preview: Evans' gripes & unexpected departures",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sport explores five things to capture your attention this EFL weekend.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-20T08:24:38+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61b/live/371b89f0-e370-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "title": "Mifano trainer Richard van de Kerkhof leeft voor het voetbal: \"Soms moet je als trainer een beetje gek zijn\" - VoetbalBrabant.nl",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQXBaTnlnTEFlZlFxdFFvX1VPQnpmb2NzMXI0Zk1FMFdaOWV4a0RNY2QydVYyS1BxcVYzdGliYkJkU3NPWEk2MGk2YnBsSmlrbVl3ZW1xSTFZV0Q2emtEVHhTbmVxeUh5bmEyb1FzR2J1dGhKSmhrdUl6UU9NTlhKOW9sOVRwNk1hR1FrY2g2bkRYQVpMZ2VtYVRvOUZHcnlQMkczeEthdHVwU3g0cVFEN2RKaTU0aVNhNjNRdjBmVUtIU3FjMUwwNU96aExIU0llZl9hRlFIdEVscVBE?oc=5",
-      "description": "Mifano trainer Richard van de Kerkhof leeft voor het voetbal: \"Soms moet je als trainer een beetje gek zijn\" VoetbalBrabant.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-20T08:24:04+00:00",
       "image": ""
     }
   ]
