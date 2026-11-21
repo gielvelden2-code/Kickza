@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-11-21T16:01:50.863604+00:00",
+  "updatedAt": "2026-11-21T17:02:15.584822+00:00",
   "articles": [
+    {
+      "title": "Watch Open All Mics",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "description": "Join the Sportsound team for all the latest Scottish football scores.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-21T17:30:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0hmh81g.jpg"
+    },
+    {
+      "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-21T16:07:19+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2997/live/fc265c50-e5c0-11f1-a188-ff49e70cc466.jpg"
+    },
+    {
+      "title": "Elistha-trainer erkent: ‘Gestolen overwinning’ • Excelsior Zetten heeft geen kind aan Dodewaard • Valburg heeft eigen Joey Veerman - AD.nl",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZllsbEZ1bGhIMUpnRFVkcXBSdnU2VHNRUFJFWmJtT29lYmEycUpHMjBmVEpTMjZMR1dTa0NUeHItNzdkeDEzVXdQRUZCMFhYU3Z6SXo2ZktoTzg3MFlOLUZzT3Raa0FlUVNLRVlfdnRiTmQ2a2hwSVhSaVJMd21iTVkyT3R1RllIX1RyOHlNMGdUcmh1c29CM1NGYmROLWJibmE3bTFQOWRtcWxvcmZBcXhQOVg4NFlBLTc0Q1VZcXNWOEY4eG9sSWlHQ0lGSnoyaE0xU3VlZGJSeEZLT0xDMC1MMng4dXNGNFlYUkw1aGdmand1QWVSdlFBdlJTWktzblk0?oc=5",
+      "description": "Elistha-trainer erkent: ‘Gestolen overwinning’ • Excelsior Zetten heeft geen kind aan Dodewaard • Valburg heeft eigen Joey Veerman AD.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-21T16:07:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Elistha-trainer bekent diefstal • Excelsior Zetten heeft geen kind aan Dodewaard • Valburg heeft eigen Joey Veerman in huis - AD.nl",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSmJjemFCVWlDNGhTN3NPSTdVNFUwUjlfbEFmMFlaZ1E2V01hQ2s2NjIzUnFTYzBHVzVEeDdhaDlGUVZ2Wk1NNGFkNURWeDBubktDNGk1eFZiV09lMDJnRkdpMUptdzdNVDlYRkNyb3Facm5ZTk5SNW9CT2E5RktoZF9LV1V5ZHEwZExzb2YzekRyMm9Pa2xYcUhuN3N2Rl8zZXBGSTZwT3JkUW9Ud0hyUURJRUZfaXlGemM4X0tfc2JYRFNQaVNHcTBIemQyUFlwX1kydXRoaWVOTW5fZUM1VU5pR0d1ektfOTk4bHpwTVJFNFJuX1d4cXVpNFV1Zw?oc=5",
+      "description": "Elistha-trainer bekent diefstal • Excelsior Zetten heeft geen kind aan Dodewaard • Valburg heeft eigen Joey Veerman in huis AD.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-21T16:07:00+00:00",
+      "image": ""
+    },
     {
       "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
       "link": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss",
@@ -26,31 +58,23 @@
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-paris-maghoma-norwich-city_7412281.jpg?20261121142700"
     },
     {
-      "title": "Southampton see off Derby to return to winning ways",
-      "link": "https://www.skysports.com/football/southampton-vs-derby-county/report/560685",
-      "description": "Cyle Larin returned to action with a bang as Southampton extended their unbeaten run at home in the Championship to 18 games with a 2-0 victory over second-bottom Derby.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-21T14:15:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-cyle-larin-southampton_7412265.jpg?20261121140715"
-    },
-    {
-      "title": "QPR battle to victory at 10-man Millwall",
-      "link": "https://www.skysports.com/football/millwall-vs-queens-park-rangers/report/560682",
-      "description": "Nicolas Madsen's scruffy winner gave Queens Park Rangers their first away victory since August as they defeated Millwall 1-0 at The Den.",
+      "title": "Bruno starts for Arsenal at Newcastle LIVE!",
+      "link": "https://www.skysports.com/football/newcastle-united-vs-arsenal/live/559552",
+      "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-21T14:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-qpr-nicolas-madsen_7412267.jpg?20261121141436"
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-newcastle-arsenal_7407750.jpg?20261116124654"
     },
     {
-      "title": "Brilliant Evanilson strikes puts Bournemouth ahead vs Forest LIVE!",
+      "title": "Bournemouth comfortably beat Forest LIVE!",
       "link": "https://www.skysports.com/football/bournemouth-vs-nottingham-forest/live/559545",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-21T13:30:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-evanilson-bournemouth_7412394.jpg?20261121152231"
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-justin-kluivert-bournemouth_7412484.jpg?20261121160937"
     },
     {
-      "title": "Sunderland frustrating Aston Villa LIVE!",
+      "title": "Sunderland come close to winner but it ends goalless at Aston Villa LIVE!",
       "link": "https://www.skysports.com/football/aston-villa-vs-sunderland/live/559544",
       "description": "",
       "source": "Sky Sports",
@@ -58,12 +82,12 @@
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-jules-ahoka-boubacar-kamara_7412456.jpg?20261121155113"
     },
     {
-      "title": "Celtic three up vs St Mirren LIVE!",
+      "title": "Celtic ease to victory vs St Mirren LIVE!",
       "link": "https://www.skysports.com/football/celtic-vs-st-mirren/live/558411",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-21T13:30:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-celtic-oxlade-chamberlain_7412449.jpg?20261121154731"
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-luke-mccowan-celtic_7412519.jpg?20261121162038"
     },
     {
       "title": "Bayern draw with Cologne as Kane picks up ankle injury",
@@ -74,12 +98,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d89/live/9aee2530-e5ac-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Frank's Palace hit back AGAIN at Coventry LIVE!",
+      "title": "McNeil own goal gives Coventry win over Frank's Palace LIVE!",
       "link": "https://www.skysports.com/football/coventry-city-vs-crystal-palace/live/559548",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-21T13:29:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-jorgen-strand-larsen_7412461.jpg?20261121155255"
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-dwight-mcneil-crystal-palace_7412568.jpg?20261121165934"
     },
     {
       "title": "Persconferentie bondscoach Arjan Veurink - NOS",
@@ -90,12 +114,12 @@
       "image": ""
     },
     {
-      "title": "Teenager Williams-Barnett scores on full debut to give Spurs lead over Ipswich LIVE!",
+      "title": "Williams-Barnett stars in Spurs' win over Ipswich LIVE!",
       "link": "https://www.skysports.com/football/tottenham-hotspur-vs-ipswich-town/live/559553",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-21T13:24:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-luca-williams-barnett_7412400.jpg?20261121152456"
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-dominic-solanke-spurs_7412522.jpg?20261121162329"
     },
     {
       "title": "Volendam blokkeert Serie A-transfer: 'Ik mocht niet voor minder dat 2 miljoen weg' - VoetbalPrimeur",
@@ -106,7 +130,7 @@
       "image": ""
     },
     {
-      "title": "Chelsea booed off with Leeds dominating at Stamford Bridge LIVE!",
+      "title": "Leeds dismantle Chelsea as pressure grows on Alonso LIVE!",
       "link": "https://www.skysports.com/football/chelsea-vs-leeds-united/live/559547",
       "description": "",
       "source": "Sky Sports",
@@ -146,20 +170,12 @@
       "image": ""
     },
     {
-      "title": "Preston take the lead at West Ham LIVE!",
+      "title": "West Ham held by Preston as Parker remains winless LIVE!",
       "link": "https://www.skysports.com/football/west-ham-united-vs-preston-north-end/live/560688",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-21T12:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-preston-west-ham_7412424.jpg?20261121153933"
-    },
-    {
-      "title": "Two SPFL postponements due to frozen pitch",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckn80vgexz13o?at_medium=RSS&at_campaign=rss",
-      "description": "Dunfermline's Championship match against Morton and Spartans' League 2 game against Dumbarton have been postponed with frozen pitches.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T11:32:13+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0691/live/4c26eab0-e596-11f1-9ccc-ff5a88abcfc6.jpg"
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-west-ham-preston_7412518.jpg?20261121162022"
     },
     {
       "title": "Kane vows to be back for ‘business end of season’ after ankle surgery",
@@ -306,14 +322,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/765e/live/657e7940-e539-11f1-9616-8327139dcfc4.jpg"
     },
     {
-      "title": "First defeat and first red for Ferguson as Glentoran falter",
-      "link": "https://www.bbc.co.uk/sport/articles/c3zxvnz5x7g1o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sport Northern Ireland looks at Duncan Ferguson's first red card and defeat as Glentoran manager as they are edged out 3-2 by Cliftonville on Friday.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-20T22:54:43+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0862/live/69b0f900-e531-11f1-a67d-39d55c7178b0.jpg"
-    },
-    {
       "title": "NFL great Brady could buy Chelsea stake",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
       "description": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
@@ -426,14 +434,6 @@
       "image": ""
     },
     {
-      "title": "Matos accepts Swansea fans' anger over shock exit",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckq6eyppzqgpo?at_medium=RSS&at_campaign=rss",
-      "description": "Vitor Matos addresses his unexpected departure from Swansea City at his first press conference as RC Strasbourg boss.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-20T16:57:06+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42d1/live/124f7ad0-e502-11f1-9e2f-7fb5281f0b3c.jpg"
-    },
-    {
       "title": "Man Utd fan criticism has gone too far at times - Berrada",
       "link": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
       "description": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
@@ -514,14 +514,6 @@
       "image": ""
     },
     {
-      "title": "Why injured Joao Pedro may be Chelsea's most important player",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss",
-      "description": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-20T15:18:42+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eddb/live/bbd39d90-e415-11f1-b37c-b3a71d7200af.jpg"
-    },
-    {
       "title": "Filming training by drones should be illegal - Iraola",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
       "description": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
@@ -562,12 +554,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4759/live/ea3780f0-e462-11f1-99a1-253766e7ad8b.png"
     },
     {
-      "title": "Southampton give head coach Eckert new deal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
-      "description": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-20T13:10:33+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd8/live/b6cc2940-e4db-11f1-9cc5-e9713e77fd78.jpg"
+      "title": "Man City latest: 'Quite clear' Haaland's disallowed goal not a foul, says Maresca",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-20T13:30:00+00:00",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
     },
     {
       "title": "Bosz weigert te praten over komst De Bruyne: transfers zijn taak van Stewart - Head Topics",
@@ -592,14 +584,6 @@
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-20T12:15:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Stoke and Birmingham proving you shouldn't judge a book by its cover",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmy8670vjlx0o?at_medium=RSS&at_campaign=rss",
-      "description": "Stoke host Birmingham in a Championship game of two teams both bang in form going into the latest international break. How will they re-emerge?",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-20T11:35:16+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390b/live/ce0a76c0-e468-11f1-99b6-a35a62fa4264.png"
     },
     {
       "title": "Nieuwe trainer voor FC Rijnvogels (vr) - Voetbal in de Bollenstreek",
@@ -627,9 +611,9 @@
     },
     {
       "title": "Guimaraes growing at Arsenal - but Arteta still wants more",
-      "link": "https://www.skysports.com/football/news/11095/13612946/bruno-guimaraes-arsenal-midfielder-is-growing-in-stature-but-mikel-arteta-still-wants-more-from-brazilian-ahead-of-newcastle-return",
+      "link": "https://www.skysports.com/football/news/11661/13612946/bruno-guimaraes-arsenal-midfielder-is-growing-in-stature-but-mikel-arteta-still-wants-more-from-brazilian-ahead-of-newcastle-return",
       "description": "It's all eyes on Bruno Guimaraes this Saturday. The Newcastle hero who captained the team to cup success returns in Arsenal colours. And he returns as a growing cog in the Gunners' system.",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-20T09:38:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-arsenal_7411193.jpg?20261120082419"
     },
@@ -639,6 +623,22 @@
       "description": "Van mogelijk degradatie naar Roglic en Carapaz: NSN en Iniesta maken statement met ongekende transferwindow In de Leiderstrui",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-20T09:35:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Transfer Centre LIVE! Cost to appoint Poch as Man Utd manager revealed...",
+      "link": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-20T09:30:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-mauricio-pochettino_7411402.jpg?20261120132145"
+    },
+    {
+      "title": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Door de voordeur vertrekken’ - Brabants Dagblad",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWl9qemVNODNsX08tSURQeXprRElnY184WlBPV3JlbmJwYzFyM3pRSFpTZXRYSjc5UGVQVmZJWVYwd1kxUlphTEJXZlVjY1Z2Y21IejhzRFJhdEdNaVFYQ0p1SmRucXNsQTA2VkFwRmdDNnlRYzNrTDFybEQ4MWJEU2RXVjJlYTZoaDMzZ2JHY095bmFRc0M0c3hKcWNYQkFoR0pYdnRjTlgzRzhJTGdfTEkwbUM3clpZZlBjWmlzTURHamFqNWk1R1RxWkpUWjJZalNzRw?oc=5",
+      "description": "Topamateurs in Veghel gaan na vier jaar op zoek naar nieuwe trainer: ‘Door de voordeur vertrekken’ Brabants Dagblad",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-20T09:18:00+00:00",
       "image": ""
     }
   ]
