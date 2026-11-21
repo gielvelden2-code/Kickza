@@ -1,13 +1,53 @@
 {
-  "updatedAt": "2026-11-21T21:57:37.493348+00:00",
+  "updatedAt": "2026-11-21T22:57:43.935634+00:00",
   "articles": [
     {
-      "title": "Ipswich latest: O'Neil reflects on 'tough afternoon' after Spurs loss",
-      "link": "https://www.skysports.com/football/live-blog/11661/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": "Match of the Day",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "description": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T09:00:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp2xtf.jpg"
+    },
+    {
+      "title": "Watch all 29 of Saturday's Scottish Premiership goals",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "description": "Highlights from a full Scottish Premiership fixture card.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-21T23:52:45+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp91qd.jpg"
+    },
+    {
+      "title": "'They looked like a team again' - Hearts roar back with Dundee demolition",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno?at_medium=RSS&at_campaign=rss",
+      "description": "After a worrying week before the international break, Hearts respond is style by thrashing Dundee 8-0 at Dens Park.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-21T22:45:05+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf3/live/0bdf2a10-e5fc-11f1-9cff-035604b6272d.jpg"
+    },
+    {
+      "title": "Spurs latest: 'Williams-Barnett has to be given assist for my goal!' says Solanke",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-21T21:31:00+00:00",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-ipswich-news-rumours_7331921.jpg?20260826153921"
+      "source": "Sky Sports",
+      "pubDate": "2026-11-21T22:37:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
+    },
+    {
+      "title": "PEC Zwolle wint met nieuwe trainer Pastoor van Telstar - ZeelandNet, startpagina van Zeeland",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTS1FSXdRTnd2MTV4NWJOaXNLaTlsVE9POWc2elFmbnRhRHcyQmxINUhibURDQlBjVHVVemE1aU93Mjh6aC1jTDNoWVBOUEtuMWNrcGN2ei1CMUxrZXBYYUFfS182OHZWVHRHM0o3dFdnMTM4bTVuOXZ5YlFXcGsxc0ctTnlZSXN1Y0VEbG1kOGw?oc=5",
+      "description": "PEC Zwolle wint met nieuwe trainer Pastoor van Telstar ZeelandNet, startpagina van Zeeland",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-21T22:25:43+00:00",
+      "image": ""
+    },
+    {
+      "title": "De Zerbi compares Williams-Barnett to Lamine Yamal - who is Spurs teen?",
+      "link": "https://www.skysports.com/football/news/11095/13615058/luca-williams-barnett-tottenham-boss-roberto-de-zerbi-compares-teenager-to-lamine-yamal-after-ipswich-heroics",
+      "description": "Tottenham boss Roberto De Zerbi was not surprised by a dazzling full-debut display from “special” talent Luca Williams-Barnett and compared the 18-year-old to Barcelona’s Lamine Yamal after Saturday’s 2-0 win over Ipswich.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-21T22:15:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-tottenham-spurs-luca-williams-barnett_7412663.jpg?20261121173422"
     },
     {
       "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
@@ -18,10 +58,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a1/live/dec0b5d0-e5ec-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Chelsea latest: 'He was in pain' - Alonso gives update on Caicedo injury",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Euro latest: PSG's Doue suffers serious knee injury",
+      "link": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
       "description": "",
       "source": "Sky Sports",
+      "pubDate": "2026-11-21T21:00:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-doue-psg_7413016.jpg?20261121215948"
+    },
+    {
+      "title": "Chelsea latest: 'He was in pain' - Alonso gives update on Caicedo injury",
+      "link": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-21T20:50:00+00:00",
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
     },
@@ -154,7 +202,7 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-football-premier-league_7412860.jpg?20261121193125"
     },
     {
-      "title": "Who was 'a consistent threat'? Newcastle v Arsenal player ratings",
+      "title": "Madueke 'a consistent threat' - Newcastle v Arsenal player ratings",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
       "description": "BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too.",
       "source": "BBC Sport",
@@ -162,7 +210,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6f4/live/7fb616a0-e5e4-11f1-9ab8-8737221634d6.jpg"
     },
     {
-      "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
+      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
       "description": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
       "source": "BBC Sport",
@@ -192,22 +240,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-21T19:04:09+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7a/live/8ad75db0-e5d9-11f1-9ab8-8737221634d6.jpg"
-    },
-    {
-      "title": "Naderi scores late winner for Rangers vs Motherwell LIVE!",
-      "link": "https://www.skysports.com/football/motherwell-vs-rangers/live/558416",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-21T19:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-motherwell-alex-paulsen_7413007.jpg?20261121214639"
-    },
-    {
-      "title": "Glasner says Forest struggling with physicality and intensity of PL opponents",
-      "link": "https://www.skysports.com/football/live-blog/11661/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-21T18:40:00+00:00",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014"
     },
     {
       "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
@@ -266,14 +298,6 @@
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-bournemouth-club_7326690.jpg?20260820165020"
     },
     {
-      "title": "Irene’58 walst over SC Welberg heen, trainer verliest weddenschap: ‘Ik heb met liefde een pilsje voor hem gehaald’ - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUnZmZVRaT2dPMnFNVUdFTjlkTzdoeGVJYk5qLW1mVFRjT29OYmJrX2N1aUM2M1ZZQ21aekZFWG9hVXVwODBvUmNTUG95STJtY3FKYXpSVjVxelU0WkJPLXFlNDhWbnBVaG0wRGtHZjNFTTJwY2poNHlaVEJTQk9WUEZrUGdjSDdVNUVQVHd0eS16UDYtV3ZiZ0dONlJLa0VVakRzU2NrckRIakw0ZjZGbXMwNHdhU0FId1NzRVF1ejM4Wk1IQUZyOXl6dWpJVkVIbVB1cEFoNTFWWnlLZUVMY2FvZ3hRS1A1aWo5ODBLa3VHSWZnVGI2Nm51XzBsdw?oc=5",
-      "description": "Irene’58 walst over SC Welberg heen, trainer verliest weddenschap: ‘Ik heb met liefde een pilsje voor hem gehaald’ De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T17:55:34+00:00",
-      "image": ""
-    },
-    {
       "title": "Fifpro criticises Bayern Munich for Musiala comments",
       "link": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
       "description": "Football players' union Fifpro says it is concerned by German club Bayern Munich's comments about Jamal Musiala's contract.",
@@ -298,20 +322,20 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-football-premier-league_7412579.jpg?20261121170311"
     },
     {
-      "title": "Fulham earn point at the Etihad as Man City's poor run continues",
-      "link": "https://www.skysports.com/watch/video/13614722/manchester-city-1-1-fulham-premier-league-highlights",
-      "description": "Highlights from the Premier League match between Manchester City and Fulham.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-21T17:15:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-city_7412303.jpg?20261121143723"
-    },
-    {
       "title": "Eighteen-year-old Williams-Barnett shines as Spurs beat Ipswich",
       "link": "https://www.skysports.com/watch/video/13614870/tottenham-hotspur-2-0-ipswich-town-premier-league-highlights",
       "description": "FREE TO WATCH: Highlights from the Premier League match between Tottenham Hotspur and Ipswich Town.",
       "source": "Sky Sports",
       "pubDate": "2026-11-21T17:15:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-football-premier-league_7412577.jpg?20261121170234"
+    },
+    {
+      "title": "Fulham earn point at the Etihad as Man City's poor run continues",
+      "link": "https://www.skysports.com/watch/video/13614722/manchester-city-1-1-fulham-premier-league-highlights",
+      "description": "Highlights from the Premier League match between Manchester City and Fulham.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-21T17:15:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-city_7412303.jpg?20261121143723"
     },
     {
       "title": "Sunderland frustrate uninspiring Villa in goalless draw",
@@ -341,7 +365,7 @@
       "title": "Bournemouth make more history with comfortable win against Forest",
       "link": "https://www.skysports.com/football/bournemouth-vs-nottingham-forest/report/559545",
       "description": "Bournemouth continued their unstoppable form with a comfortable 2-0 victory against Nottingham Forest and created two bits of history in the process.",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-21T17:05:00+00:00",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-justin-kluivert-bournemouth_7412484.jpg?20261121160937"
     },
@@ -402,6 +426,14 @@
       "image": ""
     },
     {
+      "title": "SC Valburg heeft zijn eigen Joey Veerman • Elistha-trainer erkent: ‘Gestolen zege’ • Excelsior Zetten walst over Dodewaard heen - De Gelderlander",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMGwtV045d0xPeElOdU4tTm1OVXotaXh2Z0h1TXFkVW1rMmgzS25jMHdTWXZYZk9veTFvUGVNVDc3MmxtRUZtZmwxVFRHZEg1aTRYc05HSk9NbmpzOFBEV2VZbVJ5NGJfeFJYejRsd1NRZkpad1JIX09YRlJvcEg2M1c4Tk9tYll1WHZFWndPX0pRSXk0bUZoTGNGX3RRREtxTTR1el9JWV96VERFbFN4cE1QcExLc0V3VkN6TlhMSlJyX2NVVGk0cC1CYkpfM05ENHk4V1J3QjdRM2ctb0Y1cktmZExpYk9GVGh5Vk90ZXBjdVBOWFQwRmRyUlNfc0YxT1hr?oc=5",
+      "description": "SC Valburg heeft zijn eigen Joey Veerman • Elistha-trainer erkent: ‘Gestolen zege’ • Excelsior Zetten walst over Dodewaard heen De Gelderlander",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-21T16:07:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Elistha-trainer erkent: ‘Gestolen overwinning’ • Excelsior Zetten heeft geen kind aan Dodewaard • Valburg heeft eigen Joey Veerman - De Gelderlander",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQeGZPcmpQb0hLYlQ0eTJ2VmZjVzB3dlNLNXNnTW5obk9oRW1nd1RVaXVzaHJrRmdURFlEeTZRSUVXNlcxSzRZX2dpMlhlSGpOblRoZzl5WWNWbHNDd1dQa2QxUEVFSFM1VThLWC1RSEIwemZvczgxVXlMeWFpVE5CMkVYNVhVSGxDb1JMZjhDNmVSLWxmNXNfM2dUeDNRbGR3eTNCeUo0Yl9vT1BMc1h3OTZlR0U2SEZUVjFza2dVeFdPX0hCdFBEbDhmWDdTYkxNUkNEeklkVExUUWVvT1VubHlQR1F5ek5ZaFJpRHdHSmc1US1XTnc5cm9SQVNZUHBuc3dTVWNVQQ?oc=5",
       "description": "Elistha-trainer erkent: ‘Gestolen overwinning’ • Excelsior Zetten heeft geen kind aan Dodewaard • Valburg heeft eigen Joey Veerman De Gelderlander",
@@ -434,9 +466,25 @@
       "image": ""
     },
     {
+      "title": "TEC geeft voorsprong uit handen • Invaller van DFS moet er al snel weer uit • Trainer Vriendenschaar drinkt wat extra biertjes - De Gelderlander",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSDI5TGpFc2ZNMDBsTi1nSlVZMmxZOU1ZWUszNVJDbXFyU1NfZ2ktdFlDdTFIM0lFQngyUXAwSFNCa0pvcGM2c2IyZlJhbmxrckVpVVFpN195SGdycC1ZZGJhYjZQZFBQU2JEUXA1RmhldWM2OGlMay1RT0lGdVpyRmgxOFp2Q3NaeXFBdGNjczFJS0Zud2kyWDF5Z3NtWDMxZkxXb2J6VjhTbmFSUndBbFdLNi1HMldsa29DUmZIQ3k5ZWtUcGFoajlzVUZoaU5hMGtHX1duQ20zNWhSbVhJWExManYwc3I4endJMWRXUl84SnFrdkRuUmMxMWRxWDJYTnpFXzR3?oc=5",
+      "description": "TEC geeft voorsprong uit handen • Invaller van DFS moet er al snel weer uit • Trainer Vriendenschaar drinkt wat extra biertjes De Gelderlander",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-21T15:34:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • De Vries goud waard bij DOVO • Tien goals bij De Merino’s - AD.nl",
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUEtzeUpNcjdFWEllOTgyXzRQbGNsTHdvaDk3bG5YTDdnY0d3V21VMl8zeTVUc2lRejh0Vl9zbVBiZVlsVWJiT0N4TndQVjNJaFhpR1ZEUDNCbkM1OUcxZ2RwdkkzY2NGWlh2R3MyaU1OY1VUd2c0dWRxNlBNeXBuSVpxZnpPRmNtQUd2dFdVbEdHUXQ3NHMzVnQwT1NsRFB1UlY0LTlLc2c5RUt6NEFTLTJWNVVwM3RsQlBlSmF6N05hUkZINEZnT1VkbHpZdDNVeWF1U0RXWGxpUDZDbWlDVWRKU2hGUFd4U3BNT2J1MmVWSmdMSlFBUlpQWkd5Ty1sWXBMTVg1T293V2sxbEJSQTR4Y29QcG8?oc=5",
       "description": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • De Vries goud waard bij DOVO • Tien goals bij De Merino’s AD.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-21T15:32:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • Opluchting in Harskamp • Tien goals bij De Merino’s - De Gelderlander",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeFlfNHRLaHQ0MzBuZnlvcUNRb3h6LVBQclYzYXdXZnRBQ1lPN3dhelZlR0hsTnVrZVRlSFBuZmY3bVBFSG90UVRNV1d0NWg5NWVMVU1xaElNQTlYMzhKdnR5QjBnYjg3VkNnZGhoTVFSX3F2MHQ4TldDZnpWWDNiWm0wMVN6SUx1V3puWXVTNXFPVEppVDhBZjEwVU9NcDVUX29rN0o3MUk0S3czTGMxa3lNV2kwdzlZTE9iMkdCaHNoUDg1XzJ1SV9IY3F1QmlLTHlrVnZxdHdOdlFmaGhPcm9XRTdHRi15RFItUmZMN2tQd3lGOW80bDRCeXd2U2VRdWhpRW1R?oc=5",
+      "description": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • Opluchting in Harskamp • Tien goals bij De Merino’s De Gelderlander",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-21T15:32:00+00:00",
       "image": ""
@@ -453,14 +501,6 @@
       "title": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • DTS slaat vlak voor tijd toe tegen VRC • Tien goals bij De Merino’s - De Gelderlander",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQeF9ScEdKNk0wVkFLQnhzX1gzbU1lR3R0cG8ydkhGTjdtQW8teGdqWkstajU4Uk1hakp1SFB3RE1kX0pONzlzYWEwRlE3VVpfanRLX1dHaDREWTVLRWhMS1dlN29lbDdCSDh5RlIwMFEzemUwM3d3Tkcya0pzSE1CbXNOblJjN2w1Qy15ME5hNVZoS0Q3TUwyRlYtdkVlb21aYlpUS0djVnl6SW8zcW93Y0JwQVpMUFc4XzE5cDNXZklCZkt1aHNUM2dDdG5QdWUwWDNYS2FER3hWTXEwcGFHb1ZneGtkNHA0cjhmYlNXN1NMNkw5WUdrM1FleFR3bzJ1blpYV0xGdVNmM2gydHVFUjNNbnZWc2FQTk53?oc=5",
       "description": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • DTS slaat vlak voor tijd toe tegen VRC • Tien goals bij De Merino’s De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T15:32:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • Opluchting in Harskamp • Tien goals bij De Merino’s - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeFlfNHRLaHQ0MzBuZnlvcUNRb3h6LVBQclYzYXdXZnRBQ1lPN3dhelZlR0hsTnVrZVRlSFBuZmY3bVBFSG90UVRNV1d0NWg5NWVMVU1xaElNQTlYMzhKdnR5QjBnYjg3VkNnZGhoTVFSX3F2MHQ4TldDZnpWWDNiWm0wMVN6SUx1V3puWXVTNXFPVEppVDhBZjEwVU9NcDVUX29rN0o3MUk0S3czTGMxa3lNV2kwdzlZTE9iMkdCaHNoUDg1XzJ1SV9IY3F1QmlLTHlrVnZxdHdOdlFmaGhPcm9XRTdHRi15RFItUmZMN2tQd3lGOW80bDRCeXd2U2VRdWhpRW1R?oc=5",
-      "description": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • Opluchting in Harskamp • Tien goals bij De Merino’s De Gelderlander",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-21T15:32:00+00:00",
       "image": ""
@@ -538,6 +578,14 @@
       "image": ""
     },
     {
+      "title": "De man die Ajax-favoriet Tolu beter maakte: 'Geen gemakkelijke leerling' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2ZOa0xmQkhuM1Bqdi0xeEoycldrUmNQU3Q3V0NPSVU5MkgxT3N6c1hhV1JnT2FxanV3MzNNWkR4SzEtc29TcXlmaVN1RndFYUZNblZZeTlIczh1RE5Sa0VhMUtLREYzbVlqUmszNWgxVzBwN09rRy1GVmhCR0ZfdmFIUnQwTUpXdGUzTDhueGw2X0NfbF85V1FETzNVSy00d2ttbnFCRk4?oc=5",
+      "description": "De man die Ajax-favoriet Tolu beter maakte: 'Geen gemakkelijke leerling' VoetbalPrimeur",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-21T08:42:00+00:00",
+      "image": ""
+    },
+    {
       "title": "The Chelsea loanee turning heads and Championship defenders at 17",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6d91xj9vee3o?at_medium=RSS&at_campaign=rss",
       "description": "Ryan Kavuma-McQueen has been \"unplayable\" at times since joining Portsmouth from Chelsea, says boss John Mousinho.",
@@ -554,25 +602,17 @@
       "image": ""
     },
     {
-      "title": "De man die Ajax-favoriet Tolu beter maakte: 'Geen gemakkelijke leerling' - VoetbalPrimeur",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2ZOa0xmQkhuM1Bqdi0xeEoycldrUmNQU3Q3V0NPSVU5MkgxT3N6c1hhV1JnT2FxanV3MzNNWkR4SzEtc29TcXlmaVN1RndFYUZNblZZeTlIczh1RE5Sa0VhMUtLREYzbVlqUmszNWgxVzBwN09rRy1GVmhCR0ZfdmFIUnQwTUpXdGUzTDhueGw2X0NfbF85V1FETzNVSy00d2ttbnFCRk4?oc=5",
-      "description": "De man die Ajax-favoriet Tolu beter maakte: 'Geen gemakkelijke leerling' VoetbalPrimeur",
+      "title": "Hoe managet jongste trainer van de eredivisie zijn eerste crisis? ‘Vooral doorgaan met de wijze waarop je traint en speelt’ - AD.nl",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZk1qM28waUtiX0d4N0xmUXQ3OGoyWDBQVlN6b2NadllDOENFN2hDekl3dTNLVjBPd3NBY3FGN2dUYWh3d21UdVRRNE9yWld0VFh3SUx4MjljbTJ5ZkhBeHFnRXVoR00tdnRqa3FvaDR1Ri1qS0FPNjNVYlBVbmlxaC1scUprNktqWUdjRHZmLVVjYkd5eXJ6bGsyN3V1NkJlR0F6NkpjUnFDbW1HRTFQa29kaTRqZ1RfcG1WQzBMMmNTUVZ4Q3o1cTJETXpBVjFmZDlGRDJpN0pjMU44MHZkZ2U5MmczY2VvYUY1Tw?oc=5",
+      "description": "Hoe managet jongste trainer van de eredivisie zijn eerste crisis? ‘Vooral doorgaan met de wijze waarop je traint en speelt’ AD.nl",
       "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T08:00:00+00:00",
+      "pubDate": "2026-11-21T06:30:36+00:00",
       "image": ""
     },
     {
       "title": "Hoe managet jongste trainer van de eredivisie zijn eerste crisis? ‘Vooral doorgaan met de wijze waarop je traint en speelt’ - Brabants Dagblad",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZTE5Y0FOa1U0S05IcVdPTV95dWpVSE1VWVVqYXA2VlZZdTQ5bjl4MUhwdG4wUVhPNTc1VEN4SEpyX2gxem83VjlhQzZVOWFrLVA3ODNzaFZ5VHptUHM3dTllUVdoWnRyRVpVOVdvM092TXRZY0pJSTBNY1BDc0lQNXZxUFJxY1kybnhtNnFkZDhYVEpRRFNDTm52dUE5NjJBZzJzZFR4TW9uWlRaR0FlMUdSNUJuMFp1UktpNVBuOHlvTmlpdEJfS2ZHUDlfUzkydE5vNUtpTzM5MVZQNGZQcWRyTnN5OWNRWTVlOA?oc=5",
       "description": "Hoe managet jongste trainer van de eredivisie zijn eerste crisis? ‘Vooral doorgaan met de wijze waarop je traint en speelt’ Brabants Dagblad",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T06:30:36+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hoe managet jongste trainer van de eredivisie zijn eerste crisis? ‘Vooral doorgaan met de wijze waarop je traint en speelt’ - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZk1qM28waUtiX0d4N0xmUXQ3OGoyWDBQVlN6b2NadllDOENFN2hDekl3dTNLVjBPd3NBY3FGN2dUYWh3d21UdVRRNE9yWld0VFh3SUx4MjljbTJ5ZkhBeHFnRXVoR00tdnRqa3FvaDR1Ri1qS0FPNjNVYlBVbmlxaC1scUprNktqWUdjRHZmLVVjYkd5eXJ6bGsyN3V1NkJlR0F6NkpjUnFDbW1HRTFQa29kaTRqZ1RfcG1WQzBMMmNTUVZ4Q3o1cTJETXpBVjFmZDlGRDJpN0pjMU44MHZkZ2U5MmczY2VvYUY1Tw?oc=5",
-      "description": "Hoe managet jongste trainer van de eredivisie zijn eerste crisis? ‘Vooral doorgaan met de wijze waarop je traint en speelt’ AD.nl",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-21T06:30:36+00:00",
       "image": ""
@@ -600,46 +640,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-20T23:18:16+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/765e/live/657e7940-e539-11f1-9616-8327139dcfc4.jpg"
-    },
-    {
-      "title": "Shevchenko lying about drugs test claims - Mudryk",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
-      "description": "Mykhailo Mudryk accuses Ukraine legend Andriy Shevchenko of lying about the circumstances surrounding the winger's positive drugs test as his dispute with the country's football federation continues.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-20T21:54:17+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg"
-    },
-    {
-      "title": "Watch: Inverness and Ayr play out goalless draw",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
-      "description": "Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-20T21:47:58+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/c20332e0-e52b-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Bevestigde transfers van spelers naar Manly - www.footballtransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Wnh4di0tZkNRVFN2OVhJRDE1bXNrOUZGeDFQdXhGWk5felZob2RjTHZ1WXlXYVNzUl91a1FGMnY2WklpdGVWSFdiME5iY3VKb2pXQ2o0YnpHQ28wUXVMZ2k1LVdiYVJnazlRTFIwa00wNzkxNUxNcU9B?oc=5",
-      "description": "Bevestigde transfers van spelers naar Manly www.footballtransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-20T20:21:42+00:00",
-      "image": ""
-    },
-    {
-      "title": "Coucke komt nu zélf met nieuws over transfer Lukaku - Voetbal24.be",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjh2Wm1RMjNGQ0hNMmFLX1JFUXlwQXhOanVwd0ZsbTU5azdYLWJwMm5YSkgyZGhmQl9rV1dJeGpQWGU3X2dicDJ1WUphV0IzdHl5REtlX2V0SnhfRzlLYzNweEppMzY4Yndvc0R2NEttbExGM3NUQU1WTmZ6cjl5Tnd6NVJ3LS1vN3ZXcWF0OUpYVWgwa3c?oc=5",
-      "description": "Coucke komt nu zélf met nieuws over transfer Lukaku Voetbal24.be",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-20T20:02:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Scouts opgelet: deze jonge spelers maken indruk in de KKD - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWDJxNFMxLXhKNHRhY0VmUmNtX3d3RnE3WEc0ZWY2TnotY2t4SW9zanlyLXJ3ZE5XVUtYdnBpbTlsSm0xMlNsbzduWTJCZlA0N1pHWEl3bE9xdWk2RVlQc1JpYmg2Zm5hRDN5ZnRGQkMzOXRkY3hWRFBlek9fNWN3d0RLdWhMLVpWSHU2eVNnLThkS2RsTzZRMHZqWU5pN0ZidWUtemRna2lrRnVzNHBjTE96dnNJVHJGLTFFZ2pYZkhSbllLU0h0Y2l3T2hVaHdyeklRV2ZmWllmcGc?oc=5",
-      "description": "Scouts opgelet: deze jonge spelers maken indruk in de KKD FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-20T18:43:00+00:00",
-      "image": ""
     }
   ]
 }
