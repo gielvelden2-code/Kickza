@@ -1,13 +1,69 @@
 {
-  "updatedAt": "2026-11-22T16:00:40.443738+00:00",
+  "updatedAt": "2026-11-22T17:02:38.940033+00:00",
   "articles": [
     {
-      "title": "Listen: Sportsound - football & rugby reviews",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
-      "description": "Comprehensive coverage of Scottish sport, including live and exclusive commentary.",
+      "title": "'Rolls Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
+      "description": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
       "source": "BBC Sport",
-      "pubDate": "2026-11-22T17:00:00+00:00",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgfrw8.jpg"
+      "pubDate": "2026-11-22T17:00:01+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe7/live/00b578f0-e693-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "Brilliant finish as Wirtz doubles Liverpool's lead",
+      "link": "https://www.skysports.com/watch/video/13615336/goal-f-wirtz-13-liverpool-2-0-manchester-utd",
+      "description": "Florian Wirtz scores Liverpool's second against 10-man Manchester United.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-22T16:52:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-liverpool-wirtz-goal_7413689.jpg?20261122164929"
+    },
+    {
+      "title": "Szoboszlai free-kick opens scoring for Liverpool",
+      "link": "https://www.skysports.com/watch/video/13615333/goal-d-szoboszlai-liverpool-1-0-manchester-utd",
+      "description": "Dominik Szoboszlai's free-kick opens the scoring for Liverpool against Manchester United in the Premier League.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-22T16:49:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-premier-league-liverpool_7413690.jpg?20261122164950"
+    },
+    {
+      "title": "Yoro sees red eight minutes into Poch's Man Utd reign",
+      "link": "https://www.skysports.com/watch/video/13615331/off-l-yoro-8-liverpool-0-0-manchester-utd",
+      "description": "Manchester United's Leny Yoro is shown a straight red card just seven minutes into the match at Anfield after bringing down Alexander Isak just outside of the box.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-22T16:45:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-football-premier-league_7413683.jpg?20261122164707"
+    },
+    {
+      "title": "Late McBurnie double sees Hull stun in-form Brighton",
+      "link": "https://www.skysports.com/watch/video/13615325/hull-city-2-0-brighton-premier-league-highlights",
+      "description": "FREE TO WATCH: Highlights from the Premier League match between Hull City and Brighton.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-22T16:31:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-premier-league-hull-city_7413672.jpg?20261122163318"
+    },
+    {
+      "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
+      "description": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. But they are firmly i",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T16:25:35+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8bf/live/e5be34d0-e686-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "Bizarre 9-1 monsterscore en trainer schaamt zich groen en geel: lees hier al het voetbalnieuws uit jouw gemeente - AD.nl",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdFVsZHFmWjZkWlZPY1RwLVoxZTN1VVZtTU04bWRPLXNOTEk3Y0MyOEJsTmxZV1NaNTY3U2hncmNzNXFQM3RHRnVaOHhUZFNweVpwMXh3amhjTEpaTEtlWWNzMlQtUDFDY0VJUGxKWjdwUmxDR3Y1UGVXR0VtT1U1ajBBTmpaMVk0ZUp1NndEMmwyUUcycEpBU2puQl9hRjAzcHdETWVTN0JETGNrWXpkWktwdWVEWE9mWUVuTlJvaEFUQWVVVFA4dXFmc1pFdDd4X1I4cVoxSVA4cWlVSjNJR21STWw0SmF1bzAzd1VZMkQ0dw?oc=5",
+      "description": "Bizarre 9-1 monsterscore en trainer schaamt zich groen en geel: lees hier al het voetbalnieuws uit jouw gemeente AD.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T16:19:03+00:00",
+      "image": ""
+    },
+    {
+      "title": "McBurnie's late double stuns 10-man Brighton after Tzolakis heroics",
+      "link": "https://www.skysports.com/football/hull-city-vs-brighton-and-hove-albion/report/559549",
+      "description": "A Konstantinos Tzolakis goalkeeping masterclass teed up Oli McBurnie to score two late goals as Hull stunned dominant Brighton in a smash-and-grab 2-0 win at the MKM Stadium.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-22T16:15:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-oli-mcburnie-hull-city_7413617.jpg?20261122155755"
     },
     {
       "title": "PSG's Doue to have surgery on ruptured ACL",
@@ -18,17 +74,25 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb0e/live/e990a750-e68b-11f1-936e-1fd1d31671db.jpg"
     },
     {
-      "title": "Trainer maakt rentree als speler bij FC Jeugd • Jubilaris is gevierde man bij DTS Ede • Razendsnelle tegengoal voor WAVV - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOEFVeUd0RnNIU2ZzYnFmUHV2LVcxc0s2UlgtNUxKWTRfVWRkRHdnU0k5MmdEM1g2VTh4bUxTMGk0U2RYdFNCV2F3RXMwR1EwdTBkNEFBLVF1TjR0MGVtX2IzUnNtVFFqLWIxa0I3OUxJeWVHQU9rSmxEcGZqU1p0NjNSWjVCUE9iZDhra1E4Rlp6UjFEd0RubGpWdU5KQ3M3UzJaalduS0JmUFk0eFRaV3EyQmVjaUhzVTBkUzBMdGg3WU16cnI0clpuQVZxdjlHc2oxSk02azBSUlBzNnUxV2pvbXBSWk5KTmRzbHVoWVROVzhkVHZFUlJB?oc=5",
-      "description": "Trainer maakt rentree als speler bij FC Jeugd • Jubilaris is gevierde man bij DTS Ede • Razendsnelle tegengoal voor WAVV AD.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-22T15:27:33+00:00",
+      "title": "'Hij gaat PSV een recordtransfer opleveren' - PSV Inside",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXA1dng3dGxZNGMzMk1zekE2aUZDcXZ4bjYtc3hYQ1pLbGRvbllBSDcyZEZWZHZ4M0lBQ0dxcTZTUUp0cG1Ma1NFTFFlQTEwbUhKU1JSbXBnODltV2F4WVV1TEp6SW1ZMEphTjJNMml0eGFGMjg0Qk9vMnE1SHpDZVdHcndtaEdZ?oc=5",
+      "description": "'Hij gaat PSV een recordtransfer opleveren' PSV Inside",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T15:46:00+00:00",
       "image": ""
     },
     {
       "title": "Trainer maakt rentree als speler bij FC Jeugd • Jubilaris is gevierde man bij DTS Ede • Razendsnelle tegengoal voor WAVV - De Gelderlander",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcFF3VTJobEtRV3E5cVI4SnA3a1lEZ01pTGx0T0lxY0FFMmpUeDNCXzJmZU5JYjA0NjNVUlk5cS01dFluNkZDWjRuOXZzMFRCUmh0NC02YUZpcHBfOGRBRUdaNFpmRXFuVkJ0Sm9KeEswcmtCSXFrajJXS3RhQU1DN205ajdFZjAwd1Q2YkxwN21tb2FmcHVETGVQLTdiN29xeWNQYjZ5ZnZVejNDalB5WjdNYnlQZUxLZm1rV3JUNmJyUUZNU0Q3dHJubkxoTEc4aVB4OUFjdzA3eWsydmZzRUNYYUp3bVc1WUVuSGk5UmNhUjdJTU5BYUU0MTlTZw?oc=5",
       "description": "Trainer maakt rentree als speler bij FC Jeugd • Jubilaris is gevierde man bij DTS Ede • Razendsnelle tegengoal voor WAVV De Gelderlander",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T15:27:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Trainer maakt rentree als speler bij FC Jeugd • Jubilaris is gevierde man bij DTS Ede • Razendsnelle tegengoal voor WAVV - AD.nl",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOEFVeUd0RnNIU2ZzYnFmUHV2LVcxc0s2UlgtNUxKWTRfVWRkRHdnU0k5MmdEM1g2VTh4bUxTMGk0U2RYdFNCV2F3RXMwR1EwdTBkNEFBLVF1TjR0MGVtX2IzUnNtVFFqLWIxa0I3OUxJeWVHQU9rSmxEcGZqU1p0NjNSWjVCUE9iZDhra1E4Rlp6UjFEd0RubGpWdU5KQ3M3UzJaalduS0JmUFk0eFRaV3EyQmVjaUhzVTBkUzBMdGg3WU16cnI0clpuQVZxdjlHc2oxSk02azBSUlBzNnUxV2pvbXBSWk5KTmRzbHVoWVROVzhkVHZFUlJB?oc=5",
+      "description": "Trainer maakt rentree als speler bij FC Jeugd • Jubilaris is gevierde man bij DTS Ede • Razendsnelle tegengoal voor WAVV AD.nl",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-22T15:27:33+00:00",
       "image": ""
@@ -56,6 +120,14 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-22T14:15:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-todd-cantwell-blackburn-rovers_7413453.jpg?20261122135146"
+    },
+    {
+      "title": "Barendrecht treurt na derde nederlaag op rij: trainer Vaudo wijst niet naar blessures als excuus - AD.nl",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb2RxM2ZCaWNrc0RuM080U1k4MDFqem8tZGdjOWJDakplMDNPS3JOZ3JoV2x4ckwwd0ExMDQ5ZnBvbl9JRDJwQ29ESDZ0Q2dDaHJyYm9tMmFWUU1Tb0xKdVBCaHVnOXdFSHlnZFU0Z2VJQUpqTXI0bGVYWEFLRGcyZ1F6UVR3aUtDZGozVVRraXNRNU9kLUZ1MjVJME1iYWMycFcxTU5nUEx2RzFjQ2o3WllKTDZ3RkhFUWdwZXhXZ2Zpc0E5Q3VTelhNblUxLU9yeldBSHNkQkNrUWhLa0tJ?oc=5",
+      "description": "Barendrecht treurt na derde nederlaag op rij: trainer Vaudo wijst niet naar blessures als excuus AD.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T14:00:00+00:00",
+      "image": ""
     },
     {
       "title": "Man Utd latest: Poch appointment provides optimism, says Neville",
@@ -90,22 +162,6 @@
       "image": ""
     },
     {
-      "title": "UNBELIEVABLE! Hull strike late in added time vs 10-man Brighton LIVE!",
-      "link": "https://www.skysports.com/football/hull-city-vs-brighton-and-hove-albion/live/559549",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-22T12:23:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-konstantinos-tzolakis_7413555.jpg?20261122151109"
-    },
-    {
-      "title": "UNBELIEVABLE! Hull strike TWICE in added time to beat 10-man Brighton LIVE!",
-      "link": "https://www.skysports.com/football/hull-city-vs-brighton-and-hove-albion/live/559549",
-      "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-22T12:23:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-konstantinos-tzolakis_7413555.jpg?20261122151109"
-    },
-    {
       "title": "Manager ins and outs - 2026-27",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
       "description": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
@@ -136,14 +192,6 @@
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-22T11:54:11+00:00",
       "image": ""
-    },
-    {
-      "title": "WSL: Arsenal probe for opener early in second half vs West Ham LIVE!",
-      "link": "https://www.skysports.com/football/arsenal-women-vs-west-ham-united-women/live/575825",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-22T11:30:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-alessia-russo-ines-belloumou_7413577.jpg?20261122152453"
     },
     {
       "title": "Rochdale sack boss Watson after Northampton defeat",
@@ -232,14 +280,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-22T07:12:55+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "title": "Fernandes: Man Utd have offered new deal but now is not time for talks",
-      "link": "https://www.skysports.com/football/news/11095/13614990/bruno-fernandes-man-utd-captain-confirms-contract-offer-but-says-negotiations-are-on-hold",
-      "description": "Bruno Fernandes exclusively told Sky Sports that Manchester United have offered him a new contract but he has put discussions on hold as he insists the club's priority must be returning to winning ways.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-22T07:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-bruno-fernandes-manchester-united_7412899.jpg?20261121194818"
     },
     {
       "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
@@ -338,12 +378,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a1/live/dec0b5d0-e5ec-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Euro latest: PSG's Doue suffers serious knee injury",
+      "title": "Euro latest: Barcelona score three times in 10 mins in epic comeback win",
       "link": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-21T21:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-doue-psg_7413016.jpg?20261121215948"
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-barcelona-garcia_7413606.jpg?20261122155448"
     },
     {
       "title": "Chelsea latest: 'He was in pain' - Alonso gives update on Caicedo injury",
@@ -600,46 +640,6 @@
       "source": "Sky Premier League",
       "pubDate": "2026-11-21T16:45:00+00:00",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-luca-williams-barnett_7412400.jpg?20261121152456"
-    },
-    {
-      "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T16:07:19+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2997/live/fc265c50-e5c0-11f1-a188-ff49e70cc466.jpg"
-    },
-    {
-      "title": "Elistha-trainer bekent diefstal • Excelsior Zetten heeft geen kind aan Dodewaard • Valburg heeft eigen Joey Veerman in huis - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTmk5Yk4zSkxjQ3dhcDYzejdDdjhVT3FZVmtHUG1lZzRfU3BDMnJXOEFVN3Jrc2JET3Nqb1lvZUNMOWxNT0lGaWVyV19QalFlaGZYVkEtd3BfbTJmNUNESWhBV3ViSWJsMjR0YmFkc0ZjR3FFX2VudGs2dGtfOGtxVWJNbVUxOVRtNHFRUDBrendKaFc5cFgtVnRLS1d4cTJHNW9UVlhLLVZKMGVEcXBzUEtDM0haM1JHaldqRjJUQzJBaDlZZ2NBNWstQlNPUmw0Mm51TlZuN0xXMlJybkl1U3NtY0g5QkRqMHpTdGd5Z0JHYjI4WTRxOHQyLU5uOVBFNlE?oc=5",
-      "description": "Elistha-trainer bekent diefstal • Excelsior Zetten heeft geen kind aan Dodewaard • Valburg heeft eigen Joey Veerman in huis De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T16:07:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Elistha-trainer erkent: ‘Gestolen overwinning’ • Excelsior Zetten heeft geen kind aan Dodewaard • Valburg heeft eigen Joey Veerman - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQeGZPcmpQb0hLYlQ0eTJ2VmZjVzB3dlNLNXNnTW5obk9oRW1nd1RVaXVzaHJrRmdURFlEeTZRSUVXNlcxSzRZX2dpMlhlSGpOblRoZzl5WWNWbHNDd1dQa2QxUEVFSFM1VThLWC1RSEIwemZvczgxVXlMeWFpVE5CMkVYNVhVSGxDb1JMZjhDNmVSLWxmNXNfM2dUeDNRbGR3eTNCeUo0Yl9vT1BMc1h3OTZlR0U2SEZUVjFza2dVeFdPX0hCdFBEbDhmWDdTYkxNUkNEeklkVExUUWVvT1VubHlQR1F5ek5ZaFJpRHdHSmc1US1XTnc5cm9SQVNZUHBuc3dTVWNVQQ?oc=5",
-      "description": "Elistha-trainer erkent: ‘Gestolen overwinning’ • Excelsior Zetten heeft geen kind aan Dodewaard • Valburg heeft eigen Joey Veerman De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T16:07:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "SC Valburg heeft zijn eigen Joey Veerman • Elistha-trainer erkent: ‘Gestolen zege’ • Excelsior Zetten walst over Dodewaard heen - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMGwtV045d0xPeElOdU4tTm1OVXotaXh2Z0h1TXFkVW1rMmgzS25jMHdTWXZYZk9veTFvUGVNVDc3MmxtRUZtZmwxVFRHZEg1aTRYc05HSk9NbmpzOFBEV2VZbVJ5NGJfeFJYejRsd1NRZkpad1JIX09YRlJvcEg2M1c4Tk9tYll1WHZFWndPX0pRSXk0bUZoTGNGX3RRREtxTTR1el9JWV96VERFbFN4cE1QcExLc0V3VkN6TlhMSlJyX2NVVGk0cC1CYkpfM05ENHk4V1J3QjdRM2ctb0Y1cktmZExpYk9GVGh5Vk90ZXBjdVBOWFQwRmRyUlNfc0YxT1hr?oc=5",
-      "description": "SC Valburg heeft zijn eigen Joey Veerman • Elistha-trainer erkent: ‘Gestolen zege’ • Excelsior Zetten walst over Dodewaard heen De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T16:07:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "SC Valburg heeft zijn eigen Joey Veerman • Elistha-trainer erkent: ‘Gestolen zege’ • Excelsior Zetten walst over Dodewaard heen - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWnJlQ28xZGdXLUlCM0wtV0t3SnRjb3A4LWpycVBVVlhpQl9tcVgtdkd3MkgzS18xZHJKbXJDMEF1SEcyUkF0dGZrWm5HeklWVHNHZy02T2trOTBYRXFxWkVtZXlyY0IySG0wQzBpRUVraTBBMXg5am5GSmxSVXRyVWdLMWVTOG1sZmtyRWpFUC15ajlWT28tbENzd3l5N2M5RWxlU1VuV1VPQm5GU2I3ZXdkeW5wR3kzNm1McG9zUDhPMEQ4SXBLbnVLRUFTZzlQQm92RXljRHJZb1lmc3RrRmxoRTF2djBmVFZiU3NBcnJ6dzhMSWlqWC1GMzYzSDA?oc=5",
-      "description": "SC Valburg heeft zijn eigen Joey Veerman • Elistha-trainer erkent: ‘Gestolen zege’ • Excelsior Zetten walst over Dodewaard heen AD.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T16:07:00+00:00",
-      "image": ""
     }
   ]
 }
