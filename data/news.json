@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-22T19:11:32.569864+00:00",
+  "updatedAt": "2026-11-22T20:02:43.276870+00:00",
   "articles": [
+    {
+      "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+      "description": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T19:59:38+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c3/live/e536fa10-e69f-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+      "description": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T19:59:35+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/4cb54b80-e6a8-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Charlton earn maiden WSL point against Villa",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cwq6e7gl5r4yo?at_medium=RSS&at_campaign=rss",
+      "description": "Charlton earn their first WSL point after 11 matches with a hard-fought draw against Aston Villa, who withstand late pressure from the hosts to avoid defeat.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T19:50:45+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5929/live/d677bad0-e6a1-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "Own-goal mishap gifts Brighton first away victory",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cqx2w0m8v84wo?at_medium=RSS&at_campaign=rss",
+      "description": "Brighton secured their first Women's Super League away win of the season thanks to a bizarre own goal from Everton's Maz Pacheco.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T19:50:33+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389a/live/5ab0e970-e6a2-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "Iraola 'enjoyed' big win over Man Utd",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c3y0x55ey81yo?at_medium=RSS&at_campaign=rss",
+      "description": "Liverpool head coach Andoni Iraola is pleased with his side's performance in their dominant win over Manchester United although he says that his side can still play better.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T19:25:21+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe75/live/c00715a0-e6a8-11f1-99a1-253766e7ad8b.jpg"
+    },
     {
       "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss",
@@ -16,6 +56,14 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-22T19:03:24+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7609/live/a91923c0-e6a7-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "'No chance!' - Poch and Mainoo fume at 'unfair' Yoro red card",
+      "link": "https://www.skysports.com/football/news/11095/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak",
+      "description": "Mauricio Pochettino felt Manchester United were given an \"unfair\" red card in their 4-0 defeat at Liverpool - with Kobbie Mainoo replying \"no chance\" when asked whether Leny Yoro should have been sent off.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-22T18:58:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413680.jpg?20261122164441"
     },
     {
       "title": "Liverpool latest: Carra praises 'outstanding' Wirtz in man-of-match display",
@@ -58,7 +106,7 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-rio-ngumoha-liverpool_7413795.jpg?20261122181605"
     },
     {
-      "title": "Man Utd latest: Neville reacts to club having worst defence in Europe",
+      "title": "Man Utd latest: Worst defence in Europe as Keane & Neville react to Liverpool loss",
       "link": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
       "source": "Sky Sports",
@@ -154,14 +202,6 @@
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
     },
     {
-      "title": "Brighton latest: 'We weren't patience enough', says Hurzeler after Hull loss",
-      "link": "https://www.skysports.com/football/live-blog/11661/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-22T17:17:00+00:00",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
-    },
-    {
       "title": "Arsenal booed after another home WSL draw as Man Utd beat Blues",
       "link": "https://www.skysports.com/football/news/11095/13615326/wsl-arsenal-draw-again-at-home-man-utd-leave-it-late-to-beat-birmingham-and-charlton-earn-first-point-of-season",
       "description": "Arsenal were booed by their fans after they held to a sixth successive draw at home, drawing 0-0 with West Ham in the Women's Super League.",
@@ -204,7 +244,7 @@
     {
       "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
-      "description": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. But they are firmly i",
+      "description": "Women's Champions League qualification may have seemed fanciful for Tottenham at the start of the season - but they are firmly in the mix after winning at Manchester City.",
       "source": "BBC Sport",
       "pubDate": "2026-11-22T16:25:35+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4747/live/e517d950-e69f-11f1-99a1-253766e7ad8b.jpg"
@@ -242,14 +282,6 @@
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-oli-mcburnie-hull-city_7413617.jpg?20261122155755"
     },
     {
-      "title": "Bevestigde transfers van spelers naar CCB LFC United - www.footballtransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMmtQcFV4VURiU3Y4OTFGd003Vy1IUXAwUFpGeEZqWGFray1ncE83bzB2cmgwbXhFU2tKU1loX0xSVGVEdTk1NGVjMTZWd0dIbTVtUU9tc1VLMllNNFNZRXhvSUR1djNlUFFqMGtSZFlURnowQTdXZWxSb2ktTW1TSHJ4Tmw3UQ?oc=5",
-      "description": "Bevestigde transfers van spelers naar CCB LFC United www.footballtransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-22T15:50:10+00:00",
-      "image": ""
-    },
-    {
       "title": "PSG's Doue to have surgery on ruptured ACL",
       "link": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss",
       "description": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
@@ -279,6 +311,14 @@
       "description": "Trainer maakt rentree als speler bij FC Jeugd • Jubilaris is gevierde man bij DTS Ede • Razendsnelle tegengoal voor WAVV AD.nl",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-22T15:27:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bevestigde transfers van spelers naar Blooming - www.footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WbVo5WjBuLURpQ0pXdXN1R181ZEtYS2gwdm9aZ1NsaF92OVdwRlBIaVpGYUZldEc4VjRmdHM3NVEwby1fMFlwQ1RReXZYN20xSzN0c1BOaFJRWXNISEpFeHZaU3hDQk9kNnNlUzU0WFlmQTcyVXB0RkpJQ1FpUQ?oc=5",
+      "description": "Bevestigde transfers van spelers naar Blooming www.footballtransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T14:43:35+00:00",
       "image": ""
     },
     {
@@ -370,6 +410,14 @@
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
     },
     {
+      "title": "🎥 Wat een pech! Doelpunt Lukaku afgekeurd om heel ongelukkige reden - Voetbalkrant.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDhLS2Z4TjlfVENCN3ZweUR0MDlkRnJkVTRXSm0zMXJwQS1lOGZVUF81RFRLQ1YzNndhVnFaWGd6b1VzQ1JoUUtmRVhuMDdnLWh4dVB1QUs5YmxUcXQ1ek9tbnc0VmV5WVA1UXJyWGdvNXVObXVTNF80YUNnMXA2NVQtQ29XanpINlRlamVuaXZNODh1RXlZcTItMVpydWYwMGVFeXE1Y09PeFFCcFZFdk5R0gG3AUFVX3lxTE9pOGJyQ1kxY3VLOUJtMGxON01nMlp0M2tmNklfMHg3MUl0R3dCOTl3NlBKbUxLMWdDVGx6c1FiNHVhZnMzZTUtYjMtaEtxLTA0ZUc0ZmZSNHpYdmRHNm5mRkVwc3ZMdkozRVVxRWRFaUxVdDhPbll6aFVnNlBmWlBtdHlQVk9QMGlkX0UzRDd2MGVIVGYxd09jUE1faUstSjdYd0tENVBhVDJBb1lYNmgtUEhGQnRzWQ?oc=5",
+      "description": "🎥 Wat een pech! Doelpunt Lukaku afgekeurd om heel ongelukkige reden Voetbalkrant.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T10:32:29+00:00",
+      "image": ""
+    },
+    {
       "title": "Na ontbonden contract bij Ajax worstelt Paul Nuijten bij FC Dordrecht - FootballTransfers.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeTEzZV9rSnNnRmI2YWdFR1ZtTDFLcmgyZVVZbW1ZNm50N0ZCNGRUbmdOWFlmSmFybk9JVzktSHVlbUMwVEZMQk9CWWswc1RYNnJ6b2pjLW84RUtMY00yRVJZaTMxYTZfa3FHY1RCSGRsWXBHVldHZjNGNnhfNXkwT0psbGxjeE5taDhEeHgtVHViSDd1WGlQVEhCX19vcEdQSUhQcHc0aU5kV2ZnODhhR0k5TVJPb0hRamxsU3c5YVFjRFU2MXVwNkVrajdKSFpFdUNSbnQxN2QyVW1YYnc?oc=5",
       "description": "Na ontbonden contract bij Ajax worstelt Paul Nuijten bij FC Dordrecht FootballTransfers.com",
@@ -418,36 +466,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "title": "Bevestigde transfers van spelers naar Racing - www.footballtransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13X2s1MjlDZDNMNnBCZm1fNnZYUzdVTkw5RDZXUkJWaFlhQlhmc3ZZNU5yVVRVak5HZ09NRS1uMGllYmVZRXdtcmJEbHpNNnJKNnNVSFpjUlBPVkxwTWZmdkpEb3BvSHQ3Q2xfcVZzdlFYQUhOQ3pzMkF3RXZ2dw?oc=5",
-      "description": "Bevestigde transfers van spelers naar Racing www.footballtransfers.com",
+      "title": "Bevestigde transfers van spelers naar Virtus - www.footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12MTZfUnpITVlfa0NvU3FkcnFtanozZ1Z4aVlYQWdBX1B0T3NDbW5fZnVpQi00d09pTWE3Y1RsWUNoT1ZCUzVkSFdJeVp1dDdqMlVodjFJZXFXeHY0SFdHRGhGSlhwUldEVFE0Yy1ITTMzX0tiaUh2cldGZw?oc=5",
+      "description": "Bevestigde transfers van spelers naar Virtus www.footballtransfers.com",
       "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-22T04:21:23+00:00",
+      "pubDate": "2026-11-22T04:22:01+00:00",
       "image": ""
     },
     {
-      "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss",
-      "description": "Match of the Day pundit Joe Hart explains how teenager Luca Williams-Barnett caused problems for Ipswich Town on his first Premier League start for Tottenham in their 2-0 home win.",
+      "title": "'They looked like a team again' - Hearts roar back with Dundee demolition",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno?at_medium=RSS&at_campaign=rss",
+      "description": "After a worrying week before the international break, Hearts respond is style by thrashing Dundee 8-0 at Dens Park.",
       "source": "BBC Sport",
-      "pubDate": "2026-11-22T00:13:01+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf6/live/116c8440-e607-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "I wish referee had opportunity to see 'handball' again - Hart",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
-      "description": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premie",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-22T00:08:13+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b7c/live/99f4c5e0-e600-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "London City keep up title hunt with emphatic win over Crystal Palace",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o?at_medium=RSS&at_campaign=rss",
-      "description": "London City Lionesses stay in the hunt for the Women's Super League title, with a statement second-half performance to give them a 6-2 win over Crystal Palace.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T23:14:10+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6419/live/3883b000-e5e2-11f1-99a1-253766e7ad8b.jpg"
+      "pubDate": "2026-11-21T22:45:05+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf3/live/0bdf2a10-e5fc-11f1-9cff-035604b6272d.jpg"
     },
     {
       "title": "Spurs latest: 'Williams-Barnett has to be given assist for my goal!' says Solanke",
@@ -538,6 +570,14 @@
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-bruno-guimaraes-sean-steur_7412718.jpg?20261121175724"
     },
     {
+      "title": "Bevestigde transfers van spelers naar FC Andau - www.footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ObGcwSV9CbUVCeW5wTnFiUGE4ZWpZM0dRb3RkV3ZQSm14d1pGTzV3b1ZMcDE4Y09xN0ZwWktrZWRzbk1CZ2JDZld3eF81UWR0NWxBTmJFSVpKMGNtd2xvT1pGUU1OWlRUR1g0NGZzOUZqMmQ0bnhYWTAzajBsdw?oc=5",
+      "description": "Bevestigde transfers van spelers naar FC Andau www.footballtransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-21T20:12:23+00:00",
+      "image": ""
+    },
+    {
       "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
       "description": "With a ninth successive win, Bournemouth continue to make history under new manager Marco Rose.",
@@ -600,46 +640,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-21T19:58:52+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca40/live/81c33140-e5cf-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "De bizarre statistieken van Donyell Malen bij AS Roma - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMXVLVGpMcDEyeDY2VGtEVFd5WHc0SVRZXzVKVDZsN0NDemVObk1UNjdMWEE2cFplMGdlYWpxX2k5MGlSRFZQTk1vNUlJVEdKZ0xadTlpcmxJdk1lQU9WVURTbUduMVlncDNNNHRRWHExcmFMejltb2JlWTk0LTUxZzNHQmRtMWZwdHN0cmRQM1BEUUd0MXc5dGlMUmhtV3dnLWMyVXhHWEJtaGFmTXJPb3M1dkhCR1c4S0hNdXdHU1E0Zw?oc=5",
-      "description": "De bizarre statistieken van Donyell Malen bij AS Roma FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-21T19:47:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "Arsenal rescue a draw at Newcastle",
-      "link": "https://www.skysports.com/watch/video/13615004/newcastle-2-2-arsenal-premier-league-highlights",
-      "description": "FREE TO WATCH: Highlights from the Premier League match between Newcastle and Arsenal.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-21T19:35:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-football-premier-league_7412860.jpg?20261121193125"
-    },
-    {
-      "title": "DwO’15 met moeite langs rood aanlopend Corn Boys, Jong Ambon wint in knotsgek duel met trainer Mehmet Gül op doel van Cadzand/Schoondijke - pzc.nl",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdXdhT2x4OGp1cXNDRkRRckVhYjdtWEJuWjd5b3ZHV2UtZFdiLW02STg0QUN0amxRRGFTS0xQQXh1djB5Q29RbHJhR0IxQkJRNm5EZHpycHVzMVVTb1N2cmFDOHp3NHNQbWJSYXJqVU8zUnJKb3FCU2J2TnBzMmlkNkYwdk5LbngzRVB0YjZOek9vRmZHUDdhNjhfWXlQLUdQS0VpRVdkZk85cXpTeHlncUV5ODdXVTg0NjVnZGpBaV9aOHFrbmlKNHQxQjJLdklKTGRPSGlFWDNKZWhVX25leHJNRU5lSTdHcFJ4bWd5X0xkUWdSZ1hadXo5UG5ZUUtaRHVuNlE0TFRIR1E?oc=5",
-      "description": "DwO’15 met moeite langs rood aanlopend Corn Boys, Jong Ambon wint in knotsgek duel met trainer Mehmet Gül op doel van Cadzand/Schoondijke pzc.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T19:29:02+00:00",
-      "image": ""
-    },
-    {
-      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T19:21:01+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccd/live/a1406b50-e5de-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "PSV-trainer Peter Bosz vreest na mooi verjaardagscadeau voor slecht nieuws: 'Dat het iets ernstigs is, is wel duidelijk' - Sportnieuws.nl",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMEh4TklWYjJfSmdhSkU2amszMXRaUUljcTVCRVlSYjNRWVpLZ3hGQkpYUWxtOWgyNlBFUDBLbnNiUGdaaGxWdWxlVEpNVUc5VGgyWTdaMktwVFN3NExSazhKN00xelp3bzhFb1BwRDlLdHVPWEpIRTNnV08yQVhlYTh2dGlGcWRMM0JTM1pZQkRZcW9QQjZMQ0JoUmNPSl8tTllQYWMweXdTeXdlVGtqOFc2WGNfbTlrcGcyX3BHeGhmUU1KWmV2ZzZKa3pBbHVPZ0tSWTNJMmpMM0lrUTR0YVI3R2QxajdFeENPWlpWNnM3dE44ZDhMWGYtTDR0MEt6enhyam16VTNHclZ6THpOU2pscWk?oc=5",
-      "description": "PSV-trainer Peter Bosz vreest na mooi verjaardagscadeau voor slecht nieuws: 'Dat het iets ernstigs is, is wel duidelijk' Sportnieuws.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T19:19:16+00:00",
-      "image": ""
     }
   ]
 }
