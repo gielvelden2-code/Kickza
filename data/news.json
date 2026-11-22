@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-22T10:03:52.222787+00:00",
+  "updatedAt": "2026-11-22T11:01:40.397875+00:00",
   "articles": [
+    {
+      "title": "Manager ins and outs - 2026-27",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T10:56:00+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/d9deae90-d832-11f1-87c3-29e1cdce63c6.jpg"
+    },
+    {
+      "title": "Rochdale sack boss Watson after Northampton defeat",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo?at_medium=RSS&at_campaign=rss",
+      "description": "Rochdale sack head coach Ian Watson after only five months at the League Two club",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T10:55:05+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f89/live/28d78d60-e660-11f1-8ebd-1d2173202734.jpg"
+    },
+    {
+      "title": "Arsenal latest: Gunners facing nervous wait for news on Raya injury",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-22T10:46:00+00:00",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+    },
+    {
+      "title": "Vechtpartij tussen supporters van La Louvière en Genk - Voetbalkrant.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEJuODVHMHNwX3JTOURJSzdlaXEzcG1FUVVFVHUwTjU0MXNVTWYwRE16RnJXeWxFRkJhN3NKUkI2WVRwb2t4UF9lWDlYRjJyQmtzdTJubEpoVDNaVXl1bWx0cG1oTVo5N1c3cG1JUlJjVG9mejZ2RndUbmZDY213YjRsbWNIVDNsWGtXRVh0ckswREMwZjhkVmZqcU5CWTNqTlQzX0lrSzBCOEZjOElIbGM1SGRiRTlPbmlR0gHAAUFVX3lxTE9hYXpBU3hWNFZBTUI1TDFDVmtEX083TkwwU0lZSjl1cGhFVDIyQjRueVkwZlNLblZoR3VzWXNfWkw0cnozRWJUTmNKSGxIRkxTTk5pa3RTdl9uYUlrc3hMSWJVQVBaSmMzcWZ6VnhTdy1Fd2lTTkV6ZV83dUUyQlBUbGo3RXZCRVlSRHRvQm5MdUEwLXZ6TXZYT1l4ZmVEWTVCaXZCUnBiR3d1cC02clgwcTB0ZkpVNXQzODJLdmUtMg?oc=5",
+      "description": "Vechtpartij tussen supporters van La Louvière en Genk Voetbalkrant.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T10:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Na ontbonden contract bij Ajax worstelt Paul Nuijten bij FC Dordrecht - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeTEzZV9rSnNnRmI2YWdFR1ZtTDFLcmgyZVVZbW1ZNm50N0ZCNGRUbmdOWFlmSmFybk9JVzktSHVlbUMwVEZMQk9CWWswc1RYNnJ6b2pjLW84RUtMY00yRVJZaTMxYTZfa3FHY1RCSGRsWXBHVldHZjNGNnhfNXkwT0psbGxjeE5taDhEeHgtVHViSDd1WGlQVEhCX19vcEdQSUhQcHc0aU5kV2ZnODhhR0k5TVJPb0hRamxsU3c5YVFjRFU2MXVwNkVrajdKSFpFdUNSbnQxN2QyVW1YYnc?oc=5",
+      "description": "Na ontbonden contract bij Ajax worstelt Paul Nuijten bij FC Dordrecht FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T10:01:13+00:00",
+      "image": ""
+    },
     {
       "title": "Armstrong plays down talk of Rangers transfer - gossip",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckdd1epzz60eo?at_medium=RSS&at_campaign=rss",
@@ -34,10 +74,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/104e/live/c689eea0-e64b-11f1-a563-e14cd8b02601.jpg"
     },
     {
+      "title": "Dongen-trainer verslaat potentiële nieuwe werkgever RBC: ‘Zodra dingen concreet zijn, zullen ze naar buiten komen’ - BN DeStem",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNnRGc3RHSFlLeDY5dXV6dG1zNk15VWM5QnVaekstNDB1blktWFdBenkwd1BSUXZWSWNXdTJRc0xyaWpzaGFnelFOaHVmc1lxWUFDTWZCTEl3UTVYOGw5OC1wS3dxWU9pS09tRWliOV9qSGtoN2RrYVg4MUQ3WmNEeVdTR2ZnY21pdy1raThLUFNXdzhDSFkxTTFiWkpETlh5VERBempiUElfbk04SjljOU9qMk43YUVielllUEw3U3d2THFwZzZMV20xdjE4VHhkWlNoRlRwY25CY3BWMm5fa2J6Tml2c2QyLWtwR0JRRlg?oc=5",
+      "description": "Dongen-trainer verslaat potentiële nieuwe werkgever RBC: ‘Zodra dingen concreet zijn, zullen ze naar buiten komen’ BN DeStem",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T08:26:07+00:00",
+      "image": ""
+    },
+    {
       "title": "Daan Eikenhout blijft bij De Meeuwen, Arnemuiden en Ralph Zegers gaan na dit seizoen uit elkaar - pzc.nl",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEhiazc3YlFxMkI0SzZsckxVc3VJNmRLSzAwTzJtbzlLTnhqOVhyT2tzaUh5a3FnVWt0WXpMQVNWWmNYWnV5NnNvZ2tyejI4eVVqaG5sSW5mcTlhVm0wOVNOY1VLRG94QXZTVjVxd1NBVnM0b1ZmcWFwN3ZJMURtWXV5M2o1bkRQRWRJbG5PUHBra0I5QlRDMWNBZVM3TUZoUHl5WkVGNzlEMEQwLUhSd0hLSkpBLU1sblpvdlhxVl9VaXpOMjVwZGx2Z3MyU1c3a1dEbQ?oc=5",
       "description": "Daan Eikenhout blijft bij De Meeuwen, Arnemuiden en Ralph Zegers gaan na dit seizoen uit elkaar pzc.nl",
-      "source": "Google Nieuws Transfers",
+      "source": "Google Nieuws NL",
       "pubDate": "2026-11-22T08:17:46+00:00",
       "image": ""
     },
@@ -55,6 +103,14 @@
       "description": "'Tadic is onze fitste speler, anderen hebben niet dezelfde professionele houding' VoetbalPrimeur",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-22T07:54:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Van Seumeren legt vinger op de zere plek bij FC Utrecht: 'Dat stagneert' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOURBQjc5VU5SRDlLcUtGdjk3Sk9TOFljTzhHaUdoSFQtTFZoUC02U2pabG91ZG5ZSXF5UjFRV1ZZWHBTVVc4NDk1TDNnTkJLYk45NzhPaFNoeUdGVW9VaVZCMWZzN0k4VHRuNHJ3ZFNsZkRzOXlnT3o1SGZDVEFJaC1oam12VFBaWF92TFRDV0NSeG0xNGdEd2NLZFYzaGxhRlhSSjZNYlk?oc=5",
+      "description": "Van Seumeren legt vinger op de zere plek bij FC Utrecht: 'Dat stagneert' VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T07:46:00+00:00",
       "image": ""
     },
     {
@@ -106,12 +162,44 @@
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-bruno-fernandes-manchester-united_7412899.jpg?20261121194818"
     },
     {
+      "title": "'Fysieke paraatheid van Lukaku leunt al vijf jaar aan bij die van een kassierster' - VoetbalPrimeur.be",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGRiQ0k5aERKclc1OTRtZ0h1cDlZcW9NbURiTy1MYTZDMUFSd1ZjY1pON0J4ZkNjeHVZMERtMzZPOENNZ01HdW9hUjR5ZmQ2UWl6LVZOMUVXU2hQYlhOZGxrUnRhYUNicnZmWnZjNG45eEt2Z3FkSEJmUGJpUzJIekg5dnJqSG9nSWdJejBrblJkMEN5U1BfVXB5QnY5aGIxa3dFMWd4SQ?oc=5",
+      "description": "'Fysieke paraatheid van Lukaku leunt al vijf jaar aan bij die van een kassierster' VoetbalPrimeur.be",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T07:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "“Onaanvaardbaar” Antwerp-trainer kookt van woede na nieuwe tegenvaller - Redactie24",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHR2OVFON1QwWnlZNG80YW9vWm5FU3dsMm52Ri0zd1JqY2VYcXV3UVhLcVp2WW9mclV2dHZNOUFHUWQ1T3RYT1JkREVBcjNrS01pRU44Y3VYR09ENFprTnU2MEJaY1h3bklNbUhLYy1yS05UQzd5ZlRmOXZtTmVIN1RQVWZrZUJaUDNPNWJXZnpwRW1jMTI2UUQzN0ZBNC1EZWx1SUY0NFd6WmV5UUE?oc=5",
+      "description": "“Onaanvaardbaar” Antwerp-trainer kookt van woede na nieuwe tegenvaller Redactie24",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T06:45:00+00:00",
+      "image": ""
+    },
+    {
       "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
       "description": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad.",
       "source": "BBC Sport",
       "pubDate": "2026-11-22T06:21:55+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b56b/live/6a92bb70-e44a-11f1-9192-3924a59e54c7.jpg"
+    },
+    {
+      "title": "‘De Bruyne naar Club Brugge? Vanaken blokkeert megastunt’ - VoetbalNieuws.be",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOakRMUGk4SFVBNVlZNzYyWEJJZ1lrZW5rS2tPdXEzY3YtSEpyVEdqeTNEN0lxY05HOXdlQkd5QkxFNGs1ekNSUF9rYi04TmhXYUJBRlNUdjBrWlg0eWJfbHZ5eE5uajVjYnUtSGxjOG95X1Zpd0hVNkxqNWtkUm5hNFJ4R3U2SUhLZi1zZUJLT1FxVEhraExLSHc1MA?oc=5",
+      "description": "‘De Bruyne naar Club Brugge? Vanaken blokkeert megastunt’ VoetbalNieuws.be",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T06:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Transfer Tsawa in afrondende fase: Club betaalt 6 miljoen euro voor Zwitserse middenvelder - HLN",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeE9NNXBDbE13YmtId1gwNXRrTHZOYUpRN2RHcGVkbjV1elJ6SGwtYWR3X3ZuSkhCcDNSRWVwb0F6UWpwMGNuZTBzV0VZWi1uWVlOZmxyTTlYNjZVSHpHVWtSZWdsM0Zua2VQVmp3NTc4cGNpNFF1eDloMFlxdTV0SFZ2c0tnX1d3MUUyOGhaalRJVF9uRnJPOFFKQjNlZ1NaVE5HclF6YlhMVXhzQ290eG5aUzhyeUlELUE5RFY1eVB2eEJ3bzI5MUl3?oc=5",
+      "description": "Transfer Tsawa in afrondende fase: Club betaalt 6 miljoen euro voor Zwitserse middenvelder HLN",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T05:37:23+00:00",
+      "image": ""
     },
     {
       "title": "Wales boss Wilkinson rules out Fishlock return",
@@ -122,11 +210,19 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e6b/live/4d195490-e423-11f1-9e08-55a8a3b48445.jpg"
     },
     {
-      "title": "Bevestigde transfers van spelers naar SG Perl-Besch - www.footballtransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2luTjZGd2FJdXNWUWVBaXIwdWJkX1hoX09UOEVNVFREclN2SHVnVTNIdGZhSlFvV294REtIS0xmcVJoVzlJNGxQVWNmYkZPSmR2Yk5rNnM1czAtSWRnbm5QT01lWmljOHZlVzV4ZmNFRlA4R0ZNRDdXYkNnNERlNldxSQ?oc=5",
-      "description": "Bevestigde transfers van spelers naar SG Perl-Besch www.footballtransfers.com",
+      "title": "Bevestigde transfers van spelers naar Virtus - www.footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12MTZfUnpITVlfa0NvU3FkcnFtanozZ1Z4aVlYQWdBX1B0T3NDbW5fZnVpQi00d09pTWE3Y1RsWUNoT1ZCUzVkSFdJeVp1dDdqMlVodjFJZXFXeHY0SFdHRGhGSlhwUldEVFE0Yy1ITTMzX0tiaUh2cldGZw?oc=5",
+      "description": "Bevestigde transfers van spelers naar Virtus www.footballtransfers.com",
       "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-22T03:23:00+00:00",
+      "pubDate": "2026-11-22T04:22:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "Welke trainer staat er volgend seizoen voor de groep? En waar zijn er vacatures? Bekijk het in ons overzicht - BN DeStem",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb21sUkpBNG1pazYzZ3kwRkpLUGJFbER3cEpEOVBIdElwOGdlNENheEFOdGNPN0RzN1BhQ0hXcFhpSTdNdW5XODQ0QlgtY1dLUlR1WlhveGQzdmxzQ2I1TEpIQWd6LUNmeU1UTi1JU0ttUmdSNEdSaU5NaWlIVmlCWm9oQ0UxNThLMUtJOHlfNU9STUY5QWllUUc1akFsY0NTVlc4YjZiYnVVMkVQWndnQlZPUVJkajVuYzlkR19RU3JnYkdfYmhwRmFtOWVMVzZaVF8wQWg1dndVOHRCVGN1dGUxdUdoNTdpaUVF?oc=5",
+      "description": "Welke trainer staat er volgend seizoen voor de groep? En waar zijn er vacatures? Bekijk het in ons overzicht BN DeStem",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T02:55:49+00:00",
       "image": ""
     },
     {
@@ -202,6 +298,14 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-tottenham-spurs-luca-williams-barnett_7412663.jpg?20261121173422"
     },
     {
+      "title": "Wel de complimenten, maar weer geen punten voor Zuidvogels. ’Alleen goed voetbal is niet genoeg’ - Noordhollands Dagblad",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSTUxeEVCYm1nU01zVUUtS24yMWZxaHJlZzE2ajRiVUJqakQ5ci1hbV9GV3RoNEZnSkxrNXNVeWhSRTVVSlZzTnpNb3RyTlk2Nkd2ck0tODFWU1hqWERLLTlGcFRpaXhyNXQxRExCOXpWeG0zSFFWaWt6VUpraVNPWFJucWpZWVRBaUVoNTA1Z3BZS24zakl6eTVWbVItN21ydVhaR216ODA1TmtXajhJZkJ2UlpKMzRrSElLMUNKZkxaWFc1MTBwR3FiM3FZYXNPcktsTWNzOFAxekNEb2szOG1rT3A0YUxFQ2JmT2dXQTJfVWc?oc=5",
+      "description": "Wel de complimenten, maar weer geen punten voor Zuidvogels. ’Alleen goed voetbal is niet genoeg’ Noordhollands Dagblad",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-21T21:42:55+00:00",
+      "image": ""
+    },
+    {
       "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
       "description": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
@@ -242,14 +346,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a72/live/543c3860-e5da-11f1-99a1-253766e7ad8b.png"
     },
     {
-      "title": "Arsenal latest: Arteta gives update on Raya injury",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-21T20:33:00+00:00",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
-    },
-    {
       "title": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
       "link": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss",
       "description": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top ",
@@ -272,6 +368,14 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-21T20:21:00+00:00",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-bruno-guimaraes-sean-steur_7412718.jpg?20261121175724"
+    },
+    {
+      "title": "Bevestigde transfers van spelers naar FC Andau - www.footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ObGcwSV9CbUVCeW5wTnFiUGE4ZWpZM0dRb3RkV3ZQSm14d1pGTzV3b1ZMcDE4Y09xN0ZwWktrZWRzbk1CZ2JDZld3eF81UWR0NWxBTmJFSVpKMGNtd2xvT1pGUU1OWlRUR1g0NGZzOUZqMmQ0bnhYWTAzajBsdw?oc=5",
+      "description": "Bevestigde transfers van spelers naar FC Andau www.footballtransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-21T20:12:23+00:00",
+      "image": ""
     },
     {
       "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
@@ -402,6 +506,22 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7a/live/8ad75db0-e5d9-11f1-9ab8-8737221634d6.jpg"
     },
     {
+      "title": "Het was vroeg Sinterklaas bij Otterlo - EdeStad.nl",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNGxzYkNialJjeVlBd19Dak9UMVdfa3VtcE5FLWlTVjJsN3B3Z1czSVlMZTkwb2dMN1NpYW84WmNHTDd0SEtlUXg2dVhncC10Nnhicm9mdFJhV2x5SVZBQ1gzbmJRQXQ4TEFXM3FTcTlQVWJwNXhwY1NUbTFVREZnX2IyZG5BX3VmNmc?oc=5",
+      "description": "Het was vroeg Sinterklaas bij Otterlo EdeStad.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-21T19:03:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "Daarom kan Club Brugge niet zomaar drie punten opeisen - Voetbalkrant.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPemg5RmdOUHF0NDk0NWVQZ2VUTGl6SE5RVjJxd1NZTi10dE5LUU9mSW9hN2NvZ2gtM3o0TEV3WkNSTVZhRlo1UUhUZ3RSbXFvYkZxMHZoMVI4b3pZTVdyS0tEb3ljY2U1QmRlUFo5Z3RGbFFWV1Zyb0kxUlozQU5GLURLYXRraWVhMC1PWkRxREVRYWl4dGtPWXJGUE9JcUVzaWRvMkszYnk3NGNFOEJSaEpnbURmSGowMUJCVC11bzI4ZmdsY2daMXhrNNIB0AFBVV95cUxOYTFKZ0loR0RwN0VsYWM1ejUyYm8tTEtsRkVLaW5xV2ZZTmxpLUdmV2JUYkd0Vk81MlhvUkllY284MklHeWF1NDJFZEpDMUFBekNVbVhmaWhTWG44ZmR1TzVWMnZ4UTJGc0Z1YXRQVk41WTZDOE4wQUY4cXM2bXRZR25mZXRKUlRXOUs5Y2tBWFVwbFBybHBkU0N1aWtwNHl2U3dWeDMySWxfdHJpSWdXVkpSVjN6NDdYM3Vib0tra2JKaVd4R3NaaVlJVXpBNGZX?oc=5",
+      "description": "Daarom kan Club Brugge niet zomaar drie punten opeisen Voetbalkrant.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-21T18:58:41+00:00",
+      "image": ""
+    },
+    {
       "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
       "link": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&at_campaign=rss",
       "description": "Chelsea miss the chance to consolidate their lead over Manchester City at the top of the Women's Super League as they fail to breach a stubborn Liverpool at the sunny St Helen's Stadium.",
@@ -519,126 +639,6 @@
       "description": "Elistha-trainer erkent: ‘Gestolen overwinning’ • Excelsior Zetten heeft geen kind aan Dodewaard • Valburg heeft eigen Joey Veerman De Gelderlander",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-21T16:07:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "SC Valburg heeft zijn eigen Joey Veerman • Elistha-trainer erkent: ‘Gestolen zege’ • Excelsior Zetten walst over Dodewaard heen - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMGwtV045d0xPeElOdU4tTm1OVXotaXh2Z0h1TXFkVW1rMmgzS25jMHdTWXZYZk9veTFvUGVNVDc3MmxtRUZtZmwxVFRHZEg1aTRYc05HSk9NbmpzOFBEV2VZbVJ5NGJfeFJYejRsd1NRZkpad1JIX09YRlJvcEg2M1c4Tk9tYll1WHZFWndPX0pRSXk0bUZoTGNGX3RRREtxTTR1el9JWV96VERFbFN4cE1QcExLc0V3VkN6TlhMSlJyX2NVVGk0cC1CYkpfM05ENHk4V1J3QjdRM2ctb0Y1cktmZExpYk9GVGh5Vk90ZXBjdVBOWFQwRmRyUlNfc0YxT1hr?oc=5",
-      "description": "SC Valburg heeft zijn eigen Joey Veerman • Elistha-trainer erkent: ‘Gestolen zege’ • Excelsior Zetten walst over Dodewaard heen De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T16:07:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "SC Valburg heeft zijn eigen Joey Veerman • Elistha-trainer erkent: ‘Gestolen zege’ • Excelsior Zetten walst over Dodewaard heen - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQalB1YXJ0WnVSUHBIbWkydC05eEYxVHhGV2FpU1dabkFXX0M0eUNLNDBFSU51WElHZE1STUxvaDNBYmJDUF9HYWVkOTJQcDRXZXRQRlh6N2FoZ3ZoVmNJSDdsc21GanhqMUN6SWxlcUhJTnp1dE04VHQ2ZVdLczlkR1lvckdJaV85REZvUWVNc2dLMlJmbUhFcklVam5UT2ZNaG5qS2RrOGZNbzNaT1dWYTNYR1ZUbjNoazRkUjdUeUxPU0drLTlVWGZrQXpFNk1OWUtXNHN0ZEFCZ1BSTWtEQW15bnQ2NE40ZDFYSkR2QXZWMEp6MUd0R1I3ZkdtTnExVk1lQ0xPQjItYjF6?oc=5",
-      "description": "SC Valburg heeft zijn eigen Joey Veerman • Elistha-trainer erkent: ‘Gestolen zege’ • Excelsior Zetten walst over Dodewaard heen AD.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T16:07:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss",
-      "description": "Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T15:34:35+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4933/live/61e22920-e5bc-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "TEC geeft voorsprong uit handen • Invaller van DFS moet er al snel weer uit • Trainer Vriendenschaar drinkt wat extra biertjes - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd0Jxc1pXejlfZzdCbVpGTV9CVm1wUFFSZjVOQjFaeXduUEF4U2RxbVAzeVRWU0FrOUtzSFUxbS1sckxDQUx6Rl93SVlzeUplblg1TkRLQTQ4LXFiQjdvMU45NWVQRmdicmF6SktraGV6NmR6SnA1WkFwemNPZDhxbHpuZExQRmpqaGQteV94RlFpcGFRLTJiM1NFU2pzMTVhWHhOcEhWSXl1S3FFc3hITFg4azYxZWhfSGY4TzhVWnltWTg3Ukw1V1dScG1rbTlmYWJja1p6WWd5TEtGV3BUYUFlY0pnWmhhalV0STRJZVFRQ2dQQzZlWllB?oc=5",
-      "description": "TEC geeft voorsprong uit handen • Invaller van DFS moet er al snel weer uit • Trainer Vriendenschaar drinkt wat extra biertjes AD.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T15:34:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • De Vries goud waard bij DOVO • Tien goals bij De Merino’s - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUEtzeUpNcjdFWEllOTgyXzRQbGNsTHdvaDk3bG5YTDdnY0d3V21VMl8zeTVUc2lRejh0Vl9zbVBiZVlsVWJiT0N4TndQVjNJaFhpR1ZEUDNCbkM1OUcxZ2RwdkkzY2NGWlh2R3MyaU1OY1VUd2c0dWRxNlBNeXBuSVpxZnpPRmNtQUd2dFdVbEdHUXQ3NHMzVnQwT1NsRFB1UlY0LTlLc2c5RUt6NEFTLTJWNVVwM3RsQlBlSmF6N05hUkZINEZnT1VkbHpZdDNVeWF1U0RXWGxpUDZDbWlDVWRKU2hGUFd4U3BNT2J1MmVWSmdMSlFBUlpQWkd5Ty1sWXBMTVg1T293V2sxbEJSQTR4Y29QcG8?oc=5",
-      "description": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • De Vries goud waard bij DOVO • Tien goals bij De Merino’s AD.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T15:32:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • De Vries goud waard bij DOVO • Tien goals bij De Merino’s - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNmo1aWRqMWFrTi1Jakg2cm9HVGQxNUxYYTM0eUxYbGlvNTV6aW5xWVAyYkJrU0o2bFBodWJCRjBCWmZEU2JBWVloVERDYXJoWjNtcjhDckJiOF9XWVBnMUszT1ZjeWlnTWtQcU5pX0RUeUpTZjJmUnJHWVZ5aF8tQkpNRVdYUS1oVWdvRGxtSlNHTWZveUVXTVhyTVRBZlNTVld4YTRBWmloVGxHdm9naWZzTTNYQTN5MmtRTGVPdHBrSkFuNDg0RExYcXRHZ0tRWHhCa2JQQWZGTmF3Q2pKamVmU0pUM2ozUHMxclRQdGw2UlhTc0ZoM3daVU1VSFlnUUJvNy15MnJHRHJscXc?oc=5",
-      "description": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • De Vries goud waard bij DOVO • Tien goals bij De Merino’s De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T15:32:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • DTS slaat vlak voor tijd toe tegen VRC • Tien goals bij De Merino’s - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQeF9ScEdKNk0wVkFLQnhzX1gzbU1lR3R0cG8ydkhGTjdtQW8teGdqWkstajU4Uk1hakp1SFB3RE1kX0pONzlzYWEwRlE3VVpfanRLX1dHaDREWTVLRWhMS1dlN29lbDdCSDh5RlIwMFEzemUwM3d3Tkcya0pzSE1CbXNOblJjN2w1Qy15ME5hNVZoS0Q3TUwyRlYtdkVlb21aYlpUS0djVnl6SW8zcW93Y0JwQVpMUFc4XzE5cDNXZklCZkt1aHNUM2dDdG5QdWUwWDNYS2FER3hWTXEwcGFHb1ZneGtkNHA0cjhmYlNXN1NMNkw5WUdrM1FleFR3bzJ1blpYV0xGdVNmM2gydHVFUjNNbnZWc2FQTk53?oc=5",
-      "description": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • DTS slaat vlak voor tijd toe tegen VRC • Tien goals bij De Merino’s De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T15:32:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • Opluchting in Harskamp • Tien goals bij De Merino’s - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeFlfNHRLaHQ0MzBuZnlvcUNRb3h6LVBQclYzYXdXZnRBQ1lPN3dhelZlR0hsTnVrZVRlSFBuZmY3bVBFSG90UVRNV1d0NWg5NWVMVU1xaElNQTlYMzhKdnR5QjBnYjg3VkNnZGhoTVFSX3F2MHQ4TldDZnpWWDNiWm0wMVN6SUx1V3puWXVTNXFPVEppVDhBZjEwVU9NcDVUX29rN0o3MUk0S3czTGMxa3lNV2kwdzlZTE9iMkdCaHNoUDg1XzJ1SV9IY3F1QmlLTHlrVnZxdHdOdlFmaGhPcm9XRTdHRi15RFItUmZMN2tQd3lGOW80bDRCeXd2U2VRdWhpRW1R?oc=5",
-      "description": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • Opluchting in Harskamp • Tien goals bij De Merino’s De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T15:32:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Anderson steps up, Berge impresses - player ratings for Man City v Fulham",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqwy06p44g3no?at_medium=RSS&at_campaign=rss",
-      "description": "How Manchester City and Fulham players rated in their Premier League match.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T14:21:31+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ea/live/83478520-e5c0-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "Bayern draw with Cologne as Kane picks up ankle injury",
-      "link": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss",
-      "description": "England captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T13:29:40+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d89/live/9aee2530-e5ac-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Volendam blokkeert Serie A-transfer: 'Ik mocht niet voor minder dat 2 miljoen weg' - VoetbalPrimeur",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZUxDQzd3TjdsMFZIZUlBMWJqN1RUcDFnM09KNWhLT0M0RnhtLTZHUmRfNkVTU1poNWZ2Y2lVbzFsRnVXTWxvVDk2M0djbzVmWjd1cFZ0dFZsV2g1NHlhalRRWEYyWHhMWndDeEMzMmpIdHNKVVM3Wm54SGxJSnZhQlNBT1M0dkZtU2NjTmZMbWJKS3pSTXM3UTZ4Mm5uNmMyTndYQmxDNzEwQm9KT0E?oc=5",
-      "description": "Volendam blokkeert Serie A-transfer: 'Ik mocht niet voor minder dat 2 miljoen weg' VoetbalPrimeur",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-21T13:10:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "SDS ’55 blij met contractverlenging volledige staf voor volgend seizoen - EdeStad.nl",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnpGZTZMc1lkTmd3Q3V0Z1JRZzNTb29rYzhHTXNlb1o3UE5zalVqU3BvbTYwUTZ5cDM3V0d2R2RQcmRFUGtwRzNTazN3N2RFbGV5UmZzQTFjZjdGVHg3b3BrQTduT3FscFc5ZGM4V2ViMk1obkRLYld6eXRDdC03Yjc4Vk1iVXptTDRXZGVyNmZzQkw3eVRLX0N2ZXk0cUZTeWVqTzdxd3NqZw?oc=5",
-      "description": "SDS ’55 blij met contractverlenging volledige staf voor volgend seizoen EdeStad.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T13:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Veldman over transfers bij Heerenveen: \"Dat zou veel impact hebben\" - FeanOnline",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU1NxcnBSWFU1Zzl3NTREZ0JtbGd2dlVPZGlMVkd4andlWEplRXgwOTdxbHBNZzZWa0NNTE5nYkxLWE9zV0F2NXRMcmFrdGFFUXNPQWUtZXZLSHRIdWlxeS1kSDV3Vnpxcjd0bHlxVFg0bkVYb2pBOFpGV0lGcWJfMU00Q1kxUHZNRGdaTlRUdklXSlc1d2c?oc=5",
-      "description": "Veldman over transfers bij Heerenveen: \"Dat zou veel impact hebben\" FeanOnline",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-21T12:57:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Wesley Sneijder zet eerste stappen als trainer: 'Ik doe zelf ook mee' - Mee Met Oranje",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYnVEUHNSeWtXNUdxczZDV2szZmRlazlBdUVienhQb2hPNkppWHBDU3h5N3pyWHB4Q25WeWFxVzRjM1lRb3NNM1BSUGg5bUdDZnctWWZYWFhTaUZUdEJXVHY0SDlGTURUcE9NRnhyTEpVczlCalNheEdrS0t5S0hUTzhXMWZNZThtb2M1RUQ5eE1kTGRKSklDb2VpcndqUQ?oc=5",
-      "description": "Wesley Sneijder zet eerste stappen als trainer: 'Ik doe zelf ook mee' Mee Met Oranje",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T12:27:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bevestigde transfers van spelers naar Slask - www.footballtransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vWkYxU3M0UXZWZ0VJNG9wWnRXY1VnakljLXZPS3oyOWRUOVlkeWhqNlZJaVVIZ1EyTUpmTzlfMkRfekVueXhxWXpDOUYyWWkybGZVbmdwV3VKWG5UR25XbFljaTJ3TWt1d0pRSkc0V0JudGhjbWJJRW4wMmM?oc=5",
-      "description": "Bevestigde transfers van spelers naar Slask www.footballtransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-21T12:13:58+00:00",
       "image": ""
     }
   ]
