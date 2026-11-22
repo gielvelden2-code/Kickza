@@ -1,13 +1,109 @@
 {
-  "updatedAt": "2026-11-22T17:02:38.940033+00:00",
+  "updatedAt": "2026-11-22T17:56:54.281386+00:00",
   "articles": [
     {
-      "title": "'Rolls Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+      "title": "Spurs deny Man City top spot with statement win",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss",
+      "description": "Despite taking an early lead through Khadija Shaw, Manchester City suffer a second consecutive defeat as Spurs earn an impressive victory and deny them the chance to return to the top of the table.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T17:54:36+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e34/live/d35df9b0-e68b-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "Big wins as Celtic, Rangers, City & Hearts progress",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8zx91z9xe9yo?at_medium=RSS&at_campaign=rss",
+      "description": "Holders Celtic as well as Rangers, Glasgow City, Hearts, Montrose, Aberdeen and Falkirk progress with big wins in the Women's Scottish Cup.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T17:53:41+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a64/live/b7373ba0-e692-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
+      "title": "Sparta’18-trainer Chesron Geuns zet het voetbal (even) aan de kant voor werk en sociale leven: ‘Het zijn veel balletjes om hoog te houden’ - De Limburger",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQWEd4NlBPeG1FOWlEZlo5X01zWUgwNm5lZzB5QXJ6ejVYUEhSVmllamVrZ1ZJTF9PV1pFY19pX2V2R3lNMTVjcnZuWndILW1DQTBsU0M4S1p6SWpUaGw1YmtiZmRkNnA3TWJUeGVaSFpEdGs1aWpVYWVBYjhzNHNoYWRQRVhFRmd4a2FmWXVDZnNXN2VZaTlxeWxPbEduRVBFV3RsQVV4bEMzb2JrU2FwVzFLYll3RlVRR0d4UEtqSWR2eW0xRWxJRGQyZzJ5MWdKcGFUN2RfbXBUZmJMclp3TXRaOExzenc1bDdsblVCU0taQ1lIVHllRkROMjBFRnJ5Z2dvRVBTZG9iOGFOajdVczR3Ml9IRmtKSldKTEVKU0JpSjBZVi1nNQ?oc=5",
+      "description": "Sparta’18-trainer Chesron Geuns zet het voetbal (even) aan de kant voor werk en sociale leven: ‘Het zijn veel balletjes om hoog te houden’ De Limburger",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T17:53:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "Podcast: Premiership review, Ross County, Dumbarton & Largs Thistle",
+      "link": "https://www.bbc.co.uk/sounds/play/p0ppch4v?at_medium=RSS&at_campaign=rss",
+      "description": "SPFL review plus Ross County's Stuart Kettlewell, Dumbarton's new manager & Largs Thistle",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T17:40:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
+    },
+    {
+      "title": "Kritiek op Lukaku na afscheid in België: 'Leek meer op cassière in een warenhuis' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0I2dTBiQjRSTXB4OE1kdmRjQ2Z4T2V5a1k3SXQybkQwdV9DQVVVY2wxRWtqcDlhU2E4WTQxQnRpVDlhNlZFZmNiMG9ONXQwVUc3UFZMaXR0c1VfSUJ5eThOdTBwNUd4b2VjLXc2bUxoVEtMVG42YzJrbE5JWGJnNURSOExHVFZyWU1PQ0ppYW14V25jNWVoaW5XbV9qS0tva3E5RDdGRQ?oc=5",
+      "description": "Kritiek op Lukaku na afscheid in België: 'Leek meer op cassière in een warenhuis' VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T17:40:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Arsenal frustrations grow as winless home run continues",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss",
+      "description": "Arsenal remain without a home win in the WSL as they play out a goalless draw with West Ham, increasing the pressure on Renee Slegers.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T17:30:45+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba6/live/e2a8c430-e696-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Jakirovic full of praise for Tzolakis performance",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo?at_medium=RSS&at_campaign=rss",
+      "description": "Hull head coach Sergej Jakirovic is pleased with his side's \"precise\" counter-attacking to earn a victory over Brighton, and describes goalkeeper Konstantinos Tzolakis' performance as \"unbelievable.\"",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T17:18:07+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb36/live/8e08d630-e697-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Brighton latest: 'We weren't patience enough', says Hurzeler after Hull loss",
+      "link": "https://www.skysports.com/football/live-blog/11095/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-22T17:17:00+00:00",
+      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brighton-club-blog_7326693.jpg?20260820165121"
+    },
+    {
+      "title": "Arsenal booed after another home WSL draw as Man Utd beat Blues",
+      "link": "https://www.skysports.com/football/news/11095/13615326/wsl-arsenal-draw-again-at-home-man-utd-leave-it-late-to-beat-birmingham-and-charlton-earn-first-point-of-season",
+      "description": "Arsenal were booed by their fans after they held to a sixth successive draw at home, drawing 0-0 with West Ham in the Women's Super League.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-22T17:15:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-alessia-russo-ines-belloumou_7413577.jpg?20261122152453"
+    },
+    {
+      "title": "Ajax-trainer Míchel geconfronteerd met opvallende Frenkie de Jong-vergelijking: 'Ik vind het leuk dat hij dat denkt' - Sportnieuws.nl",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQWEgzdWp4ZGFyVmFqenNYdlk5WEZBMnRoWXRaaTBzSGVRRnU5UTNWUjVpZkVWY2ZwbzRWcFZjMWlneU52emsyMG9odE9KenIzMHcxWXA0Mm5aSVdwby1nczdyakN5Zl9GUWxCeDZfY3VwU3JNTjBFRG1Ud0owdlVBQ093WXV2Rjh3YjZpNUJYY1lqUkxHaG1GX19NbmN6d0Zwc0pJUFRfZDFmbmNPdWUtSWd3Q0hqYlZIOFpzSEVzM0VDQWt0cEt3LVhrVlh5c2FpRWxyV1VOOElYTFIxQ1F4aWZGMG43eGpvWDlJRGZXZFF0LUhKZF9BQTlpbzhpbllFbzlYTEVsVDIxU0p5ZG1sYg?oc=5",
+      "description": "Ajax-trainer Míchel geconfronteerd met opvallende Frenkie de Jong-vergelijking: 'Ik vind het leuk dat hij dat denkt' Sportnieuws.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T17:11:17+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ajax-trainer Sanchez komt met slecht nieuws over uitgevallen Mokio: ’Het ziet er niet goed uit’ - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLW5ObXBuVVgwYl9lbG1VdzFwR2JSVEZSMlBiT0ZhQ1NXMDVBWmoxZldHSnhPZVpoOVFpX3JOdXBBcHpaY0plV1dCZjdTQkdEVzBGOF9oYy1SQ1JBWE5lZmg2Z2owZU1mUTRBclU0bnlIei1aMW5qM2NJcFdKWU1jWElJdUJMOTZvOG05VW5ja0FBNG1jWmFuLTJvaDVLeUdmd09idW1XVHZWYnlhbVhPaks2MVpCQTFLUWk4SHQ0azU5UXFkaEc4c2hNMTVkRlVLZ2R5a3pVcFRnMFBnamhJ?oc=5",
+      "description": "Ajax-trainer Sanchez komt met slecht nieuws over uitgevallen Mokio: ’Het ziet er niet goed uit’ De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T17:09:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
       "link": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
       "description": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
       "source": "BBC Sport",
       "pubDate": "2026-11-22T17:00:01+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe7/live/00b578f0-e693-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "How did Spurs beat Man City?",
+      "link": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-22T17:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-man-city-women-tottenham-women_7413707.jpg?20261122165904"
     },
     {
       "title": "Brilliant finish as Wirtz doubles Liverpool's lead",
@@ -50,11 +146,27 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8bf/live/e5be34d0-e686-11f1-99b6-a35a62fa4264.jpg"
     },
     {
+      "title": "Bizarre 9-1 monsterscore en trainer schaamt zich groen en geel: lees hier al het voetbalnieuws uit jouw gemeente - pzc.nl",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS3hMWV9HZk1TQUs2SHVCNWZ0b254a3oyNHFkM1lyRTZoSEJ3dmdxOUNfS0UwaldzWmZzSTkzZ1pkejEyRXZGWTN5OHZObno4cGIwcWtVZEFtX0NXejh6MmxnaVplcVlSUC11em5xQlJCRmtZR1A1WE1lWnBBM1poQTBzLXoxQzlWeHhicXZENW1mbXEyaVpZdjBuQkFDZG1yYUJlNXQ0YjFzdTMzaXpiQ3FOSEhoSm5fR2dzSXA5NnN4ZU1IZXljb1RjNnNCRVQ5WmVQNnc2dVItazVzbWhTa2JJSjY?oc=5",
+      "description": "Bizarre 9-1 monsterscore en trainer schaamt zich groen en geel: lees hier al het voetbalnieuws uit jouw gemeente pzc.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T16:19:03+00:00",
+      "image": ""
+    },
+    {
       "title": "Bizarre 9-1 monsterscore en trainer schaamt zich groen en geel: lees hier al het voetbalnieuws uit jouw gemeente - AD.nl",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdFVsZHFmWjZkWlZPY1RwLVoxZTN1VVZtTU04bWRPLXNOTEk3Y0MyOEJsTmxZV1NaNTY3U2hncmNzNXFQM3RHRnVaOHhUZFNweVpwMXh3amhjTEpaTEtlWWNzMlQtUDFDY0VJUGxKWjdwUmxDR3Y1UGVXR0VtT1U1ajBBTmpaMVk0ZUp1NndEMmwyUUcycEpBU2puQl9hRjAzcHdETWVTN0JETGNrWXpkWktwdWVEWE9mWUVuTlJvaEFUQWVVVFA4dXFmc1pFdDd4X1I4cVoxSVA4cWlVSjNJR21STWw0SmF1bzAzd1VZMkQ0dw?oc=5",
       "description": "Bizarre 9-1 monsterscore en trainer schaamt zich groen en geel: lees hier al het voetbalnieuws uit jouw gemeente AD.nl",
       "source": "Google Nieuws NL",
-      "pubDate": "2026-11-22T16:19:03+00:00",
+      "pubDate": "2026-11-22T16:19:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bizarre 9-1 monsterscore en trainer schaamt zich groen en geel: lees hier al het voetbalnieuws uit jouw gemeente - BN DeStem",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZm5zWTAzNXpFM0dXbmlEak8xdGkxeU8wN0RLdm56V190VnVsOG9OWVFXUnl3ZHVnM3JDX1R5RlYyS1QxMlRRRlhKaGJJMGtsNUx5eUtsTjBpZ2ctbkl3bGwwN3lpNUR1eUQtZVhPLXBORDVjWGxzQS0taFhhSHRkRUJVZkFPWjNncGY0dnVjT2NoWDJURkRzWDFHN01zOW5laDJqZkhwckxCWGlNV3dZcmZuM2swUnowWW94dWdpaDRjckxqaVlyaFJyS29rZTl6cGZxZDZxMHI3TWx0b2dvNkMwOFF6LWdScGJ1OW5JYm00cktQd09PMFJudWhWaTJz?oc=5",
+      "description": "Bizarre 9-1 monsterscore en trainer schaamt zich groen en geel: lees hier al het voetbalnieuws uit jouw gemeente BN DeStem",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T16:19:00+00:00",
       "image": ""
     },
     {
@@ -98,6 +210,14 @@
       "image": ""
     },
     {
+      "title": "Ruime zege Juventus mede dankzij treffer Teun Koopmeiners - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTzJKTmNWdVd1YTZ5SlZHWjM2ZE1UTC1ZbEdpUTIzbmxhN3ZjbDZoMXh2OU1GMU52RmZoZndqWkZzYU94bkVpaTlHa25fLUhwRFhKX3A0eENRRzBQdmwxS1dJVjdfSWVBRDFmdlNUajVTbmZPS0c5YWU2NHZ3ak95c0hhZi1tRVJEemVJdUtwdVlYYlNIaXprWEpEa1FXeG00UEN1SjY2TFNPQnFuaWd2WQ?oc=5",
+      "description": "Ruime zege Juventus mede dankzij treffer Teun Koopmeiners De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T14:41:57+00:00",
+      "image": ""
+    },
+    {
       "title": "Tegenvallende resultaten doen trainer Matthijs Blijham de das om; samenwerking met DVS’33 per direct beëindigd - ermelosweekblad.nl",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0VuN0Q3ekFlNHVEdV9GdzJLbUc3YUlxcWNBSnROck1MYXJDWlI0SXIwX2VEYmg3TGNLb0ljd1N4NTVtaG85SU5EblVjSmtpVml0ZW1uckh2NFZnNHplcTdlTkZ4VUg2b0J6QWppMC1DMTUxN3dvY0h2RDJuUXEwU2c1dV9BWnBWZmJ6dm1KejdSQ1lZQjgyc3NfOEZVMVE4REJ2LV9ueVhlUF9acG1aX3dKeGU?oc=5",
       "description": "Tegenvallende resultaten doen trainer Matthijs Blijham de das om; samenwerking met DVS’33 per direct beëindigd ermelosweekblad.nl",
@@ -120,14 +240,6 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-22T14:15:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-todd-cantwell-blackburn-rovers_7413453.jpg?20261122135146"
-    },
-    {
-      "title": "Barendrecht treurt na derde nederlaag op rij: trainer Vaudo wijst niet naar blessures als excuus - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb2RxM2ZCaWNrc0RuM080U1k4MDFqem8tZGdjOWJDakplMDNPS3JOZ3JoV2x4ckwwd0ExMDQ5ZnBvbl9JRDJwQ29ESDZ0Q2dDaHJyYm9tMmFWUU1Tb0xKdVBCaHVnOXdFSHlnZFU0Z2VJQUpqTXI0bGVYWEFLRGcyZ1F6UVR3aUtDZGozVVRraXNRNU9kLUZ1MjVJME1iYWMycFcxTU5nUEx2RzFjQ2o3WllKTDZ3RkhFUWdwZXhXZ2Zpc0E5Q3VTelhNblUxLU9yeldBSHNkQkNrUWhLa0tJ?oc=5",
-      "description": "Barendrecht treurt na derde nederlaag op rij: trainer Vaudo wijst niet naar blessures als excuus AD.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-22T14:00:00+00:00",
-      "image": ""
     },
     {
       "title": "Man Utd latest: Poch appointment provides optimism, says Neville",
@@ -234,36 +346,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/104e/live/c689eea0-e64b-11f1-a563-e14cd8b02601.jpg"
     },
     {
-      "title": "Daan Eikenhout blijft bij De Meeuwen, Arnemuiden en Ralph Zegers gaan na dit seizoen uit elkaar - pzc.nl",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEhiazc3YlFxMkI0SzZsckxVc3VJNmRLSzAwTzJtbzlLTnhqOVhyT2tzaUh5a3FnVWt0WXpMQVNWWmNYWnV5NnNvZ2tyejI4eVVqaG5sSW5mcTlhVm0wOVNOY1VLRG94QXZTVjVxd1NBVnM0b1ZmcWFwN3ZJMURtWXV5M2o1bkRQRWRJbG5PUHBra0I5QlRDMWNBZVM3TUZoUHl5WkVGNzlEMEQwLUhSd0hLSkpBLU1sblpvdlhxVl9VaXpOMjVwZGx2Z3MyU1c3a1dEbQ?oc=5",
-      "description": "Daan Eikenhout blijft bij De Meeuwen, Arnemuiden en Ralph Zegers gaan na dit seizoen uit elkaar pzc.nl",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-22T08:17:46+00:00",
+      "title": "Dongen-trainer verslaat potentiële nieuwe werkgever RBC: ‘Zodra dingen concreet zijn, zullen ze naar buiten komen’ - BN DeStem",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNnRGc3RHSFlLeDY5dXV6dG1zNk15VWM5QnVaekstNDB1blktWFdBenkwd1BSUXZWSWNXdTJRc0xyaWpzaGFnelFOaHVmc1lxWUFDTWZCTEl3UTVYOGw5OC1wS3dxWU9pS09tRWliOV9qSGtoN2RrYVg4MUQ3WmNEeVdTR2ZnY21pdy1raThLUFNXdzhDSFkxTTFiWkpETlh5VERBempiUElfbk04SjljOU9qMk43YUVielllUEw3U3d2THFwZzZMV20xdjE4VHhkWlNoRlRwY25CY3BWMm5fa2J6Tml2c2QyLWtwR0JRRlg?oc=5",
+      "description": "Dongen-trainer verslaat potentiële nieuwe werkgever RBC: ‘Zodra dingen concreet zijn, zullen ze naar buiten komen’ BN DeStem",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T08:26:00+00:00",
       "image": ""
     },
     {
-      "title": "Scottish Football Podcast",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pp1j7j?at_medium=RSS&at_campaign=rss",
-      "description": "Scotland head coach Mel Andreatta on Scotland, Sweden and chasing her World Cup dream.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-22T08:00:00+00:00",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3rdg.jpg"
-    },
-    {
-      "title": "Who am I? Guess WSL star No 13",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq770yn580j3o?at_medium=RSS&at_campaign=rss",
-      "description": "Work out the identity of today's player in as few attempts as possible.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-22T07:19:58+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e1/live/1b00e450-9afe-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "title": "Why Arsenal are behind in race for Champions League spots",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
-      "description": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-22T07:17:10+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf84/live/b3a1cf10-e01f-11f1-ad34-45f8f10f7c55.jpg"
+      "title": "Daan Eikenhout blijft bij De Meeuwen, Arnemuiden en Ralph Zegers gaan na dit seizoen uit elkaar - pzc.nl",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEhiazc3YlFxMkI0SzZsckxVc3VJNmRLSzAwTzJtbzlLTnhqOVhyT2tzaUh5a3FnVWt0WXpMQVNWWmNYWnV5NnNvZ2tyejI4eVVqaG5sSW5mcTlhVm0wOVNOY1VLRG94QXZTVjVxd1NBVnM0b1ZmcWFwN3ZJMURtWXV5M2o1bkRQRWRJbG5PUHBra0I5QlRDMWNBZVM3TUZoUHl5WkVGNzlEMEQwLUhSd0hLSkpBLU1sblpvdlhxVl9VaXpOMjVwZGx2Z3MyU1c3a1dEbQ?oc=5",
+      "description": "Daan Eikenhout blijft bij De Meeuwen, Arnemuiden en Ralph Zegers gaan na dit seizoen uit elkaar pzc.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T08:17:46+00:00",
+      "image": ""
     },
     {
       "title": "Argentina midfielder Paredes collapses during TV interview",
@@ -282,12 +378,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-22T06:21:55+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c7f/live/e716ae00-e688-11f1-a8fd-13fffcb9ff5a.jpg"
+      "title": "“Onaanvaardbaar” Antwerp-trainer kookt van woede na nieuwe tegenvaller - Redactie24",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHR2OVFON1QwWnlZNG80YW9vWm5FU3dsMm52Ri0zd1JqY2VYcXV3UVhLcVp2WW9mclV2dHZNOUFHUWQ1T3RYT1JkREVBcjNrS01pRU44Y3VYR09ENFprTnU2MEJaY1h3bklNbUhLYy1yS05UQzd5ZlRmOXZtTmVIN1RQVWZrZUJaUDNPNWJXZnpwRW1jMTI2UUQzN0ZBNC1EZWx1SUY0NFd6WmV5UUE?oc=5",
+      "description": "“Onaanvaardbaar” Antwerp-trainer kookt van woede na nieuwe tegenvaller Redactie24",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T06:45:00+00:00",
+      "image": ""
     },
     {
       "title": "Bevestigde transfers van spelers naar Racing - www.footballtransfers.com",
@@ -295,6 +391,14 @@
       "description": "Bevestigde transfers van spelers naar Racing www.footballtransfers.com",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-22T04:21:23+00:00",
+      "image": ""
+    },
+    {
+      "title": "Welke trainer staat er volgend seizoen voor de groep? En waar zijn er vacatures? Bekijk het in ons overzicht - BN DeStem",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb21sUkpBNG1pazYzZ3kwRkpLUGJFbER3cEpEOVBIdElwOGdlNENheEFOdGNPN0RzN1BhQ0hXcFhpSTdNdW5XODQ0QlgtY1dLUlR1WlhveGQzdmxzQ2I1TEpIQWd6LUNmeU1UTi1JU0ttUmdSNEdSaU5NaWlIVmlCWm9oQ0UxNThLMUtJOHlfNU9STUY5QWllUUc1akFsY0NTVlc4YjZiYnVVMkVQWndnQlZPUVJkajVuYzlkR19RU3JnYkdfYmhwRmFtOWVMVzZaVF8wQWg1dndVOHRCVGN1dGUxdUdoNTdpaUVF?oc=5",
+      "description": "Welke trainer staat er volgend seizoen voor de groep? En waar zijn er vacatures? Bekijk het in ons overzicht BN DeStem",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-22T02:55:49+00:00",
       "image": ""
     },
     {
@@ -314,28 +418,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b7c/live/99f4c5e0-e600-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "Naderi's 'lucky punch' keeps Rangers in touch",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckzd930mjp1po?at_medium=RSS&at_campaign=rss",
-      "description": "On a Saturday laden with Scottish Premiership goals, Ryan Naderi's was far from the most impressive - but vital for Rangers all the same.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-22T00:01:31+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4b0/live/ab978b20-e600-11f1-b58d-2d14eb0c7952.jpg"
-    },
-    {
       "title": "London City keep up title hunt with emphatic win over Crystal Palace",
       "link": "https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o?at_medium=RSS&at_campaign=rss",
       "description": "London City Lionesses stay in the hunt for the Women's Super League title, with a statement second-half performance to give them a 6-2 win over Crystal Palace.",
       "source": "BBC Sport",
       "pubDate": "2026-11-21T23:14:10+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6419/live/3883b000-e5e2-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "'They looked like a team again' - Hearts roar back with Dundee demolition",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno?at_medium=RSS&at_campaign=rss",
-      "description": "After a worrying week before the international break, Hearts respond is style by thrashing Dundee 8-0 at Dens Park.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T22:45:05+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf3/live/0bdf2a10-e5fc-11f1-9cff-035604b6272d.jpg"
     },
     {
       "title": "Spurs latest: 'Williams-Barnett has to be given assist for my goal!' says Solanke",
@@ -370,6 +458,14 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-tottenham-spurs-luca-williams-barnett_7412663.jpg?20261121173422"
     },
     {
+      "title": "Wel de complimenten, maar weer geen punten voor Zuidvogels. ’Alleen goed voetbal is niet genoeg’ - Noordhollands Dagblad",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSTUxeEVCYm1nU01zVUUtS24yMWZxaHJlZzE2ajRiVUJqakQ5ci1hbV9GV3RoNEZnSkxrNXNVeWhSRTVVSlZzTnpNb3RyTlk2Nkd2ck0tODFWU1hqWERLLTlGcFRpaXhyNXQxRExCOXpWeG0zSFFWaWt6VUpraVNPWFJucWpZWVRBaUVoNTA1Z3BZS24zakl6eTVWbVItN21ydVhaR216ODA1TmtXajhJZkJ2UlpKMzRrSElLMUNKZkxaWFc1MTBwR3FiM3FZYXNPcktsTWNzOFAxekNEb2szOG1rT3A0YUxFQ2JmT2dXQTJfVWc?oc=5",
+      "description": "Wel de complimenten, maar weer geen punten voor Zuidvogels. ’Alleen goed voetbal is niet genoeg’ Noordhollands Dagblad",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-21T21:42:55+00:00",
+      "image": ""
+    },
+    {
       "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
       "description": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
@@ -383,7 +479,7 @@
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-21T21:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-barcelona-garcia_7413606.jpg?20261122155448"
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-barcelona-garcia_7413606.jpg?20261122170133"
     },
     {
       "title": "Chelsea latest: 'He was in pain' - Alonso gives update on Caicedo injury",
@@ -432,6 +528,14 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-21T20:21:00+00:00",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-bruno-guimaraes-sean-steur_7412718.jpg?20261121175724"
+    },
+    {
+      "title": "Ruben van Bommel is tegen NEC bij drie PSV-goals betrokken, maar Peter Bosz is toch kritisch op het spel van de snelle aanvaller - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOWFNRRXdtbjVUbzNESVR2RG5kazUxa3RCa2dBaXBRNmZNc1U3em1GaFg5VHp1ZGxINlctSGJGcUVnNjZDNHlaR0lQbG5nbllwckZpMTNiLXduc0ZzQl90cnVJVWxBVnFjT0xrWDlBeUxUczBJVkFnSmtHX2R1V3VFT1FxYUF2X3VCLXpldkhmRXU0SFRQdTh1dTdHbVRGWWVUMGhLdE1wcmhYWVNCcnhtMkFoOFlzY3J0T044RlJCSDl2T2hXUlJJNFhMWGZnSld2b1JWczlDSTNKQVcxREk5VEFWQkJ4WmJib25xaVB3ZFhfSmJCTDRkNEc4ZlpRZGNPTDhFeTZySmZSQmJIelE?oc=5",
+      "description": "Ruben van Bommel is tegen NEC bij drie PSV-goals betrokken, maar Peter Bosz is toch kritisch op het spel van de snelle aanvaller De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-21T20:19:11+00:00",
+      "image": ""
     },
     {
       "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
@@ -536,110 +640,6 @@
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-21T19:19:16+00:00",
       "image": ""
-    },
-    {
-      "title": "Alonso: Chelsea are fragile and need to be tougher",
-      "link": "https://www.skysports.com/football/news/11095/13614992/chelsea-are-fragile-and-need-to-toughen-up-says-manager-xabi-alonso-after-humiliating-defeat-to-leeds-united",
-      "description": "Chelsea manager Xabi Alonso said his side are \"fragile\" and need to be \"tougher\" after being embarrassed by Leeds United.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-21T19:13:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-cole-palmer-chelsea_7412951.jpg?20261121201852"
-    },
-    {
-      "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss",
-      "description": "The honeymoon period is over for Chelsea manager Xabi Alonso, who is now in firefighting mode after a 4-1 defeat by Leeds at Stamford Bridge.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T19:04:09+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7a/live/8ad75db0-e5d9-11f1-9ab8-8737221634d6.jpg"
-    },
-    {
-      "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&at_campaign=rss",
-      "description": "Chelsea miss the chance to consolidate their lead over Manchester City at the top of the Women's Super League as they fail to breach a stubborn Liverpool at the sunny St Helen's Stadium.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T18:34:55+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b74/live/92725440-e5ba-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Williams-Barnett's talent bigger than performance - De Zerbi",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno?at_medium=RSS&at_campaign=rss",
-      "description": "Tottenham Hotspur head coach Roberto De Zerbi is full of praise for teenager Luca Williams-Barnett who was at the heart of a 2-0 win over Ipswich Town.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T18:32:27+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/501c/live/0f0616f0-e5d8-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "'Officials can't use common sense' - was Rogers handball correct?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss",
-      "description": "The decision to give Leeds a crucial penalty in their win at Chelsea reopens the Premier League handball debate around intent.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T18:30:22+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11ac/live/6985e260-e5d6-11f1-9ab8-8737221634d6.jpg"
-    },
-    {
-      "title": "'It's a deserved defeat' - Glasner on Bournemouth loss",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c63dg88zdzxko?at_medium=RSS&at_campaign=rss",
-      "description": "Nottingham Forest manager Oliver Glasner believes his side \"deserved\" to lose against Bournemouth as a 2-0 defeat leaves them above the drop zone on goal difference.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T18:16:48+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13d5/live/c31d7b40-e5d5-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "Arsenal's winning run ended by Newcastle in thrilling draw",
-      "link": "https://www.skysports.com/football/newcastle-united-vs-arsenal/report/559552",
-      "description": "Arsenal's four-game winning Premier League run without conceding was ended by Newcastle in a frantic 2-2 draw.",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-21T18:00:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-malick-thiaw-newcastle_7412895.jpg?20261121194652"
-    },
-    {
-      "title": "Fifpro criticises Bayern Munich for Musiala comments",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
-      "description": "Football players' union Fifpro says it is concerned by German club Bayern Munich's comments about Jamal Musiala's contract.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T17:43:44+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4348/live/f6872900-e5cf-11f1-a738-4787e1a18cce.jpg"
-    },
-    {
-      "title": "Leeds 'created piece of history' in Chelsea win - Farke",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo?at_medium=RSS&at_campaign=rss",
-      "description": "Leeds United manager Daniel Farke is delighted his side \"created a piece of history\" following their 4-1 win against Chelsea, their first at Stamford Bridge since 1999.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T17:42:14+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c186/live/18b230e0-e5d2-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Leeds run riot at Stamford Bridge as Chelsea crumble",
-      "link": "https://www.skysports.com/watch/video/13614901/chelsea-1-4-leeds-united-premier-league-highlights",
-      "description": "FREE TO WATCH: Highlights from the Premier League match between Chelsea and Leeds United.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-21T17:23:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-football-premier-league_7412579.jpg?20261121170311"
-    },
-    {
-      "title": "Fulham earn point at the Etihad as Man City's poor run continues",
-      "link": "https://www.skysports.com/watch/video/13614722/manchester-city-1-1-fulham-premier-league-highlights",
-      "description": "Highlights from the Premier League match between Manchester City and Fulham.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-21T17:15:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-city_7412303.jpg?20261121143723"
-    },
-    {
-      "title": "Leeds dismantle Chelsea as pressure grows on Alonso",
-      "link": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/559547",
-      "description": "Leeds dismantled Chelsea and increased the pressure on manager Xabi Alonso with an outstanding performance in a stunning 4-1 win.",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-21T17:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-noah-okafor-leeds-united_7412412.jpg?20261121153340"
-    },
-    {
-      "title": "'Special' teen Williams-Barnett scores to dazzle in Spurs' win over Ipswich",
-      "link": "https://www.skysports.com/football/tottenham-hotspur-vs-ipswich-town/report/559553",
-      "description": "Teenager Luca Williams-Barnett scored on his first Tottenham start to make history in Spurs’ 2-0 home win over Ipswich.",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-21T16:45:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-luca-williams-barnett_7412400.jpg?20261121152456"
     }
   ]
 }
