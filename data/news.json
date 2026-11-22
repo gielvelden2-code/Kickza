@@ -1,37 +1,85 @@
 {
-  "updatedAt": "2026-11-22T11:57:48.804062+00:00",
+  "updatedAt": "2026-11-22T13:18:04.283916+00:00",
   "articles": [
+    {
+      "title": "Listen to Off The Ball",
+      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&at_campaign=rss",
+      "description": "The most petty and ill-informed football show on radio.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T14:00:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg"
+    },
+    {
+      "title": "Frick delivers on 'heavy metal football' promise",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmn50x95vv73o?at_medium=RSS&at_campaign=rss",
+      "description": "Mario Frick aimed for \"heavy metal football\" after taking over from Aberdeen and travelling fans were served up quite the concert at Rugby Park.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T13:12:42+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f987/live/a16bfad0-e670-11f1-a5bc-ddaec99ca2c4.jpg"
+    },
+    {
+      "title": "Buitenspel: prachtig eerbetoon aan Ziyech onthuld in vlakbij Johan Cruijff Arena - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORU11eW1uSTZtTE4ya1I3Z3BQbHhxM001eWJqZC1ORnRISVdIaC1ESkJrRUVqa01ZM0JIOTNkY0NDUTh0aXJydGRZRnk0b3FfRkw3bThVWXV3cXJrTGxlbWlfNnRrVjJhMmJrSm5wUlhXcVZZQnVieXU0LWd1N3hoWkZwbHdNV1E5aUJRa00tRl9CNEFuMWdJQTMwWHV6M1dMSXRGSTRWSUZlSkdvLUE0NjRlV0hDSEhDUGtRZnpfZ1FfdGdZRlpIaw?oc=5",
+      "description": "Buitenspel: prachtig eerbetoon aan Ziyech onthuld in vlakbij Johan Cruijff Arena VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T12:43:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Belloumi starts for Hull with Rutter up front for Brighton LIVE!",
+      "link": "https://www.skysports.com/football/hull-city-vs-brighton-and-hove-albion/live/559549",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-22T12:23:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-hull-city-brighton_7407744.jpg?20261116124439"
+    },
     {
       "title": "Manager ins and outs - 2026-27",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&at_campaign=rss",
       "description": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.",
       "source": "BBC Sport",
-      "pubDate": "2026-11-22T11:55:13+00:00",
+      "pubDate": "2026-11-22T12:02:00+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/d9deae90-d832-11f1-87c3-29e1cdce63c6.jpg"
     },
     {
-      "title": "Burnley vs Blackburn LIVE!",
+      "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss",
+      "description": "Watford sack head coach Alessio Dionisi after 18 games in charge.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T12:00:45+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/da29eaa0-adfc-11f1-8169-6fdea7f79791.jpg"
+    },
+    {
+      "title": "Watford sack head coach Dionisi",
+      "link": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-22T12:00:00+00:00",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-alessio-dionisi-watford_7376278.jpg?20261013214018"
+    },
+    {
+      "title": "Grootste financiële klap moet nog komen voor FC Utrecht - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObHNIV09zUUtzcjlYdk1SUWU5d3FwOEw2eGVaUWJlbmtGaS13Z25aLVQ0dEFWUjdTbFJNemNjUTlYMXkyU3VpUTJZRC0yMVVvUXRQZS1fdjdJNlFwcEt4Q1BEMkpwejhLWHl3aUJZUzRYQjBXN2NrUWFqYlRxcWN1d0Vxb0FNNFJUcnRfSFFPcHBsZ3ZmV0tqd1YxbWtvOWdEcFM2TjdhczVGYVBhcllTSTRUNkVuaHFMbTI4YUlVVjZqZTFPWlQ2bA?oc=5",
+      "description": "Grootste financiële klap moet nog komen voor FC Utrecht FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T11:54:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "Banel restores Burnley with superb finish vs Blackburn LIVE!",
       "link": "https://www.skysports.com/football/burnley-vs-blackburn-rovers/live/560679",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-22T11:45:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-burnley-blackburn_7407743.jpg?20261116124348"
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-andri-gudjohnsen_7413398.jpg?20261122124540"
     },
     {
-      "title": "WSL: Man City vs Spurs LIVE!",
+      "title": "WSL: Spurs deservedly level at Man City LIVE!",
       "link": "https://www.skysports.com/football/manchester-city-women-vs-tottenham-hotspur-women/live/575831",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-22T11:30:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-wsl-womens-super-league_7407756.jpg?20261116125003"
-    },
-    {
-      "title": "Watford set to sack head coach Dionisi",
-      "link": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-22T11:05:00+00:00",
-      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-alessio-dionisi-watford_7376278.jpg?20261013214018"
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-cathinka-tandberg_7413412.jpg?20261122125738"
     },
     {
       "title": "Rochdale sack boss Watson after Northampton defeat",
@@ -340,7 +388,7 @@
     {
       "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
       "link": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
-      "description": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. They move up to sixth in the Premier League.",
+      "description": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. Daniel Farke's side move up to sixth in the Premier League.",
       "source": "BBC Sport",
       "pubDate": "2026-11-21T19:59:13+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed41/live/db5e04d0-e5d6-11f1-99b6-a35a62fa4264.jpg"
@@ -571,7 +619,7 @@
     },
     {
       "title": "SC Valburg heeft zijn eigen Joey Veerman • Elistha-trainer erkent: ‘Gestolen zege’ • Excelsior Zetten walst over Dodewaard heen - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQalB1YXJ0WnVSUHBIbWkydC05eEYxVHhGV2FpU1dabkFXX0M0eUNLNDBFSU51WElHZE1STUxvaDNBYmJDUF9HYWVkOTJQcDRXZXRQRlh6N2FoZ3ZoVmNJSDdsc21GanhqMUN6SWxlcUhJTnp1dE04VHQ2ZVdLczlkR1lvckdJaV85REZvUWVNc2dLMlJmbUhFcklVam5UT2ZNaG5qS2RrOGZNbzNaT1dWYTNYR1ZUbjNoazRkUjdUeUxPU0drLTlVWGZrQXpFNk1OWUtXNHN0ZEFCZ1BSTWtEQW15bnQ2NE40ZDFYSkR2QXZWMEp6MUd0R1I3ZkdtTnExVk1lQ0xPQjItYjF6?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWnJlQ28xZGdXLUlCM0wtV0t3SnRjb3A4LWpycVBVVlhpQl9tcVgtdkd3MkgzS18xZHJKbXJDMEF1SEcyUkF0dGZrWm5HeklWVHNHZy02T2trOTBYRXFxWkVtZXlyY0IySG0wQzBpRUVraTBBMXg5am5GSmxSVXRyVWdLMWVTOG1sZmtyRWpFUC15ajlWT28tbENzd3l5N2M5RWxlU1VuV1VPQm5GU2I3ZXdkeW5wR3kzNm1McG9zUDhPMEQ4SXBLbnVLRUFTZzlQQm92RXljRHJZb1lmc3RrRmxoRTF2djBmVFZiU3NBcnJ6dzhMSWlqWC1GMzYzSDA?oc=5",
       "description": "SC Valburg heeft zijn eigen Joey Veerman • Elistha-trainer erkent: ‘Gestolen zege’ • Excelsior Zetten walst over Dodewaard heen AD.nl",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-21T16:07:00+00:00",
@@ -592,54 +640,6 @@
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-21T15:34:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • De Vries goud waard bij DOVO • Tien goals bij De Merino’s - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUEtzeUpNcjdFWEllOTgyXzRQbGNsTHdvaDk3bG5YTDdnY0d3V21VMl8zeTVUc2lRejh0Vl9zbVBiZVlsVWJiT0N4TndQVjNJaFhpR1ZEUDNCbkM1OUcxZ2RwdkkzY2NGWlh2R3MyaU1OY1VUd2c0dWRxNlBNeXBuSVpxZnpPRmNtQUd2dFdVbEdHUXQ3NHMzVnQwT1NsRFB1UlY0LTlLc2c5RUt6NEFTLTJWNVVwM3RsQlBlSmF6N05hUkZINEZnT1VkbHpZdDNVeWF1U0RXWGxpUDZDbWlDVWRKU2hGUFd4U3BNT2J1MmVWSmdMSlFBUlpQWkd5Ty1sWXBMTVg1T293V2sxbEJSQTR4Y29QcG8?oc=5",
-      "description": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • De Vries goud waard bij DOVO • Tien goals bij De Merino’s AD.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T15:32:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • De Vries goud waard bij DOVO • Tien goals bij De Merino’s - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNmo1aWRqMWFrTi1Jakg2cm9HVGQxNUxYYTM0eUxYbGlvNTV6aW5xWVAyYkJrU0o2bFBodWJCRjBCWmZEU2JBWVloVERDYXJoWjNtcjhDckJiOF9XWVBnMUszT1ZjeWlnTWtQcU5pX0RUeUpTZjJmUnJHWVZ5aF8tQkpNRVdYUS1oVWdvRGxtSlNHTWZveUVXTVhyTVRBZlNTVld4YTRBWmloVGxHdm9naWZzTTNYQTN5MmtRTGVPdHBrSkFuNDg0RExYcXRHZ0tRWHhCa2JQQWZGTmF3Q2pKamVmU0pUM2ozUHMxclRQdGw2UlhTc0ZoM3daVU1VSFlnUUJvNy15MnJHRHJscXc?oc=5",
-      "description": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • De Vries goud waard bij DOVO • Tien goals bij De Merino’s De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T15:32:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • Opluchting in Harskamp • Tien goals bij De Merino’s - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeFlfNHRLaHQ0MzBuZnlvcUNRb3h6LVBQclYzYXdXZnRBQ1lPN3dhelZlR0hsTnVrZVRlSFBuZmY3bVBFSG90UVRNV1d0NWg5NWVMVU1xaElNQTlYMzhKdnR5QjBnYjg3VkNnZGhoTVFSX3F2MHQ4TldDZnpWWDNiWm0wMVN6SUx1V3puWXVTNXFPVEppVDhBZjEwVU9NcDVUX29rN0o3MUk0S3czTGMxa3lNV2kwdzlZTE9iMkdCaHNoUDg1XzJ1SV9IY3F1QmlLTHlrVnZxdHdOdlFmaGhPcm9XRTdHRi15RFItUmZMN2tQd3lGOW80bDRCeXd2U2VRdWhpRW1R?oc=5",
-      "description": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • Opluchting in Harskamp • Tien goals bij De Merino’s De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T15:32:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • DTS slaat vlak voor tijd toe tegen VRC • Tien goals bij De Merino’s - De Gelderlander",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQeF9ScEdKNk0wVkFLQnhzX1gzbU1lR3R0cG8ydkhGTjdtQW8teGdqWkstajU4Uk1hakp1SFB3RE1kX0pONzlzYWEwRlE3VVpfanRLX1dHaDREWTVLRWhMS1dlN29lbDdCSDh5RlIwMFEzemUwM3d3Tkcya0pzSE1CbXNOblJjN2w1Qy15ME5hNVZoS0Q3TUwyRlYtdkVlb21aYlpUS0djVnl6SW8zcW93Y0JwQVpMUFc4XzE5cDNXZklCZkt1aHNUM2dDdG5QdWUwWDNYS2FER3hWTXEwcGFHb1ZneGtkNHA0cjhmYlNXN1NMNkw5WUdrM1FleFR3bzJ1blpYV0xGdVNmM2gydHVFUjNNbnZWc2FQTk53?oc=5",
-      "description": "Trainer maakt rentree als speler bij FC Jeugd • Veenhof redt punt voor GVVV • DTS slaat vlak voor tijd toe tegen VRC • Tien goals bij De Merino’s De Gelderlander",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T15:32:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Anderson steps up, Berge impresses - player ratings for Man City v Fulham",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqwy06p44g3no?at_medium=RSS&at_campaign=rss",
-      "description": "How Manchester City and Fulham players rated in their Premier League match.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T14:21:31+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ea/live/83478520-e5c0-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "Bayern draw with Cologne as Kane picks up ankle injury",
-      "link": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss",
-      "description": "England captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T13:29:40+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d89/live/9aee2530-e5ac-11f1-99a1-253766e7ad8b.jpg"
     }
   ]
 }
