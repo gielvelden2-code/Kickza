@@ -1,18 +1,58 @@
 {
-  "updatedAt": "2026-11-22T20:59:59.943410+00:00",
+  "updatedAt": "2026-11-22T21:59:33.514697+00:00",
   "articles": [
+    {
+      "title": "Fifa to confirm UK bid to host 2035 Women's World Cup",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+      "description": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T21:44:37+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557b/live/9cccbb70-e6b8-11f1-bb92-6d8a0512bfb0.jpg"
+    },
+    {
+      "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+      "description": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T21:36:00+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e813/live/77008940-e6bc-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+      "description": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T21:22:10+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Pepe did not injure eyes staring at sun, say Villarreal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss",
+      "description": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T21:04:55+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fac4/live/e82d54b0-e6b5-11f1-a367-d7fb45f4e865.jpg"
+    },
     {
       "title": "FC Utrecht neemt afscheid van Anthony Correia na tegenvallende resultaten - De Telegraaf",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0N4NGNHUUIxVHZ4bE95SkZzNmRrVzBHM184bEJ1eFMwX2Eyclh6QllCVTB5Y3p1T3BseDNNQVp0Yjd5RVJRZlpXamZfMlRTSlhnbmFRY1dMeTBuSjgxMGNYMjdmUFZLanhvSHBsMmV3VE5FVXpUMW50bndFZVl0OXI2aDdTdlVnTlE5MTFuUkMyWDJIZno2dG9BelBGcFdSSE1OUHRYVUxwVUJHQVV1SFBMSnV6cHhSVEZpMHI2YUtnVlBSTHc?oc=5",
       "description": "FC Utrecht neemt afscheid van Anthony Correia na tegenvallende resultaten De Telegraaf",
       "source": "Google Nieuws NL",
-      "pubDate": "2026-11-22T20:36:32+00:00",
+      "pubDate": "2026-11-22T21:04:45+00:00",
       "image": ""
     },
     {
-      "title": "FC Utrecht ontslaat trainer Anthony Correia: ‘Structurele verbetering bleef uit’ - ed.nl",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWF6WWhJdmkwN0M3cmJRSTJmVmtaVjFGZFpoQlZIeUswWkxjWlhjdFlfTXhoeF9ZX3pLTDZ3b2hOZlRFMC1HeW9EWWFHdU9IQ25SbndyTDdWVjBhMlYzZGFBLXlnZ3VfR0p6NWlBRmJmREp6cndETW0zZldjcFpVQk15elV0SjllbVVfZHBCVTBrcHdSOUlmYy01M29lcW5MblIyWWthVDBuSmJqVERTTTl5SQ?oc=5",
-      "description": "FC Utrecht ontslaat trainer Anthony Correia: ‘Structurele verbetering bleef uit’ ed.nl",
+      "title": "Man Utd plotting Toney move - Monday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss",
+      "description": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T21:04:15+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/174b/live/54b51b60-e6aa-11f1-99b6-a35a62fa4264.png"
+    },
+    {
+      "title": "FC Utrecht grijpt hard in en ontslaat trainer Correia na teleurstellende start van het seizoen - AD.nl",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMUUwTmREd191MXRmUGxvXzlOLW9LZzJFZHB1UEVrd29FeXFXS3JlU1Y4dUtEdDFpXzB5NVozMTNkN05GT2VuTlFpZlRkcEJJTFQ5N1VhU1I1VENfd3huVnJ5aUI2VWVsVEhkTU1uSTREbGY0Ti1KWGJkOHVkMzRfZ3dTWnJKZWtTVVBQQTVaZXFMQnZqbmtiVExSQzJhVHNvWV9QcXNnSmpGVl9wMWRJTTJ5cVd6WTBUNzRaX1JmR3MzSVYxYkhuc3F3?oc=5",
+      "description": "FC Utrecht grijpt hard in en ontslaat trainer Correia na teleurstellende start van het seizoen AD.nl",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-22T20:36:00+00:00",
       "image": ""
@@ -26,17 +66,17 @@
       "image": ""
     },
     {
-      "title": "FC Utrecht ontslaat trainer Anthony Correia: ‘Structurele verbetering bleef uit’ - AD.nl",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWFqeE1HQV80RElVVFhvYTRGS1BPa0FQUHozNzFtejdpQXNkODBQSkhiUWZiZGFvTVVPT2E4eWhnVTc0ZU9xNXI4NFJPY05ILTA1M2pIZlJLMEJ1cE5mSzV3ZEhDWG9hWTVyMndONE1lSFY5LWRfeGR6VHNpakNEMERYWmxlMXI4eEdWX3pkUUZ0Q010ZV9uV2VxcjVCY3NScmxVRG5WWXRoVGlldFBPY2M2Yw?oc=5",
-      "description": "FC Utrecht ontslaat trainer Anthony Correia: ‘Structurele verbetering bleef uit’ AD.nl",
+      "title": "FC Utrecht ontslaat trainer Anthony Correia - ed.nl",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3ZuYVNhbTZpLVJIVzFPblZPeS03X2RZVFk2allJNzBBWTFwck9wSm1qV29UMkd1MzFsOENPSWN0Yk9fTnhOSS1TdThPd3gzeWx5UXVGQVZDeE5od2U4UTJLdTdaQmZZNlBXeGRHZ1A0Y2VteXh0ZTNwWnZ4ekpqV3lFbk5vdw?oc=5",
+      "description": "FC Utrecht ontslaat trainer Anthony Correia ed.nl",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-22T20:36:00+00:00",
       "image": ""
     },
     {
-      "title": "FC Utrecht ontslaat trainer Anthony Correia - ed.nl",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3ZuYVNhbTZpLVJIVzFPblZPeS03X2RZVFk2allJNzBBWTFwck9wSm1qV29UMkd1MzFsOENPSWN0Yk9fTnhOSS1TdThPd3gzeWx5UXVGQVZDeE5od2U4UTJLdTdaQmZZNlBXeGRHZ1A0Y2VteXh0ZTNwWnZ4ekpqV3lFbk5vdw?oc=5",
-      "description": "FC Utrecht ontslaat trainer Anthony Correia ed.nl",
+      "title": "FC Utrecht ontslaat trainer Anthony Correia: ‘Structurele verbetering bleef uit’ - Tubantia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeXNTUzJ3RFB1TjhqVlhvLWVBb2I4RWVseWVvdkg1a3RoMnlRZkMwYnNmemZCTUNCX0hhdnB0THZ3UkJNYzVyZ0JWMTZ3VkE2bFZGME5NOG5DUmhxM1JwQXZpUGp3WnFlM3d3NnM4VjBLYk9hb3NHRlYzcjNxMWp2UlBrUy1IRHI1Yi1MazZZd2MzNlU1V0pVRWRMWFN4dzRHMkRfUUhWTHFGQndPNGltcDhzcGV2alRWdkZF?oc=5",
+      "description": "FC Utrecht ontslaat trainer Anthony Correia: ‘Structurele verbetering bleef uit’ Tubantia",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-22T20:36:00+00:00",
       "image": ""
@@ -56,14 +96,6 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-22T20:20:00+00:00",
       "image": "https://e2.365dm.com/26/09/1920x1080/skysports-renee-slegers_7365288.jpg?20260930211455"
-    },
-    {
-      "title": "Bundesliga",
-      "link": "https://www.bbc.co.uk/iplayer/episode/l0059298?at_medium=RSS&at_campaign=rss",
-      "description": "Watch highlights from matchday ten in the Bundesliga.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-22T20:13:29+00:00",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8slj9.jpg"
     },
     {
       "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
@@ -362,14 +394,6 @@
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-oli-mcburnie-hull-city_7413617.jpg?20261122155755"
     },
     {
-      "title": "Bevestigde transfers van spelers naar CCB LFC United - www.footballtransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMmtQcFV4VURiU3Y4OTFGd003Vy1IUXAwUFpGeEZqWGFray1ncE83bzB2cmgwbXhFU2tKU1loX0xSVGVEdTk1NGVjMTZWd0dIbTVtUU9tc1VLMllNNFNZRXhvSUR1djNlUFFqMGtSZFlURnowQTdXZWxSb2ktTW1TSHJ4Tmw3UQ?oc=5",
-      "description": "Bevestigde transfers van spelers naar CCB LFC United www.footballtransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-22T15:50:10+00:00",
-      "image": ""
-    },
-    {
       "title": "PSG's Doue to have surgery on ruptured ACL",
       "link": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss",
       "description": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
@@ -399,6 +423,14 @@
       "description": "Trainer maakt rentree als speler bij FC Jeugd • Jubilaris is gevierde man bij DTS Ede • Razendsnelle tegengoal voor WAVV AD.nl",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-22T15:27:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bevestigde transfers van spelers naar TB Bortfeld - www.footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaHRyenN4aGNGYkN6R21BdXFkNFpLaVEwMy15aW90VGYzNGxYY0NlTHRTc3pJNzZFWmIxRFl0cnEyQVJlbHZkV2dSMFlNRElYVVpmbFcwNzQ0aUY2RlpBY3hKeWNKYnNwc1Q1aUlWMWlXczd4TUQwTmo4REZDRGVISFpB?oc=5",
+      "description": "Bevestigde transfers van spelers naar TB Bortfeld www.footballtransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T15:09:24+00:00",
       "image": ""
     },
     {
@@ -474,6 +506,14 @@
       "image": ""
     },
     {
+      "title": "Bevestigde transfers van spelers naar Leones - www.footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiRVVCZFRjNnVzSVNtZWlZeHdpZVgwa1o5RVZuR1pjOEYwdlYtYUNvbUJJVTFDc0xJQ3RiSDMzLXprcU1Rd1c2YjVUQmRNQUVyTkw3YTdlaC1xX3BhMG9sTXQyblhrTzJiUHE2NEw5SXFneFVrY1ozVWlPQQ?oc=5",
+      "description": "Bevestigde transfers van spelers naar Leones www.footballtransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-22T11:16:53+00:00",
+      "image": ""
+    },
+    {
       "title": "Rochdale sack boss Watson after Northampton defeat",
       "link": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo?at_medium=RSS&at_campaign=rss",
       "description": "Rochdale sack head coach Ian Watson after only five months at the League Two club",
@@ -530,19 +570,11 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c81e/live/26d6d700-e642-11f1-acea-8b4bc3bc92cd.jpg"
     },
     {
-      "title": "Who am I? Plus today's other quizzes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq0l31gw1809o?at_medium=RSS&at_campaign=rss",
-      "description": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-22T07:12:55+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "title": "Bevestigde transfers van spelers naar Racing - www.footballtransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13X2s1MjlDZDNMNnBCZm1fNnZYUzdVTkw5RDZXUkJWaFlhQlhmc3ZZNU5yVVRVak5HZ09NRS1uMGllYmVZRXdtcmJEbHpNNnJKNnNVSFpjUlBPVkxwTWZmdkpEb3BvSHQ3Q2xfcVZzdlFYQUhOQ3pzMkF3RXZ2dw?oc=5",
-      "description": "Bevestigde transfers van spelers naar Racing www.footballtransfers.com",
+      "title": "Bevestigde transfers van spelers naar Rodange - www.footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yZjZWUmEtVFVTZDVJNV8xOWh6cWZjNV9xRUYyUXA4OHFrMFg2Y0ROblRGOS1qbHVfSDRpSkZHQXFZbWdxYm5vQ2dicHZ0TlF0bGJfMDNEbWF6dmlsY2Jtd3FXVkdTT3ZNaXg4dzliZHhHZEE5SGJIRVowOVA?oc=5",
+      "description": "Bevestigde transfers van spelers naar Rodange www.footballtransfers.com",
       "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-22T04:21:23+00:00",
+      "pubDate": "2026-11-22T04:03:19+00:00",
       "image": ""
     },
     {
@@ -608,38 +640,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-21T21:14:08+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a1/live/dec0b5d0-e5ec-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Euro latest: Amorim's Milan win big after Barca's epic comeback",
-      "link": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-21T21:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-amorim-milan_7413905.jpg?20261122200244"
-    },
-    {
-      "title": "Chelsea latest: 'He was in pain' - Alonso gives update on Caicedo injury",
-      "link": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-21T20:50:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
-    },
-    {
-      "title": "Hirst key for Stoke, injuries derail Millwall - Sam Parkin's EFL takeaways",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6r7g8253e3yo?at_medium=RSS&at_campaign=rss",
-      "description": "After the last international break of the year, Final score pundit and former Swindon Town, Luton Town and Northampton Town striker selects his takeaways from the Championship, League One and League Two.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-21T20:36:43+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png"
-    },
-    {
-      "title": "Stabiele Wessel van Silfhout wil het Bennekom-trainer heel moeilijk maken - EdeStad.nl",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQm1NU01ubmQxdkxNRDR3ZEFmX2lickdpYUpqQXFDNTdHV2VWU2N2YXYtN0NUdS1SQTQ1R2NqZmFJZjN5cDktVlVEUmgzcUFheDJzT05adnpPNEllU1RIUWM0c005MHkxaWVvOW44ZTltbmZTUUZFWHlLb2hsZnVsZlpwU2RadHE2RElPRnB4bjE1LV9ndzlOUDcyRXFadjF6TTNjSjZROXdMQQ?oc=5",
-      "description": "Stabiele Wessel van Silfhout wil het Bennekom-trainer heel moeilijk maken EdeStad.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-21T20:26:35+00:00",
-      "image": ""
     }
   ]
 }
