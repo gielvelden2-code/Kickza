@@ -1,16 +1,88 @@
 {
-  "updatedAt": "2026-11-24T16:29:32.084161+00:00",
+  "updatedAt": "2026-11-24T18:07:53.209611+00:00",
   "articles": [
     {
-      "title": "Man Utd's Yoro has Anfield red card overturned",
+      "title": "Arsenal vs Borussia Dortmund LIVE!",
+      "link": "https://www.skysports.com/football/arsenal-vs-borussia-dortmund/live/577669",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-24T18:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-martin-odegaard-arsenal_7400173.jpg?20261107164646"
+    },
+    {
+      "title": "Klopp advice and Iraola confidence boosts Wirtz",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
+      "description": "Florian Wirtz opens up on why it's the best he has felt since joining Liverpool.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-24T17:19:08+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c1/live/b4c97960-e826-11f1-93d4-6d580946ad80.jpg"
+    },
+    {
+      "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+      "description": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-24T17:16:09+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
+    },
+    {
+      "title": "How 'quick check' and unseen angle saw Timber's Isak shirt-pull go unpunished",
+      "link": "https://www.skysports.com/football/news/11095/13616058/jurrien-timbers-shirt-pull-on-alexander-isak-ref-chief-howard-webb-admits-quick-check-in-arsenals-win-at-liverpool",
+      "description": "Referees’ chief Howard Webb admitted it was a “quick check” by VAR for Arsenal defender Jurrien Timber’s unpunished shirt-pull on Liverpool striker Alexander Isak in the Gunners’ win at Anfield.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-24T17:13:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-alexander-isak-jurrien-timber_7403744.jpg?20261111105128"
+    },
+    {
+      "title": "Yoro red card overturned, but refs' chief Webb backs decision",
       "link": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
       "description": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
       "source": "BBC Sport",
-      "pubDate": "2026-11-24T16:16:58+00:00",
+      "pubDate": "2026-11-24T17:00:32+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8849/live/f41d1460-e820-11f1-a58d-43263bea41a8.jpg"
     },
     {
-      "title": "Galatasaray vs Aston Villa team news LIVE!",
+      "title": "Ref chief Webb backs process around Yoro sending off despite successful appeal",
+      "link": "https://www.skysports.com/football/news/11095/13616033/leny-yoro-red-card-ref-chief-howard-webb-backs-process-that-saw-man-utd-defender-sent-off-at-liverpool",
+      "description": "Referees' chief Howard Webb has backed the process of the officials who sent off Manchester United defender Leny Yoro at Liverpool - despite the red card being overturned on appeal.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-24T17:00:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413691.jpg?20261122165102"
+    },
+    {
+      "title": "Listen in! The VAR audio that supported Yoro's red card decision at Anfield",
+      "link": "https://www.skysports.com/watch/video/13616024/match-officials-micd-up-the-var-audio-that-supported-leny-yoros-red-card-decision-at-anfield",
+      "description": "Speaking on Match Officials Mic'd Up, Howard Webb and Michael Owen take a look at the VAR process from Anfield after Leny Yoro was given a red card in the eighth minute.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-24T17:00:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-var-micd-up-football_7415422.jpg?20261124154655"
+    },
+    {
+      "title": "Yoro red card overturned after successful Man Utd appeal",
+      "link": "https://www.skysports.com/football/news/11661/13616021/leny-yoros-red-card-for-manchester-united-against-liverpool-overturned-following-successful-appeal",
+      "description": "Leny Yoro's red card against Liverpool has been overturned following a successful appeal from Manchester United.",
+      "source": "Sky Premier League",
+      "pubDate": "2026-11-24T17:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413680.jpg?20261122164441"
+    },
+    {
+      "title": "Transfer Centre LIVE! Heaven open to leaving Man Utd in January",
+      "link": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-24T16:55:00+00:00",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-man-utd-ayden-heaven_6858858.jpg?20250316174910"
+    },
+    {
+      "title": "FA chief signs NDA to view Fifa sell-off plot documents",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqx2x4k74ryxo?at_medium=RSS&at_campaign=rss",
+      "description": "Debbie Hewitt is among several football chiefs to view documents made available by Fifa, but cannot speak about them.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-24T16:34:18+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719b/live/558488f0-e821-11f1-a58d-43263bea41a8.jpg"
+    },
+    {
+      "title": "Galatasaray vs Aston Villa LIVE!",
       "link": "https://www.skysports.com/football/galatasaray-vs-aston-villa/live/577673",
       "description": "",
       "source": "Sky Sports",
@@ -26,12 +98,12 @@
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-tottenham-club-blog_7326708.jpg?20260820165557"
     },
     {
-      "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-      "description": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-24T16:11:33+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
+      "title": "Berrada admits Man Utd transfer spending will be limited by stadium plans",
+      "link": "https://www.skysports.com/football/news/11095/13615995/man-utd-transfer-spending-to-be-limited-by-new-stadium-plans-in-the-short-term-according-to-chief-executive-omar-berrada",
+      "description": "Manchester United chief executive Omar Berrada admits plans to build a new 100,000-seater stadium will limit transfer spending in upcoming windows.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-24T16:00:00+00:00",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-omar-berrada-man-utd_7265413.jpg?20260604164618"
     },
     {
       "title": "Defender Heaven open to leaving Man Utd",
@@ -40,14 +112,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-24T15:56:55+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23be/live/b56694d0-e807-11f1-95bb-3f37d3e026b0.jpg"
-    },
-    {
-      "title": "Yoro red card overturned after successful Man Utd appeal",
-      "link": "https://www.skysports.com/football/news/11095/13616021/leny-yoros-red-card-for-manchester-united-against-liverpool-overturned-following-successful-appeal",
-      "description": "Leny Yoro's red card against Liverpool has been overturned following a successful appeal from Manchester United.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-24T15:34:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413680.jpg?20261122164441"
     },
     {
       "title": "Could Man Utd really be relegated this season?",
@@ -64,14 +128,6 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-24T15:00:00+00:00",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
-    },
-    {
-      "title": "Zo wil PSV-trainer Peter Bosz zijn aanvallende visie tegen het Real Madrid van zijn tegenpool José Mourinho testen - De Telegraaf",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTnFpb1FiNTU4SlNxaFN1TmlpNmVJMEdzMXlyMUp5d2d2ZkVlbmtyTEJhQ0hobUcyb3RCaVNXWnh2REl3a0FRN3dLYnh4a2RKNEViZnVrcFY3SlBCa3Y5ajltSUJ5OUdlak80clh0Q1h4YkVtd2Z0NGxuVFByOVphV2ZLUE45WnlHbmxUS3k3cERWWmdaSm9RMExQUFlEOHZBQVBFMVBiSXNjOTFQQ0JtLWk1aHpaTERUd3pVWVpzYlEydF80UTdmOVhKR0pLZVo5WTdkVkZaTGFMbkFjOFdRRjJibU1BSmJmT2tSNThPSnhsUjVJdi10RDQ4OFk?oc=5",
-      "description": "Zo wil PSV-trainer Peter Bosz zijn aanvallende visie tegen het Real Madrid van zijn tegenpool José Mourinho testen De Telegraaf",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-24T14:31:00+00:00",
-      "image": ""
     },
     {
       "title": "Millwall face partial stadium closure after discriminatory chants",
@@ -98,52 +154,12 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-the-den-millwall_7414741.jpg?20261123192207"
     },
     {
-      "title": "Transfer Centre LIVE! Como and Napoli monitoring Man Utd's Zirkzee",
-      "link": "https://www.skysports.com/football/live-blog/11661/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-      "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-24T14:00:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-joshua-zirkzee-netherlands_7368308.jpg?20261004215737"
-    },
-    {
       "title": "SFA leads tributes to former president Peat",
       "link": "https://www.bbc.co.uk/sport/football/articles/cwz0kd0zjvkmo?at_medium=RSS&at_campaign=rss",
       "description": "Former Scottish FA president George Peat dies at the age of 86.",
       "source": "BBC Sport",
       "pubDate": "2026-11-24T13:35:17+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/850b/live/8c488a70-e809-11f1-95bb-3f37d3e026b0.jpg"
-    },
-    {
-      "title": "Cijfers bewijzen enorme waarde van Rowan Besselink voor De Graafschap - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSE1maUxva1I3UXg4MnBKYUt3eklfU1FadUtabkZYT0VDTUtJRWRiOWJIbnRhTFlCN2dRVkU2NDdIRnUyS3htU0xPdG00aGQ5VWdEd29EZGVScVkyYl9tQngzODFmdVN2dGNTdFlPV191MldrX3FiczBXd2hFSGJ5Q295QUN5QWdrYk5laDV4dEJhSzcyS1JQdko4N3JxcUNYdFF3aTlwZmlNZE82cGwyVEJkekx4Sy12bWJ5OGhNWERUbDV5enp6dlY1MXNSQjB3MzN3N0dUN2dUVld6R1dUc2ZfTGczVlVxR1lOcg?oc=5",
-      "description": "Cijfers bewijzen enorme waarde van Rowan Besselink voor De Graafschap FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T13:27:24+00:00",
-      "image": ""
-    },
-    {
-      "title": "'Weergaloze transfer voor Jérémy Doku' - Voetbal24.be",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRcG5FbDd3QkdUbmFJZUZYS05Ra2F5VGZjZl9wVlhNaXN5engtZzBWYWJWQ1V0VzVhd2M1WUtJSThuVEJaZzJnRW5VRGdNUWJMMG9ZVE9hanZ5WU90dzZ0RC0zRHFuV3hpd3VPYU1adTNJQXVTNlE?oc=5",
-      "description": "'Weergaloze transfer voor Jérémy Doku' Voetbal24.be",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T13:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Door Willem II-gehuurde Chido Obi in rijtje met Deense toptalenten - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYjlrNkJPeHN1ZTF4OGtDMHNRdXpLYjVfcVkyemRwRWJKVXZtQ1NpYllFZ2ZSWlU4RlZ4aEoyb0dLVnpydXE4QWhyQ1kzV2ljdFktay12U3RKVEZsN2o1bVhiY0hiRHozNV9LQUNPc1pJdmJkMTlvVFlOUXNnMGhkVmpCejhrNmxpQXR4T0xZLXB5MmRzNmdTSEdBbDBfeGdZcFFPZ2pNaC1ya1QxU2lPRkg0bFFDVzVsWDVFcmZJWnJVMm10dzNaMW9fWGROMkxDOGp6Sk8ydw?oc=5",
-      "description": "Door Willem II-gehuurde Chido Obi in rijtje met Deense toptalenten FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T12:40:15+00:00",
-      "image": ""
-    },
-    {
-      "title": "Live. Transfernieuws 24/11: Essevee polst bij Matton - Voetbalkrant.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLUtnZXFDV2Z6R0kxYlFjRi1GMGlUN0RuS29EeFZXeXZNb0p3ODBEbUE1bnhsZ2hWRHBySGZVSXBwcWxmMU92MHJhOEhTRDExem9rLVJ3YmZveFFtY2RPd28wa1ZDNXdZVlhaMjRISE5RSjBVUHlZZnZlZk02WC1obmdnQmhUT0tGR21FNjBIc2tNR0wtVFJWWEdjcGdlQdIBowFBVV95cUxOLUNrY1JsM3lvdmd5WmFZVVh0THc2TXdGdTFVVnJIRUpGTkI5UGxTeUs1cE1acWVjQWdZMHdJWjFsb3A2NWR0YlV2UUp5dlI2NmNTTmRxV1ZyZ2hOeF9DNVN4YzlxREZUSVg3R3NSLUZjdEhRRTFONnlsYzhWdzdlaDZBa3BwLTFuNVRKSmVodlJ5azFZWFBEbUYyV2I5Y213dVRV?oc=5",
-      "description": "Live. Transfernieuws 24/11: Essevee polst bij Matton Voetbalkrant.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T12:40:00+00:00",
-      "image": ""
     },
     {
       "title": "Non-league player injured falling down badger hole",
@@ -154,28 +170,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da19/live/dba64620-e7ff-11f1-99a1-253766e7ad8b.png"
     },
     {
-      "title": "Kaapt Saoedi-Arabië straks alle topspelers weg? Competitie praat over versoepelen quota buitenlandse spelers - De Telegraaf",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc0hBTnYxR3A3U3lkZlFTWTV5WEVOdGx2Z3BtOWJ2dEJSb1Y3UER4dWVGM2tJTEF4bUUzNHZicXQ3SkRDakRXdDBGMVJZM1RoWmxNNndldENTRTRIbURoRjVORlc1Yk9wQ2RRTkJ2YW9oNC1PbTRfV3otRnNtR2swN2dSd0Flc2NKdUZlQ3c5THBzY3VZSDFqMkdmUlVHc09tZTdKa205WEtNY3NyaHRkZTZSS1ZDT0ZnOHFycVViWkxnVHZoRmFpUGpITUh0QW5udHk1NnJsSkZCTTVja1dZZFVTNGZTMnpoLUQzamhyXzM2clk?oc=5",
-      "description": "Kaapt Saoedi-Arabië straks alle topspelers weg? Competitie praat over versoepelen quota buitenlandse spelers De Telegraaf",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T12:25:45+00:00",
-      "image": ""
-    },
-    {
       "title": "Palace docked points for using four sub windows in WSL win",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
       "description": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\".",
       "source": "BBC Sport",
       "pubDate": "2026-11-24T12:14:19+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/a5fbf0d0-e7fd-11f1-ab60-79086b6495b8.jpg"
-    },
-    {
-      "title": "PSV-spits Ricardo Pepi in beeld bij Bayern München als vervanger Harry Kane - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVUtyRWNMZDUtUTBkelczRHJGemM3LXR2V1U1dy1NTWF3OGpYVWprb0NZaTBvR21vaUJIRGJmMk5ZYndKbzYzeU95R25Pa0o5OUpMR1pKVG9nOFpyb2YtQThqLTdPTFotOElvVVFuQXZKNTN2TTFka1d4SmFWSEthNXMxYUdoNk9ZQUJqUk1CRFpaUlBPVWpQWldCS3JReGxSOFhJNjFGRzU1MERVYjJ6OXRQSVM3U1loV3NoMEN4Xy1qUVhONE81N1BsU1B4WDF4eHI1N0Z3WkJQTHFNYUsySktYNVk1dF82WEhn?oc=5",
-      "description": "PSV-spits Ricardo Pepi in beeld bij Bayern München als vervanger Harry Kane FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T11:54:39+00:00",
-      "image": ""
     },
     {
       "title": "Glens boss Ferguson apologises after seven-game ban",
@@ -202,22 +202,6 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-crystal-palace-general_7415221.jpg?20261124120619"
     },
     {
-      "title": "Dies Janse groeit bij Ajax uit tot felbegeerde verdediger: waar ligt zijn plafond? - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPb3gySUhRNF85cDJWSmcxdEJDOEN2Smg1RUtlbmFwOENMSEllSk9McjVIMEFKLUM5WGJ2UnhZcjFrNUNFTFdHemlBcXNDcTZHcWpyb0NBMmd0Sk5YWHJKeXdLRDhwcEpjTzJ4cFkwZGpxSEtkc3pKNWtZNEZLN0tEWVFtcHQ1cDVTTDhWd2NuVl9LeldSZmtGdVRmem9FZVFsSHo3Vk02V1llN3FkbTBWWWM5bDg5d2lDd3dudzRKWkVqemtFdExBT3BaU0toNkY2NnJnWDhhLWMzLWFBMm85dG9OVW1ZSzVHNWc?oc=5",
-      "description": "Dies Janse groeit bij Ajax uit tot felbegeerde verdediger: waar ligt zijn plafond? FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T11:22:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bertaccini op weg naar de uitgang - Voetbal24.be",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GQkstQWlYY0d2U2F6eEIwb2F5M3paRVp4aUVnWFNYQXFncExVckRKdlZ5TW5SamVUVTFZTkF2Z2RJNmpWVW9teXhJVVZwVEZ3RmJDWFdfbm9TcGJWRGhIdzFlS1c4TUFyeUxTOHZVX0dSUQ?oc=5",
-      "description": "Bertaccini op weg naar de uitgang Voetbal24.be",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T11:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Republic of Ireland boss Ward signs new contract",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn31z553go?at_medium=RSS&at_campaign=rss",
       "description": "Republic of Ireland manager Carla Ward signs a contract extension until the conclusion of the side's Euro 2029 campaign.",
@@ -227,9 +211,9 @@
     },
     {
       "title": "Leeds latest: Tanaka close to signing new contract",
-      "link": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "link": "https://www.skysports.com/football/live-blog/11661/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-24T10:45:00+00:00",
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
     },
@@ -240,22 +224,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-24T10:27:17+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d313/live/9ea02670-e6b9-11f1-bb92-6d8a0512bfb0.png"
-    },
-    {
-      "title": "Zimmer zit vol ambities als trainer: ‘Het profvoetbal in’ - VoetbalJournaal",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXF1Z3FSWG8wamEycU1BZVF3UmRLb2lobTFKQm1pOERtYVFUdW1iQmN4dEE4WEhyd1NoQS00dngxYk9XLWVJMGV0eTlzYTVWdkc3Q1daV2lFOGVEVjB5eUY5N2VHbUg3ZFZUN2s5NFNoX3VJT0pnanNjbzJWLWkta3JzYjNuN1Bncm8w?oc=5",
-      "description": "Zimmer zit vol ambities als trainer: ‘Het profvoetbal in’ VoetbalJournaal",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-24T10:17:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bevestigde transfers van spelers naar San Giorgio 1926 - www.footballtransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3AwUXp2TGlRRUpaRzg1c2lZNE9HV3FtdGxDZ2dKRnZhdm1nMnRZbEVrNjhIeWZPNWVudGZXMHg2V0FMNzJmaVN4ZGI0Z29jNnBHU2txbUI3TmppalVvUjZ4VFVVSHNNVWNQcEZCZ1Z3RDlTakdaRV9NZXFHX21NNi1hZmR1aTdG?oc=5",
-      "description": "Bevestigde transfers van spelers naar San Giorgio 1926 www.footballtransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T10:13:11+00:00",
-      "image": ""
     },
     {
       "title": "Which Premier League players are set for yellow card suspensions?",
@@ -272,22 +240,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-24T09:43:38+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5345/live/8e981730-e7f2-11f1-8b26-c1adae33e7f2.jpg"
-    },
-    {
-      "title": "Liverpool wil Abdellah Ouazane: Ajax-talent moet 'nee' verkopen - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnduQ24wNnJ0cnoxajByNkwyMmJWTmJMTTZ0UURqZHB2MlgxY3dJSlRhSnVHU0FJZnZrUVNsR1lpU1lOcllHOGM5QU9uc1diZmliNUJCVWpZZFI5SjNQTEhFalVCaE5KTjNTRGlPanBuZzBoUjRUNmRvM1RSOTlaTXNoazdvVEhZcXR4TGVBb2J1NEZNUE1pTU12M2tBT3FpZ1dQZnY4SlVJX1NJX1V2cVE5ZTNoN1NNUGgzLTNuZWJPOGRhZmlMRTJ4QjhFaE5kaU15TQ?oc=5",
-      "description": "Liverpool wil Abdellah Ouazane: Ajax-talent moet 'nee' verkopen FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T09:36:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "Manchester United als spelerskerkhof: waarom mislukt iedereen op Old Trafford? - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY3doMEExdG9EUTR5VkhyNldFcjFpaEkwVENHbEtESUM1Y0c2TDhwSnl3RGtDakNNX0d2ZWRMYXFPMDZhQXVrSEc3NDNycmFaZXd3SFJZVnN0cEZmRGxNMlIteVJ5em8wRjVxYWc2MWhaUUNQcXYtdGhsZmVMSUh1dVhwbHYyWTFWR1FtMFRYMjZFU3p1RVdQcUhnOXRUejlqZlpDM0ppT1BPZ2lDVUlvdDNtODEtQW43UXFMNzU0aE92RDdkX1NlZUdyZTdoR2pHUmtNcHl6Mlk0eFFTNjVBaTJpWEVLU19yT3c?oc=5",
-      "description": "Manchester United als spelerskerkhof: waarom mislukt iedereen op Old Trafford? FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T09:11:50+00:00",
-      "image": ""
     },
     {
       "title": "The youngest Premier League goalscorers this season",
@@ -314,28 +266,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acb1/live/4368f080-e40b-11f1-ab35-e1af93fa5cce.jpg"
     },
     {
-      "title": "Miljoenenverlies en leegloop bedreigen succesvol Fortuna Sittard - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb1M4THAzc1QxcFdWSTRVR2ZHZGtuamNHLVpwbE1SRXBJSkhPdGhyWUhPd19MZTF5YXBfUWNzMUczeFAzTUlZUWNaUTlXNEFVTmNqVmZxU3MyM0dkbFdicWRmS3NVZ3ZCdmhTb1NvY2t0T1ZILWlMcThsVHByMGhxSW10YkJabDNjVmlsdVlWQ2R3cDlmbUlZVHpCbzdrS0FEMTc5bWlBVU9CODVMc1pNTnJyWXJQOWxkdU9jZE9VZnZPSW5sbGVneVR0TGNLQXNJTHp1Mw?oc=5",
-      "description": "Miljoenenverlies en leegloop bedreigen succesvol Fortuna Sittard FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T08:17:28+00:00",
-      "image": ""
-    },
-    {
       "title": "Can returning Beattie and Haughey make an impact?",
       "link": "https://www.bbc.co.uk/sport/articles/cm04wz6ez2rgo?at_medium=RSS&at_campaign=rss",
       "description": "BBC Sport NI looks at Michael McArdle's decision to recall striker Kerry Beattie and the uncapped Ella Haughey to his squad for a friendly double-header against Greece.",
       "source": "BBC Sport",
       "pubDate": "2026-11-24T08:08:33+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d056/live/5df5ba70-e5c1-11f1-a188-ff49e70cc466.png"
-    },
-    {
-      "title": "PSV-trainer Peter Bosz verrast door tennisicoon Rafael Nadal - Sportnieuws.nl",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQkN4UzQ5RzktbGhmNWZ5MkxET0NZV1V0bDhkNW9MVmZLN3k4RGxRVVFIZTZKRzgwbHk2Q2p0RDI2WUs4cXlxMW1oN3BTMWZtbXFua0Y1a0x0T0F5NDZ2UjBhZm9QczIwbHkzTGRUVGR0dWl6WnZXblNtY3NWOFlQMVlDSVBLeTdWVEF6RURTaHhNc0QxQW56OTJnT0hxLVdjeGhrS3NCa183Y2dxM1VnU0ZZYUgwZGNqYVFoZklkZnlaNWtOdGNrYkdR?oc=5",
-      "description": "PSV-trainer Peter Bosz verrast door tennisicoon Rafael Nadal Sportnieuws.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-24T08:01:06+00:00",
-      "image": ""
     },
     {
       "title": "Podcast: Hibs & Dundee hurting as confidence grows at Rangers",
@@ -362,28 +298,12 @@
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
     },
     {
-      "title": "Jong FC Utrecht verdwijnt uit betaald voetbal bij degradatie hoofdmacht - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOHNud2R1aU1uNzhlbS1LdWhzempteXRra2plX09VdXBpVmNiczY5TGVQOWp0bnFQMXBjZjgxUXJpdk12RTFiaGRKWHU1Zk9nNXVFekRWbnpsU3hfbDB4VVRvOEtuT0tORk5QN2MzV1owMVJINWFaTF9tU2JwQVpKcmdPNUFyMVp2QVdYb0xuVXFOaklRUzg1OHJJSEV4VmxhTW5tVGRwbnJTY0hVWVNyMmRLb3JaUnZrNjBVS1pDRnBPNmRFVDhxWnA5ZWo0OHNZSmpFaFE1Y0lMS2tZeVE?oc=5",
-      "description": "Jong FC Utrecht verdwijnt uit betaald voetbal bij degradatie hoofdmacht FootballTransfers.com",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-24T07:19:11+00:00",
-      "image": ""
-    },
-    {
       "title": "Wolves are clicking, Stoke are dreaming - but could QPR be dark horses?",
       "link": "https://www.skysports.com/football/news/11095/13615599/wolves-hit-their-stride-stoke-continue-to-dream-but-can-they-last-the-course-and-are-qpr-dark-horses-of-championship",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-24T07:00:00+00:00",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-efl-championship_7414393.jpg?20261123123224"
-    },
-    {
-      "title": "Simons krijgt steun na overstap naar KRC Genk: “Dan moet je niet boos zijn” - VoetbalPrimeur.be",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2FZZVk4VEt1MjRnQTFlZzU2MTFFSTlZRWhnd2trUWRSMkp0M04zY3ZuNnpKMm91ekRSS3BhMkRFOFFUSVA5Mjg5U1FnazZyLWx1ZURxd2EtOEVJZlRCTF9tcWQzZHBwLWpLWHhTdjhPc2ZFNUxTeFk4NEdYVjlaanRxSkZRS2NtTFVzUXpNQ3dsRnE0aEJiOVpGMGhDX0RpSGNnU19Sbks2UQ?oc=5",
-      "description": "Simons krijgt steun na overstap naar KRC Genk: “Dan moet je niet boos zijn” VoetbalPrimeur.be",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-24T07:00:00+00:00",
-      "image": ""
     },
     {
       "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
@@ -394,28 +314,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20b6/live/837998e0-e745-11f1-88dc-f746e0cde621.jpg"
     },
     {
-      "title": "'Mijn transfer naar Feyenoord is mijn beste beslissing, geen seconde spijt gehad' - VoetbalPrimeur",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTEyYnhLOVpBOEVEMjhlUEo3Rzl4LUJybnJmLTFYZWVhNFZ4Y3MzMTRyc1ppS2VUWWxyVGZfSlo1cjFxSXFMQ0QwTFBRbktLWTlFOHAtd1d5LWhKUXBYS0ZRc1BnQmVTaU1HMGRxcWdMVVVJSndTN2ZtRG5DRjRtdFozUGF6eDdVcVdpZjNLc2ZpYkxs?oc=5",
-      "description": "'Mijn transfer naar Feyenoord is mijn beste beslissing, geen seconde spijt gehad' VoetbalPrimeur",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T06:52:24+00:00",
-      "image": ""
-    },
-    {
       "title": "Two goals in 15 games - what's going on with Gyokeres?",
       "link": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
       "description": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres.",
       "source": "BBC Sport",
       "pubDate": "2026-11-24T06:45:27+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d238/live/f4fcc0e0-e76e-11f1-ae0a-d1908652a433.jpg"
-    },
-    {
-      "title": "Goots haalt uit naar Antwerp onder Compper: \"Ik zie geen team dat stappen zet\" - VoetbalPrimeur.be",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVEE3N1BhZGJNTXlBa2ZkTy10anRwZlZ0SjRBblNmcGVldEQzVE9jYTQtNnJJRlBZSTkzT1RUczdfOXg3VU5jYXBrdEpMLTMxWDRTTThmQWswbXdScVN3V3pRTV9aLV9jUWFKZ05rVk1sU3NIS2xCdWx1LWVaM3N5a0VEZUJ0ZU5RN2xkcGxzdEFJYV9fOFJsOWZrNE4?oc=5",
-      "description": "Goots haalt uit naar Antwerp onder Compper: \"Ik zie geen team dat stappen zet\" VoetbalPrimeur.be",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-24T06:45:00+00:00",
-      "image": ""
     },
     {
       "title": "Who am I? Plus today's other quizzes",
@@ -426,44 +330,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "title": "Ajax heeft goudhaantje in huis: wie is uitblinker Fouad Zahouani? - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbTN5d3JGejBULWI0WlRRUlFYMnFrWUdxYk56aUhIM1gxb3dBZkVnc0VDazRFWWRBemlpVDRNNHIxUXVOM3hpUWg1RnBLOU5FRmMtSno2a1pZeUhqeDh0bW9JbmhPZVJ1WHVGSFVDU2tSRzNhSE5GOWt5bW5UV0pTRUlWTHZXVjdwNXN4eTByUGNKQktveWZfNzIxZFY1aTJ5elUxVkViS2NmMzJ4c2dkNXJPcC1mV0drSW1YZDFSeE1fTld3XzNONFpLRThKV2NzcUhJZjl3dEVNTUp2RU1WNDB0Sjg?oc=5",
-      "description": "Ajax heeft goudhaantje in huis: wie is uitblinker Fouad Zahouani? FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T06:35:27+00:00",
-      "image": ""
-    },
-    {
       "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
       "description": "Fifa president Gianni Infantino's globetrotting by private jet since his plan to sell off a stake in the World Cup has come under scrutiny.",
       "source": "BBC Sport",
       "pubDate": "2026-11-24T06:16:53+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a18/live/c4779660-e5bc-11f1-a188-ff49e70cc466.jpg"
-    },
-    {
-      "title": "FC Utrecht heeft met Mark Otten stiekem ideale trainer al in huis - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcF90T2FHWTQ2b0ZORXdPQXBJNFBvMElJdDZGenR5aEVSUWMwX0d5U3hQR1ZBcTFMUDk4Mk5JU3V4bUwydGFWZktibFBzQWd2N0FVeWNZaUlsSTM3bzRBcnpGTnU3X3c3ZnJ2VzdzWlJ6LWZxeUN2cTRQd0FLTFBUcGlnd05yTUNhanZYcExJMXpfS3Fnbm5OVTZ3dG1kdVZrN19RcElURkdienJuWDZSTjBjWWNydDlEOF9FQ1ZleElBQnk1Sjl3b1Y0T3RtenZYckxUZ1NR?oc=5",
-      "description": "FC Utrecht heeft met Mark Otten stiekem ideale trainer al in huis FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T06:13:56+00:00",
-      "image": ""
-    },
-    {
-      "title": "FC Utrecht trainer ontslagen: wordt Mark Otten hoofdcoach? - De Telegraaf",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOVGxjaG5mUXA2VFBzdTBVVjNMSWlrR0RScjdsWURnN1V0RzZNWC1LYzRCbm0xbnFXVmN5UDhiZnltNUVTeXNRUDBXLTcxdktveEo1dXJHbkY5ZENNYnNfaXFyakIwSVM4TGkxWmk3c1FpR2NheEZHS2d5V19kNjlBNHRJSzZjblBSWFE0SV8tSmhtSXBhcExsSkNNTk40eFZBTjNyNlVZQzBUSTY5TC1rWkRKMTJqdlRrck9SWlFDemptM0dOX1pYTHhYNVlUQVdiNFFRS2RRVE1nX3dOX2Z3TWxUMzM1VG9feDAwYjM3VnpQUVNEMEVKZVZlUW9DQjB2bzNuU3oteGM0TEU3allQai1Sb3NVUQ?oc=5",
-      "description": "FC Utrecht trainer ontslagen: wordt Mark Otten hoofdcoach? De Telegraaf",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-24T01:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vitesse in diepe crisis: nieuwe transfers falen en nederlaag tegen De Graafschap zwaart aan - Head Topics",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1pPLWtuSjNwUmtvZERJRTIzTVZKWWJ0QU1PNnAzeVE4QXhZdmVkS3VJSHNYd05yLTJHc3FQaXRESDFTVnhJWWZmaEx5T29sdERKSkU1T3pHbFNIOGJGN3IyOXVCWjFpbUZXdGYxaDV2THBXNWVEZFd1WnJfRGpBeHp3bHlacFN0TGxYb1NkMTB5eUk?oc=5",
-      "description": "Vitesse in diepe crisis: nieuwe transfers falen en nederlaag tegen De Graafschap zwaart aan Head Topics",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-24T00:33:00+00:00",
-      "image": ""
     },
     {
       "title": "Who has made Troy's Premier League team of the week?",
@@ -490,14 +362,6 @@
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
     },
     {
-      "title": "Brentford latest: 'Get real' - Andrews pushes back against rising expectations",
-      "link": "https://www.skysports.com/football/live-blog/11661/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-23T23:00:00+00:00",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-brentford-club-blog_7326692.jpg?20260820165049"
-    },
-    {
       "title": "Andrews praises 'versatile' Lewis-Potter",
       "link": "https://www.bbc.co.uk/sport/football/videos/c6z0kdgz39p3o?at_medium=RSS&at_campaign=rss",
       "description": "Brentford manager Keith Andrews praises the performance of Keane Lewis-Potter, who scored twice in his side's 4-0 win against Everton.",
@@ -522,28 +386,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1142/live/d8901070-e786-11f1-9baa-c1f9a8f8c840.jpg"
     },
     {
-      "title": "Papers: Brentford defender emerges as Man Utd target as January budget revealed",
-      "link": "https://www.skysports.com/football/news/11661/13615837/man-utd-transfer-news-brentford-defender-nathan-collins-emerges-as-january-target-paper-talk",
-      "description": "The top stories and transfer rumours from Tuesday's newspapers...",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-23T22:40:00+00:00",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
-    },
-    {
       "title": "Janelt scores stunner as Brentford beat 10-man Everton",
       "link": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
       "description": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
       "source": "BBC Sport",
       "pubDate": "2026-11-23T22:31:27+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/41e45e90-e788-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Janelt scores rocket as Brentford thrash 10-man Everton to move sixth!",
-      "link": "https://www.skysports.com/watch/video/13615838/brentford-4-0-everton-premier-league-highlights",
-      "description": "FREE TO WATCH: Highlights from Brentford’s match against Everton in the Premier League.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-23T22:21:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-pl-hlts_7414919.jpg?20261123222612"
     },
     {
       "title": "MNC: Leeds dreaming of Europe and when's the right time to start a young player?",
@@ -554,18 +402,10 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnbcz4.jpg"
     },
     {
-      "title": "Arsenal and PSG keen on Nusa - Tuesday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm8x0grpder5o?at_medium=RSS&at_campaign=rss",
-      "description": "Arsenal and PSG are both looking at a move for RB Leipzig winger Antonio Nusa, Xabi Alonso has Chelsea hierarchy backing, Liverpool open contract talks with keeper Alisson Becker, plus more.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-23T21:41:52+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb85/live/ac9a3220-e781-11f1-99a1-253766e7ad8b.png"
-    },
-    {
       "title": "Lewis-Potter scores twice as Brentford thump four past 10-man Everton",
       "link": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
       "description": "Keane Lewis-Potter’s first-half double set Brentford on their way to a comprehensive 4-0 Premier League win over 10-man Everton.",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-23T21:30:00+00:00",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lewis-potter-outarra_7414942.jpg?20261123231353"
     },
@@ -595,19 +435,11 @@
     },
     {
       "title": "Chelsea latest: Carra explains why Fofana-Colwill partnership 'will never work'",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "link": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-23T20:18:00+00:00",
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
-    },
-    {
-      "title": "Bevestigde transfers van spelers naar Ramnicu - www.footballtransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90Y2M0VDZoaDhuU09rLWJXUzk5NkZseVFEOVlRYU1wQnFmVEtBQURrWEFadlQzSm1ZbUM4TnY5VDRxUzNndnhEZFMtcGZmZV94Y2pGTTNzamdWVjlhS01jUFVJdnNrdFQyek5JZTNTS1NCYkdkVEtldTl0MnA?oc=5",
-      "description": "Bevestigde transfers van spelers naar Ramnicu www.footballtransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-23T19:46:43+00:00",
-      "image": ""
     },
     {
       "title": "Are Man Utd genuinely in a relegation battle?",
@@ -626,20 +458,188 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-chelsea-wesley-fofana_7414745.jpg?20261123193045"
     },
     {
-      "title": "Eikenderveld (Heerlen) in de VIJFDE KLASSE. Trainer neergeslagen, supporter knock-out - GeenStijl",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhVkZ1TDVUbllkNjNTM1FOR2FXZkh2X3ZUcm1iZWdqV0MtZm5aNXBUNWtDOVVDanMxMHpnNVNqQzBjTUdXbi10Y3Bkc05IRGxBd0l2bG1BRW4?oc=5",
-      "description": "Eikenderveld (Heerlen) in de VIJFDE KLASSE. Trainer neergeslagen, supporter knock-out GeenStijl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-23T18:01:18+00:00",
-      "image": ""
+      "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo?at_medium=RSS&at_campaign=rss",
+      "description": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 25th managerial appointment on his watch.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T17:16:13+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5cb/live/6cddf170-cef5-11f1-93e1-3b657b665bcf.png"
     },
     {
-      "title": "Ajax-verdediger Dies Janse in beeld bij Newcastle United: transfer niet zonder gevolgen - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOEM5b3N5LXlfRzU1SjB1WlFVUHJROVgwQ3l6dnhFZXZHTEwzWUViX0ZtZjd6VlJWZllDZk9WVlJHREdTNkVIVW9SZGlwVnF5MGhGLThvQlhsODdnMGpXbWJaS29zNV9SU2hfbm84cjFDd3QyTlN1d0JzLWozMHp0WHI2bHNrNEpwd05LdmFvbkVKRE5PLTUtdU5OdmJMWG1xaF9uREVHX2U0Nm5vNUZrOGViRW9pOEFpaXJtdkpWRG9Za21Wbk9pY1JCMk1BbmVrOU16VG1PNzB0amRab19jRHJ3VHdMRFZ5OVlMTkZmbzg4Z2xhcVN3?oc=5",
-      "description": "Ajax-verdediger Dies Janse in beeld bij Newcastle United: transfer niet zonder gevolgen FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-23T17:57:48+00:00",
-      "image": ""
+      "title": "When is the Euro 2028 qualifying draw?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cklye3q3jvnwo?at_medium=RSS&at_campaign=rss",
+      "description": "Our Ask Me Anything team tell you all you need to know about the Euro 2028 qualifying draw.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T16:25:50+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a2e/live/e27eb270-e750-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "title": "Hibs boss Reedijk rejects talk of Easter Road jinx",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr78274gepz0o?at_medium=RSS&at_campaign=rss",
+      "description": "Hibernian manager Marink Reedijk rejects suggestions Easter Road is jinxed after going seven months without a home win in the Premiership.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T16:17:17+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/952a/live/c0010f00-e754-11f1-88dc-f746e0cde621.jpg"
+    },
+    {
+      "title": "What would relegation mean for Man Utd? Kaveh answers your questions!",
+      "link": "https://www.skysports.com/football/live-blog/11661/13615719/premier-league-qa-sky-sports-news-kaveh-solhekol-answers-your-questions-on-man-utd-liverpool-arsenal-and-more",
+      "description": "",
+      "source": "Sky Premier League",
+      "pubDate": "2026-11-23T16:14:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-kaveh-solhekol-ask-kaveh_7414639.jpg?20261123170845"
+    },
+    {
+      "title": "Rangers' McInnes wary of Frick's Aberdeen ahead of clash, live on Sky",
+      "link": "https://www.skysports.com/football/news/11095/13615718/rangers-vs-aberdeen-derek-mcinnes-ready-for-different-dons-challenge-under-mario-frick-live-on-sky",
+      "description": "Derek McInnes wants to strike the \"fine balance\" between consistency and using his squad during a hectic spell.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-23T16:03:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-rangers-derek-mcinnes_7414629.jpg?20261123164655"
+    },
+    {
+      "title": "I've wanted to crawl under a rock and hide - Pressley",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cre3d9j5k4n8o?at_medium=RSS&at_campaign=rss",
+      "description": "Steven Pressley says he felt embarrassed by Dundee's 8-0 \"humiliation\" by Hearts and that there is a \"fragility\" in his squad.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T15:31:57+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7c0/live/2d2107f0-e752-11f1-88dc-f746e0cde621.jpg"
+    },
+    {
+      "title": "'I've wanted to crawl under a rock and hide' - Pressley on Dundee debacle",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cre3d9j5k4n8o?at_medium=RSS&at_campaign=rss",
+      "description": "Steven Pressley says he felt embarrassed by Dundee's 8-0 \"humiliation\" by Hearts and that there is a \"fragility\" in his squad.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T15:31:57+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7c0/live/2d2107f0-e752-11f1-88dc-f746e0cde621.jpg"
+    },
+    {
+      "title": "IFA 'positive' over upgrades needed for World Cup",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crgqx3472depo?at_medium=RSS&at_campaign=rss",
+      "description": "The Irish Football Association's director of women's football Angela Platt says they are \"still working through\" plans with the Northern Ireland government to ensure there is funding available to make the necessary upgrades to Windsor Park ",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T15:26:23+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea9/live/8424c170-e74f-11f1-86cc-39a390efba72.jpg"
+    },
+    {
+      "title": "Raya to miss Dortmund game but injury 'not serious'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss",
+      "description": "Arsenal goalkeeper David Raya will miss Tuesday's Champions League game against Borussia Dortmund but his shoulder injury will not require an operation.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T15:23:09+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65dc/live/03482e80-e753-11f1-88dc-f746e0cde621.jpg"
+    },
+    {
+      "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+      "description": "The United Kingdom will host a football World Cup for the first time since 1966.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T15:09:50+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/042f/live/fe5449a0-e751-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Raya injury 'not too serious' says relieved Arteta",
+      "link": "https://www.skysports.com/football/news/11095/13615438/david-raya-injury-arsenal-goalkeeper-avoids-surgery-and-blow-is-not-as-bad-as-first-feared-says-mikel-arteta",
+      "description": "Mikel Arteta has revealed that David Raya's shoulder injury is not as bad as first feared, but is unsure when the Arsenal goalkeeper will return to action.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-23T14:00:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-david-raya-arsenal_7412827.jpg?20261121190915"
+    },
+    {
+      "title": "'You don't win 345 matches by defending' - Simeone breaks La Liga record",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o?at_medium=RSS&at_campaign=rss",
+      "description": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T13:07:12+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa0/live/1a7ae070-e726-11f1-914b-6d226d813a52.jpg"
+    },
+    {
+      "title": "Watford set to appoint former Romania boss Iordanescu",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj7523r0vrp0o?at_medium=RSS&at_campaign=rss",
+      "description": "Watford are set to appoint former Romania coach Edward Iordanescu as their new head coach, reports BBC Three Counties Radio.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T12:36:46+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d7/live/ff0018d0-e737-11f1-8294-033bd8ee7e95.jpg"
+    },
+    {
+      "title": "Merson: My worry is that Liverpool thought Alonso wasn't good enough",
+      "link": "https://www.skysports.com/football/news/11095/13615585/paul-merson-believes-liverpool-knew-xabi-alonso-wasnt-good-enough-and-were-seeing-it-play-out-as-chelsea-manager",
+      "description": "In his latest Sky Sports column, Paul Merson has raised doubts about whether Xabi Alonso is good enough as Chelsea manager - after another disappointing defeat in the Premier League.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-23T12:08:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-merson-says-premier-league_7414330.jpg?20261123112357"
+    },
+    {
+      "title": "Andreatta's masterplan to shock Sweden & take Scots to World Cup",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c94gn2mmjr4eo?at_medium=RSS&at_campaign=rss",
+      "description": "Scotland intend to bring fancied Sweden's World Cup dream \"crashing down - and do it in a truly Scottish way\", says manager Melissa Andreatta.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T11:49:40+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4463/live/b87bf390-e735-11f1-8294-033bd8ee7e95.jpg"
+    },
+    {
+      "title": "Mustaki out of World Cup play-off with knee injury",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw33g15zeemro?at_medium=RSS&at_campaign=rss",
+      "description": "Republic of Ireland defender Chloe Mustaki is forced to withdraw from her side's 2027 Women's World Cup play-off final against Poland after rupturing her anterior cruciate ligament.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T11:35:50+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a9/live/ae500e30-e72e-11f1-8294-033bd8ee7e95.jpg"
+    },
+    {
+      "title": "Every goal from the Women's Super League - matchweek 11",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cq8j4glgw4pvo?at_medium=RSS&at_campaign=rss",
+      "description": "Watch all the goals from matchweek 11 in the WSL, including Annabelle Blanchard's delightful volley against London City Lionesses and Lee Geum-Min's thumping finish for Birmingham City.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T09:34:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88ab/live/3959dbf0-e6b7-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Watch highlights of the weekend's SPFL action",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c6p3e4388lq1o?at_medium=RSS&at_campaign=rss",
+      "description": "Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T08:14:17+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"
+    },
+    {
+      "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
+      "description": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T07:52:55+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a7e/live/9a263a10-e698-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
+      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+      "description": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T06:17:59+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc61/live/ebf65340-e4f7-11f1-a8e4-b1e12a49db15.jpg"
+    },
+    {
+      "title": "Did Liverpool 'get lucky' with red card decision?",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
+      "description": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T23:59:59+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97fd/live/e0c07400-e6c9-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+      "description": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T23:20:16+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png"
+    },
+    {
+      "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+      "description": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-22T19:59:38+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c3/live/e536fa10-e69f-11f1-a094-5fdc692f3e33.jpg"
     }
   ]
 }
