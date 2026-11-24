@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-23T23:12:21.634730+00:00",
+  "updatedAt": "2026-11-24T00:05:58.140382+00:00",
   "articles": [
+    {
+      "title": "Who has made Troy's Premier League team of the week?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c34gn2p5d0zwo?at_medium=RSS&at_campaign=rss",
+      "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-23T23:26:35+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2b3/live/d71ba9d0-e78f-11f1-8e8a-577b415bb9af.png"
+    },
     {
       "title": "Key questions as Rangers host Aberdeen & Dundee visit Hibs",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqe9kvdr2mmyo?at_medium=RSS&at_campaign=rss",
@@ -95,7 +103,7 @@
       "description": "Keane Lewis-Potter’s first-half double set Brentford on their way to a comprehensive 4-0 Premier League win over 10-man Everton.",
       "source": "Sky Sports",
       "pubDate": "2026-11-23T21:30:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-keane-lewis-potter_7414779.jpg?20261123203120"
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lewis-potter-outarra_7414942.jpg?20261123231353"
     },
     {
       "title": "Man City latest: De Bruyne speaks for first time on club's guilty verdict",
@@ -146,11 +154,19 @@
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
     },
     {
-      "title": "Buitenspel: Wesley Sneijder speelt verrassende rol bij onthulling nieuwe Toppers - VoetbalPrimeur",
+      "title": "Buitenspel: oud-Oranje-ster duikt op in bijzondere video van De Toppers - VoetbalPrimeur",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcW9mZTJsdjRzcEktcjczdEZOVzRDTWVXWEM3blA5VGx6Z05WaThOeTZqYjNDdmQzNWF3S3FNb0lBUi1HUHlFejRoOE5YSXpLQ2h1ajRUa3cyZXJ2V2RzbUtkdlBRYThkdDdBX0Z5OTVZR1BLMGJOLUJXZTJUUXRnZ0ZpRDlZOGpGUnJUUmxOSHViSjBpaEpNREFOc3dyMnVPSjBHX3ZjeFcwQQ?oc=5",
-      "description": "Buitenspel: Wesley Sneijder speelt verrassende rol bij onthulling nieuwe Toppers VoetbalPrimeur",
+      "description": "Buitenspel: oud-Oranje-ster duikt op in bijzondere video van De Toppers VoetbalPrimeur",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-23T20:08:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bevestigde transfers van spelers naar Ramnicu - www.footballtransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90Y2M0VDZoaDhuU09rLWJXUzk5NkZseVFEOVlRYU1wQnFmVEtBQURrWEFadlQzSm1ZbUM4TnY5VDRxUzNndnhEZFMtcGZmZV94Y2pGTTNzamdWVjlhS01jUFVJdnNrdFQyek5JZTNTS1NCYkdkVEtldTl0MnA?oc=5",
+      "description": "Bevestigde transfers van spelers naar Ramnicu www.footballtransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-23T19:46:43+00:00",
       "image": ""
     },
     {
@@ -168,6 +184,14 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-23T19:37:00+00:00",
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-chelsea-wesley-fofana_7414745.jpg?20261123193045"
+    },
+    {
+      "title": "Eikenderveld (Heerlen) in de VIJFDE KLASSE. Trainer neergeslagen, supporter knock-out - GeenStijl",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhVkZ1TDVUbllkNjNTM1FOR2FXZkh2X3ZUcm1iZWdqV0MtZm5aNXBUNWtDOVVDanMxMHpnNVNqQzBjTUdXbi10Y3Bkc05IRGxBd0l2bG1BRW4?oc=5",
+      "description": "Eikenderveld (Heerlen) in de VIJFDE KLASSE. Trainer neergeslagen, supporter knock-out GeenStijl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-23T18:01:18+00:00",
+      "image": ""
     },
     {
       "title": "Ajax-verdediger Dies Janse in beeld bij Newcastle United: transfer niet zonder gevolgen - FootballTransfers.com",
@@ -274,12 +298,12 @@
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-kaveh-solhekol-ask-kaveh_7414639.jpg?20261123170845"
     },
     {
-      "title": "Eikenderveld (Heerlen) in de VIJFDE KLASSE. Trainer neergeslagen, supporter knock-out - GeenStijl",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhVkZ1TDVUbllkNjNTM1FOR2FXZkh2X3ZUcm1iZWdqV0MtZm5aNXBUNWtDOVVDanMxMHpnNVNqQzBjTUdXbi10Y3Bkc05IRGxBd0l2bG1BRW4?oc=5",
-      "description": "Eikenderveld (Heerlen) in de VIJFDE KLASSE. Trainer neergeslagen, supporter knock-out GeenStijl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-23T16:09:02+00:00",
-      "image": ""
+      "title": "Rangers' McInnes wary of Frick's Aberdeen ahead of clash, live on Sky",
+      "link": "https://www.skysports.com/football/news/11095/13615718/rangers-vs-aberdeen-derek-mcinnes-ready-for-different-dons-challenge-under-mario-frick-live-on-sky",
+      "description": "Derek McInnes wants to strike the \"fine balance\" between consistency and using his squad during a hectic spell.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-23T16:03:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-rangers-derek-mcinnes_7414629.jpg?20261123164655"
     },
     {
       "title": "I've wanted to crawl under a rock and hide - Pressley",
@@ -443,9 +467,9 @@
     },
     {
       "title": "Man Utd to appeal Yoro red card",
-      "link": "https://www.skysports.com/football/news/11095/13615539/manchester-united-to-appeal-leny-yoros-red-card-as-ex-pl-referee-dermot-gallagehr-casts-his-verdict",
+      "link": "https://www.skysports.com/football/news/11661/13615539/manchester-united-to-appeal-leny-yoros-red-card-as-ex-pl-referee-dermot-gallagehr-casts-his-verdict",
       "description": "Manchester United have notified the FA of their intention to appeal Leny Yoro's red card against Liverpool.",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-23T12:30:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413680.jpg?20261122164441"
     },
@@ -616,30 +640,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-23T08:09:49+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b1/live/8c3bb880-e6b1-11f1-99b6-a35a62fa4264.png"
-    },
-    {
-      "title": "Three years on NI Women finally have friendlies again",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm9q8vgqerlxo?at_medium=RSS&at_campaign=rss",
-      "description": "Michael McArdle tells BBC Sport NI of the importance of Northern Ireland having a double-header of friendlies against Greece, three and a half years on from NI's last friendly game.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-23T08:06:02+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2acb/live/5e320af0-e523-11f1-b32f-b1f1a32fbf0e.jpg"
-    },
-    {
-      "title": "'De Bruyne geeft groen licht voor spectaculaire transfer' - Voetbal24.be",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRktUTVJKM0pBdmRZeElsRmpRNlFJeDd3WG9ZYkZheXhpdUxEWGRjYld4WHE2RDJ0WExrdGpsd3VRM1RzQ2NIZXA3VXZ0Umgzb2VyZFUwLVRRTzljTDRnRE5OMU9QZnA4VlFHSl9OT2VBanA5Y29oSDNIdzNFRUxqaG84QV9GOVFzY3RDNGs5UQ?oc=5",
-      "description": "'De Bruyne geeft groen licht voor spectaculaire transfer' Voetbal24.be",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-23T08:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o?at_medium=RSS&at_campaign=rss",
-      "description": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-23T07:52:55+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a7e/live/9a263a10-e698-11f1-936e-1fd1d31671db.jpg"
     }
   ]
 }
