@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-24T22:16:04.034584+00:00",
+  "updatedAt": "2026-11-24T23:15:30.675137+00:00",
   "articles": [
+    {
+      "title": "Watch Tuesday's Sportscene highlights",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0034wbc?at_medium=RSS&at_campaign=rss",
+      "description": "Action and reaction to Hibernian v Dundee and Rangers v Aberdeen.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-24T23:11:04+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq92k.jpg"
+    },
+    {
+      "title": "Real Madrid top CL table as Bellingham scores stunner in thumping PSV win",
+      "link": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-24T22:26:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-jude-bellingham-real-madrid_7415775.jpg?20261124223221"
+    },
+    {
+      "title": "Poch cites Eze as he questions Barcola role in Szoboszlai goal - is he right?",
+      "link": "https://www.skysports.com/watch/video/13616207/mauricio-pochettino-questions-bradley-barcola-impact-on-dominik-szoboszlai-goal-and-makes-eberechi-eze-comparison",
+      "description": "Speaking ahead of his side's clash against Sporting Lisbon, Manchester United boss Mauricio Pochettino questioned Bradley Barcola's impact on Dominik Szoboszlai's freekick goal and made a comparison to Eberechi Eze's disallowed attempt from",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-24T22:18:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-poch-man-uited_7415789.jpg?20261124223850"
+    },
     {
       "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
@@ -10,7 +34,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5078/live/783a6be0-e848-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "EFL: Alexandersson offer Swans job with Iordanescu set for Watford",
+      "title": "EFL: Alexandersson offered Swans job with Iordanescu set for Watford",
       "link": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
       "description": "",
       "source": "Sky Sports",
@@ -42,6 +66,14 @@
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-west-ham-portsmouth_7415658.jpg?20261124210540"
     },
     {
+      "title": "Lankshear steers Boro back to the top of the Championship",
+      "link": "https://www.skysports.com/football/middlesbrough-vs-swansea-city/report/560693",
+      "description": "Will Lankshear was back among the goals as Middlesbrough cemented their position at the top of the Championship with a 2-1 win over Swansea City.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-24T21:35:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-will-lankshear-middlesbrough_7415667.jpg?20261124211457"
+    },
+    {
       "title": "Oxford beat Spurs U21s to seal EFL Trophy progress",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmx20qn1dqv2o?at_medium=RSS&at_campaign=rss",
       "description": "Aaron Ramsey's Oxford United beat Tottenham Under-21s to secure one of the final two Jersey Mike's Trophy knockout spots.",
@@ -58,20 +90,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d34b/live/8ee6d700-e840-11f1-a094-5fdc692f3e33.png"
     },
     {
-      "title": "'What were they doing? - Poch questions VAR involvement for Yoro red",
-      "link": "https://www.skysports.com/watch/video/13616124/mauricio-pochettino-questions-vars-involvement-for-leny-yoros-overturned-red-card-for-manchester-united-against-liverpool-what-were-they-doing",
-      "description": "Following Leny Yoro's overturned red card for Manchester United during their 4-0 defeat to Liverpool, Mauricio Pochettino questioned VAR's involvement in the Frenchman's dismissal.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-24T20:51:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-poch-man-utd_7415650.jpg?20261124205533"
-    },
-    {
-      "title": "Bellingham stunner helps Real Madrid see off PSV",
-      "link": "https://www.bbc.co.ukundefined/?at_medium=RSS&at_campaign=rss",
-      "description": "Jude Bellingham scores a stunning goal as Real Madrid come from behind to beat PSV Eindhoven and maintain their 100% start in the Champions League.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-24T20:48:46+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acb3/live/8cf665c0-e84d-11f1-99b6-a35a62fa4264.jpg"
+      "title": "Eredivisie-clubs opgelet: de 10 beste Moneyball-versterkingen deze winter - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRWYwUWJRQkdCM21vRjR4U2NNa1ZuYW1YSEFRQi1pT05OWG1NbU54LU5xMFhUdktQd1NjeEk2MktUbDBYdk9IaEsyTUpmekgzcDZhVm5FWW1qSzRBWDVVYkhmMVpQVm9QN0lLSG1yUE1vTTV4Z3FSWDJNeWdnWUZnRUh2R192Zjc0em9qQkVNY05oWUxPZ1gyUzNUUkhjNWllRVcwVXp0UFVBenhzWnBMNFIybWstV1NpcXFyV0xTbjRvM25YWFJpemRIcm1kUTh4MDZDT01Ya2ctOWZaYzM0?oc=5",
+      "description": "Eredivisie-clubs opgelet: de 10 beste Moneyball-versterkingen deze winter FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-24T20:49:00+00:00",
+      "image": ""
     },
     {
       "title": "Aston Villa latest: Emery's blunt response when asked about Garnacho absence",
@@ -88,6 +112,14 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-24T20:35:00+00:00",
       "image": "https://e2.365dm.com/26/10/1920x1080/skysports-cristiano-ronaldo_7372504.jpg?20261012222844"
+    },
+    {
+      "title": "Yudong Wang verovert Azië: wie is dit Chinese wonderkind? - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcHMxV0x0T09sRkEzeFVJTjJaclRhTWVHWWt2M0NqdkRqckh0UHplUFJkSkVBOHFGdmNDOHl2YzVxT1duaXBhN2FLUFZDaHYxOGVUZHBGNnBRbzdYRF9EMl80ZXBuQ2E5RDY3blNEZ0d0V05FQS0xTm5xczduampab1FiUFM0MzFCakN4QVo4dnpTaFJtUTVFSld3eTRVdHJweFhoc0J3aEVhWlpXaE9YNU9yb2FZb3RIOHpESTdmb1pVeWdQSzJrT0NUOXFXQk45MjMtZHJYUGU4RHBKUmhzbUM0NXh3VjNrS2k0Q3ZR?oc=5",
+      "description": "Yudong Wang verovert Azië: wie is dit Chinese wonderkind? FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-24T20:01:42+00:00",
+      "image": ""
     },
     {
       "title": "Transfers LIVE. Doku naar Bayern, publiekslieveling weg bij RSCA? - Voetbal24.be",
@@ -114,20 +146,20 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
     },
     {
-      "title": "Man Utd latest: 'What were VAR doing?' - Poch fumes over Yoro call",
-      "link": "https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-24T19:43:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-premier-league-manchester-united_7403807.jpg?20261111114625"
-    },
-    {
       "title": "Villa beaten late on at Galatasaray as winless run continues",
       "link": "https://www.skysports.com/football/galatasaray-vs-aston-villa/report/577673",
       "description": "Aston Villa's winless run extended to six games as a late Deniz Gul's header saw them beaten 1-0 by Galatasaray in the Champions League league phase.",
       "source": "Sky Sports",
       "pubDate": "2026-11-24T19:40:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-galatasaray-deniz-gul_7415608.jpg?20261124194142"
+    },
+    {
+      "title": "Amateurvoetbal Overijssel: transfers en trainerswissels seizoen 2024 - Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRVB0SWVETFljNDNMQVhXRkpmNVBjOGJPNVlTcFFxTjNNelVFdDhnVTZWaHNjdWI3Z1JLbV9MTndoQ191b3h4a0czLTY0LVBDQmRwX1V3Z2xrcEtZb3pvOV9qdnE5REtWLWFEcGFjSkN3aVdKbThXdVlaeVZBS202RllaVTBOdGxfTTV4UHZWbDdtdXJXVTY4clhR?oc=5",
+      "description": "Amateurvoetbal Overijssel: transfers en trainerswissels seizoen 2024 Head Topics",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-24T19:37:00+00:00",
+      "image": ""
     },
     {
       "title": "Boro win to go top; West Ham beaten by Portsmouth - EFL highlights",
@@ -138,14 +170,6 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-middlesbrough-fc_7415722.jpg?20261124215515"
     },
     {
-      "title": "Rangers hold on to beat Aberdeen LIVE!",
-      "link": "https://www.skysports.com/football/rangers-vs-aberdeen/live/578619",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-24T18:30:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-rangers-ryan-naderi_7415666.jpg?20261124211455"
-    },
-    {
       "title": "Liverpool latest: Wirtz explains how he has hit 'best form' since joining",
       "link": "https://www.skysports.com/football/live-blog/11661/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
@@ -154,27 +178,19 @@
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-liverpool-club-blog_7326701.jpg?20260820165421"
     },
     {
-      "title": "West Ham latest: Hammers monitoring Heaven's Man Utd situation",
-      "link": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-24T18:02:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-efl-championship_7395604.jpg?20261103095817"
-    },
-    {
-      "title": "Arsenal draw with Dortmund LIVE!",
-      "link": "https://www.skysports.com/football/arsenal-vs-borussia-dortmund/live/577669",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-24T18:00:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-arsenal-bvb_7415620.jpg?20261124201939"
-    },
-    {
       "title": "Club Brugge verrast met groot transfernieuws - Voetbal24.be",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORVZodURlQnNQS2MtUXlEd1NmcGdnOXRfdUEzeXd2MnY1ckkwSzBmU3VCTkJzMG12bXdPb3hQcVJrNVUtYzNadkNtbjdLODVMSXlaYjBadEZteFRQZUIwS0tubDBRZi12UWx4MXZnRkw4T2c3NkVaZVUzY3JSYzVTZQ?oc=5",
       "description": "Club Brugge verrast met groot transfernieuws Voetbal24.be",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-24T18:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Knokke vervangt Ruud Vormer door Dennis van Wijk: ervaren trainer keert na meer dan 30 jaar terug - HLN",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNEstRHZ5bE1DNE5nUmdiRTJCcmlmLVNfUE51WHh3ajBhS3dXWGZlMWZlLXRHb0NUeTE3YnJyallWU3B1d0VGdUU0WW9hU2h3YnRnOFo1SmMxOG1oeUtDQWI2YTRYeFd3c1Bwc19TTmdEVFkxRUwxQnpKdWRwb09xdVJuTUpORTUxVHhVek05QUtxYWlCQlNFTmF3cWpFbkhPenBvMEh3dGt3RTh0bmloWmJIOG1ieG9hTjRCZ2gtZGlZMnZ5TE5oUmpfVWlyb2FWMmxqU1ZxNGhhems?oc=5",
+      "description": "Knokke vervangt Ruud Vormer door Dennis van Wijk: ervaren trainer keert na meer dan 30 jaar terug HLN",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-24T17:54:00+00:00",
       "image": ""
     },
     {
@@ -202,6 +218,14 @@
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-alexander-isak-jurrien-timber_7403744.jpg?20261111105128"
     },
     {
+      "title": "De trainer van PEC Zwolle stuurt langzaam bij en roept hulp in van ‘verslaafde’ specialist - de Stentor",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVHBmTm9uaGdpMW1FOWpRRG83TWQ1XzFYZEtuQkw0S09TQVdVb0diZ0Y3R2FfRnlscVd4b2dOemFSTGxxckdtZFJsYzVWb1Frd0lQdmptSF9peTdSS0t3cEVQeWtSQnRYSjZmMTdNVm90OTZxcHFKSDZ0MWRoU3VNYktnWXl6OGtrZmZ5MjZtcFpTZENzXzNobkFEd0JtN2VVOGFTS2xIbkpSVGhlUjBMdTh4N1dncWZqbGpGckZkdXA5NGVwb0lBNTVjbHRZWFk?oc=5",
+      "description": "De trainer van PEC Zwolle stuurt langzaam bij en roept hulp in van ‘verslaafde’ specialist de Stentor",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-24T17:01:03+00:00",
+      "image": ""
+    },
+    {
       "title": "Yoro red card overturned, but refs' chief Webb backs decision",
       "link": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
       "description": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
@@ -216,14 +240,6 @@
       "source": "Sky Sports",
       "pubDate": "2026-11-24T17:00:00+00:00",
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-leny-yoro-alexander-isak_7413691.jpg?20261122165102"
-    },
-    {
-      "title": "Listen in! The VAR audio that supported Yoro's red card decision at Anfield",
-      "link": "https://www.skysports.com/watch/video/13616024/match-officials-micd-up-the-var-audio-that-supported-leny-yoros-red-card-decision-at-anfield",
-      "description": "Speaking on Match Officials Mic'd Up, Howard Webb and Michael Owen take a look at the VAR process from Anfield after Leny Yoro was given a red card in the eighth minute.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-24T17:00:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-var-micd-up-football_7415422.jpg?20261124154655"
     },
     {
       "title": "Yoro red card overturned after successful Man Utd appeal",
@@ -282,12 +298,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23be/live/b56694d0-e807-11f1-95bb-3f37d3e026b0.jpg"
     },
     {
-      "title": "Could Man Utd really be relegated this season?",
-      "link": "https://www.skysports.com/watch/video/13616010/explained-could-manchester-united-really-be-relegated-this-season",
-      "description": "Sky Sports' Ron Walker takes a closer look at whether or not Manchester United being relegated is a real possibility this season.",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-24T15:08:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-walker-pochettino_7415397.jpg?20261124151712"
+      "title": "Zo wil PSV-trainer Peter Bosz zijn aanvallende visie tegen het Real Madrid van zijn tegenpool José Mourinho testen - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTnFpb1FiNTU4SlNxaFN1TmlpNmVJMEdzMXlyMUp5d2d2ZkVlbmtyTEJhQ0hobUcyb3RCaVNXWnh2REl3a0FRN3dLYnh4a2RKNEViZnVrcFY3SlBCa3Y5ajltSUJ5OUdlak80clh0Q1h4YkVtd2Z0NGxuVFByOVphV2ZLUE45WnlHbmxUS3k3cERWWmdaSm9RMExQUFlEOHZBQVBFMVBiSXNjOTFQQ0JtLWk1aHpaTERUd3pVWVpzYlEydF80UTdmOVhKR0pLZVo5WTdkVkZaTGFMbkFjOFdRRjJibU1BSmJmT2tSNThPSnhsUjVJdi10RDQ4OFk?oc=5",
+      "description": "Zo wil PSV-trainer Peter Bosz zijn aanvallende visie tegen het Real Madrid van zijn tegenpool José Mourinho testen De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-24T14:31:00+00:00",
+      "image": ""
     },
     {
       "title": "Millwall face partial stadium closure after discriminatory chants",
@@ -306,6 +322,14 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-sadio-mane_7415365.jpg?20261124145012"
     },
     {
+      "title": "Enkel Engeland doet beter: de weergaloze Belgische prestaties in Europa - en de ongeziene vetpotten - Voetbalkrant.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN0tRYldIa012ZjVNQXpITlJZYmloX1BHOFRLYkpyOV9uZW1GVkVZRWVLeFhfSFJTeFJoZFZJb2pZcFNyUHJ4a0NSX3NjdnJqcXI4LWJnQmJiSi1iV1RxWUNyOGNHTzFhTktRcUR1OUhqbjZnM3VwT3FNZVJwZFRpTk1rcVNCaFo2ck1MX2JrLTRWR3dwTEcwUlk5d0s1RDgtWUhmTDZBZVpIUGhoQmttekhJZXZhWVpqWXRhZWR6SC1DV1IxOEN6Y2E2NzZpWEswTUk0WDNVRi1lUUHSAeABQVVfeXFMUDV6UmJrOHZySDRqY3IyU0h5WTFzVkl0ZWFiLXJKanlGbkhjSGt2alpEWXRxaEZONzR1Sk5rWWlWZko5QkYxemdxUHhtSktlTmJ4bVFDTm1xMFJfc0hPM3ZlbzlCNzZCczlUYkxUdVdSSTYtY202REszaEdHTUsxVmdjNkgzQjVHNU5kQm1NdEpvNTM0X2RrZFdqT3NqSExpQ0xIVjF0WjY2aXhCNkJyVmVoZ1puS2NoTS16UVVMOUJXZFpwN2Y1SUZVbHFwSVJobnJTYmhWOU4zVUJER0ozaFE?oc=5",
+      "description": "Enkel Engeland doet beter: de weergaloze Belgische prestaties in Europa - en de ongeziene vetpotten Voetbalkrant.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-24T14:00:00+00:00",
+      "image": ""
+    },
+    {
       "title": "SFA leads tributes to former president Peat",
       "link": "https://www.bbc.co.uk/sport/football/articles/cwz0kd0zjvkmo?at_medium=RSS&at_campaign=rss",
       "description": "Former Scottish FA president George Peat dies at the age of 86.",
@@ -322,20 +346,20 @@
       "image": ""
     },
     {
+      "title": "Mike Elko (Texas A&M) - Bio, statistieken en nieuws - 365Scores",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlS3VDMXBDSVB4Q2NaY19aSkxVNjVSQWhYa2FHS0tnYnI2RmJaS0hYX0pMbkJaRC03M1UzUW9rNVUwRjZyRlFRMnhJR1c0dGJzbWNUc25vTWVTd1J1ZEZPS0wzMERmNmQxbl9HQ1VqSEpRWmx0Tnc?oc=5",
+      "description": "Mike Elko (Texas A&M) - Bio, statistieken en nieuws 365Scores",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-24T13:27:13+00:00",
+      "image": ""
+    },
+    {
       "title": "'Weergaloze transfer voor Jérémy Doku' - Voetbal24.be",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRcG5FbDd3QkdUbmFJZUZYS05Ra2F5VGZjZl9wVlhNaXN5engtZzBWYWJWQ1V0VzVhd2M1WUtJSThuVEJaZzJnRW5VRGdNUWJMMG9ZVE9hanZ5WU90dzZ0RC0zRHFuV3hpd3VPYU1adTNJQXVTNlE?oc=5",
       "description": "'Weergaloze transfer voor Jérémy Doku' Voetbal24.be",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-24T13:00:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Cherki finds late leveller for Man City against Napoli LIVE!",
-      "link": "https://www.skysports.com/football/manchester-city-vs-napoli/live/577674",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-24T12:40:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-rasmus-hojlund-scott-mctominay_7415698.jpg?20261124214234"
     },
     {
       "title": "Live. Transfernieuws 24/11: Essevee polst bij Matton - Voetbalkrant.com",
@@ -354,14 +378,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da19/live/dba64620-e7ff-11f1-99a1-253766e7ad8b.png"
     },
     {
-      "title": "Kaapt Saoedi-Arabië straks alle topspelers weg? Competitie praat over versoepelen quota buitenlandse spelers - De Telegraaf",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc0hBTnYxR3A3U3lkZlFTWTV5WEVOdGx2Z3BtOWJ2dEJSb1Y3UER4dWVGM2tJTEF4bUUzNHZicXQ3SkRDakRXdDBGMVJZM1RoWmxNNndldENTRTRIbURoRjVORlc1Yk9wQ2RRTkJ2YW9oNC1PbTRfV3otRnNtR2swN2dSd0Flc2NKdUZlQ3c5THBzY3VZSDFqMkdmUlVHc09tZTdKa205WEtNY3NyaHRkZTZSS1ZDT0ZnOHFycVViWkxnVHZoRmFpUGpITUh0QW5udHk1NnJsSkZCTTVja1dZZFVTNGZTMnpoLUQzamhyXzM2clk?oc=5",
-      "description": "Kaapt Saoedi-Arabië straks alle topspelers weg? Competitie praat over versoepelen quota buitenlandse spelers De Telegraaf",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T12:25:45+00:00",
-      "image": ""
-    },
-    {
       "title": "Palace docked points for using four sub windows in WSL win",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
       "description": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\".",
@@ -375,7 +391,15 @@
       "description": "Rayan Cherki’s late strike salvaged a 2-2 draw for Manchester City at home to Napoli in the Champions League but Enzo Maresca’s side again struggled to find their fluency.",
       "source": "Sky Sports",
       "pubDate": "2026-11-24T12:09:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-rayan-cherki-man-city_7415750.jpg?20261124220643"
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-rayan-cherki-man-city_7415764.jpg?20261124222209"
+    },
+    {
+      "title": "Antwerp bestormt de transfermarkt - Voetbal24.be",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvWEhWN0VxTU9aaE1vdDVqMFJOSFdTZ2Zodmw4TG93N04xQUtBdlc1ZVdEVk14WlRvVzA0UXg3MW9HZERRYkhqcm1wbkxoaWRLTFB4SkpUdU9Qb2N1MVRuU2k5c1pxZ2RTalVzUGdGeHQ5dw?oc=5",
+      "description": "Antwerp bestormt de transfermarkt Voetbal24.be",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-24T12:00:00+00:00",
+      "image": ""
     },
     {
       "title": "PSV-spits Ricardo Pepi in beeld bij Bayern München als vervanger Harry Kane - FootballTransfers.com",
@@ -383,14 +407,6 @@
       "description": "PSV-spits Ricardo Pepi in beeld bij Bayern München als vervanger Harry Kane FootballTransfers.com",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-24T11:54:39+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bevestigde transfers van spelers naar Scandianese Calcio A.S.D. - www.footballtransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlBwVlJ1M0hKXzhVdlFOZjdWS1FIVDRlUmszb2JlcXhkOExScXlRQkF2QkR0YzJfekxYRzNJbjNWNFJueGZrRFBZalk0bE5tbjNrQ05tdnBtYThRelBHYVVQeEt4dmE0UlJILXB5andZLTYzSlVONjB2cmZZY2o0MTJvOVBaZjJuN1FyVjRxcU8?oc=5",
-      "description": "Bevestigde transfers van spelers naar Scandianese Calcio A.S.D. www.footballtransfers.com",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T11:40:56+00:00",
       "image": ""
     },
     {
@@ -416,14 +432,6 @@
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-24T11:22:12+00:00",
       "image": ""
-    },
-    {
-      "title": "Republic of Ireland boss Ward signs new contract",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn31z553go?at_medium=RSS&at_campaign=rss",
-      "description": "Republic of Ireland manager Carla Ward signs a contract extension until the conclusion of the side's Euro 2029 campaign.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-24T10:45:30+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc8/live/272a6460-e7e6-11f1-8b26-c1adae33e7f2.jpg"
     },
     {
       "title": "Leeds latest: Tanaka close to signing new contract",
@@ -506,6 +514,14 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d056/live/5df5ba70-e5c1-11f1-a188-ff49e70cc466.png"
     },
     {
+      "title": "PSV-trainer Peter Bosz verrast door tennisicoon Rafael Nadal - Sportnieuws.nl",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQkN4UzQ5RzktbGhmNWZ5MkxET0NZV1V0bDhkNW9MVmZLN3k4RGxRVVFIZTZKRzgwbHk2Q2p0RDI2WUs4cXlxMW1oN3BTMWZtbXFua0Y1a0x0T0F5NDZ2UjBhZm9QczIwbHkzTGRUVGR0dWl6WnZXblNtY3NWOFlQMVlDSVBLeTdWVEF6RURTaHhNc0QxQW56OTJnT0hxLVdjeGhrS3NCa183Y2dxM1VnU0ZZYUgwZGNqYVFoZklkZnlaNWtOdGNrYkdR?oc=5",
+      "description": "PSV-trainer Peter Bosz verrast door tennisicoon Rafael Nadal Sportnieuws.nl",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-24T08:01:06+00:00",
+      "image": ""
+    },
+    {
       "title": "Podcast: Hibs & Dundee hurting as confidence grows at Rangers",
       "link": "https://www.bbc.co.uk/sounds/play/p0ppl6tf?at_medium=RSS&at_campaign=rss",
       "description": "Can Dundee respond to 8-0? Hibs chase a rare home win and Rangers turn up the heat.",
@@ -514,19 +530,35 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppl6v6.jpg"
     },
     {
-      "title": "Arsenal latest: Carragher backs Gunners duo to become best Prem CB pairing",
-      "link": "https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Arsenal latest: Unbelievable we didn't score more against Dortmund, says Arteta",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
-      "source": "Sky Premier League",
+      "source": "Sky Sports",
       "pubDate": "2026-11-24T07:50:00+00:00",
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
+    },
+    {
+      "title": "Quiz: Hoe goed ken jij de Nederlanders bij Real Madrid? - Helden Magazine",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOXlSbnpFWXVBUEgyd1ozREN2RVk0OHk0cEhIZDI5Y2laczFDeTdLckl5M1p0ZjNneVQyTVlBSnRCU200TVNvZzN5VmJKZnBYUk9RVnNDYTZTaElSWTlfdXFsTDd6WG5iV3NSbERlRnc1dElTU0NWWk03N2lQSjJoTnhXMHpTdw?oc=5",
+      "description": "Quiz: Hoe goed ken jij de Nederlanders bij Real Madrid? Helden Magazine",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-24T07:27:43+00:00",
+      "image": ""
     },
     {
       "title": "Jong FC Utrecht verdwijnt uit betaald voetbal bij degradatie hoofdmacht - FootballTransfers.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOHNud2R1aU1uNzhlbS1LdWhzempteXRra2plX09VdXBpVmNiczY5TGVQOWp0bnFQMXBjZjgxUXJpdk12RTFiaGRKWHU1Zk9nNXVFekRWbnpsU3hfbDB4VVRvOEtuT0tORk5QN2MzV1owMVJINWFaTF9tU2JwQVpKcmdPNUFyMVp2QVdYb0xuVXFOaklRUzg1OHJJSEV4VmxhTW5tVGRwbnJTY0hVWVNyMmRLb3JaUnZrNjBVS1pDRnBPNmRFVDhxWnA5ZWo0OHNZSmpFaFE1Y0lMS2tZeVE?oc=5",
       "description": "Jong FC Utrecht verdwijnt uit betaald voetbal bij degradatie hoofdmacht FootballTransfers.com",
-      "source": "Google Nieuws Transfers",
+      "source": "Google Nieuws NL",
       "pubDate": "2026-11-24T07:19:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "'De Bruyne zou goede combinatie met hen zijn bij PSV, dat wordt levensgevaarlijk' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHZlYVJpcTAxZlN3M0otTy12c29NT21CYkctVkR0VUN5ZWhfZGlJLWhqZ0RneXVpWVNuWVlsTnBCWU9DcFZFUTJ1NV9wN2R2cWVVSVlKbUI2N09hNElUd25idk13c1pQVHNXS1VlMXQzWDFFUUdfczJxZ1VyVUkzRVJkempHTXhrNHdXR1B2Y090S3RlOUFaTmFOYlR6T196dmhLMWtkSEx5TmtWeHdkRmVCVmlLUzg?oc=5",
+      "description": "'De Bruyne zou goede combinatie met hen zijn bij PSV, dat wordt levensgevaarlijk' VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-24T07:15:36+00:00",
       "image": ""
     },
     {
@@ -562,20 +594,36 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a18/live/c4779660-e5bc-11f1-a188-ff49e70cc466.jpg"
     },
     {
-      "title": "FC Utrecht heeft met Mark Otten stiekem ideale trainer al in huis - FootballTransfers.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcF90T2FHWTQ2b0ZORXdPQXBJNFBvMElJdDZGenR5aEVSUWMwX0d5U3hQR1ZBcTFMUDk4Mk5JU3V4bUwydGFWZktibFBzQWd2N0FVeWNZaUlsSTM3bzRBcnpGTnU3X3c3ZnJ2VzdzWlJ6LWZxeUN2cTRQd0FLTFBUcGlnd05yTUNhanZYcExJMXpfS3Fnbm5OVTZ3dG1kdVZrN19RcElURkdienJuWDZSTjBjWWNydDlEOF9FQ1ZleElBQnk1Sjl3b1Y0T3RtenZYckxUZ1NR?oc=5",
-      "description": "FC Utrecht heeft met Mark Otten stiekem ideale trainer al in huis FootballTransfers.com",
+      "title": "DOSSIER: Transfers wintermercato 2026/2027 België JPL - VoetbalBelgie",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pWFhJXzlFUUtZOVFoTk5iMEpncm1PQmtoU0dRN2N3b1RqWkQxZEUyYlpKSEFqZ3NodG40QTJKZzlTNjRBSnBDcGxscEdPUnptNllxdGFZN3MxcW1IemowcVNibWc1SnVndWh0c1VjMVU4TFVIRXFN?oc=5",
+      "description": "DOSSIER: Transfers wintermercato 2026/2027 België JPL VoetbalBelgie",
       "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-24T06:13:56+00:00",
+      "pubDate": "2026-11-24T03:31:53+00:00",
+      "image": ""
+    },
+    {
+      "title": "FC Utrecht trainer ontslagen: wordt Mark Otten hoofdcoach? - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOVGxjaG5mUXA2VFBzdTBVVjNMSWlrR0RScjdsWURnN1V0RzZNWC1LYzRCbm0xbnFXVmN5UDhiZnltNUVTeXNRUDBXLTcxdktveEo1dXJHbkY5ZENNYnNfaXFyakIwSVM4TGkxWmk3c1FpR2NheEZHS2d5V19kNjlBNHRJSzZjblBSWFE0SV8tSmhtSXBhcExsSkNNTk40eFZBTjNyNlVZQzBUSTY5TC1rWkRKMTJqdlRrck9SWlFDemptM0dOX1pYTHhYNVlUQVdiNFFRS2RRVE1nX3dOX2Z3TWxUMzM1VG9feDAwYjM3VnpQUVNEMEVKZVZlUW9DQjB2bzNuU3oteGM0TEU3allQai1Sb3NVUQ?oc=5",
+      "description": "FC Utrecht trainer ontslagen: wordt Mark Otten hoofdcoach? De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-24T01:00:00+00:00",
       "image": ""
     },
     {
       "title": "Vitesse in diepe crisis: nieuwe transfers falen en nederlaag tegen De Graafschap zwaart aan - Head Topics",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1pPLWtuSjNwUmtvZERJRTIzTVZKWWJ0QU1PNnAzeVE4QXhZdmVkS3VJSHNYd05yLTJHc3FQaXRESDFTVnhJWWZmaEx5T29sdERKSkU1T3pHbFNIOGJGN3IyOXVCWjFpbUZXdGYxaDV2THBXNWVEZFd1WnJfRGpBeHp3bHlacFN0TGxYb1NkMTB5eUk?oc=5",
       "description": "Vitesse in diepe crisis: nieuwe transfers falen en nederlaag tegen De Graafschap zwaart aan Head Topics",
-      "source": "Google Nieuws Transfers",
+      "source": "Google Nieuws NL",
       "pubDate": "2026-11-24T00:33:00+00:00",
       "image": ""
+    },
+    {
+      "title": "Everton latest: Moyes unsure over Tarkowski appeal with Liverpool up next",
+      "link": "https://www.skysports.com/football/live-blog/11661/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "description": "",
+      "source": "Sky Premier League",
+      "pubDate": "2026-11-23T23:02:00+00:00",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
     },
     {
       "title": "Andrews praises 'versatile' Lewis-Potter",
@@ -592,54 +640,6 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-23T22:54:51+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6ae/live/3f15c680-e78e-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
-      "description": "Everton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-23T22:43:39+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1142/live/d8901070-e786-11f1-9baa-c1f9a8f8c840.jpg"
-    },
-    {
-      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
-      "description": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-23T22:31:27+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/41e45e90-e788-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Lewis-Potter scores twice as Brentford thump four past 10-man Everton",
-      "link": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
-      "description": "Keane Lewis-Potter’s first-half double set Brentford on their way to a comprehensive 4-0 Premier League win over 10-man Everton.",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-23T21:30:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-lewis-potter-outarra_7414942.jpg?20261123231353"
-    },
-    {
-      "title": "Man City latest: De Bruyne speaks for first time on club's guilty verdict",
-      "link": "https://www.skysports.com/football/live-blog/11661/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-23T21:10:00+00:00",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453"
-    },
-    {
-      "title": "Hosting World Cup means decade of excitement - Weir",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo?at_medium=RSS&at_campaign=rss",
-      "description": "Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland.",
-      "source": "BBC Sport",
-      "pubDate": "2026-11-23T21:03:42+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1560/live/65c426e0-e780-11f1-8707-dd4660fa8d9d.jpg"
-    },
-    {
-      "title": "Chelsea latest: Carra explains why Fofana-Colwill partnership 'will never work'",
-      "link": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-23T20:18:00+00:00",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
     }
   ]
 }
