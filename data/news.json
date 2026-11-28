@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-28T11:07:22.422970+00:00",
+  "updatedAt": "2026-11-28T12:04:03.728524+00:00",
   "articles": [
+    {
+      "title": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss",
+      "description": "Cole Palmer's dip in form mirrors Chelsea's recent slump and his frustration was evident after his side's recent defeat against Leeds - but will he ever get back to his best?",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-28T11:53:00+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc45/live/56fecdd0-e8da-11f1-a3b9-79c60ec9ab33.jpg"
+    },
+    {
+      "title": "Digi Sport Voetbal Programma Vandaag (Romania) | All Football - 懂球帝",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tRXRjYmRsSE0tZmdrYWhGWE1YVjNnN09mZEVWbkplUlFVejBGLUdSM01ZSzA5SUE0NkhiWVpwQ0l4UXUySXJNbFpILU1DNk5JbXlBS1VTb29LZzZyR3c?oc=5",
+      "description": "Digi Sport Voetbal Programma Vandaag (Romania) | All Football 懂球帝",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-28T11:49:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "FPT Play (VN) Voetbal Programma Vandaag (Indonesia & Vietnam) | All Football - 懂球帝",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kMVA4Vk04cm5Va0lsdmxjNm8zUTZkcWE0Q1p1N1JoV2RHNEFvZDNvcVZnVnh6QnFPOFZRaTdzTzRsR19jRGN3RTZOV2tKczhVVG5VbzIxQUxlcTZPaGpCaQ?oc=5",
+      "description": "FPT Play (VN) Voetbal Programma Vandaag (Indonesia & Vietnam) | All Football 懂球帝",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-28T11:49:38+00:00",
+      "image": ""
+    },
+    {
+      "title": "Prima Sport Voetbal Programma Vandaag (Romania) | All Football - 懂球帝",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xLTFLcW9mTlZpall1ek9vcTI1QmtJNzViYm5mY0tYOF9DNWRaSWY4NTVkSGRfYWVORFQyQWNyYldrQnZqc2dzZUlqbndwYlB5RXhBZVFHd1gtMzBnUExv?oc=5",
+      "description": "Prima Sport Voetbal Programma Vandaag (Romania) | All Football 懂球帝",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-28T11:49:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Voetbal op TV (Romania) – Digi Sport, Prima Sport Programma | All Football - 懂球帝",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96bW1nU1dHaHNMNld1SXRKbXgxc0RpQ1ljRmliVEhYRlc1NHJNWEpMMlowOW1Ja2lhazd1VExCWU0xX2Vwc3l3elRjUTNpODA?oc=5",
+      "description": "Voetbal op TV (Romania) – Digi Sport, Prima Sport Programma | All Football 懂球帝",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-28T11:49:32+00:00",
+      "image": ""
+    },
     {
       "title": "Transferrecord verbroken bij Club Brugge - Voetbal24.be",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rakJOcVphdVZfZHRta0hId1JpOFZQYlJMUnBVSS1NQ2RRTVgtNzcwZFZYMmFTalp3ZDFENlJXX2tZZ0kyMVJfYlhBaUdzNkVYZzJ3R094V05RSFozUWdMX0pKMnJuZks4X3ZpT2xMMnM2Zk5tNGNBSmNPZw?oc=5",
@@ -8,6 +48,14 @@
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-28T11:00:00+00:00",
       "image": ""
+    },
+    {
+      "title": "EFL LIVE! Preston vs Norwich one of seven early games!",
+      "link": "https://www.skysports.com/football/preston-north-end-vs-norwich-city/live/560707",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-28T10:54:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-efl-championship_7415150.jpg?20261124105154"
     },
     {
       "title": "Man Utd trigger Fernandes' one-year contract extension",
@@ -34,19 +82,19 @@
       "image": ""
     },
     {
+      "title": "Adelgaard eerlijk over FC Twente-transfer: \"Dat heeft geholpen\" - Twentefans.nl",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaGJCRXI1b05JYWVOMHJEaGVQSDZSR05LUDAzdEdZSF9yOWhWRGVsSDlyM3N2ci1wZmZrVUFMTklLQmlOalNBNVJTd015NGdaRjdTYWhzX2dYQWpXTlhQWkhKLTZkMWVxM2hEVXNNME92bUxaVVIwT0VaVXhYU1dHWjF4NU1tUkI5TXRKOWNGalg?oc=5",
+      "description": "Adelgaard eerlijk over FC Twente-transfer: \"Dat heeft geholpen\" Twentefans.nl",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-28T09:44:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Plat haalt zijn gram: 'Dezelfde mensen hebben het nu over Europees voetbal' - VoetbalPrimeur",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkNBOUtqUWRxZVV6eDd4cWx3eDcxX3FfWWJDaDhyLU1uckJuNTdaNzZOaENDT3lUYVNzbkFHbUdfTlJ3THpwSHJ5U25fRXhjZHlZUU9yWmR6MzFCRWxSRnQ5YTVnNXdvN3Q3M0h6SWVEYXYzVmFMU1ZUenBKWHhqbXMzUk12TllPZncxazc4dXROLXJfUFB0ZDdzM1pLWkE0?oc=5",
       "description": "Plat haalt zijn gram: 'Dezelfde mensen hebben het nu over Europees voetbal' VoetbalPrimeur",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-28T09:31:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Terugkeer Paul Wanner komt als geroepen voor PSV-trainer Peter Bosz: middenvelder spot met fysieke wetten - De Telegraaf",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOc1VjT3kzb2drbTMtZGNGWWFiY0xwdGN5T1kxamdmMTFWWWRKN2pHT0dLSkZ2NXpMNW53MTFaQWh0UlZYR214MGE4aGs3anpnUGh0UF9iWFRJd01ucmdhZnNyQk1rRm5idzVBVk81TkdtazlSOTlCMW10cnZVVzZHVHAwUWd1amc3a3VUWTdjLWg1THpIU0ZnSWM0cE52YUFGcDVhRUd3NHVJWGY5Uy1tdG5VRGdWQ2Vrb2I3cGRwVnZCODlySDhjNmFseDhlUDVjcTk2WVJyOF9WeTNJNHVWd3p6LWpmV2h3ZkVrSVB3Yw?oc=5",
-      "description": "Terugkeer Paul Wanner komt als geroepen voor PSV-trainer Peter Bosz: middenvelder spot met fysieke wetten De Telegraaf",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-28T09:01:00+00:00",
       "image": ""
     },
     {
@@ -72,14 +120,6 @@
       "source": "Sky Premier League",
       "pubDate": "2026-11-28T08:25:00+00:00",
       "image": "https://e0.365dm.com/26/08/1920x1080/skysports-everton-club-blog_7326698.jpg?20260820165259"
-    },
-    {
-      "title": "FC Den Bosch-trainer over wissel Monzialo: ‘Niet gelukkig met zijn prestatie’ - Brabants Dagblad",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkFsYzVGa1JLd2g1eU5NaWEtUE9BVDRuMmtBZW9ISUVNbnhBQS1admVPa2NfTzI3UVdLaFdZWGRUUWFJaHVHV3pxRkkzRG5qSVViUmFZeU04LVhiQW5hU3NYbUprOXlfWTM0MFJnMTFkUWVQSmRKWFZYVC04cDY3T2dSMWhBRm5DbWJ4RkYxU2VQNmpXc0h0NXZKeURGeklUa3luajEyX0lMdFBkSGJtQVZOMmx0dw?oc=5",
-      "description": "FC Den Bosch-trainer over wissel Monzialo: ‘Niet gelukkig met zijn prestatie’ Brabants Dagblad",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-28T08:23:51+00:00",
-      "image": ""
     },
     {
       "title": "PSV meldt zich voor transfer Ardon Jashari van AC Milan - FootballTransfers.com",
@@ -170,14 +210,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5321/live/168241f0-e98a-11f1-9d1c-4dcc8fcde666.jpg"
     },
     {
-      "title": "Johan Hoste wordt trainer van nieuwe club Bredene United - Nieuwsblad",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLVZNTDU5VEExSWk1NEs2aFBpQmJ0RVFIX0FEYS1mRGllSjk3Y0oxTDJBY292RGhWT0RLYk9vZVMwS0FvdHdtX2ZxTlR3ajdpSVAtRDdjZnh5Rlg3cUJIajE3UnFsNTdqSHJiVFVUM3MtWWRBRFBBZWdBZ1c5bkNlTDFpUkFiVFl3Y0VRb0QtelZEaHE0NWx2eFlMa216aTh2eHYzMVpycnRuRWJmb0VzeGtqS2s?oc=5",
-      "description": "Johan Hoste wordt trainer van nieuwe club Bredene United Nieuwsblad",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-28T02:11:46+00:00",
-      "image": ""
-    },
-    {
       "title": "What went wrong for Alonso's Chelsea at Forest?",
       "link": "https://www.skysports.com/football/news/11095/13617391/xabi-alonso-called-for-chelsea-to-get-back-to-fundamentals-before-slipping-to-new-low-at-nottingham-forest",
       "description": "Xabi Alonso called for his Chelsea side to get back to the fundamentals before kick-off - and then watched on as they were outworked and outclassed on their way to a miserable 3-2 defeat at Nottingham Forest.",
@@ -186,12 +218,12 @@
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-chelsea-forest_7418332.jpg?20261127231744"
     },
     {
-      "title": "Eckert: I didn't like social media post mocking Middlesbrough's play-off defeat",
+      "title": "Vardy left out of Burnley squad as speculation mounts over future",
       "link": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
       "description": "",
       "source": "Sky Sports",
       "pubDate": "2026-11-27T23:18:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-tonda-eckert-southampton_7418331.jpg?20261127231535"
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-jamie-vardy-burnley_7376674.jpg?20261014111846"
     },
     {
       "title": "RKC Waalwijk haalt door afgelasting duel met VVV-Venlo ontslag van trainer Sander Duits naar voren - De Telegraaf",
@@ -370,14 +402,6 @@
       "image": ""
     },
     {
-      "title": "AWC kiest voor ervaren nieuwe trainer - VoetbalGelderland",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XUUt4SVdVYVU4Y0o1b2R4SWd5SWVDVVFZM01qQ1M4N1F6eXhVTi1FczVnenc0U3A4Ty1ESGVVNXJSVTlRUFhQa3lidk5KQU96WGpTUEtIRHowSlFNajhsc3pkMDRTRzY3dk9zRHYtWU5nZnRzUE55Y2JaYw?oc=5",
-      "description": "AWC kiest voor ervaren nieuwe trainer VoetbalGelderland",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T20:51:59+00:00",
-      "image": ""
-    },
-    {
       "title": "Football Daily",
       "link": "https://www.bbc.co.uk/sounds/play/p0pqb0nm?at_medium=RSS&at_campaign=rss",
       "description": "Everton welcome Liverpool in the 249th derby and Steven Gerrard gives his thoughts.",
@@ -418,17 +442,17 @@
       "image": ""
     },
     {
-      "title": "Nederlaag tegen NEC blijkt druppel: Stade Rennes ontslaat trainer - de Stentor",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeXdHcnlVMzB1WU1BLXZnbzFZSzVqUW9kdmtJc3J5RkNZZnlGQ29aUmNSWnZSV2xoT01ubnlIeklyQV9YZUcxVXI2dTJOdFJSUnlvQXByUkVIdVJybWs0eHAyX3I1ZThGZnp6cHlSRm9NbDk5ekEyeDhwRnpOQ3pVQmhvWmM4QUpCaENmTFVELUJlMEEwVzdBbnhpVzBwXzVqVjcxRWJpcl9YZEE?oc=5",
-      "description": "Nederlaag tegen NEC blijkt druppel: Stade Rennes ontslaat trainer de Stentor",
+      "title": "Nederlaag tegen NEC blijkt druppel: Stade Rennes ontslaat trainer - BN DeStem",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVVyRjkzYWZnVVhjYkJuU2l0UGdCSnN2bzJjQmhXQjNzU0x2QWs3Unk2Q041X1JOcHNRZ3ZUVV9lZHo0Vl9qVjNhTXBXSFF6TXJ5VlJDQTBRMXd4NU5HOThBT1I1a2RiTU5rdllqNVZYZnJEaUNNRUVJZVpfYjhtcU9FN0J0blRRVTBndFZyNkNMVjV3M1hEUGExTnBaRGl4cXFvQVNFSktyQQ?oc=5",
+      "description": "Nederlaag tegen NEC blijkt druppel: Stade Rennes ontslaat trainer BN DeStem",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-27T20:43:00+00:00",
       "image": ""
     },
     {
-      "title": "Nederlaag tegen NEC blijkt druppel: Stade Rennes ontslaat trainer - BN DeStem",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVVyRjkzYWZnVVhjYkJuU2l0UGdCSnN2bzJjQmhXQjNzU0x2QWs3Unk2Q041X1JOcHNRZ3ZUVV9lZHo0Vl9qVjNhTXBXSFF6TXJ5VlJDQTBRMXd4NU5HOThBT1I1a2RiTU5rdllqNVZYZnJEaUNNRUVJZVpfYjhtcU9FN0J0blRRVTBndFZyNkNMVjV3M1hEUGExTnBaRGl4cXFvQVNFSktyQQ?oc=5",
-      "description": "Nederlaag tegen NEC blijkt druppel: Stade Rennes ontslaat trainer BN DeStem",
+      "title": "Nederlaag tegen NEC blijkt druppel: Stade Rennes ontslaat trainer - de Stentor",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeXdHcnlVMzB1WU1BLXZnbzFZSzVqUW9kdmtJc3J5RkNZZnlGQ29aUmNSWnZSV2xoT01ubnlIeklyQV9YZUcxVXI2dTJOdFJSUnlvQXByUkVIdVJybWs0eHAyX3I1ZThGZnp6cHlSRm9NbDk5ekEyeDhwRnpOQ3pVQmhvWmM4QUpCaENmTFVELUJlMEEwVzdBbnhpVzBwXzVqVjcxRWJpcl9YZEE?oc=5",
+      "description": "Nederlaag tegen NEC blijkt druppel: Stade Rennes ontslaat trainer de Stentor",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-27T20:43:00+00:00",
       "image": ""
@@ -474,14 +498,6 @@
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-wes-ham-west-jarrod-bowen_7378869.jpg?20261017142240"
     },
     {
-      "title": "Mourinho duidelijk over transferplannen Real Madrid: 'Dat wil ik niet' - VoetbalPrimeur.be",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSlRtcHlmdU5yR1FyVjg1VVlBTmIxNDIzWFVmazZPcHZvNmJRSWUzWUc0MjhtcTZUcV9uV2xXQUJrWVE0MHZmX0pWTFA1emhiQnBSNkVRR3F0LUZSSmRLLXF1MDYzbVN6bUtXLTducDZKeF9FWmNBWUR1WXlTZUllb08zZ2xoYkJWZjJkSTYxSU1jeVNSb3NYRG5zNkRpREE1N203anZ3d3hmUmpUVVM2WEYtMVRZbWJUUm4yR2RrZWFQV3l0MnVfQg?oc=5",
-      "description": "Mourinho duidelijk over transferplannen Real Madrid: 'Dat wil ik niet' VoetbalPrimeur.be",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T18:30:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Man City latest: 'We must go through these bumps to be a better team,' says Maresca",
       "link": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
@@ -507,9 +523,9 @@
     },
     {
       "title": "Arsenal latest: Arteta gives Raya update with Odegaard confident on new deal",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "link": "https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-27T17:41:00+00:00",
       "image": "https://e1.365dm.com/26/08/1920x1080/skysports-arsenal-club-blog_7326689.jpg?20260820164959"
     },
@@ -519,14 +535,6 @@
       "description": "Trainer Anthony Correia (44) laat van zich horen na 'pijn... Sportnieuws.nl",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-27T17:09:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "Geylang United FC selectie 2026/27: Singapore Premier League spelers, rugnummers en statistieken | All Football - 懂球帝",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LcDZEV3JuWjQ1RWp0clFMblMyUTQ0bFk4ZGVSbWQwOGlKdzA1TGE0WTRfLUdLS2lGVDhXRWQyb3FfMXN0Y2gxYWx3UDFPM0l2LXlad2Nhd3A1MlE?oc=5",
-      "description": "Geylang United FC selectie 2026/27: Singapore Premier League spelers, rugnummers en statistieken | All Football 懂球帝",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-27T16:52:52+00:00",
       "image": ""
     },
     {
@@ -554,14 +562,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9de/live/6b9252d0-ea79-11f1-9888-1b7e4a7a7390.jpg"
     },
     {
-      "title": "Twee directeuren vertrokken, de trainer stuurt RKC zelf weg: onrust bereikt climax in Waalwijk - Brabants Dagblad",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYll2em5JdC05dEJvTUVlTnpocFJxUWx6RF82ajVpNHdKSWs0a3hlU2xsVnJVSVZhZzF1LTdrTXVHVmJIaDRTbDhmUVA2LVI3eTM0bldDaVVvLXlzdkg0Y05lYnh0QV8xOEFiRDZKQXExczBFVXd3eDBzS1V1UUg1V2M3VE1Qc2MwVXlCeXRzSFNFTF84djNaM08yYzZfaVpwQjVwSXg1M0ZIQ0lQYTVlRGltWUlOdS1hRFpmZW8zRFdrZ0E1QzMxb2NvenRsQQ?oc=5",
-      "description": "Twee directeuren vertrokken, de trainer stuurt RKC zelf weg: onrust bereikt climax in Waalwijk Brabants Dagblad",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T15:35:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Ajax gelinkt aan Jesse Bisiwu van FC Barcelona: waarom een transfer logisch is - FootballTransfers.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdVcxM0ZiNWpETE45Sm1LSDQzb0hKR3RBcVpDLWpKOUVzb2g5azg2R25YT2dobHIxWFJGb3ZDQmZiWlZUUWFWYjI2eDY4WGU2YUZwSGlMX1J2TjhLU2tqMVVLVmkxWGVsZDRMd09SeE5nWUJUaXUweUc0eDBIWE1yY0luLUkxZDlObDlmd09XQlJaTW5pU3djMXU4Zm9RWmNuV1QwUGdENzZLai1rS3I0WUdQSGdnckFxSFhVWE05b0hMcnBldGxERmNYZjBibVk?oc=5",
       "description": "Ajax gelinkt aan Jesse Bisiwu van FC Barcelona: waarom een transfer logisch is FootballTransfers.com",
@@ -575,14 +575,6 @@
       "description": "RKC Waalwijk ontslaat trainer Duits ZeelandNet",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-27T15:07:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "RKC wilde duel afwachten, maar ontslaat trainer nu wedstrijd niet doorgaat - Sport | Voetbal Nieuws - Head Topics",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlM3NmFxYVdIY3djQzdUTkRqc3JwOWYzMnpJMGcxWnlkdGdMcHRXcUhudTdhSzZMRndyR3Q1dUhLSjlnUVRVa24tUmlJS0R3WTJ4TTllSUZYUDJCSXY1X1Y4OWNaekxYZVo3cWZxS2F6b3hwWi1Sc3BvT1lETDZ1T0pYUU1sVXc3UUd4WTVjbEVzZHM?oc=5",
-      "description": "RKC wilde duel afwachten, maar ontslaat trainer nu wedstrijd niet doorgaat - Sport | Voetbal Nieuws Head Topics",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T15:07:00+00:00",
       "image": ""
     },
     {
@@ -618,14 +610,6 @@
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-maresca-arteta_7417937.jpg?20261127151212"
     },
     {
-      "title": "Sv TOP neemt per direct afscheid van trainer: ‘Afscheid nemen is nooit makkelijk’ - Brabants Dagblad",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQazNla2xiZUNWUUlJZkVkOG8xeTNGS0VvOW1vVzUzcGhNVzhRMkI1bm5yU245YU5JZ3dfaGp4dDhWZm8zbzNjQ18xNUxHX29yTUdVTUlqd2l2WXJPSFFjSGw2M0dqZWlOZzZRS2xlM2dhdmpTXzlzdUpvamNvQjNDeGJMdmxzdTNZY2dIdGhDTW8wUjUzSG80bUVRRG10NGZMM2hQdTV2RDZHU1JOS082cEk5VlBnODJpVTc4NzRn?oc=5",
-      "description": "Sv TOP neemt per direct afscheid van trainer: ‘Afscheid nemen is nooit makkelijk’ Brabants Dagblad",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T14:41:00+00:00",
-      "image": ""
-    },
-    {
       "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
       "link": "https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss",
       "description": "Manchester City's leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form.",
@@ -640,6 +624,22 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-27T14:37:51+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1894/live/66b4be40-ea3a-11f1-9fc4-ef897a334b75.jpg"
+    },
+    {
+      "title": "Falkirk chase seven in a row at Rangers & Celtic visit Hearts - Premiership key issues",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6x2wx4e90jeo?at_medium=RSS&at_campaign=rss",
+      "description": "Falkirk's trip to Ibrox and Hearts' home match with Celtic stand out in another crucial Scottish Premiership weekend.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-27T14:37:51+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1894/live/66b4be40-ea3a-11f1-9fc4-ef897a334b75.jpg"
+    },
+    {
+      "title": "Onlangs benoemde directeur Sonny Bosz ontslaat trainer Sander Duits bij RKC - NU",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUW1XQ2lIWHo5Y1ZVLU5oekVlVVdDWDVzcjBFRldIM3Nudk5vVzhEMFhGaWU1UTR4RHpYOGdTT0JNQnNjbkoyVi1TTmZBRlI0eFY5VXI1ajdmbEZGbWdGd1hteGdTQ0wzcFhPd0VQMXRLVk82VURMZ0lOcGpkMzRpQ2NWOXFRTUNBajVzNlBpYWRVeHhYUG9FSm5sU3hhdnptX2FIamNvRkhiZGRPeXRJMWxaRXg?oc=5",
+      "description": "Onlangs benoemde directeur Sonny Bosz ontslaat trainer Sander Duits bij RKC NU",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-27T14:28:48+00:00",
+      "image": ""
     }
   ]
 }
