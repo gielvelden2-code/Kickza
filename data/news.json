@@ -1,8 +1,104 @@
 {
-  "updatedAt": "2026-11-27T22:17:13.172876+00:00",
+  "updatedAt": "2026-11-28T00:05:35.732032+00:00",
   "articles": [
     {
-      "title": "Southampton sink Middlesbrough in first meeting since 'Spygate'",
+      "title": "Eckert: I didn't like social media post mocking Middlesbrough's play-off defeat",
+      "link": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-27T23:18:00+00:00",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-tonda-eckert-southampton_7418331.jpg?20261127231535"
+    },
+    {
+      "title": "Chelsea latest: Alonso urges fans to 'support everyone' after Fofana boos",
+      "link": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-27T23:00:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-chelsea-transfer_7378358.jpg?20261016150829"
+    },
+    {
+      "title": "Forest latest: We are sticking with Glasner, says Gibbs-White",
+      "link": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "description": "",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-27T23:00:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-nottingham-forest_7331923.jpg?20260826154014"
+    },
+    {
+      "title": "Papers: Man Utd in running for Paz, but Champions League key",
+      "link": "https://www.skysports.com/football/news/11095/13617280/manchester-united-transfer-news-red-devils-still-in-running-for-comos-nico-paz-paper-talk",
+      "description": "The top stories and transfer rumours from Saturday's newspapers...",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-27T23:00:00+00:00",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824"
+    },
+    {
+      "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o?at_medium=RSS&at_campaign=rss",
+      "description": "Eighteen years after making their Premier League debuts two minutes apart, Jack Wilshere and Aaron Ramsey meet as managers.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-27T22:58:49+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf9/live/42579250-ea73-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Ayr beat Largs to book place in Scottish Cup fourth round",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm62pw2e18dwo?at_medium=RSS&at_campaign=rss",
+      "description": "Watch the goals from Ayr United's Scottish Cup win over Largs Thistle.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-27T22:57:03+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e713/live/aab93280-eab5-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "Glasner praises 'smart' Igor Jesus after Chelsea win",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo?at_medium=RSS&at_campaign=rss",
+      "description": "Nottingham Forest head coach Oliver Glasnerpraises the perfomance of striker Igor Thiago impressive 3-2 home win against a struggling Chelsea in the Premier League.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-27T22:47:57+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9676/live/9a001150-eab2-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Chelsea must stick together in 'difficult moment' - Alonso",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do?at_medium=RSS&at_campaign=rss",
+      "description": "Chelsea manager Xabi Alonso's calls for togetherness after his side fall to a third defeat in a row against a Nottingham Forest side that has struggled for form this season in the Premier League.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-27T22:45:22+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb2c/live/67522bc0-eab3-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Bremen fight back to earn draw in six-goal thriller",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm0qjlq19qw3o?at_medium=RSS&at_campaign=rss",
+      "description": "Bundesliga bottom side Borussia M'gladbach miss out on a much needed three points after surrendering a 3-1 lead at Werder Bremen.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-27T22:37:16+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b319/live/827c8ba0-eab0-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
+      "description": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a row.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-27T22:30:22+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70aa/live/6d1cc8f0-eab1-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "NEC-vloek slaat opnieuw toe: derde Europese tegenstander ontslaat trainer na duel met Nijmegenaren - De Telegraaf",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYlowVmNhSGk3TXh4UDJaUmZpOS1aOGZrNDBOV3djQmZEcEdEdDhLWVRsS1EwSTdneU9QZUVKYlUyM0kwcTNnajRVc21BMDhrVWVVQ0I3MVBuMDNxM1l1SzNuaFl2SGY4WEtQZnJBbUMwd2prdHZkdVdlejQ2cWNCTUlTQVhWc3loWUREUlhwQm8zMFJmRHhodm13bGxhZ3F6dEVKNEFGS3VRd1lPQkFCQmpueHBtRGNhelJETHpPM3JjSzU0aXRHb1ozakdFVVZZQVdwZkF4YTUxMlZaeE84UmZob2xhQQ?oc=5",
+      "description": "NEC-vloek slaat opnieuw toe: derde Europese tegenstander ontslaat trainer na duel met Nijmegenaren De Telegraaf",
+      "source": "Google Nieuws NL",
+      "pubDate": "2026-11-27T22:14:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "Chelsea woes continue as Gibbs-White fires Forest to victory",
+      "link": "https://www.skysports.com/watch/video/13617372/nottingham-forest-3-2-chelsea-premier-league-highlights",
+      "description": "Highlights from the Premier League clash between Nottingham Forest and Chelsea.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-27T22:08:00+00:00",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-chelsea-forest_7418280.jpg?20261127220106"
+    },
+    {
+      "title": "Southampton sink Middlesbrough in ill-tempered first meeting since 'Spygate'",
       "link": "https://www.skysports.com/football/southampton-vs-middlesbrough/report/560709",
       "description": "Southampton's unbeaten start to the season at St Mary's continued as they beat leaders Middlesbrough 2-0.",
       "source": "Sky Sports",
@@ -18,7 +114,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da8/live/2c6e0460-eaaf-11f1-bf81-6f3b4557bf15.jpg"
     },
     {
-      "title": "Manning and Azaz lead Southampton to victory in Boro thriller!",
+      "title": "Manning and Azaz lead Saints to victory in feisty 'Spygate' reunion",
       "link": "https://www.skysports.com/watch/video/13617366/southampton-2-0-middlesbrough-championship-highlights",
       "description": "Highlights of the Sky Bet Championship match between Southampton and Middlesbrough.",
       "source": "Sky Sports",
@@ -34,6 +130,14 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ef/live/10726840-eaa6-11f1-9541-edfa153772c7.jpg"
     },
     {
+      "title": "Forest beat Chelsea to heap pressure on Alonso as Fofana is booed",
+      "link": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/report/559562",
+      "description": "Morgan Gibbs-White scored two in Nottingham Forest’s 3-2 win over Chelsea at the City Ground as the crisis deepened for Xabi Alonso.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-27T21:45:00+00:00",
+      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-morgan-gibbs-white_7418255.jpg?20261127214157"
+    },
+    {
       "title": "Azaz does a full Adebayor to celebrate in front of Boro fans!",
       "link": "https://www.skysports.com/watch/video/13617359/southampton-v-middlesbrough-saints-second-causes-chaos-after-azaz-goads-boro-fans",
       "description": "Finn Azaz does his best Emmanuel Adebayor impression to celebrate in front of Middlesbrough supporters after scoring for Southampton.",
@@ -42,28 +146,12 @@
       "image": "https://e1.365dm.com/26/11/1920x1080/skysports-football-saints_7418259.jpg?20261127214518"
     },
     {
-      "title": "'Advantage restored!' - Gibbs-White puts Forest in command",
-      "link": "https://www.skysports.com/watch/video/13617356/goal-m-gibbs-white-72-nottm-forest-3-1-chelsea",
-      "description": "Morgan Gibbs-White nets again to put Nottingham Forest within sight of victory over Chelsea.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-27T21:34:00+00:00",
-      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-gibbs-white-forest_7418250.jpg?20261127213617"
-    },
-    {
-      "title": "'You're not welcome here' - Chelsea's Fofana booed by own fans",
+      "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss",
       "description": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview.",
       "source": "BBC Sport",
       "pubDate": "2026-11-27T21:31:54+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f7/live/58c8c760-eaa6-11f1-9541-edfa153772c7.jpg"
-    },
-    {
-      "title": "NEC-vloek slaat opnieuw toe: derde Europese tegenstander ontslaat trainer na duel met Nijmegenaren - De Telegraaf",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYlowVmNhSGk3TXh4UDJaUmZpOS1aOGZrNDBOV3djQmZEcEdEdDhLWVRsS1EwSTdneU9QZUVKYlUyM0kwcTNnajRVc21BMDhrVWVVQ0I3MVBuMDNxM1l1SzNuaFl2SGY4WEtQZnJBbUMwd2prdHZkdVdlejQ2cWNCTUlTQVhWc3loWUREUlhwQm8zMFJmRHhodm13bGxhZ3F6dEVKNEFGS3VRd1lPQkFCQmpueHBtRGNhelJETHpPM3JjSzU0aXRHb1ozakdFVVZZQVdwZkF4YTUxMlZaeE84UmZob2xhQQ?oc=5",
-      "description": "NEC-vloek slaat opnieuw toe: derde Europese tegenstander ontslaat trainer na duel met Nijmegenaren De Telegraaf",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T21:25:31+00:00",
-      "image": ""
     },
     {
       "title": "Champions League to be a factor in Paz move - Saturday's gossip",
@@ -72,6 +160,14 @@
       "source": "BBC Sport",
       "pubDate": "2026-11-27T21:19:27+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9b/live/13900680-eaa7-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "title": "Nieuwe trainers en transfers in Overijsselse topsport - Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEhINWV6X3YyM1d2Zm0xS2Y2ZS1sYUxfckJBcnVCNlhNMTh2R0NkbllCY2NoaU0tM2lxQnlTejdJam91aUE5ekl3aFVpZi1nTnh2cEtrTE9TSmJOWUpvaTRXTEFFMGc2eDllQ1pNUldvaVVmcVRhNDAwUE5jOGxsMk15RjMtd0N4VXFvVzg0VGJjakw5c3ZRbw?oc=5",
+      "description": "Nieuwe trainers en transfers in Overijsselse topsport Head Topics",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-27T21:05:00+00:00",
+      "image": ""
     },
     {
       "title": "Bertaccini staat voor fraaie transfer - Voetbal24.be",
@@ -122,28 +218,12 @@
       "image": ""
     },
     {
-      "title": "Nederlaag tegen NEC blijkt druppel: Stade Rennes ontslaat trainer - Tubantia",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlUyT0IwMHVzcm96b2RFVkk5dURFT19YMFQ0YjZkdTVUSllaNXRmSi13eG9LdnBGTURHY3pGNDhBRnRZMHNhSlNYdVYzQ2d2WGNTemlXSDRhaVhSc2Z3Qkt5cW1FeFc2NVk5WTA2bjUxMm15ZnZHNllBeWhTb3FSSF9rXzJUZ0xNOEhwVkdjQkxIS1VvdGlxSmN4LUdxMmhWZVE2VDhHZUE2Zw?oc=5",
-      "description": "Nederlaag tegen NEC blijkt druppel: Stade Rennes ontslaat trainer Tubantia",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T20:43:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Stade Rennes ontslaat trainer na nederlaag bij NEC - ZeelandNet, startpagina van Zeeland",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQlgwSHMydE4ydkh0MTFDYVk4SU1Eb0hQaEtWalFsWV9FcXFmbmVDenVyUVpyeUxoU2xUU0M3RHVYdGtMUkUyUk05Qjk4eldXSWFRa1FJR3lvNjEwSUhOTV96ZVN3V3p3Y3JuOGJqLTNvLXhWMll6RXhHNEI3YVdNMWM1d0pma1BqWVFF?oc=5",
       "description": "Stade Rennes ontslaat trainer na nederlaag bij NEC ZeelandNet, startpagina van Zeeland",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-27T20:41:50+00:00",
       "image": ""
-    },
-    {
-      "title": "'It's a WORLDIE!' - Igor Jesus shocks Chelsea with stunning volley",
-      "link": "https://www.skysports.com/watch/video/13617329/goal-i-jesus-5-nottm-forest-1-0-chelsea",
-      "description": "Igor Jesus volleys home a stunning opener to give Nottingham Forest the lead against Chelsea.",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-27T20:10:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-igor-jesus-chelsea_7418186.jpg?20261127201816"
     },
     {
       "title": "PSV ziet waarde Essiën Bassey fors stijgen na transfer naar Viking FK - FootballTransfers.com",
@@ -162,44 +242,12 @@
       "image": "https://e0.365dm.com/26/10/1920x1080/skysports-wes-ham-west-jarrod-bowen_7378869.jpg?20261017142240"
     },
     {
-      "title": "Gibbs-White at the double as Forest edge Chelsea in five-goal thriller LIVE!",
-      "link": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-27T18:30:00+00:00",
-      "image": "https://e2.365dm.com/26/11/1920x1080/skysports-morgan-gibbs-white_7418255.jpg?20261127214157"
-    },
-    {
-      "title": "Azaz explains celebration aimed at Boro fans and has 'no regrets' over it",
-      "link": "https://www.skysports.com/football/southampton-vs-middlesbrough/live/560709",
-      "description": "",
-      "source": "Sky Sports",
-      "pubDate": "2026-11-27T18:30:00+00:00",
-      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-finn-azaz-southampton_7418286.jpg?20261127220717"
-    },
-    {
       "title": "Mourinho duidelijk over transferplannen Real Madrid: 'Dat wil ik niet' - VoetbalPrimeur.be",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSlRtcHlmdU5yR1FyVjg1VVlBTmIxNDIzWFVmazZPcHZvNmJRSWUzWUc0MjhtcTZUcV9uV2xXQUJrWVE0MHZmX0pWTFA1emhiQnBSNkVRR3F0LUZSSmRLLXF1MDYzbVN6bUtXLTducDZKeF9FWmNBWUR1WXlTZUllb08zZ2xoYkJWZjJkSTYxSU1jeVNSb3NYRG5zNkRpREE1N203anZ3d3hmUmpUVVM2WEYtMVRZbWJUUm4yR2RrZWFQV3l0MnVfQg?oc=5",
       "description": "Mourinho duidelijk over transferplannen Real Madrid: 'Dat wil ik niet' VoetbalPrimeur.be",
-      "source": "Google Nieuws NL",
+      "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-27T18:30:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Johan Hoste wordt trainer van nieuwe club Bredene United - Nieuwsblad",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLVZNTDU5VEExSWk1NEs2aFBpQmJ0RVFIX0FEYS1mRGllSjk3Y0oxTDJBY292RGhWT0RLYk9vZVMwS0FvdHdtX2ZxTlR3ajdpSVAtRDdjZnh5Rlg3cUJIajE3UnFsNTdqSHJiVFVUM3MtWWRBRFBBZWdBZ1c5bkNlTDFpUkFiVFl3Y0VRb0QtelZEaHE0NWx2eFlMa216aTh2eHYzMVpycnRuRWJmb0VzeGtqS2s?oc=5",
-      "description": "Johan Hoste wordt trainer van nieuwe club Bredene United Nieuwsblad",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T18:11:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "Leeds latest: Nmecha becomes latest player to commit future",
-      "link": "https://www.skysports.com/football/live-blog/11661/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-27T18:01:00+00:00",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-leeds-club-blog_7326700.jpg?20260820165402"
     },
     {
       "title": "Man City latest: 'We must go through these bumps to be a better team,' says Maresca",
@@ -211,9 +259,9 @@
     },
     {
       "title": "Aston Villa latest: Club open to terminating Garnacho loan",
-      "link": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "link": "https://www.skysports.com/football/live-blog/11661/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
-      "source": "Sky Sports",
+      "source": "Sky Premier League",
       "pubDate": "2026-11-27T18:00:00+00:00",
       "image": "https://e2.365dm.com/26/08/1920x1080/skysports-aston-villa-news_7331919.jpg?20260826153826"
     },
@@ -250,14 +298,6 @@
       "image": ""
     },
     {
-      "title": "Sunderland latest: Le Bris hoping squad shake off virus before Spurs game",
-      "link": "https://www.skysports.com/football/live-blog/11661/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "description": "",
-      "source": "Sky Premier League",
-      "pubDate": "2026-11-27T16:44:00+00:00",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-sunderland-club-blog_7326707.jpg?20260820165538"
-    },
-    {
       "title": "VOTE: Were Arsenal right to sack Slegers?",
       "link": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
       "description": "",
@@ -290,14 +330,6 @@
       "image": ""
     },
     {
-      "title": "Zakho SC vs Karbala FC live kijken – Gratis livestream in HD & op tv (Iraqi Premier League) | All Football - 懂球帝",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16Zlp3Z0p5ZDl1NHJadDhUTXpIQlpQUk13b2IzdDB3T3VDZGJOQW0tUEJ1Z0JlWDI3dVlEdGNqSXZRRzBwREFiYlB4dEo2dHN1?oc=5",
-      "description": "Zakho SC vs Karbala FC live kijken – Gratis livestream in HD & op tv (Iraqi Premier League) | All Football 懂球帝",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-27T15:11:48+00:00",
-      "image": ""
-    },
-    {
       "title": "Man Utd trigger Fernandes' one-year contract extension",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
       "description": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
@@ -319,14 +351,6 @@
       "description": "RKC Waalwijk ontslaat trainer Duits ZeelandNet, startpagina van Zeeland",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-27T15:07:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "RKC wilde duel afwachten, maar ontslaat trainer nu wedstrijd niet doorgaat - Sport | Voetbal Nieuws - Head Topics",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlM3NmFxYVdIY3djQzdUTkRqc3JwOWYzMnpJMGcxWnlkdGdMcHRXcUhudTdhSzZMRndyR3Q1dUhLSjlnUVRVa24tUmlJS0R3WTJ4TTllSUZYUDJCSXY1X1Y4OWNaekxYZVo3cWZxS2F6b3hwWi1Sc3BvT1lETDZ1T0pYUU1sVXc3UUd4WTVjbEVzZHM?oc=5",
-      "description": "RKC wilde duel afwachten, maar ontslaat trainer nu wedstrijd niet doorgaat - Sport | Voetbal Nieuws Head Topics",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T15:07:00+00:00",
       "image": ""
     },
     {
@@ -354,28 +378,12 @@
       "image": "https://e0.365dm.com/26/11/1920x1080/skysports-renee-slegers-arsenal_7414665.jpg?20261123173029"
     },
     {
-      "title": "RKC Waalwijk zet trainer Duits aan de kant na tegenvallende resultaten - NOS",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUpBc2FrMUEzMnBJSjBDLWtEQjBseEVUM2hMcE1NV1RPUXBwY3BlLVF2RTVrQlRYVEw3Z29iRUxxOEpwMGU5U2ZmWi1CZXZ6STNHSEVoTTBUS1c5cGxtUDF3MFZuNU9xMkF1MjZ6WTc5NGd1Z1g1MlRWZURBLU1vT0xrQWFlYnV4a1FnU3R1U0Q3b3J2T3lkdHhkZmFOaHZZME9J?oc=5",
-      "description": "RKC Waalwijk zet trainer Duits aan de kant na tegenvallende resultaten NOS",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T14:52:33+00:00",
-      "image": ""
-    },
-    {
       "title": "Maresca: You can't compare Man City and Arsenal",
       "link": "https://www.skysports.com/football/news/11095/13617231/arsenal-vs-man-city-enzo-maresca-says-two-teams-cannot-be-compared-due-to-being-in-different-stages-of-project",
       "description": "Enzo Maresca said Premier League title rivals Manchester City and Arsenal couldn’t be compared after his side's early-season form raised expectations.",
       "source": "Sky Sports",
       "pubDate": "2026-11-27T14:47:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-maresca-arteta_7417937.jpg?20261127151212"
-    },
-    {
-      "title": "Sv TOP neemt per direct afscheid van trainer: ‘Afscheid nemen is nooit makkelijk’ - Brabants Dagblad",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQazNla2xiZUNWUUlJZkVkOG8xeTNGS0VvOW1vVzUzcGhNVzhRMkI1bm5yU245YU5JZ3dfaGp4dDhWZm8zbzNjQ18xNUxHX29yTUdVTUlqd2l2WXJPSFFjSGw2M0dqZWlOZzZRS2xlM2dhdmpTXzlzdUpvamNvQjNDeGJMdmxzdTNZY2dIdGhDTW8wUjUzSG80bUVRRG10NGZMM2hQdTV2RDZHU1JOS082cEk5VlBnODJpVTc4NzRn?oc=5",
-      "description": "Sv TOP neemt per direct afscheid van trainer: ‘Afscheid nemen is nooit makkelijk’ Brabants Dagblad",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T14:41:00+00:00",
-      "image": ""
     },
     {
       "title": "'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?",
@@ -442,14 +450,6 @@
       "image": ""
     },
     {
-      "title": "Trainer van Alexander Blockx pakt pijnpunt aan voor nieuw seizoen: “Om top 10 te halen, moet het lichaam op en top zijn” - HLN",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdU5GYVFISXNCcm5BMEM4ODl0a2x2Qjh2TmZ1RnpJRlpqVlhnVDJHRkZIQmRCaXUtSTBrdVhKZ2lMc2pGbFRncTZPRW5FSHhROGJBVXRkcy1QMWg4dUdlU2pSSUppbXRxM2RMV2NocjFtbEVsanpacnk4Ung1dmM0Qk1wd191ZDlGTWhsV1BhUU1zLXpYUW1DTEk2eWRXbUlobmdCdjdrN2JMc25ZMHowUmFZTkxmRm05VUJNeGw5VERwR1RQeWliSndYcTgtUkotTzJ2UGZpVk9md3VOUDItdXJVOGVQSEU?oc=5",
-      "description": "Trainer van Alexander Blockx pakt pijnpunt aan voor nieuw seizoen: “Om top 10 te halen, moet het lichaam op en top zijn” HLN",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T14:01:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Spurs latest: De Zerbi confirms injured Savio to miss festive fixtures",
       "link": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "description": "",
@@ -461,14 +461,6 @@
       "title": "Sander Duits zou vanavond op bank zitten bij RKC, maar nadat duel wordt afgelast krijgt trainer te horen dat hij is ontslagen - AD.nl",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNmlLREpIaUlPNEI2NFBFZTlwMThfZ01JeGdmUkVNcDZTTVZZdjRpNERZYWZlSmg2c1phMk12ejdpeHI3Y1VuMnVPOFVoUzJTRnZzQzdxd3BtOTJnS1RIdkdRSm91Vk5sNnNldDRadE5JNm9veE43aE1xamlsMHpRbmZnVHpzeUgwSFZTSmFROEx5Y1k5UFozc1hGenZKUFJBb1pGNEEtWUxlT3VvQW1rM2hzbjBFaGxudllFVm02MndWU0NEdjc0dzNzOEtVWTRDOGdxbzNRODJwNEtwbmxqWFB0d1B1aWdDWmNDR3pIVmlHQQ?oc=5",
       "description": "Sander Duits zou vanavond op bank zitten bij RKC, maar nadat duel wordt afgelast krijgt trainer te horen dat hij is ontslagen AD.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T14:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Sander Duits zou vanavond op bank zitten bij RKC, maar nadat duel wordt afgelast krijgt trainer te horen dat hij is ontslagen - Tubantia",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYlY2bzNZUmcxY0Y0WGpWQmNZcTc2Vmo4RTZRcHJIdkZuZ1lkTGpacG9BTjdLQkV5MnBLa3lGbzI1OXBBZ1pVeUctamVEQTcwc1VXMWZHZF9FVUtINzUwY282YlRvcVZod2J2S0Jld0tuNUhleTdNamdseUVVaGlmZ3RzMGRCWFZ3dGxfTzNFejQ4RTF6LTJTU0lWeDE1MDhNeVp4VXF1WEdfaUcwZHdmSHZnZTJTSjc4RWtMakRKal83Z05Udmx5UGNRTEhHdFE3ZTZvdk1ldVRiVnRZSXBWOXQzdHZnS192T0Noa2dkOFZoeWpMNWtPUWhR?oc=5",
-      "description": "Sander Duits zou vanavond op bank zitten bij RKC, maar nadat duel wordt afgelast krijgt trainer te horen dat hij is ontslagen Tubantia",
       "source": "Google Nieuws NL",
       "pubDate": "2026-11-27T14:00:00+00:00",
       "image": ""
@@ -490,14 +482,6 @@
       "image": ""
     },
     {
-      "title": "Op zijn 22e al trainer in de eerste klasse - VoetbalJournaal",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96YjMxeGVicHA3WUpIUnZRLXFiRDR2OWFoa0xydXRJWm4yUG1QRHlPQVU4dXdnNjBVLWpzazhVS0pLcXVPNmZ5WlRYVWdUalJiTmlrMWQ5WG1La09kU3JUX0lvTG5kX1F1QkgtVmdudnAxREE1M09GdmtoOA?oc=5",
-      "description": "Op zijn 22e al trainer in de eerste klasse VoetbalJournaal",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T13:31:29+00:00",
-      "image": ""
-    },
-    {
       "title": "Sander Duits per direct weg bij RKC: dit is de reden van het ontslag - FootballTransfers.com",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX2VLTXlVcGVwMTduN3RHSXdVcEc3TEY0TDFxd0tKeEVKMkJCaWJkWWxSN2c2cTdIRkJ1VnhLdUE3ZUJsNndGUmZQMVV6MmFmenpzbnRKcjJMaFZvTEwzV2hhVGxJcGlFTWdaYTFCYnk2bGhjLUJyc0FvSXdUUjZObXA4cHExcDVWczhIejJPRDVJLW9tOUtlNm9XdlRFNVRhWlNTbW1QWk5rRHliTEpzLUpndnZFMWFBbExHVnJaV3dkX25aUndXb0FCc0VtYks1T3dKS3VmUlY?oc=5",
       "description": "Sander Duits per direct weg bij RKC: dit is de reden van het ontslag FootballTransfers.com",
@@ -514,27 +498,11 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6bc/live/be4480c0-ea5b-11f1-89b9-f318b11567ea.jpg"
     },
     {
-      "title": "'Ex-speler van Club verkocht voor meer dan 100 miljoen' - Voetbal24.be",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzNmM0FSQlFoZjdnSmQtUDlWT0hJd0hlWlhnYXp3RlNjdjhDeWhhWERlRU5xLW9qZzRlLWEtdHk3dHdUcUhwSW5ZSEdSdldfOGhWbDZKeU12RVN6eWJTOXI1a2hTakcxRzBVN0lYT1RacFRMak8wRnF0bEpBSzltV2tOTEg2ZUkxamdHZg?oc=5",
-      "description": "'Ex-speler van Club verkocht voor meer dan 100 miljoen' Voetbal24.be",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-27T13:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Transfer op komst voor Tristan Degreef - VoetbalBelgie",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sc1AxVk9xaVQ5eGNXYUNBc0ZmWXN4aVpLQy1ZZngzclMydlJVVGdtak9mMDcxd0JGWXhYVzBJR2FPVm1TYVc1WEw0bnE3ZXdzS20yVVlESWUzWmlVYWg2YW1vU3pwN296WTduRA?oc=5",
       "description": "Transfer op komst voor Tristan Degreef VoetbalBelgie",
       "source": "Google Nieuws Transfers",
       "pubDate": "2026-11-27T12:22:05+00:00",
-      "image": ""
-    },
-    {
-      "title": "DOSSIER: Transfers wintermercato 2026/2027 België JPL - VoetbalBelgie",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pWFhJXzlFUUtZOVFoTk5iMEpncm1PQmtoU0dRN2N3b1RqWkQxZEUyYlpKSEFqZ3NodG40QTJKZzlTNjRBSnBDcGxscEdPUnptNllxdGFZN3MxcW1IemowcVNibWc1SnVndWh0c1VjMVU4TFVIRXFN?oc=5",
-      "description": "DOSSIER: Transfers wintermercato 2026/2027 België JPL VoetbalBelgie",
-      "source": "Google Nieuws Transfers",
-      "pubDate": "2026-11-27T12:20:09+00:00",
       "image": ""
     },
     {
@@ -594,22 +562,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb89/live/0ffd2b20-ea4c-11f1-b220-b9f21129b546.jpg"
     },
     {
-      "title": "‘Het zou belachelijk zijn’: Helmond Sport-trainer Frans rekent op doorgaan duel met FC Emmen - ed.nl",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNX0NSVDFPZ0FDWW1hbkFVME0zQVRLaDByUUItb29fMnlQMm5KTV96eC0tejM4dGtQUURJdVJiTGtTcWt5NFdURVVjTS1DUVNoVVc0aktHaWk5RmxVYlA5Q05pQnQ2dGpCSlRVT1Y0TmJzbVZ3TnNGVVNWVnJSTkhTelp1eWtEMGJNNjU0MVJhNGZBc2pibnRHQTQ5Y1Z4a2FlWWpDbEVJNzlsR0ZfcEl0VU1kOHc0TGRockJOOTNBT0c5MU5RN2pJUEVmQQ?oc=5",
-      "description": "‘Het zou belachelijk zijn’: Helmond Sport-trainer Frans rekent op doorgaan duel met FC Emmen ed.nl",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T10:34:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "River Plate-trainer beschuldigd van misbruik en doodsbedreigingen - De Telegraaf",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQZ1EyOXZMZHpkellDS1RlejlIQXdPUmdMQjFDS0d2UTI3dmhhTEdZZ01BUTlLNmp1ZUtTMlNLQTdmVV8yWk5zUDM4UHQ5V3loeUUwMUFfbm4wOVM4TnJvbFd3b2JvM0d5SmpNSUR0ekhQVXp4eWxxWmZUam83SmI0WF8zbHIxTVYyNnpjZHRVeEZVelFvcWU5Q3pQVWMwaXhEZnZTdXlvOG1wVDM3RXVrWHlwZkhwUDBUT3Rhb0RtSkRmbVVRS2xtYldSTWYzR0xTYlgwc1dGMGF2dmJ0NDR4LVlwSEppRV90ODRzdHZ2RnkyTEdNdVI0T3o5Qzl2MzhQcF9OZVNEdmllajNLVjhUMFY0OHRndw?oc=5",
-      "description": "River Plate-trainer beschuldigd van misbruik en doodsbedreigingen De Telegraaf",
-      "source": "Google Nieuws NL",
-      "pubDate": "2026-11-27T10:24:27+00:00",
-      "image": ""
-    },
-    {
       "title": "Clashes mar European games as Macron condemns violence",
       "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
       "description": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
@@ -640,6 +592,54 @@
       "source": "Sky Premier League",
       "pubDate": "2026-11-27T10:00:00+00:00",
       "image": "https://e2.365dm.com/26/11/1920x1080/skysports-pascal-gross-luka-vuskovic_7417035.jpg?20261126124345"
+    },
+    {
+      "title": "'Man Utd being relegated would be biggest shock in history... but it won't happen'",
+      "link": "https://www.skysports.com/football/news/11095/13616882/man-utd-being-relegated-would-be-the-biggest-shock-in-history-but-it-wont-happen-says-paul-merson",
+      "description": "In his latest Sky Sports column, Paul Merson previews a big weekend for Manchester United, before Arsenal take on Manchester City in a huge game live this Sunday.",
+      "source": "Sky Sports",
+      "pubDate": "2026-11-27T09:00:00+00:00",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-merson-says-premier-league_7387678.jpg?20261026110935"
+    },
+    {
+      "title": "Cannavaro komt met opvallende Virgil van Dijk-onthulling: 'Hij wil dat ervaren' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYU01R05GTmNmV0gwa3ltSC1SNGpZLVpNckdiV0ZOamIwWG51d0JZWGtaTFlJbFBOVjZ3bUJzV2psV1huS1E3RF9yMEdRZkVIZGJGcTBqX0NiYTZ1RzQ3NmU2d1czSWM0YjV0SlJUVzUxajJfd1J6dTFleGRpMUo5X1FnUUhxS01JWEVVSDl3YjFSTDQ1MTdzUnlORW1WWGoyX3hDdWYwek9mSmQyUUZIM2hWZw?oc=5",
+      "description": "Cannavaro komt met opvallende Virgil van Dijk-onthulling: 'Hij wil dat ervaren' VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-27T08:43:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Why Cambridgeshire derby could be season-defining",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxlyl3v8p5e0o?at_medium=RSS&at_campaign=rss",
+      "description": "Peterborough United and Cambridge United are set for a potentially season-defining local derby at London Road.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-27T08:25:44+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1e2/live/f755d740-e98b-11f1-99b6-a35a62fa4264.png"
+    },
+    {
+      "title": "Vitesse zag toptalenten gratis vertrekken: zo had het elftal eruitgezien - FootballTransfers.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcE9UbDlPVURKalJEOGpLUFdfbWJXbjExbFVIcFBqWFNma3J2a0ZzLUhzSFVpcGoyRnB3R3RWT3hFOUlWYlVOVXl3dkJwSHVJTGdtamlGeF9FUW5MczhHaDluVmp2RlFyWVdPa2ItRlVCZG5nampZSlF0ZktkaEh4WjM3dGxRRzFqVldHT2s1aVhFMXhVSUZzVGhwQkJsVm5uUklxbUpnem1yUVVYbVNOMThvVkdZMHBwS3hxZG94RlUxeU93S2pxOVJUbmNnZ2h0YldZSDFtWTk0TmxmODZxY2RUYVVrVVlEaEdZUng2OA?oc=5",
+      "description": "Vitesse zag toptalenten gratis vertrekken: zo had het elftal eruitgezien FootballTransfers.com",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-27T08:23:35+00:00",
+      "image": ""
+    },
+    {
+      "title": "Podcast: Tynecastle showdown & Rangers face flying Falkirk - weekend preview",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pq69mt?at_medium=RSS&at_campaign=rss",
+      "description": "Another criticial weekend of SPFL action with a huge grudge match at Tynecastle.",
+      "source": "BBC Sport",
+      "pubDate": "2026-11-27T08:00:00+00:00",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pq69ng.jpg"
+    },
+    {
+      "title": "Arne Slot lyrisch over 'sensatie' bij Feyenoord: 'Ik vind hem een fenomeen' - VoetbalPrimeur",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYlhpd004dU5Fb1g2QTVLN0QtVkNDWHNaLWNmNC1DTGpmMjhuWHRVY3RTNzFMVXhIY1NnZl9PZFBHZG51bDQ4emJlc1Q0aE9YVFVZY0pXWXZ2cmhsWHBGcm5nNXVfd2ZnZ3JFd25nVkhyb0hUdlZFNEZRVGotSzBIaXJULXNYVlE3Y1dsLXRJTXprdG5TRVREZHhQZktmc2JUVVZOU2RwMkJlSVlJaVE?oc=5",
+      "description": "Arne Slot lyrisch over 'sensatie' bij Feyenoord: 'Ik vind hem een fenomeen' VoetbalPrimeur",
+      "source": "Google Nieuws Transfers",
+      "pubDate": "2026-11-27T07:51:00+00:00",
+      "image": ""
     }
   ]
 }
